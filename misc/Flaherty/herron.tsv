@@ -1,0 +1,113 @@
+		Matches in EST and NR databases
+SSLP^a	Accession	Description	Sp	Score	P(N)	Chr^b	Unigene
+D1Mit304	X55472	EAT nuclear lamina DNA clone 12	M	270	4.30E-13		
+D1Mit327	AA279465	Germinal B-cell EST	H	356	2.90E-20		
+D1Mit379	AA432442	Heart EST	M	215	2.20E-08		
+D1Mit485 *	U83639	Sp100 gene	M	861	2.30E-66	1	
+D1Mit512*	AA530430	beta-hydroxysteroid dehydrogenase	M	475	6.10E-30	1	Mm.4204
+D1Mit513	AA235105	NhHMPu S1  EST	H	327	4.60E-18		Hs.66147
+D1Mit514 *	M23158	Leucocyte antigen (L-CA) gene	M	1045	1.20E-160	1	Mm.70
+D2Mit127	X64312	TALLbcr homology sequence	M	331	8.60E-20		
+D2Mit289	AA450473	Mammary gland EST	M	445	8.30E-28		
+D2Mit29	M35732	Seminal vesicle secretory protein IV	M	1500	1.20E-119	2	
+D2Mit30	M12255	His-tRNA  	M	1200	9.20E-168	2	
+D2Mit38	X62669	Homeo box D10	M	1024	3.60E-82	2	
+D2Mit444	AA238765 	Pooled organs EST 	M	248	4.60E-11		
+D2Mit454	X91270	Semenoclotin	M	492	1.20E-95		Mm.8061 
+D2Mit510	M62449	Thrombospondin gene	M	1145	2.30E-175	2	
+D2Mit511	X68699	Parotid secretory protein gene	M	1250	8.40E-161	2	
+D2Mit93	AA176765 	Muscle EST	H	316	3.10E-17	Hu 2 	Hs.83049
+D3Mit103	L06434	Neurotransmitter transporter gene	R	247	4.80E-11		
+D3Mit23 	AA462930 	Mammary gland EST	M	332	2.80E-45	3	Mm.582
+D3Mit232	AA414783 	2 cell embryo EST	M	860	5.60E-80		
+D3Mit237 *	L36655	Carbonic anhydrase I gene 	M	385	7.80E-24	3	Mm.3471
+D3Mit75	AA140154 	Heart  EST	M	470	6.80E-41		
+D4Mit352	M57718	Cytochrome P-450 IV A1	R	457	6.10E-51		
+D5Mit118	W89371	13.5-14.5 dpc embryo EST	M	413	5.40E-26		
+D5Mit15	AA198034	Kidney day 0 EST	M	298	9.30E-15		
+D5Mit192 *	Z84572	BRCA2 region  PAC	H	501	2.00E-34	Hu 5	
+D5Mit26	AA177354 	Spleen EST	M	375	1.20E-21		
+D5Mit287	X80458	High mobility group protein 1 gene                	M	1433	5.10E-121	5	
+D5Mit306	AA242754	NhHMPu S1 EST	H	287	9.60E-23	Hu 6	Hs.118896
+D5Mit341	AA283821	Germinal B-cell EST	H	247	3.30E-11		
+D5Mit409 *	AA268120	Liver EST	M	300	2.40E-17	5	Mm.4320
+D5Mit55	W56173	Parathyroid tumor EST	H	225	9.40E-22		
+D5Mit85	AA232819	NhHMPu S1 EST	H	210	4.30E-08		
+D6Mit154	AA129055	Neuroepithelium  EST 	H	392	3.60E-27		
+D6Mit162	AA571797	Blastocyst EST	M	235	1.20E-11		
+D6Mit182	AE000664	TCR beta locus	M	425	1.40E-55	6	
+D6Mit244*	M13501	Liver fatty-acid binding protein 	R	622	2.40E-70	Ra 6	Mm.2934
+D6Mit311	AE000664	TCR beta locus	M	472	1.40E-55	6	
+D6Mit324	J05087	Ca2+-transporting ATPase	R	320	3.50E-31		
+D6Mit347 *	AA451149	Mammary gland EST	M	416	3.10E-25		Mm.2298
+D7Mit143	AA068498	Melanoma EST	M	594	2.10E-42		Mm.2756
+D7Mit163	U10279	Nucleoside transporter rCNT1	R	329	2.20E-17		
+D7Mit18 *	M21828	Growth-arrest-specific (gas2) 	M	810	5.70E-113	7	Mm.25
+D7Mit19	M26729	Tyrosinase (TYR)	M	2010	8.00E-160	7	Mm.1365
+D7Mit20	M31773	B cell 1 (mb-1) gene	M	2176	3.00E-173	7	Mm.1355
+D7Mit322	HSC0EB101	Infant Brain cDNA	H	571	3.50E-40		
+D7Mit328 *	M20633 	LLRep3 protein pseudogene	M	395	1.10E-34		
+D7Mit339 *	AF011415	Pheromone receptor (VR5)	M	353	8.20E-34		Mm.6233
+D7Mit364 *	D83594	TEA domain-containing factor (ETF)	M	820	1.10E-62	7	
+D7Mit74	AA545317	2 cell embryo EST	M	541	1.40E-37		
+D7Mit8	AA414471	2 cell embryo EST	M	617	1.70E-42		
+D7Mit90	X15723	Human fur gene	H	309	9.80E-16		
+D8Mit113	AC002044	Chromosome 16 BAC clone 	H	218	5.30E-18	Hu 8	
+D8Mit173	W20675 	19.5 dpc embryo EST	M	360	2.70E-22		
+D8Mit181 *	X78568	EmRK2 gene; receptor kinase	M	511	6.40E-35		
+D8Mit192	M94584	Secretory protein (YM-1)	M	245	2.00E-10		Mm.4571
+D8Mit269	U73107	Adenosine deaminase  gene	M	200	4.90E-08	2	Mm.388
+D8Mit283	AA000775	13.5-14.5 dpc embryo EST 	M	403	5.40E-24		
+D8Mit99	L03560	"DXBay6, genomic"	M	205	2.90E-09	X	
+D9Mit109	X54424	Gamma adaptin gene	M	263	3.00E-12		
+D9Mit22	X07197	Neural cell adhesion molecule	M	810	5.80E-120	9	
+D9Mit263	W39987	Substantia nigra EST	M	649	4.30E-47		
+D9Mit289	AC000399	Genomic sequence from Mouse 9	M	1183	6.30E-107	9	
+D9Mit326 *	Z46299	Sperm specific protein sp17	M	586	9.50E-46		Mm.8637
+D10Mit172	W36801	19.5 dpc embryo EST	M	335	1.80E-18		
+D10Mit180	M20823	Nuclear protein (mdm-1)	M	833	1.60E-61	10	Mm.2003
+D10Mit23	U14947	Transcription binding factor E12	M	1116	7.90E-91	10	
+D10Mit296	X53632	Lysozyme M gene	M	371	1.40E-21		
+D11Mit126	AA168396	Skin EST	M	280	3.80E-33		
+D11Mit16	X12810	Myeloid leukaemia inhibitory factor	M	865	1.20E-140	11	Mm.4964
+D11Mit243	D50621	PSD-95/SAP90A; guanylate kinase	M	268	1.40E-12		Mm.1985
+D11Mit244	AA500290	Pooled organ EST	M	1077	1.40E-84		
+D11Mit259	U22494	Int6-ps1 pseudogene	M	510	1.10E-34	11	
+D11Mit300	X98067	MAP kinase	M	216	6.30E-08		
+D11Mit329	AA058013	New born EST	M	1020	2.00E-92		
+D11Mit352	U95119	Acetylhydrolase 45 kD	M	340	2.70E-22	11	
+D12Mit10	AA117784	Heart EST	M	408	8.90E-64		
+D12Mit218	AA288487	 Spleen EST	M	745	1.00E-73		
+D12Mit282	D13126	 Visinin-like Ca2+-binding protein 	R	469	1.70E-29		
+D12Mit292	X01616	Genomic murine leukemia virus	M	600	3.40E-66		
+D13Mit138	U07982	BALB/c preproendothelin-1 gene	M	1110	1.00E-84	13	
+D13Mit172	AA103735	15.5 dpc embryo EST	M	257	3.00E-13		
+D14Mit142	U07982	TCR delta locus	M	1161	1.30E-116	14	
+D14Mit234	X55733	Initiation factor 4B	H	312	6.90E-44		Hs.93379
+D14Mit259	AF019412	TCR delta locus	M	726	2.00E-82	14	
+D14Mit29	M15793	Neuropeptide Y gene	R	668	9.40E-48		
+D15Mit228	T03288	Fetal brain EST	H	252	3.10E-19		
+D15Mit240	X52028	Cytochrome P450 IID3	R	510	1.00E-46	15	
+D15Mit260	H32817	PC-12 cell EST	R	546	2.00E-45		
+D15Mit261	AA274728	Bowel EST	M	580	3.50E-40		
+D16Mit103	AA451459	Mammary Gland EST	M	235	1.30E-20		
+D17Mit20	J00367	Complement component C3 gene	M	1225	1.70E-96	17	
+D17Mit266	M62844	MHC class 1 protein M3	M	1065	7.90E-110	17	Mm.6326
+D17Mit23	AA254702	Lymph node EST	M	716	5.50E-53		
+D17Mit47	X15147	T1c class I pseudogene MHC	M	845	2.90E-116	17	
+D18Mit104	W10281	19.5 dpc embryo EST 	M	530	2.30E-35		
+D18Mit17 *	X04435	Glucocorticoid receptor gene	M	1130	1.40E-143	18	Mm.4918
+D18Mit97	AA517649	5 dpc embryo EST	M	265	1.20E-12		
+D19Mit126	AA289937	Liver EST	M	512	1.80E-33		
+D19Mit135	N58369	Fetal liver/spleen EST	H	344	3.70E-19		
+D19Mit18	M82848	Cytochrome P450IIC13 gene	R	529	1.90E-38	Ra 19 	
+D19Mit79	AA079324 	Colon EST	H	298	4.60E-34		
+DXMit110	AC002372	Cosmid sequence	H	214	7.10E-08		
+DXMit112	N45018	Multiple sclerosis lesion EST	H	260	3.30E-20		
+DXMit114	L15617	Androgen receptor gene	R	334	6.60E-20		
+DxMit247	H31487	PC-12 cells EST	R	259	4.40E-12		
+DXMit51	X58239	Microsatellite DNA                  	M	378	4.90E-36		
+
+a Single asterisk indicates that SSLP flanking sequence matches a DNA sequence in NR and dbEST sequence and only the sequence with the higher score is listed.
+
+b When number is preceded by Hu or Ra, the chromosomal origin was deduced by maps of mouse/human or mouse/rat homologies, respectively.

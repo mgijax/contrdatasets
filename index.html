@@ -1,0 +1,272 @@
+<HTML>
+<HEAD>
+<TITLE>Mouse Genome Informatics: Other Contributed Data Sets and Tools</TITLE>
+
+<!-- 
+Author:   R. Palazola
+Date:     3/23/1999
+Project:  TR:121 -- Electronic Data Sets
+
+NOTES:
+- This will be our generic method for accessing MGI FTP data from the MGI Web Site.
+
+- The top of the page contains info generic to all FTP/electronic data.
+
+- Each available data set can/should have a Journal reference.  Originally
+  Janan asked these be hyper-links to the Reference Detail page at our
+  public MGI Web Site; due to concerns about maintaining this
+  information and its links to MGI, Janan agreed to remove the
+  hyper-link as the primary benefit to the user is the reference
+  citation. I have left the html code in (commented out) for the
+  original links in case this compromise is reversed.
+
+- edited by jsb on 2/29/00 to add the strain genealogy data set
+- edited by lec on 11/30/01 to add the Prows data set
+- edited by lec on 01/19/2004 to add NIA Gene Index (TR 5471)
+
+THE SOURCE FOR THIS FILE IS CONTROLLED BY RCS ON THE CORRESPONDING 
+DEVELOPMENT FTP DIRECTORY (rohan:/export/rohan/ftp/pub/datasets).
+PLEASE MAKE ALL MODIFICATIONS TO THE RCS SOURCE AND COPY TO PUBLIC.
+
+-->
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<H2>Mouse Genome Informatics: Other Contributed Data Sets and Tools</H2>
+<P>
+These data sets have been contributed to MGI by the authors. 
+Currently they are not directly incorporated into the relational 
+database. They are provided here as text or Excel files for the 
+scientific community to view or download. 
+ 
+We encourage contributions of such specialized important data 
+sets that may be outside the structured information maintained
+in MGI as a vehicle for community collaborations.
+ 
+For data submission guidelines, see 
+<A HREF="http://www.informatics.jax.org/mgihome/submissions/submissions_menu.shtml">
+http://www.informatics.jax.org/mgihome/submissions/submissions_menu.shtml
+</A>
+or send email to <A
+HREF="http://www.informatics.jax.org/mgihome/support/tjl_inbox.shtml">User Support</A>.
+<P>
+
+<B>NOTE:</B> &quot;<I>Viewable Text</I>&quot; formatted pages are best viewed
+with your browser set to use a fixed-width font such as Courier.
+<P>
+<HR>
+<!-- NOT LONG ENOUGH YET FOR A TOC:
+	<B>Table of Contents</B>
+	<OL>
+	  <LI><A HREF="#"></A>
+	</OL>
+	<HR>
+-->
+<UL>
+    <LI><A NAME="dotstigr"><B>MGI-DoTS and MGI-TIGR Mouse Gene Index Associations</B></A></LI><BR>
+	    <BR>
+	    Reference:
+	    J:79300, Zhu Y, Integrating Computationally Assembled Mouse Transcript Sequences (DoTS) with the Mouse Genome Informatics (MGI) Database.<BR>
+	    <BR>
+	    Reference:
+	    J:79330, Zhu Y, Integrating Computationally Assembled Mouse Transcript Sequences (TIGR Mouse Gene Index) with the Mouse Genome Informatics (MGI) Database.
+
+	    <hr>
+           Tab-Delimited text/data.<BR>
+	   Fields:  MGI ID, DT/TC ID, list of nucleotide sequence IDs which support the association.
+	   <P>
+
+           <UL>
+           <LI><A HREF="dotstigr/MGI_DT_via_GB_one_one">MGI-DT one-to-one</A>
+           <LI><A HREF="dotstigr/MGI_DT_via_GB_one_many">MGI-DT one-to-many</A>
+           <LI><A HREF="dotstigr/MGI_DT_via_GB_many_one">MGI-DT many-to-one</A>
+           <LI><A HREF="dotstigr/MGI_DT_via_GB_many_many">MGI-DT many-to-many</A>
+           <LI><A HREF="dotstigr/MGI_TC_via_GB_one_one">MGI-TC one-to-one</A>
+           <LI><A HREF="dotstigr/MGI_TC_via_GB_one_many">MGI-TC one-to-many</A>
+           <LI><A HREF="dotstigr/MGI_TC_via_GB_many_one">MGI-TC many-to-one</A>
+           <LI><A HREF="dotstigr/MGI_TC_via_GB_many_many">MGI-TC many-to-many</A>
+           </UL>
+
+<p>
+<hr>
+</UL>
+<UL>
+    <LI><A NAME="NIA"><B>MGI NIA Mouse Gene Index Associations</B></A></LI><BR>
+	    <BR>
+	    Reference:
+	    J:87300, MGI Sequence Group, Integrating Computationally Assembled Mouse Transcript Sequences (NIA Mouse Gene Index) with the Mouse Genome Informatics (MGI) Database.<BR>
+	    <hr>
+           Tab-Delimited text/data.<BR>
+	   Fields:  MGI ID, NAP ID, list of sequence IDs (RefSeq, FANTOM2, ENSEMBL transcripts) which support the association.
+	   <P>
+
+           <UL>
+           <LI><A HREF="NIA/MGI_NAP_via_GB_one_one">MGI-NAP one-to-one</A>
+           <LI><A HREF="NIA/MGI_NAP_via_GB_one_many">MGI-NAP one-to-many</A>
+           <LI><A HREF="NIA/MGI_NAP_via_GB_many_one">MGI-NAP many-to-one</A>
+           <LI><A HREF="NIA/MGI_NAP_via_GB_many_many">MGI-NAP many-to-many</A>
+           </UL>
+<p>
+<hr>
+</UL>
+<UL>
+    <LI><A NAME="rhmap"><B>The T31 RH Mapping Panel for the Laboratory Mouse and the Associated MGI Markers</B></A></LI><BR>
+	    <BR>
+	    Reference:
+	    J:68900, The Jackson Laboratory Mouse Radiation Hybrid Database, Mouse T31 Radiation Hybrid Data Load.
+	    <BR>
+	    <hr>
+	   <P>
+
+           <UL>
+           <LI><A HREF="rhmap/README.txt">README.txt</A>
+           <LI><A HREF="rhmap/RHpanelMGIReport.txt">RHpanelMGIReport.txt (Viewable Text)</A>
+           <LI><A HREF="rhmap/RHpanelMGIReport.xls">RHpanelMGIReport.xls (MS-Excel Spreadsheet)</A>
+           </UL>
+<p>
+<hr>
+</UL>
+<UL>
+ <LI><A NAME="H2_haplotypes"><B> Major Histocompatibility Complex H2 Haplotypes</B></A></LI><BR>
+           Reference: 
+           <A HREF="http://jaxmice.jax.org/library/catalog/14_histocompatability.pdf">Appendix III of JAX Mice Catalog</A>, HTML version by MGI Staff.
+           <UL>
+           <LI><A HREF="misc/H2Haplotypes/H2_haplotypes.shtml">Hypertext (.shtml)</A>
+           </UL>
+           <P>
+           <HR>
+<P>
+
+  <LI><B>ES Cell Line Name and Strain of Origin</B></LI>
+	<UL>
+	<LI><A HREF="es_cell_lines.html">ES Cell Line Name and Strain of Origin</A>
+	</UL>
+	<P>
+	<HR>
+
+  <LI><B>The Genealogy Chart of Inbred Strains</B>
+	    </LI>
+	    <BR>
+	    Reference:
+	    J:59229, Beck JA, Nat Genet 2000;24():23-25.
+	    <UL>
+	    <LI><A HREF="misc/genealogy/genealogy.pdf">Chart (.pdf)</A>
+	    <LI><A HREF="misc/genealogy/genealogy_key.html">Key to Chart (.html)</A>
+	    </UL>
+	    <P>
+	    <HR>
+	    <P>
+
+  <LI><A NAME="Moore"><B>
+	   Polymorphisms in Microsatellite Markers for 129P3/J
+	   vs Other Inbred Strains
+	   </B></A><BR>
+	   Reference: 
+	   J:43843, Markel P; Shu P; Ebeling C; Carlson GA; Nagle DL;
+	   Smutko JS; Moore KJ, Theoretical and empirical issues for
+	   marker-assisted breeding of congenic mouse strains.,
+	   Nat Genet 1997 Nov; 17(3):280-4
+	   <UL>
+	   <LI><A HREF="misc/Moore/Moore.txt"> Viewable Text (.txt)</A>
+	   <LI><A HREF="misc/Moore/Moore.tsv"> Tab-Delimited text/data (.tsv)</A>
+	   <LI><A HREF="misc/Moore/Moore.xls"> MS-Excel Spreadsheet</A>
+	   </UL>
+	   </LI>
+	   <P>
+  	   <HR>
+  	   <P>
+
+
+<li><b>FileMaker Templates for Marker Assisted Congenic Screening (MACS) Database</b><br>
+MACS stores three classes of information (husbandry, genotype analysis and phenotype screening) that are central to the development of speed congenic and consomic lines. Downloadable files include a Help document of explanation and a series of FileMaker 5.0 templates. The FileMaker files have been tested on MAC OS (7.6.1 to 9.2) and Windows (95, 98, NT 4.0).
+<br><br>
+Reference: J:82041, Collins, SC; Wallis, RH; Wallace K; McAteer M; Bihoreau MT; Gauguier D, Marker Assisted Congenic Screening (MACS): A Database Tool for the Efficient Production and Characterization of Congenic Lines., Mamm Genome 2003 (in press)
+  <ul>
+  <li><a href="MACS/help.doc">Help document (.doc)</a>
+  <li><a href="MACS/ANIMAL.FM">Animal.fm</a>
+  <li><a href="MACS/BREEDERS.FM">Breeders.fm</a>  
+  <li><a href="MACS/CAGES.FM">Cages.fm</a>  
+  <li><a href="MACS/LITTERS.FM">Litters.fm</a>  
+  <li><a href="MACS/PEDIGREE.FM">Pedigree.fm</a>  
+  <li><a href="MACS/PHENOT1.FM">Phenotype.fm</a>  
+  <li><a href="MACS/PLATEP1.FM">Plate.fm</a>  
+  <li><a href="MACS/GENEAL1.FM">Geneal.fm</a>  
+  <li><a href="MACS/MARKER1.FM">Marker.fm</a>  
+  <li><a href="MACS/JOINFI1.FM">JoinFI1.fm</a>  
+  <li><a href="MACS/JOINFI2.FM">JoinFI2.fm</a>
+  </ul>
+<p>
+<hr>
+<p>
+
+  <LI><A NAME="Paigen"><B>
+	   RI Strain Distribution Patterns for AXB and BXA
+	   </B></A><BR>
+	   Specially curated data sets available as <I>MS-Excel Spreadsheets</I>,
+	   by Chromosome.<BR>
+	   Reference: 
+	   J:45463, Sampson ST; Higgins DC; Elliot RW; Taylor BA; Lueders KK;
+	   Koza RA; Paigen B, An edited linkage map for the AXB and BXA
+	   recombinant inbred mouse., Mamm Genome 1998 SEP; 9(9):688-694
+	   <UL>
+	   <LI><A HREF="RI/Paigen/AXB,BXA.QTL/">QTL data sets</A>
+	   <LI><A HREF="RI/Paigen/AXB,BXA.complete/">Complete data sets</A>
+	   </UL>
+	   <P>
+	   <HR>
+	   <P>
+	
+  <LI><A NAME="Prows"><B>RI Strain Distribution Patterns for AXB and BXA </B>
+           </LI>
+           <BR>
+           Reference:
+	   Prows, D.R. and Horner, M.L.  Parental genetic contributions in the AXB and BXA recombinant
+	   inbred mouse strains. Mammalian Genome 13: 127-133 (2002)
+           <UL>
+	   <LI><A HREF="misc/Prows/Prows-AXB.xls"> AXB - MS-Excel Spreadsheet</A>
+	   <LI><A HREF="misc/Prows/Prows-BXA.xls"> BXA - MS-Excel Spreadsheet</A>
+           </UL>
+           <P>
+           <HR>
+           <P>
+
+  <LI><B>Inferring EST Map Positions Using SSLP Markers</B>
+	   </LI>
+	   <BR>
+	   Reference: 
+	   J:49040, Herron BJ; Silva GH; Flaherty L, Putative assignments
+	   of ESTs to the genetic map by use of the SSLP database,
+	   Mamm Genome 1998 Dec;9(12):1072-4.
+	   <UL>
+	   <LI><A HREF="misc/Flaherty/herron.txt"> Viewable Text (.txt)</A>
+	   <LI><A HREF="misc/Flaherty/herron.tsv"> Tab-Delimited text/data (.tsv)</A>
+	   <LI><A HREF="misc/Flaherty/herron.xls"> MS-Excel Spreadsheet</A>
+	   </UL>
+	   <P>
+	   <HR>
+	   <P>
+
+  <LI><B>Mouse Genome Sequence Based Maps of Chromosomes 6, 10, 12, 13, 15, 17, 19 and X (MGSC v3)</B></LI>
+      <BR>
+      Reference:
+          Dr. Rosemary Elliott, Roswell Park Cancer Institute, Buffalo, New York. rosemary.elliott@roswellpark.org
+      <UL>
+          <LI><A HREF="misc/Elliott/Goals_Methods_Caveats.doc"> Goals, Methods, Caveats (.doc)</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_6_2003_S.xls">Chromosome 6 - MS-Excel Spreadsheet</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_10_2004_S.xls">Chromosome 10 - MS-Excel Spreadsheet</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_12_2004_S.xls">Chromosome 12 - MS-Excel Spreadsheet</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_13_2004.xls">Chromosome 13 - MS-Excel Spreadsheet</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_15_2004_S.xls">Chromosome 15 - MS-Excel Spreadsheet</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_17_2003_S.xls">Chromosome 17 - MS-Excel Spreadsheet</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_19_2002_openS.xls">Chromosome 19 - MS-Excel Spreadsheet</A></LI>
+          <LI><A HREF="misc/Elliott/Chr_X_2002_seqS.xls">Chromosome  X - MS-Excel Spreadsheet</A></LI>
+      </UL>
+	   <P>
+	   <HR>
+	   <P>
+
+</UL>
+<P>
+</BODY>
+</HTML>
