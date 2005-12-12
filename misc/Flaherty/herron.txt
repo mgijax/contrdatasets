@@ -1,5 +1,5 @@
                      Matches in EST and NR databases                    
-SSLP^a     Accession Description                                        Sp Score P(N)      Chr^b  Unigene   
+SSLP       Accession Description                                        Sp Score P(N)      Chr    Unigene   
 D1Mit304   X55472    EAT nuclear lamina DNA clone 12                    M    270  4.30E-13                  
 D1Mit327   AA279465  Germinal B-cell EST                                H    356  2.90E-20                  
 D1Mit379   AA432442  Heart EST                                          M    215  2.20E-08                  
