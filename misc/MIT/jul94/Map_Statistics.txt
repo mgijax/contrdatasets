@@ -1,0 +1,31 @@
+NOTES:
+    #Markers      number of markers linked to this chromosome
+    #Length       length in centimorgans of this chromosome
+    Avg Spacing   average intermarker spacing on chromosome
+    #Frame        number of framework markers on this chromosome
+    #Place        number of placed markers on this chromosome
+    #Off End      number of placed markers at ends of chromosome
+    #Genbank      number of markers pulled out of genbank
+    #MIT          number of internally-generated markers
+Chrom  #Markers  #Length (cM) Spacing  #Bins  Bin Spacing #Frame  #Place #Off End #Genbank  #MIT
+X        157        73.00       0.46      33    2.21        141      16       0      11      146
+1        365       118.00       0.32     107    1.10        231     134       0      17      348
+2        349        96.93       0.28      91    1.07        244     105       0      17      332
+3        257        68.57       0.27      65    1.05        172      85       0      11      246
+4        253        75.73       0.30      83    0.91        146     107       1       8      245
+5        283        86.97       0.31      59    1.47        214      69       0      12      271
+6        254        64.42       0.25      66    0.98        173      81       0      19      235
+7        250        70.53       0.28      65    1.09        172      78       0      16      234
+8        245        75.63       0.31      67    1.13        153      92       6       6      239
+9        237        72.07       0.30      70    1.03        141      96       1      18      219
+10       206        74.47       0.36      63    1.18        151      55       3       7      199
+11       255        85.87       0.34      74    1.16        146     109       8      24      231
+12       204        62.49       0.31      54    1.16        143      61       6      10      194
+13       226        66.33       0.29      56    1.18        158      68       3       7      219
+14       203        67.24       0.33      60    1.12        126      77       2      13      190
+15       197        63.68       0.32      57    1.12        141      56       0       7      190
+16       151        55.31       0.37      52    1.06         91      60       0       1      150
+17       190        51.90       0.27      51    1.02         32     158       0      17      173
+18       162        45.30       0.28      35    1.29         24     138       0       5      157
+19        92        59.11       0.64      39    1.52         26      66       0       3       89
+TOTAL   4536      1433.55       0.32    1247    1.15       2825    1711      30     229     4307

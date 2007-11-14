@@ -1,0 +1,33 @@
+Chrom	#Markers	#Length (cM)	Spacing	#Bins	Bin Spacing	#Frame	#Place	#Off End	#Genbank	#MIT
+X	184	71.2	0.40	55	1.33	24	160	0	11	173
+1	420	116.1	0.29	113	1.06	293	127	2	17	403
+2	420	95.4	0.24	96	1.06	304	116	1	17	403
+3	291	67.6	0.24	66	1.04	44	247	0	11	280
+4	284	74.6	0.30	79	1.08	176	108	1	8	276
+5	333	85.2	0.26	61	1.43	246	87	0	12	321
+6	295	63.6	0.23	64	1.04	214	81	0	19	276
+7	292	69.3	0.25	63	1.14	219	73	0	16	276
+8	277	74.5	0.27	70	1.08	184	93	5	6	271
+9	281	70.9	0.26	74	1.00	192	89	1	18	263
+10	239	73.3	0.31	65	1.14	45	194	1	7	232
+11	293	84.5	0.29	79	1.08	52	241	9	24	269
+12	229	61.5	0.27	55	1.14	164	65	6	10	219
+13	262	65.0	0.26	55	1.24	196	66	4	7	255
+14	226	66.0	0.32	66	1.08	147	79	2	13	213
+15	222	62.7	0.29	58	1.09	166	56	0	7	215
+16	184	54.4	0.31	56	1.03	35	149	0	1	183
+17	217	51.1	0.24	52	1.00	33	184	0	17	200
+18	193	44.5	0.21	34	1.19	152	41	0	5	188
+19	108	57.0	0.58	39	1.60	75	33	1	3	105
+TOTAL	5250	1408.3	0.28	1300	1.12	2961	2289	33	229	5021
+
+NOTES:										
+#Markers	number of markers linked to this chromosome									
+#Length	length in centimorgans of this chromosome									
+Spacing	average intermarker spacing on chromosome									
+#Frame	number of framework markers on this chromosome									
+#Place	number of placed markers on this chromosome									
+#Off End	number of placed markers at ends of chromosome									
+#Genbank	number of markers pulled out of genbank									
+#MIT	number of internally-generated markers									
+					
