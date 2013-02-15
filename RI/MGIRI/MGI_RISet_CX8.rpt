@@ -1,0 +1,28 @@
+# Legend:
+# CX8 origin = BALB/cWtEiJ x C58/J
+# C = BALB/cWtEiJ
+# 8 = C58/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-7: B C D G I M N
+# field 8: reference
+# field 9: reference citation
+#
+CX8	2	-1.0	Emv13	MGI:95329		8	C	8	C	8	C	8	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CX8	2	-1.0	Emv15	MGI:95331		8	C	8	C	C	C	8	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CX8	2	62.9	Il1a	MGI:96542		8	8	C	C	8	C	8	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CX8	2	75.41	Hck	MGI:96052		8	C	8	C	8	C	8	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CX8	2	76.15	Bpifa2	MGI:97787		8	C	8	C	8	C	8	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CX8	2	76.83	a	MGI:87853		8	C	8	C	8	C	8	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CX8	2	78.35	Src	MGI:98397		8	C	8	C	C	C	8	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CX8	2	85.16	Svs5	MGI:98453		8	8	8	C	8	C	8	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	

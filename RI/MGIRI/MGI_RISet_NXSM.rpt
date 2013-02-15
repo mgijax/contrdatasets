@@ -1,0 +1,269 @@
+# Legend:
+# NXSM origin = NZB/BlNJ x SM/J
+# N = NZB/BlNJ
+# S = SM/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-17: A C D E F I L N P Q T1 T2 U V W X Z
+# field 18: reference
+# field 19: reference citation
+#
+NXSM	1	-1.0	Akp1	MGI:87982		N	N	N	S	N	N	N	S	S	N	N	N	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	J:4733	Mehrabian M, Arterioscler Thromb 1993 Jan;13(1):1-10	
+NXSM	1	-1.0	Cryg	MGI:88520		N	N	S	S	S	N	N	S	N	N	N	N	S	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	1	-1.0	Mmv14	MGI:97017		N	S	N	S	N	S	N	S	S	N	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:4733	Mehrabian M, Arterioscler Thromb 1993 Jan;13(1):1-10	
+NXSM	1	-1.0	Mpmv32	MGI:97102		N	S	S	S	N	N	N	S	N	S	N	N	S	N	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Mpmv34	MGI:97104		S	N	S	N	N	N	N	S	N	S	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Mpmv35	MGI:97105		N	N	S	S	N	N	N	S	S	S	N	N	N	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Mpmv37	MGI:97107		N	S	S	S	N	S	N	N	N	S	N	N	N	N	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Mpmv42	MGI:97113		N	S	S	N	S	S	N	S	N	S	N	N	S	S	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Mpmv6	MGI:97132		N	S	S	S	N	S	N	S	N	S	N	N	N	N	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Mtv27	MGI:97194		N	S	N	S	N	S	N	S	S	N	N	N	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	J:4733	Mehrabian M, Arterioscler Thromb 1993 Jan;13(1):1-10	
+NXSM	1	-1.0	Pepc	MGI:97541		N	S	S	S	N	S	N	N	N	S	N	N	N	N	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	1	-1.0	Pmv44	MGI:97670		N	S	N	S	N	S	N	S	S	N	N	N	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Pmv45	MGI:97671		N	S	S	N	S	S	N	S	N	S	N	N	S	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	-1.0	Xmv21	MGI:99068		N	S	S	S	N	S	N	N	N	N	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	1	11.77	D1Mit20	MGI:91578		S	S	S	N	N	S	N	S	N	S	N	N	N	N	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	1	30.44	D1Mit22	MGI:91600		S	N	S	S	S	S	N	S	N	N	N	N	S	N	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	1	32.91	Idh1	MGI:96413		N	N	S	S	N	N	N	S	N	N	N	N	S	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	1	54.7	D1Mit92	MGI:91745		N	S	S	S	S	N	N	S	N	S	N	N	N	N	N	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	1	61.62	Cfh	MGI:88385		N	S	S	S	N	S	N	N	N	N*	N	N	S*	?	S*	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	J:4733	Mehrabian M, Arterioscler Thromb 1993 Jan;13(1):1-10	
+NXSM	1	67.5	D1Mit34	MGI:91686		N	S	S	S	S	S	N	N	N	N	N	N	S	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	1	79.22	Apoa2	MGI:88050		.	S	N	S	N	S	N	S	S	N	N	N	N	.	S	N	N	J:4733	Mehrabian M, Arterioscler Thromb 1993 Jan;13(1):1-10	
+NXSM	1	95.03	D1Mit17	MGI:91545		N	N	S	S	S	N	N	S	S	S	N	N	N	S	N	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	10	-1.0	Mpmv12	MGI:97080		S	S	S	N	N	S	S	N	N	S	N	N	N	.	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	10	-1.0	Xmv31	MGI:99079		S	N	S	N	N	N	N	N	S	S	N	N	S	.	S	S	?	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	10	-1.0	Xmv51	MGI:99100		S	N	S	N	N	N	N	N	S	S	N	N	S	.	S	S	?	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	10	-1.0	Xmv54	MGI:99103		S	S	S	N	N	S	S	N	N	N	N	N	N	.	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	10	15.06	Ptprk	MGI:103310		.	N	S	N	N	N	S	N	N	N	N	N	N	.	S	S	N	J:25687	Jiang YP, Mol Cell Biol 1993 May;13(5):2942-51	
+NXSM	10	46.85	D10Mit10	MGI:88715		S	N	S	S	S	S	N	N	S	S	N	N	S	N	S	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	10	66.75	D10Mit24	MGI:88809		N	S	S	N	N	S	N	N	S	S	N	N	S	N	S	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	10	66.75	Ifng	MGI:107656		N	S	S	N	N	N	N	N	S	S	N	N	S	N	S	S	S	J:13182	Jacob CO, Immunogenetics 1993;38(4):251-7	
+NXSM	10	67.94	Hmga2	MGI:101761	Hmga2<pg>	N	S	S	N	N	N	N	N	S	S	N	N	S	N	S	S	S*	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:13182	Jacob CO, Immunogenetics 1993;38(4):251-7	
+NXSM	11	-1.0	Hba	MGI:96014		N	N	N	N	S	S	N	N	S	S	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	11	-1.0	Mmv16	MGI:97019		S	N	N	S	N	S	N	N	N	S	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Mmv17	MGI:97020		S	N	N	S	N	S	N	N	N	S	S	S	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Mpmv15	MGI:97083		S	N	N	S	N	S	N	N	N	S	S	S	S	N	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Mpmv4	MGI:97110		S	N	N	S	N	S	N	N	N	S	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Mpmv8	MGI:97135		S	N	N	S	N	S	N	N	N	S	S	S	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Mtv3	MGI:97197		S	N	N	S	N	S	N	N	N	S	S	S	S	N	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	11	-1.0	Pmv2	MGI:97643		S	S	N	S	S	S	N	N	S	N	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Pmv58	MGI:97685		S	S	N	S	S	S	N	N	S	S	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Xmmv77	MGI:99050		S	N	N	S	N	S	S	N	N	S	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Xmv47	MGI:99095		S	N	N	S	S	S	N	N	S	S	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	-1.0	Xmv49	MGI:99097		S	N	N	S	N	S	S	N	N	S	S	S	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	11	2.76	Tcn2	MGI:98534		S	S	N	S	S	S	N	N	S	N	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	11	9.41	Egfr	MGI:95294		S	S	S	S	S	S	N	N	S	S	S	S	S	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	11	41.87	D11Mit4	MGI:89123		S	N	N	S	S	S	N	N	N	S	N	N	S	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	11	46.81	Evi2a	MGI:95458		S	N	N	S	N	S	N	N	N	S	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	11	54.34	D11Mit41	MGI:89125		S	N	N	S	S	S	S	N	N	S	N	N	S	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	11	68.89	Gh	MGI:95707		S	N	N	S	N	S	N	N	N	N	S	S	S	N	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	11	75.67	D11Mit11	MGI:88990		S	N	N	S	S	S	N	N	N	N	S	S	S	N	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	11	82.96	D11Mit48	MGI:89127		S	N	N	S	S	S	N	N	N	S	S	S	S	S	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	11	83.35	Gaa	MGI:95609		.	N	N	S	N	S	N	N	N	S	S	S	S	.	N	N	S	J:461	Martiniuk F, Mamm Genome 1991;1(4):267-9	
+NXSM	12	-1.0	Amh-rs4	MGI:88010		S	N	S	S	S	S	N	S	S	N	S	S	S	S	N	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	
+NXSM	12	-1.0	D12Mit7	MGI:89478		.	N	S	S	S	S	N	S	S	N	S	S	S	.	N	S	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	-1.0	D12Nyu10	MGI:89567		N	N	S	S	S	N	S	S	N	N	S	S	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	12	-1.0	D12Nyu12	MGI:89568		.	N	S	S	S	N	S	S	N	N	S	S	S	.	S	N	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	-1.0	D12Nyu16	MGI:99648		.	N	S	S	S	S	S	N	N	S	S	S	S	.	S	N	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	-1.0	D12Nyu20	MGI:99644		.	N	S	S	S	N	S	S	N	N	N	N	S	.	S	N	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	-1.0	D12Nyu3	MGI:89571		N	S	S	S	S	S	S	N	N	S	S	S	S	S	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	12	-1.0	Igh-V	MGI:96477		N	N	N	S	S	S	S	N	S	S	S	S	S	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	12	-1.0	Igh-V3609	MGI:96481		.	N	N	S	S	S	S	N	S	S	S	S	S	.	N	S	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	-1.0	Ltrm1	MGI:96842		N	S	S	S	S	S	S	N	N	S	S	S	S	S	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	12	-1.0	Mmv18	MGI:97021		S	N	S	S	S	N	S	S	N	N	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	12	-1.0	Mpmv11	MGI:97079		N	S	S	S	S	S	S	N	N	S	S	S	S	S	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	12	-1.0	Mtv9	MGI:97228		S	N	S	S	S	S	S	S	S	N	S	S	S	S	N	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	12	-1.0	Pmv3	MGI:97654		N	N	S	S	S	S	S	N	N	N	S	S	S	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	12	-1.0	Serpina1	MGI:98376		N	N	S	S	S	S	N	S	S	N	S	S	S	S	S	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	12	8.11	Odc1	MGI:97402		N	N	S	S	S	N	S	S	N	N	N	N	S	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	12	18.94	D12Mit2	MGI:89435		.	N	S	S	S	S	S	S	N	N	N	S	S	.	S	N	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	26.43	D12Mit36	MGI:89446		N	S	S	S	S	N	S	N	N	S	S	S	S	S	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	12	33.73	Hspa2	MGI:96243		.	S	S	S	S	S	S	N	N	S	S	S	S	.	N	S	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	33.73	Zbtb25	MGI:99197		.	S	S	S	S	S	S	N	N	S	S	S	S	.	N	S	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	35.51	D12Mit4	MGI:89449		.	S	S	S	S	S	S	N	N	S	S	S	S	.	N	S	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	37.16	D12Mit5	MGI:89457		.	S	N	S	S	S	S	N	S	S	S	S	S	.	N	S	N	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NXSM	12	62.1	D12Mit8	MGI:89489		N	N	N	S	S	S	S	N	S	S	S	S	S	S	N	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	13	-1.0	Amh-rs2	MGI:88008		N	N	S	N	S	N	N	S	N	S	S	N	N	N	S	N	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	13	-1.0	D13J1	MGI:89628		N	N	N	N	S	S	S	S	S	S	S	S	S	N	N	S	N	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+NXSM	13	-1.0	D13Rp4	MGI:108217		S	N	N	S	S	S	N	N	S	N	S	S	S	S	N	N	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	13	-1.0	D13Was70	MGI:89884		N	N	N	N	S	S	S	S	S	S	S	S	S	N	N	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	13	-1.0	Ltrm4	MGI:96845		N	N	N	N	S	S	S	N	S	S	S	S	S	N	N	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	13	-1.0	Mpmv33	MGI:97103		N	N	N	N	S	S	S	N	S	S	S	S	S	N	N	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	13	-1.0	Pmv41	MGI:97667		S	N	S	N	S	N	S	S	N	S	N	N	N	N	S	N	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	13	-1.0	rsl	MGI:105315		.	N	S	S	.	.	.	.	N	.	.	N	.	.	S	.	.	J:31190	Jiang PP, Proc Natl Acad Sci U S A 1996 Jan 23;93(2):913-7	
+NXSM	13	-1.0	Xmv55	MGI:99104		N	N	N	N	S	S	S	S	S	S	S	S	S	N	N	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	13	22.86	D13Mit34	MGI:89761		S	N	S	S	N	N	N	S	S	S	.	N	N	S	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	13	28.71	D13Mit54	MGI:89781		.	N	S	N	.	.	.	.	S	.	.	N	.	.	S	.	.	J:31190	Jiang PP, Proc Natl Acad Sci U S A 1996 Jan 23;93(2):913-7	
+NXSM	13	30.06	D13Mit13	MGI:89667		.	N	S	N	.	.	.	.	S	.	.	N	.	.	S	.	.	J:31190	Jiang PP, Proc Natl Acad Sci U S A 1996 Jan 23;93(2):913-7	
+NXSM	13	31.17	D13Mit167	MGI:89708		.	N	S	N	.	.	.	.	N	.	.	N	.	.	S	.	.	J:31190	Jiang PP, Proc Natl Acad Sci U S A 1996 Jan 23;93(2):913-7	
+NXSM	13	34.54	D13Mit66	MGI:89793		.	N	S	S	.	.	.	.	N	.	.	N	.	.	S	.	.	J:31190	Jiang PP, Proc Natl Acad Sci U S A 1996 Jan 23;93(2):913-7	
+NXSM	13	38.78	D13Mit26	MGI:89753		.	N	S	N	.	.	.	.	N	.	.	N	.	.	S	.	.	J:31190	Jiang PP, Proc Natl Acad Sci U S A 1996 Jan 23;93(2):913-7	
+NXSM	13	41.95	D13Mit102	MGI:89638		N	N	S	S	S	N	N	S	N	S	S	N	N	N	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	13	50.5	D13Mit144	MGI:89683		N	N	N	S	S	N	N	S	S	N	S	S	N	N	N	N	N	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	13	56.92	D13Mit73	MGI:89801		S	N	N	S	S	S	N	N	S	N	S	S	N	N	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	13	63.73	D13Mit53	MGI:89780		S	N	N	S	S	S	N	N	S	N	S	S	S	S	N	N	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	13	63.93	D13Mit196	MGI:89739		S	N	S	S	S	S	N	N	S	N	S	S	S	S	N	N	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	13	65.32	D13Mit77	MGI:89805		S	N	N	S	S	S	N	N	S	N	S	S	N	S	S	N	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	13	67.21	D13Mit35	MGI:89762		S	N	N	S	S	S	N	N	S	N	S	S	N	S	S	N	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+NXSM	14	-1.0	Tcra	MGI:98553		N	N	N	S	S	N	N	S	N	S	S	S	N	S	N	N	N	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	14	33.21	D14Mit37	MGI:90041		.	N	N	S	S	S	S	S	S	S	S	S	S	.	N	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	14	44.98	D14Mit7	MGI:90076		S	N	N	S	S	S	S	N	N	S	N	N	S	S	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	14	62.2	D14Mit97	MGI:90105		S	N	N	N	N	N	S	N	N	S	S	S	N	S	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	15	-1.0	Amh-rs7	MGI:88013		S	S	N	N	N	S	S	N	S	N	S	S	N	N	S	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	
+NXSM	15	-1.0	Ly6	MGI:96880		N	N	S	N	N	S	N	N	S	N	S	S	S	N	S	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	15	-1.0	Pmv17	MGI:97640		S	N	N	N	N	S	S	N	S	N	S	S	N	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	15	-1.0	Pmv48	MGI:97674		S	N	N	N	N	S	S	N	S	N	S	S	N	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	15	-1.0	Pmv50	MGI:97677		S	S	N	N	N	S	S	N	S	N	S	S	N	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	15	-1.0	Pmv54	MGI:97681		N	N	S	N	S	S	N	S	S	S	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	15	-1.0	Pmv55	MGI:97682		N	N	N	S	S	S	S	S	N	S	S	S	N	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	15	17.41	D15Mit86	MGI:90370		S	S	N	N	N	S	S	N	S	N	S	S	N	N	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	15	29.3	Tg	MGI:98733		N	N	S	N	N	S	N	N	N	N	S	S	S	N	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	15	36.28	Gpt	MGI:95802		S	S	N	N	N	S	S	N	S	N	S	S	N	N	S	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	15	37.91	D15Mit31	MGI:90312		.	S	N	N	N	S	S	N	S	N	S	S	N	.	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	15	52.36	D15Mit39	MGI:90319		N	N	S	N	N	S	N	S	S	S	S	S	S	N	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	15	56.13	Gpd1	MGI:95679		N	N	S	N	S	S	N	S	S	S	S	S	S	N	S	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	16	-1.0	D16Mit5	MGI:90520		N	N	N	N	N	S	S	S	N	S	S	S	N	S	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	16	-1.0	Ltrm2	MGI:96843		N	N	S	N	S	N	S	N	N	S	N	N	S	S	S	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	16	-1.0	Mpmv17	MGI:97085		N	N	N	N	S	S	S	N	N	S	N	N	S	N	S	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	16	-1.0	Mtv6	MGI:97225		N	N	N	N	S	S	S	N	N	S	S	S	S	N	S	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	16	-1.0	Xmv35	MGI:99083		N	N	N	N	S	S	S	N	N	N	S	S	S	N	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	16	-1.0	Xmv50	MGI:99099		N	N	S	N	S	N	S	N	N	S	N	N	S	S	S	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	16	13.8	D16Mit2	MGI:90492		N	N	S	N	N	N	S	N	S	S	N	N	N	S	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	16	48.96	D16Mit7	MGI:90542		N	N	N	S	S	N	S	N	N	N	S	S	N	N	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	17	-1.0	D17J2	MGI:90684		S	N	N	N	S	S	S	N	N	N	N	S	S	N	S	S	N	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+NXSM	17	-1.0	D17Leh119I	MGI:90689		S	N	N	N	S	S	S	N	N	S	S	S	S	N	S	S	N	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	-1.0	D17Leh119II	MGI:90690		S	N	N	N	S	S	S	N	N	S	S	S	S	N	S	S	N	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	-1.0	D17Leh66EI	MGI:90724		S	N	N	N	S	S	S	N	N	S	S	S	S	N	S	S	N	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	-1.0	H2	MGI:95894		S	N	N	N	S	S	S	S	N	S	S	N	S	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	-1.0	Pmv57	MGI:97684		S	N	N	N	S	S	S	N	N	S	N	N	S	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	17	8.42	Map3k4	MGI:1346875		S	N	N	N	N	S	S	N	N	S	S	N	S	N	S	S	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	8.72	Tcp1	MGI:98535		S	N	N	N	N	S	S	N	N	S	S	N	S	N	S	S	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	13.11	Hba-ps4	MGI:96018		S	N	N	N	S	S	N	N	N	S	N	N	S	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	18.48	Neu1	MGI:97305		S	N	N	N	S	S	S	S	N	S	S	N	S	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	17	22.32	D17Mit50	MGI:90840		S	S	N	N	N	S	S	S	N	S	N	N	S	S	N	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	17	29.73	D17Mit20	MGI:90808		S	N	N	N	N	S	S	S	N	S	N	N	N	S	N	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	17	55.48	D17Mit76	MGI:90868		S	N	N	N	N	S	S	S	N	N	N	N	S	N	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	18	-1.0	D18Mit34	MGI:91086		.	S	S	S	S	N	S	N	S	N	S	S	S	S	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	18	-1.0	Pmv20	MGI:97644		S	S	N	S	N	S	S	S	S	S	N	S	N	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	18	27.17	D18Mit24	MGI:91076		N	S	S	S	S	S	S	S	N	N	N	S	S	S	S	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	18	42.56	D18Mit9	MGI:91147		S	N	N	N	N	S	S	S	S	N	S	S	S	N	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	18	55.84	Mbp	MGI:96925		S	S	N	S	N	S	S	S	S	S	?	S	N	?	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	19	30.3	D19Mit12	MGI:91218		S	N	S	N	N	N	S	S	S	S	S	S	S	N	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	19	56.28	D19Mit71	MGI:91285		N	N	S	S	S	S	S	N	N	S	S	S	N	N	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	2	-1.0	Emv15	MGI:95331		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	2	-1.0	Mpmv28	MGI:97097		S	N	N	S	S	S	N	S	N	N	S	S	S	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	2	-1.0	Xmv10	MGI:99056		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	2	-1.0	Xmv48	MGI:99096		S	N	S	N	S	S	S	S	S	N	S	S	S	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	2	2.23	D2Mit1	MGI:91954		N	N	S	S	S	S	N	N	S	S	N	N	N	S	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	2	23.22	Hc	MGI:96031		S	N	N	S	N	N	S	N	N	S	S	N	N	S	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	2	27.37	D2Mit88	MGI:92225		S	N	N	S	S	N	S	N	N	N	S	N	N	S	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	2	43.76	Chrna1	MGI:87885		S	N	S	N	S	S	S	S	S	N	S	S	S	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	2	44.13	D2Mit35	MGI:92171		S	N	S	N	N	S	S	S	S	N	S	S	S	S	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	3	-1.0	Mpmv9	MGI:97136		S	S	S	S	S	S	S	S	N	N	S	S	N	S	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	3	-1.0	Pmv26	MGI:97650		S	S	S	N	S	N	S	S	N	S	S	S	S	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	3	2.02	Il7	MGI:96561		S	S	S	S	S	N	S	N	N	N	S	S	S	S	S	S	S	J:13182	Jacob CO, Immunogenetics 1993;38(4):251-7	
+NXSM	3	3.18	Car1	MGI:88268		S	N	S	S	S	N	S	N	N	N	S	S	S	S	S	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	3	3.23	Car2	MGI:88269		S	N	S	S	S	N	S	N	N	N	S	S	S	S	S	S	S	J:13182	Jacob CO, Immunogenetics 1993;38(4):251-7	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	3	20.79	D3Mit96	MGI:92569		N	S	S	S	S	N	N	N	N	N	S	S	N	N	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	3	43.71	D3Mit11	MGI:92375		N	N	S	N	N	N	N	S	S	N	S	S	N	N	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	3	43.71	D3Mit12	MGI:92386		N	N	S	N	N	N	N	S	S	N	S	S	N	N	N	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	3	66.69	D3Mit38	MGI:92507		S	S	S	N	N	N	S	S	N	S	S	S	S	N	N	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	4	-1.0	Mmv15	MGI:97018		S	N	N	N	S	N	S	N	N	N	S	N	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	4	-1.0	Mpmv36	MGI:97106		S	N	N	N	N	N	S	N	N	N	S	S	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	4	-1.0	Pmv30	MGI:97655		S	N	N	N	S	N	N	S	S	N	N	S	N	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	4	-1.0	Pmv47	MGI:97673		S	S	N	N	S	N	S	N	N	N	S	N	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	4	-1.0	Pmv51	MGI:97678		S	S	N	N	S	N	S	N	N	N	S	N	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	4	2.16	Mos	MGI:97052		S	N	S	N	S	S	S	N	S	N	N	N	N	N	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	4	22.07	Galt	MGI:95638		S	S	N	S	S	N	S	S	S	N	N	S	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	4	32.85	Mup1	MGI:97233		S	S	N	S	S	N	S	N	S	N	S	S	N	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	4	33.96	D4Mit17	MGI:92797		S	S	N	S	S	N	S	N	S	N	S	S	N	S	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	4	43.34	D4Mit9	MGI:92926		S	S	N	N	N	S	S	N	N	N	S	S	N	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	4	45.71	Pgm2	MGI:97565		S	S	N	N	S	S	S	N	N	N	S	N	N	S	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:24373	Gough NM, Mamm Genome 1995 Apr;6(4):247-8	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	4	46.19	Jak1	MGI:96628		.	S	N	N	S	S	S	N	N	N	S	N	N	.	S	N	N	J:24373	Gough NM, Mamm Genome 1995 Apr;6(4):247-8	
+NXSM	4	57.41	D4Mit11	MGI:92731		S	N	N	N	N	N	S	N	N	N	S	S	N	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	4	57.76	D4Mit12	MGI:92742		S	N	S	N	N	N	N	N	S	N	N	N	N	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	4	74.75	D4Mit312	MGI:102069		S	N	N	N	N	N	S	S	N	N	S	S	N	S	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	5	-1.0	Emv1	MGI:95325		N	N	N	S	N	S	N	S	N	N	S	S	N	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	5	-1.0	Ltrm3	MGI:96844		S	N	N	S	N	S	N	S	N	S	S	S	N	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	5	-1.0	Mmv19	MGI:97022		S	S	N	N	N	N	N	S	N	S	S	S	S	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	5	-1.0	Mpmv7	MGI:97134		S	N	N	S	N	S	N	S	N	S	S	S	N	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	5	-1.0	Mr66-1	MGI:97139		S	S	N	N	S	S	N	N	N	S	S	S	S	N	S	N	S	J:11828	Adiletta DC, DNA Cell Biol 1993 May;12(4):319-27	
+NXSM	5	-1.0	Pmv49	MGI:97675		S	S	N	N	N	N	N	N	N	S	S	S	S	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	5	-1.0	Pmv5	MGI:97676		S	N	N	S	N	S	N	S	N	S	S	S	N	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	5	-1.0	Pmv53	MGI:97680		S	S	N	N	N	N	N	S	N	N	S	S	S	S	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	5	-1.0	Xmv17	MGI:99063		N	N	N	S	N	S	N	N	N	N	S	S	N	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	5	-1.0	Xmv45	MGI:99093		N	N	N	S	N	S	N	N	N	N	S	S	N	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	5	17.28	D5Mit228	MGI:93307		S	S	N	S	S	S	N	S	N	N	S	S	N	S	N	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	5	32.8	Pgm1	MGI:97564		S	S	N	S	N	S	N	S	N	S	S	S	N	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	5	47.29	D5Mit7	MGI:93370		N	S	N	N	N	S	N	N	N	S	S	S	N	N	S	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	5	56.64	D5Mit209	MGI:93287		N	S	N	N	N	S	S	S	S	S	S	S	N	.	S	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	5	68.32	Gusb	MGI:95872		S	S	N	N	N	S	N	S	S	S	S	S	N	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	5	79.51	D5Mit99	MGI:93401		S	S	N	N	N	N	N	S	N	N	S	S	S	.	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	6	-1.0	Lvp1	MGI:96854		N	S	S	S	S	S	S	N	N	N	S	S	S	N	N	N	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	6	-1.0	Mtv8	MGI:97227		N	S	S	S	S	S	S	N	N	N	S	S	S	N	N	N	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	6	-1.0	Xmv24	MGI:99071		S	N	N	N	S	N	S	N	N	N	S	S	S	S	S	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	6	1.81	D6Mit86	MGI:93719		S	S	N	S	S	S	S	N	N	N	S	S	N	S	N	S	S	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+NXSM	6	2.45	D6Rp2	MGI:93826		S	S	N	S	S	S	S	N	N	N	S	S	N	S	N	S	S	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+NXSM	6	23.7	D6Mit74	MGI:93706		N	S	S	N	N	S	N	N	N	N	S	S	S	N	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	6	24.42	D6Mit33	MGI:93665		N	S	S	N	N	S	S	N	N	N	S	S	S	N	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	6	30.89	Igk	MGI:96494		N	S	S	S	S	S	S	N	N	N	S	S	S	N	N	N	S	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	6	32.14	Cd8a	MGI:88346		N	S	S	S	S	S	S	N	N	N	S	S	S	N	N	N	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	6	34.81	D6Mit3	MGI:93661		N	S	S	S	S	S	S	N	N	N	S	S	S	N	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	6	35.13	D6Mit5	MGI:93681		N	S	S	S	S	S	S	N	N	N	S	S	S	N	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	6	35.94	D6Mit8	MGI:93712		N	S	S	S	S	S	S	N	N	N	S	S	S	N	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	6	53.72	D6Mit44	MGI:93676		S	N	S	S	S	S	S	N	N	S	S	S	N	S	N	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	6	53.72	Rho	MGI:97914		S	N	S	S	S	S	S	N	N	S	S	S	N	S	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	6	64.03	Prh1	MGI:97773		S	N	S	N	S	S	S	N	N	S	S	S	N	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	6	77.64	D6Mit14	MGI:93568		S	N	N	N	N	N	S	N	N	N	S	S	S	S	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	7	-1.0	D7J5	MGI:93907		S	N	S	S	N	S	S	N	S	N	S	S	S	S	S	N	S	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+NXSM	7	-1.0	Hbb	MGI:96020		S	N	S	S	N	S	N	S	N	N	N	S	N	N	S	N	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	7	-1.0	Mod2	MGI:97045		S	N	S	S	N	S	S	S	S	N	N	N	S	N	S	N	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	7	-1.0	Pmv4	MGI:97665		S	S	S	S	N	N	N	S	N	S	S	S	S	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	7	23.35	D7Mit25	MGI:94052		S	S	S	S	S	S	S	S	S	S	N	S	S	S	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	7	43.46	D7Nds1	MGI:94190		S	N	S	S	S	S	S	S	S	N	S	S	S	S	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	7	69.44	Itgal	MGI:96606		S	N	S	S	N	N	N	S	N	N	S	S	N	S	S	N	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	7	88.06	Th	MGI:98735		N	S	S	S	N	N	S	N	N	S	S	S	N	S	S	N	S	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	7	88.86	D7Nds4	MGI:94193		N	S	S	S	S	N	S	N	N	S	S	S	N	S	N	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	8	-1.0	Mmv22	MGI:97026		S	N	N	S	S	N	N	N	S	S	S	S	N	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	8	-1.0	Mpmv21	MGI:97090		S	N	N	S	S	N	N	N	S	S	S	S	N	S	N	N	S	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	8	-1.0	Pmv10	MGI:97633		S	N	N	S	S	N	N	N	S	S	S	S	N	S	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	8	11.42	Plat	MGI:97610		N	S	S	S	S	S	N	S	S	S	N	N	S	S	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	8	18.89	D8Mit4	MGI:94404		N	N	S	S	S	S	S	S	S	S	N	N	S	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	8	27.69	D8Mit6	MGI:94426		N	N	N	S	S	S	S	S	N	S	S	S	S	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	8	42.16	D8Mit45	MGI:94410		S	N	N	S	S	N	N	N	S	S	S	S	N	S	S	N	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	8	72.81	Agt	MGI:87963		S	S	N	S	S	N	N	S	N	S	S	S	N	S	N	N	S	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	
+NXSM	8	76.14	D8Mit56	MGI:94422		S	S	N	S	S	N	N	S	N	S	S	S	N	S	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	9	-1.0	D9Mit15	MGI:94658		S	N	N	S	S	S	N	S	N	N	S	N	N	.	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	9	-1.0	Mmv20	MGI:97024		S	S	S	S	N	N	N	S	N	S	N	N	N	N	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	9	-1.0	Xmv15	MGI:99061		N	S	N	S	S	N	N	S	N	S	N	N	N	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	9	17.97	Ets1	MGI:95455		.	S	S	S	N	N	N	S	S	S	N	N	N	.	S	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	9	20.76	D9Mit2	MGI:94712		S	S	S	S	S	N	N	S	S	S	N	N	N	S	N	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	9	26.83	Ncam1	MGI:97281		.	S	S	S	N	N	N	N	N	S	N	N	N	.	N	S	S	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+NXSM	9	31.31	D9Mit21	MGI:94716		N	S	N	S	S	N	N	S	N	S	N	N	N	N	N	S	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	9	42.65	D9Mit8	MGI:94772		S	N	N	S	S	S	N	S	N	S	N	N	N	N	N	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	9	46.58	Me1	MGI:97043		S	N	N	S	S	S	N	N	S	S	N	N	N	N	N	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	UN	-999.0	Amh-rs3	MGI:88009		S	N	N	N	S	N	N	N	S	N	N	S	N	S	S	N	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	
+NXSM	UN	-999.0	Amh-rs5	MGI:88011		S	N	N	S	S	S	S	S	S	S	S	S	S	S	N	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	
+NXSM	UN	-999.0	Amh-rs6	MGI:88012		N	S	S	S	S	N	S	S	N	N	S	S	N	N	S	N	S	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	
+NXSM	UN	-999.0	Amh-rs8	MGI:88014		N	S	N	S	N	S	N	N	N	S	S	S	N	N	S	S	N	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	
+NXSM	UN	-999.0	Ltrm5	MGI:96846		N	N	S	N	S	N	N	N	N	S	N	N	.	N	N	S	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	UN	-999.0	Mmv21	MGI:97025		N	N	S	S	S	S	S	N	S	S	N	N	N	S	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	UN	-999.0	Mpmv31	MGI:97101		S	N	S	S	S	S	S	N	S	S	N	S	S	S	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	UN	-999.0	Pmv52	MGI:97679		N	N	N	S	N	N	S	N	N	N	S	S	N	N	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	UN	-999.0	Pmv64	MGI:97692		S	N	N	S	S	N	S	N	N	S	S	S	N	N	N	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	UN	-999.0	Xmmv78	MGI:99051		N	N	N	S	S	N	N	S	S	N	S	S	N	N	S	N	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	X	-1.0	Mtv28	MGI:97195		N	N	S	N	S	N	N	N	N	N	N	N	N	N	N	S	N	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	J:10663	Eicher EM, Genetics 1990 Jun;125(2):431-46	
+NXSM	X	-1.0	Pmv1	MGI:97632		N	N	S	N	S	N	N	N	N	S	S	S	N	N	S	N	S	J:1883	Frankel WN, Mamm Genome 1992;2(2):110-22	
+NXSM	X	4.73	DXMit89	MGI:95165		S	N	S	N	N	N	N	N	N	S	S	S	S	N	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	X	37.29	DXMit1.1	MGI:95058		S	N	S	S	S	N	N	N	N	N	S	S	N	N	S	N	S	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	
+NXSM	X	76.75	DXMit186	MGI:99962		.	N	S	S	S	N	N	N	S	N	N	N	N	.	S	S	N	J:43530	Sampson SB, MGI Direct Data Submission 1997;():	

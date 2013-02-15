@@ -1,0 +1,67 @@
+# Legend:
+# CXJ origin = BALB/cKe x SJL/J
+# C = BALB/cKe
+# J = SJL/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-10: 1 3 4 6 8 9 10 11 13 15
+# field 11: reference
+# field 12: reference citation
+#
+CXJ	1	-1.0	Pepc	MGI:97541		C	C	J	C	J	J	C	J	.	C	J:658	Zebedee SL, Eur J Immunogenet 1991 Jun;18(3):155-63	
+CXJ	1	32.91	Idh1	MGI:96413		J	C	C	J	J	J	J	J	.	J	J:658	Zebedee SL, Eur J Immunogenet 1991 Jun;18(3):155-63	
+CXJ	1	38.54	Slc11a1	MGI:1345275	Slc11a1<s>	J	C	.	C	J	J	.	.	.	J	J:658	Zebedee SL, Eur J Immunogenet 1991 Jun;18(3):155-63	
+CXJ	1	60.73	Ptprc	MGI:97810		C	J	J	C	J	J	C	J	J	C	J:658	Zebedee SL, Eur J Immunogenet 1991 Jun;18(3):155-63	
+CXJ	1	61.62	Cfh	MGI:88385		C	J	.	C	J	J	C	J	.	C	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:658	Zebedee SL, Eur J Immunogenet 1991 Jun;18(3):155-63	
+CXJ	10	66.65	Mdm1	MGI:96951		C	J	J	J	C	C	J	C	C	C	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+CXJ	10	66.75	Ifng	MGI:107656		C	J	J	J	C	C	J	C	C	C	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+CXJ	12	-1.0	D12H14S17	MGI:89328		C	.	C	C	C	J	.	.	.	J	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXJ	12	-1.0	D12Nyu1	MGI:89566		C	C	.	J	C	J	J	J	.	C	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+CXJ	12	-1.0	D12Nyu13	MGI:89569		C	J	C	C	J	J	.	.	.	J	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXJ	12	-1.0	D12Nyu18	MGI:99646		C	J	C	C	C	J	.	.	.	J	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXJ	12	-1.0	D12Nyu3	MGI:89571		C	C	.	J	C	J	J	J	.	C	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+CXJ	12	-1.0	D12Nyu5	MGI:89573		C	C	.	J	C	J	C	J	.	C	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+CXJ	12	-1.0	D12Nyu6	MGI:89574		C	C	.	J	C	J	J	J	.	C	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+CXJ	12	-1.0	D12Nyu7	MGI:89575		C	C	.	C	J	J	C	J	.	C	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+CXJ	12	-1.0	D12Nyu8	MGI:89576		C	C	.	C	C	J	J	J	.	J	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+CXJ	12	-1.0	Igh	MGI:96442		C	J	C	C	J	J	J	J	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	12	-1.0	Mtv9	MGI:97228		C	C	.	C	C	J	J	J	.	J	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+CXJ	12	18.94	D12Mit2	MGI:89435		C	C	C	J	C	J	.	.	.	C	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXJ	12	37.16	D12Mit5	MGI:89457		C	C	C	C	C	J	.	.	.	J	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXJ	12	39.7	Fos	MGI:95574		C	C	.	C	C	J	J	J	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+CXJ	12	44.05	D12Mit6	MGI:89467		C	C	C	C	C	J	.	.	.	J	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXJ	12	44.51	Tshr	MGI:98849		C	C	C	C	C	J	J	J	J	J	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+CXJ	12	62.09	Igha	MGI:96444		C	J	.	C	J	J	J	J	.	J	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+CXJ	14	-1.0	Tcra-V1	MGI:98557		C	C	J	C	J	C	C	C	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8208	Epstein R, J Exp Med 1986 Apr 1;163(4):759-73	
+CXJ	14	-1.0	Tcra-V2	MGI:98563		C	C	C	C	J	C	C	C	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8208	Epstein R, J Exp Med 1986 Apr 1;163(4):759-73	
+CXJ	14	39.38	Esd	MGI:95421		C	C	J	J	J	C	C	C	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8208	Epstein R, J Exp Med 1986 Apr 1;163(4):759-73	
+CXJ	15	29.3	Tg	MGI:98733		C	C	J	C	C	C	C	C	J	C	J:8652	Taylor BA, Proc Natl Acad Sci U S A 1987 Apr;84(7):1986-90	
+CXJ	15	37.52	Il2rb	MGI:96550		C	C	C	C	J	C	C	C	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	16	-1.0	Igl	MGI:96526		C	J	C	J	C	J	J	J	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	17	-1.0	H2	MGI:95894		C	C	J	J	C	C	C	C	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	17	29.32	Ptprs	MGI:97815		C	C	J	J	C	C	.	.	.	C	J:15863	Yan H, J Biol Chem 1993 Nov 25;268(33):24880-6	
+CXJ	2	62.9	Il1a	MGI:96542		C	J	.	C	C	J	J	J	.	C	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8880	D'Eustachio P, Immunogenetics 1987;26(6):339-43	
+CXJ	2	62.97	Il1b	MGI:96543		C	J	.	C	C	J	J	J	.	C	J:8880	D'Eustachio P, Immunogenetics 1987;26(6):339-43	
+CXJ	2	63.24	Itpa	MGI:96622		C	J	J	C	C	J	J	J	.	C	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	5	44.77	Afp	MGI:87951		J	C	.	J	C	J	J	J	.	C	J:9772	Campbell GR, Oncogene Res 1989;4(1):47-54	
+CXJ	6	-1.0	Igk-V21	MGI:96507		C	C	J	J	J	J	J	J	.	C	J:7825	Epstein R, J Exp Med 1985 May 1;161(5):1219-24	
+CXJ	6	-1.0	Mtv29	MGI:97196		C	J	J	J	J	C	.	.	.	J	J:41179	Zhang DJ, Immunogenetics 1997;46(2):163-6	
+CXJ	6	-1.0	Tcrb	MGI:98578		C	J	J	J	J	J	J	C	C	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7825	Epstein R, J Exp Med 1985 May 1;161(5):1219-24	J:8573	Melvold RW, J Immunol 1987 Mar 1;138(5):1429-33	
+CXJ	6	30.89	Igk	MGI:96494		C	C	J	J	J	J	J	J	.	C	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	6	48.93	Tmevd1	MGI:98773		C	J	J	J	J	J	J	C	J	J	J:8573	Melvold RW, J Immunol 1987 Mar 1;138(5):1429-33	
+CXJ	6	64.03	Prh1	MGI:97773		C	C	C	J	J	J	C	C	C	J	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+CXJ	6	77.37	Kras	MGI:96680		C	C	J	J	J	J	C	C	C	J	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+CXJ	7	-1.0	Hbb	MGI:96020		C	J	C	C	C	C	J	C	.	C	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	7	13.84	Ceacam1	MGI:1347245		J	J	C	C	C	C	J	C	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+CXJ	7	30.1	Kcnc1	MGI:96667		C	J	C	C	C	C	.	.	.	C	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+CXJ	9	26.83	Ncam1	MGI:97281		J	C*	C	J	C	C	C	J	.	J	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	J:8111	D'Eustachio P, Proc Natl Acad Sci U S A 1985 Nov;82(22):7631-5	

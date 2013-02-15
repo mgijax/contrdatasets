@@ -1,0 +1,24 @@
+# Legend:
+# SEA/GnJ origin = BALB/c x P/J
+# C = BALB/c
+# P = P/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-1: SE
+# field 2: reference
+# field 3: reference citation
+#
+SEA/GnJ	7	-1.0	Tam1	MGI:98482		C	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+SEA/GnJ	7	30.54	Saa1	MGI:98221		C	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+SEA/GnJ	7	33.44	Oca2	MGI:97454		C	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+SEA/GnJ	7	49.01	Tyr	MGI:98880	Tyr<c>	P	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	

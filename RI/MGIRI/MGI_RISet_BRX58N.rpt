@@ -1,0 +1,31 @@
+# Legend:
+# BRX58N origin = C57BR/cdJ x B10.D2/(58N)Sn
+# R = C57BR/cdJ
+# B = B10.D2/(58N)Sn
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-10: 1 3 4 7 8 9 10 11 12 13
+# field 11: reference
+# field 12: reference citation
+#
+BRX58N	1	32.91	Idh1	MGI:96413		B	B	R	R	B	B	R	B	R	R	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+BRX58N	1	38.54	Slc11a1	MGI:1345275	Slc11a1<s>	B	B	B	R	B	B	B	B	R	R	J:6406	O'Brien AD, Nature 1980 Oct 2;287(5781):440-2	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+BRX58N	12	-1.0	Igh-Gte	MGI:96459		B	B	.	.	B	B	R	B	R	R	J:6455	Ju ST, J Immunol 1981 Jan;126(1):183-6	
+BRX58N	12	-1.0	Ighg2a	MGI:96443		B	B	B	R	B	B	R	B	R	R	J:6455	Ju ST, J Immunol 1981 Jan;126(1):183-6	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+BRX58N	12	-1.0	Ryk-ps1	MGI:103028		R	R	B	B	B	B	B	R	R	R	J:24374	Gough NM, Mamm Genome 1995 Apr;6(4):255-6	
+BRX58N	12	-1.0	Serpina1	MGI:98376		B	R	R	R	R	B	R	R	R	R	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+BRX58N	12	44.51	Tshr	MGI:98849		B	R	R	R	B	B	B	R	R	B	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+BRX58N	16	-1.0	Ly7	MGI:96883		R	B	B	R	R	R	R	R	B	R	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+BRX58N	19	-1.0	Ea4	MGI:95267		R	R	B	B	R	B	B	R	B	B	J:9124	Hogarth PM, Immunogenetics 1988;27(5):383-7	
+BRX58N	19	7.16	Cd5	MGI:88340		B	R	B	B	R	B	B	B	B	B	J:9124	Hogarth PM, Immunogenetics 1988;27(5):383-7	
+BRX58N	6	27.26	Ggct	MGI:95700		R	R	R	B	B	B	.	R	R	R	J:17772	Tulchin N, Genetics 1981 Sep;99(1):109-16	

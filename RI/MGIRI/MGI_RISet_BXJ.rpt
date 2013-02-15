@@ -1,0 +1,81 @@
+# Legend:
+# BXJ origin = C57BL/6J x SJL/J
+# B = C57BL/6J
+# J = SJL/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-2: 1 2
+# field 3: reference
+# field 4: reference citation
+#
+BXJ	1	-1.0	Akp1	MGI:87982		J	B	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	
+BXJ	1	-1.0	Pepc	MGI:97541		J	J	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	
+BXJ	1	32.91	Idh1	MGI:96413		J	J	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+BXJ	1	38.54	Slc11a1	MGI:1345275	Slc11a1<s>	J	J	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+BXJ	1	61.62	Cfh	MGI:88385		J	J	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	
+BXJ	1	71.37	Sell	MGI:98279		J	B	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+BXJ	1	78.02	Fcgr2b	MGI:95499		J	B	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+BXJ	10	66.65	Mdm1	MGI:96951		J	J	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+BXJ	10	66.75	Ifng	MGI:107656		J	J	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+BXJ	11	83.35	Gaa	MGI:95609		B	J	J:461	Martiniuk F, Mamm Genome 1991;1(4):267-9	
+BXJ	12	-1.0	D12H14S17	MGI:89328		B	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+BXJ	12	-1.0	D12Mit7	MGI:89478		B	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+BXJ	12	-1.0	D12Nyu3	MGI:89571		J	B	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+BXJ	12	-1.0	D12Nyu6	MGI:89574		J	B	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+BXJ	12	-1.0	D12Nyu8	MGI:89576		B	B	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+BXJ	12	-1.0	Mtv9	MGI:97228		B	B	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+BXJ	12	-1.0	Serpina1	MGI:98376		B	B	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+BXJ	12	8.5	Rrm2	MGI:98181		J	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+BXJ	12	10.96	D12Nyu2	MGI:89570		J	B	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+BXJ	12	13.0	Tpo	MGI:98813		J	B	J:2084	Taylor BA, Cytogenet Cell Genet 1992;60(3-4):250-1	
+BXJ	12	18.94	D12Mit2	MGI:89435		J	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+BXJ	12	35.51	D12Mit4	MGI:89449		B	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+BXJ	12	44.05	D12Mit6	MGI:89467		B	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+BXJ	16	-1.0	Ly7	MGI:96883		J	B	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+BXJ	17	29.32	Ptprs	MGI:97815		J	B	J:15863	Yan H, J Biol Chem 1993 Nov 25;268(33):24880-6	
+BXJ	2	-1.0	Emv15	MGI:95331		B	B	J:8719	Lovett M, Genetics 1987 Apr;115(4):747-54	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	
+BXJ	2	-1.0	Xmv10	MGI:99056		B	B	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+BXJ	2	60.55	B2m	MGI:88127		J	B	J:9424	Balling R, Cell 1988 Nov 4;55(3):531-5	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+BXJ	2	62.9	Il1a	MGI:96542		B	B	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+BXJ	2	63.23	Ptpra	MGI:97808		B	B	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+BXJ	2	72.63	Pax1	MGI:97485		B	J	J:9424	Balling R, Cell 1988 Nov 4;55(3):531-5	
+BXJ	2	76.83	a	MGI:87853		B	B	J:8719	Lovett M, Genetics 1987 Apr;115(4):747-54	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	
+BXJ	4	23.04	Cd72	MGI:88345		B	J	J:6944	Tada N, Immunol Rev 1982;69():99-126	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+BXJ	4	50.18	Dio1	MGI:94896		J	J	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	
+BXJ	4	78.56	Fv1	MGI:95595		J	J	J:5852	Taylor BA, J Virol 1977 Jul;23(1):106-9	
+BXJ	4	80.65	H6pd	MGI:2140356		J	J	J:5852	Taylor BA, J Virol 1977 Jul;23(1):106-9	
+BXJ	5	-1.0	Xmv28	MGI:99075		J	B	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+BXJ	5	32.8	Pgm1	MGI:97564		B	J	J:6374	Groves MG, J Immunol 1980 Sep;125(3):1395-9	
+BXJ	5	50.68	Spp1	MGI:98389		J	B	J:6374	Groves MG, J Immunol 1980 Sep;125(3):1395-9	
+BXJ	5	53.07	Pde6b	MGI:97525	Pde6b<rd1>	J	B	J:6374	Groves MG, J Immunol 1980 Sep;125(3):1395-9	
+BXJ	6	-1.0	Lvp1	MGI:96854		B	J	J:6940	Wilcox FH, Genet Res 1982 Oct;40(2):213-5	
+BXJ	6	-1.0	Mtv29	MGI:97196		B	J	J:41179	Zhang DJ, Immunogenetics 1997;46(2):163-6	
+BXJ	6	32.14	Cd8a	MGI:88346		B	J	J:6940	Wilcox FH, Genet Res 1982 Oct;40(2):213-5	
+BXJ	7	-1.0	Bc1	MGI:104905		B	B	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+BXJ	7	-1.0	Mod2	MGI:97045		B	B	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+BXJ	7	-1.0	Pmv31	MGI:97656		B	B	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+BXJ	7	-1.0	Rasl4	MGI:97870		J	B	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+BXJ	7	-1.0	Tam1	MGI:98482		B	J	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+BXJ	7	19.46	Gpi1	MGI:95797		B	J	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+BXJ	7	30.1	Kcnc1	MGI:96667		B	J	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+BXJ	7	30.54	Saa1	MGI:98221		B	J	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+BXJ	7	33.44	Oca2	MGI:97454		B	B	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+BXJ	7	45.65	Fes	MGI:95514		B	B	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+BXJ	7	49.01	Tyr	MGI:98880	Tyr<c>	B	B	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+BXJ	8	-1.0	Rasl5-2	MGI:97872		B	J	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+BXJ	9	-1.0	Es13	MGI:95424		B	J	J:6125	Womack JE, Biochem Genet 1978 Dec;16(11-12):1107-12	
+BXJ	9	-1.0	Lap1	MGI:96749		B	J	J:6125	Womack JE, Biochem Genet 1978 Dec;16(11-12):1107-12	
+BXJ	9	-1.0	Rasl2-2	MGI:97863		J	J	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+BXJ	9	17.97	Ets1	MGI:95455		B	B	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+BXJ	9	24.84	Upk2	MGI:98913		B	J	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+BXJ	9	46.58	Me1	MGI:97043		B	J	J:6125	Womack JE, Biochem Genet 1978 Dec;16(11-12):1107-12	

@@ -1,0 +1,23 @@
+# Legend:
+# LTXB origin = LT/Sv x C57BL/6J
+# L = LT/Sv
+# B = C57BL/6J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-1: LT
+# field 2: reference
+# field 3: reference citation
+#
+LTXB	6	-1.0	Igk-Pc	MGI:96498		B	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	
+LTXB	6	32.14	Cd8a	MGI:88346		B	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	
+LTXB	6	32.14	Cd8b1	MGI:88347		B	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	

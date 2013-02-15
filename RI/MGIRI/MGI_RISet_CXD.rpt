@@ -1,0 +1,31 @@
+# Legend:
+# CXD origin = BALB/cJPas x DBA/2JPas
+# C = BALB/cJPas
+# D = DBA/2JPas
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-9: 1 3 4 6 7 10 11 13 14
+# field 10: reference
+# field 11: reference citation
+#
+CXD	1	74.07	D1Mit57	MGI:91707		C	D	D	C	C	D	D	C	C	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	1	75.1	D1Mit16	MGI:91534		C	D	D	C	C	D	D	C	C	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	13	7.31	D13Mit3	MGI:89757		D	D	D	D	D	D	D	D	D	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	13	30.06	D13Mit21	MGI:89749		D	C	C	D	C	D	C	C	D	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	14	20.81	D14Mit45	MGI:90049		C	D	D	C	C	D	D	C	C	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	14	31.49	D14Mit5	MGI:90054		C	D	D	C	C	D	D	C	C	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	17	-1.0	Eae1	MGI:105991		C	C	C	D	C	D	C	D	D	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	6	6.68	D6Mit1	MGI:93523		D	D	D	D	D	D	D	D	D	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	6	24.42	D6Mit33	MGI:93665		D	D	D	D	D	D	D	D	D	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	9	20.76	D9Mit2	MGI:94712		C	C	C	C	C	C	C	C	D	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	
+CXD	9	31.63	D9Mit48	MGI:94739		C	C	C	C	C	C	C	D	D	J:31223	Livingstone KD, Autoimmunity 1995;21(3):195-201	

@@ -1,0 +1,56 @@
+# Legend:
+# B6NXC3N origin = C57BL/6N x C3H/HeN
+# B = C57BL/6N
+# H = C3H/HeN
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-9: Q Ra Rb T V X Y S W
+# field 10: reference
+# field 11: reference citation
+#
+B6NXC3N	1	-1.0	Akp1	MGI:87982		H	H	B	H	H	B	H	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	1	-1.0	Len1	MGI:96771		H	H	H	H	B	B	H	.	.	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	1	-1.0	Pepc	MGI:97541		H	H	H	H	B	H	H	H	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	11	-1.0	Es3	MGI:95442		H	H	B	H	B	H	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	11	-1.0	Hba	MGI:96014		B	B	H	H	B	B	H	.	.	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	14	39.38	Esd	MGI:95421		H	B	H	H	H	B	B	H	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	17	-1.0	Ce2	MGI:88364		H	B	B	H	B	H	B	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	17	-1.0	H2	MGI:95894		H	B	B	H	B	H	B	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	17	19.44	Pgk2	MGI:97563		H	B	B	H	H	H	B	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	2	76.83	a	MGI:87853		H	H	B	B	H	H	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	3	3.23	Car2	MGI:88269		H	H	H	H	H	H	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	4	80.65	H6pd	MGI:2140356		B	B	H	B	B	H	B	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	5	32.8	Pgm1	MGI:97564		H	B	H	H	B	H	H	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	5	68.32	Gusb	MGI:95872		H	H	H	H	H	H	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	6	27.26	Ggct	MGI:95700		H	B	B	H	B	H	B	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	7	-1.0	Hbb	MGI:96020		H	H	H	H	H	H	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	8	44.99	Ces1c	MGI:95420		B	B	H	H	B	B	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	9	-1.0	Lap1	MGI:96749		B	B	B	B	B	B	H	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	9	25.36	Apoa1	MGI:88049		B	B	B	B	B	B	B	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	9	46.58	Me1	MGI:97043		B	B	B	B	B	B	B	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp1	MGI:97325		H	.	.	H	H	B	B	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp10	MGI:97326		H	.	.	B	H	B	B	H	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp11	MGI:97327		B	.	.	H	B	B	B	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp12	MGI:97328		H	.	.	B	B	H	B	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp13	MGI:97329		B	.	.	B	B	B	B	H	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp14	MGI:97330		B	.	.	B	B	B	B	H	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp15	MGI:97331		H	.	.	B	H	H	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp16	MGI:97332		B	.	.	B	H	H	H	H	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp2	MGI:97333		H	.	.	H	H	H	H	H	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp3	MGI:97334		B	.	.	H	B	H	B	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp4	MGI:97335		H	.	.	H	H	B	H	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp5	MGI:97336		B	.	.	B	B	B	H	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp6	MGI:97337		H	.	.	B	B	B	H	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp7	MGI:97338		H	.	.	B	B	B	B	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp8	MGI:97339		B	.	.	B	B	H	H	B	B	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	
+B6NXC3N	UN	-999.0	Nhcp9	MGI:97340		B	.	.	B	B	B	B	B	H	J:10669	Ramagli LS, Biochem Genet 1990 Apr;28(3-4):123-36	

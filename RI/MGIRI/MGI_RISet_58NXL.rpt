@@ -1,0 +1,31 @@
+# Legend:
+# 58NXL origin = B10.D2/(58N)Sn x C57L/J
+# B = B10.D2/(58N)Sn
+# L = C57L/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-6: 1 2 3 4 5 8
+# field 7: reference
+# field 8: reference citation
+#
+58NXL	1	32.91	Idh1	MGI:96413		L	B	B	B	L	B	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+58NXL	1	38.54	Slc11a1	MGI:1345275	Slc11a1<s>	L	B	B	B	B	L	J:6406	O'Brien AD, Nature 1980 Oct 2;287(5781):440-2	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+58NXL	1	45.73	Mlph	MGI:2176380		B	B	.	B	B	L	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+58NXL	12	-1.0	Igh-Gte	MGI:96459		.	B	B	B	.	L	J:6455	Ju ST, J Immunol 1981 Jan;126(1):183-6	
+58NXL	12	-1.0	Ighg2a	MGI:96443		B	B	B	B	.	L	J:6455	Ju ST, J Immunol 1981 Jan;126(1):183-6	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+58NXL	12	-1.0	Ryk-ps1	MGI:103028		L	.	B	L	.	B	J:24374	Gough NM, Mamm Genome 1995 Apr;6(4):255-6	
+58NXL	12	-1.0	Serpina1	MGI:98376		B	.	B	B	.	L	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+58NXL	12	44.51	Tshr	MGI:98849		L	L	L	L	.	B	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+58NXL	19	-1.0	Ea4	MGI:95267		B	.	B	L	.	B	J:9124	Hogarth PM, Immunogenetics 1988;27(5):383-7	
+58NXL	19	7.16	Cd5	MGI:88340		B	.	B	L	.	B	J:9124	Hogarth PM, Immunogenetics 1988;27(5):383-7	
+58NXL	6	27.26	Ggct	MGI:95700		B	B	B	L	.	B	J:17772	Tulchin N, Genetics 1981 Sep;99(1):109-16	

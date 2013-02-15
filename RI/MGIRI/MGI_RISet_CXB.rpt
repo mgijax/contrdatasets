@@ -1,0 +1,639 @@
+# Legend:
+# CXB origin = BALB/cBy x C57BL/6By
+# C = BALB/cBy
+# B = C57BL/6By
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-13: 1 2 3 4 5 6 7 8 9 10 11 12 13
+# field 14: reference
+# field 15: reference citation
+#
+CXB	1	-1.0	Akp1	MGI:87982		C	B	C	B	B	B	C	.	.	.	.	.	.	J:8735	Paigen B, Proc Natl Acad Sci U S A 1987 Jun;84(11):3763-7	
+CXB	1	-1.0	D1Rp2	MGI:106082		C	B	C	C	B	B	C	C	B	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	1	-1.0	Exnm	MGI:95467		C	B	C	B	B	B	C	.	.	.	.	.	.	J:6664	Dmitriev IuS, Dokl Akad Nauk SSSR 1981;261(1):204-6	
+CXB	1	-1.0	Gas10	MGI:95656		B	B	C	C	B	C	C	C	B	C	C	B	B	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+CXB	1	-1.0	H25	MGI:95972		C	B	C	B	B	B	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:6136	Durda PJ, J Immunol 1979 Apr;122(4):1407-12	J:6429	Hogarth PM, Immunogenetics 1980 Jul;11(1):65-74	J:7017	Lusis AJ, J Biol Chem 1983 Apr 25;258(8):5071-8	J:6664	Dmitriev IuS, Dokl Akad Nauk SSSR 1981;261(1):204-6	J:8735	Paigen B, Proc Natl Acad Sci U S A 1987 Jun;84(11):3763-7	
+CXB	1	-1.0	H35	MGI:95983		C	B	C	C	B	B	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:6664	Dmitriev IuS, Dokl Akad Nauk SSSR 1981;261(1):204-6	
+CXB	1	-1.0	Iapls3-1	MGI:96354		C	B	C	C	C	C	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	1	-1.0	Mpmv6	MGI:97132		B	C	B	B	C	C	C	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	1	-1.0	Mtv7	MGI:97226		C	B	C	B	B	C	C	.	.	.	.	.	.	J:12057	Ledbetter JA, Immunogenetics 1979;8():347-360	
+CXB	1	-1.0	Pmv21	MGI:97645		C	B	C	B	B	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	1	-1.0	Pmv45	MGI:97671		C	B	C	C	B	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	1	-1.0	Xmmv74	MGI:99047		C	B	C	C	B	B	C	.	.	.	.	.	.	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	1	-1.0	Xmv41	MGI:99090		C	B	C	B	B	C	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	1	2.08	D1Mit58	MGI:91708		C	B	C	C	B	B	C	C	B	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	6.27	D1Mit3	MGI:91682		C	B	C	C	B	B	C	C	B	C	C	B	C	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	1	6.5	Gsta3	MGI:95856		C	B	C	C	B	B	C	.	.	.	.	.	.	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	
+CXB	1	9.9	D1Mit169	MGI:91544		C	B	C	C	B	B	C	C	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	12.82	D1Mit318	MGI:101448		B	B	C	C	B	B	C	C	B	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	1	15.4	D1Mit171	MGI:91547		C	B	C	C	B	B	C	C	B	C	C	.	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	29.19	D1Mit414	MGI:101352		B	B	C	C	B	C	C	C	B	C	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	39.51	D1Mit132	MGI:91504		B	B	C	B	B	C	C	C	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	46.24	D1Mit365	MGI:101401		B	B	B	C	B	C	C	B	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	68.38	D1Mit33	MGI:91685		C	B	B	C	C	B	C	B	B	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	69.75	Prdx6	MGI:894320		C	B	B	C	C	B	C	.	.	.	.	.	.	J:7017	Lusis AJ, J Biol Chem 1983 Apr 25;258(8):5071-8	J:8735	Paigen B, Proc Natl Acad Sci U S A 1987 Jun;84(11):3763-7	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	1	69.75	Tnfsf4	MGI:104511		C	B	C	C	B	C	C	.	.	.	.	.	.	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:8735	Paigen B, Proc Natl Acad Sci U S A 1987 Jun;84(11):3763-7	
+CXB	1	79.22	Apoa2	MGI:88050		C	B	C	B	B	C	C	.	.	.	.	.	.	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:9942	Opdenakker G, Virology 1989 Aug;171(2):568-78	J:7017	Lusis AJ, J Biol Chem 1983 Apr 25;258(8):5071-8	J:8735	Paigen B, Proc Natl Acad Sci U S A 1987 Jun;84(11):3763-7	
+CXB	1	79.52	Cd244	MGI:109294		.	B	C	B	B	C	C	.	.	.	.	.	.	J:15522	Mathew PA, J Immunol 1993 Nov 15;151(10):5328-37	
+CXB	1	79.54	Ly9	MGI:96885		C	B	C	B	B	C	C	.	.	.	.	.	.	J:6136	Durda PJ, J Immunol 1979 Apr;122(4):1407-12	J:9942	Opdenakker G, Virology 1989 Aug;171(2):568-78	J:12057	Ledbetter JA, Immunogenetics 1979;8():347-360	J:6429	Hogarth PM, Immunogenetics 1980 Jul;11(1):65-74	J:7017	Lusis AJ, J Biol Chem 1983 Apr 25;258(8):5071-8	J:9984	Maruyama N, Biochem Genet 1989 Apr;27(3-4):229-37	J:8735	Paigen B, Proc Natl Acad Sci U S A 1987 Jun;84(11):3763-7	
+CXB	1	80.33	Apcs	MGI:98229		C	B	C	B	B	C	C	.	.	.	.	.	.	J:9984	Maruyama N, Biochem Genet 1989 Apr;27(3-4):229-37	
+CXB	1	80.33	D1Mit356	MGI:101410		C	B	C	B	B	C	C	B	B	B	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	1	80.76	Ifi203	MGI:96428		C	B	C	B	B	C	C	.	.	.	.	.	.	J:9942	Opdenakker G, Virology 1989 Aug;171(2):568-78	
+CXB	1	81.63	D1Mit403	MGI:101363		C	B	C	B	B	C	C	B	B	B	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	10	-1.0	D10Mit51	MGI:88835		C	B	B	B	B	B	C	?	B	B	C	B	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	-1.0	D10Nds1	MGI:88923		C	B	B	B	B	B	C	B	B	B	C	B	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	-1.0	Fdpsl5	MGI:95507		B	C	B	C	B	C	C	.	.	.	.	.	.	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	
+CXB	10	-1.0	H60a	MGI:1306817		.	B	B	.	B	B	C	.	.	.	.	.	.	J:49842	Malarkannan S, J Immunol 1998 Oct 1;161(7):3501-9	
+CXB	10	-1.0	Mpmv12	MGI:97080		C	B	B	B	B	B	C	.	.	.	.	.	.	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	10	-1.0	Mpmv5	MGI:97121		C	B	B	B	B	B	C	.	.	.	.	.	.	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	10	-1.0	Xmv31	MGI:99079		B	C	B	B	B	C	C	.	.	.	.	.	.	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	10	9.75	Myb	MGI:97249		C	B	B	B	B	B	C	.	.	.	.	.	.	J:1364	Buckley MF, Immunogenetics 1992;36(3):199-201	
+CXB	10	9.78	D10Mit2	MGI:88804		C	B	B	B	B	B	C	.	B	C	C	B	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:49842	Malarkannan S, J Immunol 1998 Oct 1;161(7):3501-9	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	10.11	D10Mit183a	MGI:101337		C	B	B	B	B	B	C	B	B	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	11.67	D10Mit106	MGI:88722		B	B	B	B	B	B	C	B	B	B	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	12.26	Enpp1	MGI:97370		C	B	B	B	B	B	C	.	.	.	.	.	.	J:1364	Buckley MF, Immunogenetics 1992;36(3):199-201	
+CXB	10	34.8	D10Mit61	MGI:88845		B	C	B	B	C	B	B	C	B	B	C	C	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	10	34.83	D10Mit15	MGI:108586		B	C	B	B	C	B	B	B	C	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	34.83	D10Mit20	MGI:88805		C	C	B	B	C	B	B	B	C	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	10	39.72	D10Mit42	MGI:88825		C	C	B	C	B	C	C	C	B	B	B	C	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	10	43.66	D10Mit117	MGI:88734		B	C	B	.	B	C	C	C	B	B	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	45.28	D10Mit230	MGI:101290		C	C	B	C	B	C	C	C	B	B	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	10	46.85	D10Mit10	MGI:88715		B	C	B	C	B	C	C	C	B	B	B	C	C	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	10	48.49	Hal	MGI:96010		B	C	B	C	B	C	C	C	B	B	B	C	C	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:4406	Taylor RG, Genomics 1993 Apr;16(1):231-40	
+CXB	10	54.72	D10Mit133	MGI:88752		B	C	B	B	B	C	C	C	B	B	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	10	54.72	D10Mit70	MGI:88855		B	C	B	B	B	C	C	C	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	61.58	D10Mit233	MGI:101287		B	C	B	B	B	B	B	C	B	C	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	65.36	D10Mit179	MGI:88801		B	C	B	B	B	B	B	C	B	B	C	C	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	10	66.65	D10Mit180	MGI:88802		B	C	B	B	B	B	B	C	B	B	C	C	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	66.65	Mdm1	MGI:96951		B	C	B	C	B	B	B	C	B	B	C	C	B	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+CXB	10	66.75	D10Mit14	MGI:88759		B	C	B	B	B	B	B	C	B	B	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	10	70.36	D10Mit35a	MGI:88819		B	C	B	B	B	B	B	C	B	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	10	74.5	Gli1	MGI:95727		B	C	B	B	C	B	B	.	.	.	.	.	.	J:10992	Kozak CA, Genomics 1990 Nov;8(3):519-24	
+CXB	11	-1.0	Hba	MGI:96014		C	B	B	C	B	B	C	.	.	.	.	.	.	J:7957	Silver J, Mol Cell Biol 1985 Jul;5(7):1784-6	
+CXB	11	-1.0	Mpmv18	MGI:97086		C	B	B	C	B	B	C	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+CXB	11	-1.0	Mpmv2	MGI:97088		C	B	C	C	B	C	C	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+CXB	11	-1.0	Mpmv8	MGI:97135		B	B	C	C	B	C	B	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	11	-1.0	Pmv2	MGI:97643		C	C	B	B	B	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	11	-1.0	Pmv22	MGI:97646		C	C	B	B	B	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	11	-1.0	Scl1	MGI:98243		B	B	B	C	B	B	.	.	.	.	.	.	.	J:13968	Blackwell JM, Mouse News Lett 1984;70():86	
+CXB	11	-1.0	Xmv42	MGI:99091		B	B	B	B	B	C	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+CXB	11	2.51	D11Mit1	MGI:88978		B	C	B	B	B	B	C	B	C	C	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	11	3.52	D11Mit74	MGI:89153		B	C	B	C	B	B	C	B	C	C	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	11	5.64	D11Mit226	MGI:101265		C	C	B	B	B	B	C	B	C	B	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	9.41	Egfr	MGI:95294		C	B	B	C	B	B	C	.	.	.	.	.	.	J:7957	Silver J, Mol Cell Biol 1985 Jul;5(7):1784-6	
+CXB	11	18.17	D11Mit215	MGI:101276		C	B	B	C	B	B	C	B	B	C	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	25.94	D11Mit21	MGI:89099		C	B	C	C	B	C	B	B	B	C	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	11	34.02	D11Mit274	MGI:101217		C	B	C	C	B	C	B	B	B	C	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	43.21	D11Mit320	MGI:102286		C	B	C	C	B	C	C	C	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	45.76	D11Nds1	MGI:89264		C	B	C	C	B	C	C	.	.	.	.	.	.	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+CXB	11	46.74	D11Mit34	MGI:89117		C	B	C	C	B	C	C	.	.	.	.	.	.	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+CXB	11	54.34	D11Mit212	MGI:89102		B	B	B	B	B	C	C	C	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	11	54.6	D11Mit327	MGI:102293		B	B	B	B	B	C	C	C	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	60.14	D11Mit98	MGI:89178		B	B	C	C	B	C	B	C	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	63.42	D11Mit1003	MGI:94364		B	B	C	C	B	.	B	B	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	11	63.42	D11Mit59	MGI:89137		B	B	C	C	B	C	B	C	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	80.84	D11Mit338	MGI:102303		B	B	B	C	C	C	B	C	B	C	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	11	83.35	Gaa	MGI:95609		B	B	B	C	C	C	B	.	C	C	B	C	C	J:461	Martiniuk F, Mamm Genome 1991;1(4):267-9	
+CXB	12	-1.0	D12Mit7	MGI:89478		B	C	C	C	B	C	C	C	C	C	C	C	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXB	12	-1.0	D12N1	MGI:89512		B	B	C	B	B	C	B	.	C	C	C	C	B	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+CXB	12	-1.0	D12Nyu1	MGI:89566		C	C	C	C	C	B	C	.	B	B	C	C	C	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	J:9074	Lund E, Somat Cell Mol Genet 1988 Mar;14(2):143-8	J:9046	von Deimling OH, Biochem Genet 1987 Oct;25(9-10):639-46	
+CXB	12	-1.0	D12Nyu13	MGI:89569		B	B	C	B	B	C	B	C	B	C	C	C	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXB	12	-1.0	D12Nyu15	MGI:99649		C	C	C	C	C	B	C	C	B	B	C	C	C	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXB	12	-1.0	D12Nyu17	MGI:99647		C	B	C	C	B	C	C	C	C	C	C	C	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXB	12	-1.0	D12Nyu19	MGI:99645		B	C	C	C	C	B	B	C	B	B	C	B	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXB	12	-1.0	D12Nyu5	MGI:89573		B	C	C	C	C	B	C	.	.	.	.	.	.	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	D12Nyu7	MGI:89575		B	C	C	C	C	B	C	.	.	.	.	.	.	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+CXB	12	-1.0	Es25	MGI:95437		B	C	B	C	C	B	C	.	.	.	.	.	.	J:9046	von Deimling OH, Biochem Genet 1987 Oct;25(9-10):639-46	
+CXB	12	-1.0	Exz2	MGI:95469		B	B	C	C	B	C	C	.	.	.	.	.	.	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	
+CXB	12	-1.0	H17	MGI:95889		B	C	C	C	C	B	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	H34	MGI:95982		B	C	C	C	C	B	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	H38	MGI:95986		B	C	C	C	C	B	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	Iapls2-10	MGI:96337		C	C	C	C	C	B	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	12	-1.0	Igh	MGI:96442		B	B	C	B	B	C	B	.	.	.	.	.	.	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	12	-1.0	Igh-Bgl	MGI:96455		B	B	C	B	B	C	B	.	.	.	.	.	.	J:4483	Kipps TJ, Immunogenetics 1979;9():297-302	
+CXB	12	-1.0	Igh-C	MGI:96456		B	B	C	B*	B*	C*	B*	.	.	.	.	.	.	J:4483	Kipps TJ, Immunogenetics 1979;9():297-302	J:5567	McCarthy MM, J Immunol 1975 Nov;115(5):1327-9	J:5284	Blomberg B, Science 1972 Jul 14;177(44):178-80	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:9407	Colombo MP, Nucleic Acids Res 1988 Sep 26;16(18):9075	J:8280	Birkenmeier EH, Proc Natl Acad Sci U S A 1986 Apr;83(8):2516-20	
+CXB	12	-1.0	Igh-Dex	MGI:96458		B	B	C	B	B	C	B	.	.	.	.	.	.	J:5567	McCarthy MM, J Immunol 1975 Nov;115(5):1327-9	J:5284	Blomberg B, Science 1972 Jul 14;177(44):178-80	
+CXB	12	-1.0	Igh-Pc	MGI:96470		B	B	C	B	B	C	B	.	.	.	.	.	.	J:5567	McCarthy MM, J Immunol 1975 Nov;115(5):1327-9	
+CXB	12	-1.0	Igh-Src	MGI:96476		B	B	C	B	B	C	B	.	.	.	.	.	.	J:5567	McCarthy MM, J Immunol 1975 Nov;115(5):1327-9	
+CXB	12	-1.0	Igh-V	MGI:96477		B	B	C	C	C	B	C	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	Igh-V3609	MGI:96481		B	B	C	B	B	C	B	.	.	C	C	.	B	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+CXB	12	-1.0	Igh-V3660	MGI:96483		B	B	C	B	B	C	B	.	.	.	.	.	.	J:9407	Colombo MP, Nucleic Acids Res 1988 Sep 26;16(18):9075	
+CXB	12	-1.0	Ighg2a	MGI:96443		B	B	C	B	B	C	B	C	B	C	C	C	B	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	J:5559	Taylor BA, Nature 1975 Aug 21;256(5519):644-6	J:55202	Tiffany LJ, Immunogenetics 1999 Oct;50(1-2):71-3	
+CXB	12	-1.0	Ly18	MGI:96861		B	C	C	C	C	B	C	C	B	B	C	B	B	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:6605	Kimura S, Immunogenetics 1981;13(6):547-54	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	J:9046	von Deimling OH, Biochem Genet 1987 Oct;25(9-10):639-46	
+CXB	12	-1.0	Mpmv11	MGI:97079		C	C	C	C	C	C	C	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	12	-1.0	Odc-rs8	MGI:97422		B	B	C	B	B	C	B	.	.	.	.	.	.	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	J:9407	Colombo MP, Nucleic Acids Res 1988 Sep 26;16(18):9075	
+CXB	12	-1.0	Pmv27	MGI:97651		B	C	B	C	C	C	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	12	-1.0	Pmv3	MGI:97654		C	C	C	C	C	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	12	-1.0	Pmv37	MGI:97662		B	C	C	C	C	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	12	-1.0	Pol1	MGI:97726		B	.	C	C	C	B	C	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	Pol17	MGI:97730		B	C	C	C	C	B	C	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	Pol7	MGI:97737		B	C	C	C	C	B	C	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	12	-1.0	Rnu1a2	MGI:97973		C	C	C	C	C	B	C	.	.	.	.	.	.	J:9074	Lund E, Somat Cell Mol Genet 1988 Mar;14(2):143-8	
+CXB	12	-1.0	Ryk-ps1	MGI:103028		B	C	C	C	C	B	C	.	.	.	.	.	.	J:24374	Gough NM, Mamm Genome 1995 Apr;6(4):255-6	
+CXB	12	-1.0	Serpina1	MGI:98376		B	B	C	C	B	C	C	.	C	C	C	C	B	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	J:5559	Taylor BA, Nature 1975 Aug 21;256(5519):644-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+CXB	12	2.59	D12Mit37	MGI:89447		B	C	B	C	C	B	.	C	B	C	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	12	3.53	Apob	MGI:88052		B	C	C	C	C	B	C	.	.	.	.	.	.	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	
+CXB	12	8.11	Odc1	MGI:97402		B	C	C	C	C	B	C	.	.	.	.	.	.	J:10259	Villani V, Genomics 1989 Oct;5(3):636-8	
+CXB	12	8.49	D12Mit12	MGI:89365		B	C	C	C	C	B	C	C	B	B	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	12	8.5	Rrm2	MGI:98181		B	C	C	C	C	B	C	.	B	B	C	B	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXB	12	9.69	D12Mit219	MGI:101151		B	C	C	C	C	B	B	C	B	B	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	12	10.96	D12Nyu2	MGI:89570		B	C	C	C	C	B	B	.	B	B	C	B	B	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	
+CXB	12	13.0	Tpo	MGI:98813		B	C	C	C	C	B	C	C	B	B	C	B	B	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	J:2084	Taylor BA, Cytogenet Cell Genet 1992;60(3-4):250-1	
+CXB	12	15.78	Ahr	MGI:105043		B	C	C	C	C	B	C	.	.	.	.	.	.	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	
+CXB	12	15.83	D12Mit147	MGI:89395		B	C	C	C	C	B	C	C	B	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	12	26.06	D12Mit89	MGI:89499		C	C	C	C	C	C	C	B	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	12	27.21	D12Mit210	MGI:101160		C	C	C	C	C	C	C	B	B	B	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	12	35.51	D12Mit4	MGI:89449		C	C	B	C	B	C	C	C	B	B	C	C	C	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXB	12	37.16	D12Mit5	MGI:89457		C	C	B	C	B	C	C	C	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	12	53.88	D12Mit102a	MGI:89346		B	B	C	C	B	C	C	C	C	C	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	12	61.59	Crip1	MGI:88501		B	B	C	B	B	C	B	.	.	.	.	.	.	J:8280	Birkenmeier EH, Proc Natl Acad Sci U S A 1986 Apr;83(8):2516-20	
+CXB	12	62.09	Igha	MGI:96444		B	B	C	B	B	C	B	.	.	C	C	.	B	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+CXB	13	-1.0	Amh-rs2	MGI:88008		B	C	C	C	C	B	C	.	.	.	.	.	.	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	
+CXB	13	-1.0	D13Mit10	MGI:89635		B	C	C	C	C	B	B	C	B	C	C	B	C	J:29220	Johnson KR, Genomics 1995 Sep 20;29(2):457-64	
+CXB	13	-1.0	D13Rp4	MGI:108217		B	C	C	B	B	B	B	C	C	C	B	B	C	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+CXB	13	-1.0	D13Ty1	MGI:106053		B	C	C	C	C	B	C	C	B	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	13	-1.0	Iapls2-6	MGI:96350		B	C	C	C	B	B	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	13	-1.0	Lth1	MGI:96838		B	C	C	C	B	B	C	.	.	.	.	.	.	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:7979	Elliott RW, J Hered 1985 Jul-Aug;76(4):243-6	
+CXB	13	-1.0	Mdac	MGI:96947		B	C	C	C	C	B	C	C	B	C	C	B	B	J:29220	Johnson KR, Genomics 1995 Sep 20;29(2):457-64	
+CXB	13	-1.0	Pmv9	MGI:97711		B	C	C	C	B	B	C	.	.	.	.	.	.	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	13	-1.0	Xmv13	MGI:99059		B	C	C	C	C	B	C	.	.	.	.	.	.	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	13	2.36	D13Mit235	MGI:101100		B	C	C	C	B	B	B	C	C	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	13	14.44	D13Mit266	MGI:101069		B	B	C	B	C	C	B	C	B	C	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	13	18.48	D13Mit88	MGI:89817		B	B	C	C	C	C	B	C	B	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	13	24.5	D13Mit91	MGI:89821		B	C	C	C	C	B	B	C	B	C	C	B	C	J:29220	Johnson KR, Genomics 1995 Sep 20;29(2):457-64	
+CXB	13	27.68	D13Mit248	MGI:101087		B	C	C	C	C	B	B	C	B	C	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	13	30.06	D13Mit20	MGI:89743		B	C	C	C	C	B	C	C	B	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	13	30.06	Il9	MGI:96563		B	C	C	C	C	B	C	B	B	.	.	.	.	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:10448	Mock BA, Immunogenetics 1990;31(4):265-70	
+CXB	13	31.92	Gas1	MGI:95655		B	C	C	C	C	B	C	C	B	C	C	C	.	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	J:29220	Johnson KR, Genomics 1995 Sep 20;29(2):457-64	J:9931	Colombo MP, Nucleic Acids Res 1989 Jul 11;17(13):5415	
+CXB	13	40.98	D13Mit99	MGI:89829		B	C	C	C	C	B	C	C	B	C	B	C	B	J:29220	Johnson KR, Genomics 1995 Sep 20;29(2):457-64	
+CXB	13	45.05	D13Mit126	MGI:89663		B	C	C	C	C	B	C	C	B	C	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	13	47.88	Arsb	MGI:88075		B	C	C	C	B	B	C	.	.	.	.	.	.	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:7979	Elliott RW, J Hered 1985 Jul-Aug;76(4):243-6	
+CXB	13	50.65	Hmgcr	MGI:96159		B	C	C	C	B	C	C	.	.	.	.	.	.	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	
+CXB	13	58.06	D13Mit75	MGI:89803		B	C	C	C	B	B	C	C	C	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	13	63.73	D13Mit53	MGI:89780		B	C	C	B	B	B	B	C	C	C	B	B	C	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+CXB	13	63.93	D13Mit196	MGI:89739		B	C	C	B	B	B	B	C	C	C	B	B	C	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+CXB	13	63.93	D13Mit262	MGI:101073		B	C	C	C	B	B	B	C	C	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	13	65.32	D13Mit77	MGI:89805		B	C	C	B	B	B	B	C	C	C	B	C	C	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+CXB	13	67.21	D13Mit78	MGI:89806		B	C	C	C	B	B	B	B	C	C	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	14	-1.0	D14Mit140	MGI:89981		C	C	B	B	C	C	C	C	B	B	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	14	-1.0	D14Mit160	MGI:90003		B	C	B	B	C	C	C	C	B	B	C	C	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	14	-1.0	D14Mit75	MGI:90082		C	B	C	C	C	C	C	C	B	B	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	14	-1.0	D14Nds1	MGI:90157		C	C	C	C	B	B	C	C	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	14	-1.0	H8	MGI:96007		C	C	B	B	C	C	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8483	Berman JW, Immunogenetics 1986;24(5):328-30	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:8319	Elliott RW, Cytogenet Cell Genet 1986;42(1-2):110-2	
+CXB	14	-1.0	Mpmv30	MGI:97100		C	B	C	C	B	B	C	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	14	-1.0	Psp-rs1	MGI:99424		C	C	B	B	C	C	C	.	.	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CXB	14	-1.0	Sr1	MGI:98396		.	.	B	.	.	C	.	C	.	B	C	B	.	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	-1.0	Tcra	MGI:98553		C	C	B	B	C	C	C	.	.	.	.	.	.	J:8483	Berman JW, Immunogenetics 1986;24(5):328-30	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CXB	14	-1.0	Xmv19	MGI:99065		C	B	B	C	B	B	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	14	11.53	Plau	MGI:97611		C	C	C	C	B	B	C	C	B	C	B	C	C	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	14	16.8	D14Mit133	MGI:89973		C	C	B	C	B	B	C	C	B	C	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	23.95	D14Mit129	MGI:89968		C	C	B	C	C	C	C	C	B	B	C	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	24.6	D14Mit18	MGI:90023		C	C	B	C	C	C	C	C	B	B	C	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	24.6	D14Mit60	MGI:90066		C	C	B	C	C	C	C	C	B	B	C	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	25.36	D14Mit121	MGI:89960		C	C	B	C	C	C	C	C	B	B	C	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	26.31	Pnp	MGI:97365		C	C	B	B	C	C	C	.	.	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CXB	14	26.4	Rnase1	MGI:97919		C	C	B	B	C	C	C	.	.	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	J:8319	Elliott RW, Cytogenet Cell Genet 1986;42(1-2):110-2	
+CXB	14	26.83	D14Mit233	MGI:102357		C	C	B	B	C	C	C	C	B	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	14	27.68	D14Mit142	MGI:89983		C	C	B	B	C	C	C	C	B	B	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	31.51	D14Mit113	MGI:89951		C	C	B	B	C	C	C	C	B	B	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	34.36	D14Mit102	MGI:89939		B	C	B	B	C	C	C	B	B	B	C	C	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	14	37.26	D14Mit34	MGI:90038		B	C	B	B	C	C	C	C	B	B	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	14	40.61	D14Mit69	MGI:90075		C	C	B	B	C	C	C	C	B	B	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	14	44.17	D14Mit195	MGI:101048		B	C	B	B	C	B	C	C	B	B	C	B	B	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	14	64.86	D14Mit266	MGI:105858		C	B	C	C	C	C	C	B	B	B	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	14	66.1	D14Mit107	MGI:89944		C	B	C	C	C	C	C	B	C	B	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	15	-1.0	D15Mit226	MGI:102369		B	B	C	C	C	C	B	B	B	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	15	-1.0	Gdcr1	MGI:95681		B	.	C	C	.	.	C	.	.	.	.	.	.	J:7860	Kozak LP, Genetics 1985 May;110(1):123-43	
+CXB	15	-1.0	H30	MGI:95978		B	B	C	C	B	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:6400	Meruelo D, J Immunol 1980 Dec;125(6):2713-8	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	15	-1.0	Ly6	MGI:96880		B	B*	C	C*	B*	C*	B*	B	C	C	C	B	B	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:6400	Meruelo D, J Immunol 1980 Dec;125(6):2713-8	J:7509	Hogarth PM, Immunogenetics 1984;20(1):57-69	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:6598	Eckhardt LA, Immunogenetics 1980;11(3):275-91	J:8326	Matsushima GK, Immunogenetics 1986;23(6):406-8	J:5820	McKenzie IF, Transplant Proc 1977 Mar;9(1):667-9	J:8283	Reiser H, Proc Natl Acad Sci U S A 1986 May;83(9):2954-8	J:9106	Reiser H, Proc Natl Acad Sci U S A 1988 Apr;85(7):2255-9	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	15	-1.0	Pmv17	MGI:97640		B	B	C	C	B	C	B	.	.	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	15	24.41	D15Mit121	MGI:90252		B	B	C	B	B	C	B	C	C	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	15	29.3	Tg	MGI:98733		B	B	C	B	B	C	B	.	.	.	.	.	.	J:8652	Taylor BA, Proc Natl Acad Sci U S A 1987 Apr;84(7):1986-90	
+CXB	15	29.8	D15Mit66	MGI:90348		B	B	C	C	C	C	B	C	C	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	15	34.27	Ly6d	MGI:96881		B	B	C	C	B	C	B	.	.	.	.	.	.	J:6598	Eckhardt LA, Immunogenetics 1980;11(3):275-91	
+CXB	15	37.8	D15Mit71	MGI:90354		C	B	C	C	B	C	B	C	C	C	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	15	37.85	Pdgfb	MGI:97528		C	B	C	C	B	C	B	.	.	.	.	.	.	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	
+CXB	15	41.96	D15Mit159	MGI:90293		B	C	C	C	B	C	B	B	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	15	45.31	D15Mit34	MGI:90315		B	C	C	C	B	C	B	B	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	15	56.13	Gpd1	MGI:95679		C*	B	C	C	B	B	C	.	.	.	.	.	.	J:7860	Kozak LP, Genetics 1985 May;110(1):123-43	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:9807	Johnston LA, Mol Cell Biol 1989 Mar;9(3):935-45	
+CXB	15	56.13	Smarcd1	MGI:1933623		C	B	C	C	B	B	C	.	.	.	.	.	.	J:9807	Johnston LA, Mol Cell Biol 1989 Mar;9(3):935-45	
+CXB	16	-1.0	Exz1	MGI:95468		C	C	B	C	B	C	C	.	.	.	.	.	.	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	
+CXB	16	-1.0	Ly7	MGI:96883		B	C	B	C	B	C	C	.	.	.	.	.	.	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	J:5820	McKenzie IF, Transplant Proc 1977 Mar;9(1):667-9	
+CXB	16	-1.0	Pmv16	MGI:97639		C	C	C	C	C	C	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	16	-1.0	Pmv35	MGI:97660		B	C	C	C	B	C	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	16	2.57	D16Mit182	MGI:100899		B	B	C	B	B	C	C	C	B	B	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	16	2.59	D16Mit154	MGI:100927		B	.	C	B	B	C	C	C	B	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	16	2.65	D16Mit130	MGI:100950		B	B	C	B	B	C	C	C	B	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	16	2.9	D16Mit181	MGI:100900		B	B	B	B	B	C	C	C	B	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	16	3.33	D16Mit9	MGI:90564		B	B	B	C	B	C	C	C	B	B	C	C	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	16	10.09	D16Mit34	MGI:90503		B	C	B	C	B	C	C	C	C	B	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	16	20.26	D16Mit57	MGI:90528		B	C	C	C	B	C	C	C	C	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	16	21.41	D16Mit110	MGI:90467		B	C	C	C	B	C	C	C	C	B	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	16	25.43	D16Mit4	MGI:90509		B	C	C	C	B	C	C	C	C	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	16	26.99	D16Mit12	MGI:90477		B	C	C	C	B	B	C	C	C	B	C	C	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	16	29.53	D16Mit84	MGI:90558		B	C	B	C	B	C	C	B	C	B	C	C	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	16	33.97	D16Mit171	MGI:100910		B	C	C	C	B	C	B	B	C	B	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	16	36.36	D16Mit47	MGI:90517		B	C	C	C	B	C	B	B	B	B	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	16	40.84	D16Mit27	MGI:90495		B	C	C	C	C	C	B	B	B	B	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	16	46.83	D16Mit189	MGI:100892		B	C	C	C	C	C	B	B	C	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	16	57.68	D16Mit106	MGI:90462		C	C	C	B	C	C	B	B	C	B	C	C	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	17	-1.0	Csi	MGI:88536		C	B	C	C	B	B	B	.	.	.	.	.	.	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	J:6936	Walker MC, Endocrinology 1983 Mar;112(3):924-30	
+CXB	17	-1.0	D17Leh26	MGI:90701		C	B	B	C	C	B	B	B	C	B	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Leh66E	MGI:894609		C	B	C	B	B	B	B	B	B	C	C	C	C	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Mit135	MGI:90776		C	B	C	C	B	B	B	B	B	C	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	17	-1.0	D17Tu16	MGI:90963		C	C	B	C	B	B	B	B	C	B	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu20	MGI:90967		B	B	B	C	B	C	B	B	C	C	B	C	C	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu24	MGI:90971		C	C	B	C	B	B	B	B	C	B	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu30	MGI:90976		C	C	C	C	B	B	B	B	B	C	B	C	C	J:1607	Sertic J, Mamm Genome 1992;2(2):138-42	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu34	MGI:90977		C	B	C	C	B	B	B	B	B	C	B	C	C	J:1607	Sertic J, Mamm Genome 1992;2(2):138-42	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu36	MGI:90979		C	B	C	C	B	B	B	B	.	C	B	C	.	J:1607	Sertic J, Mamm Genome 1992;2(2):138-42	
+CXB	17	-1.0	D17Tu40	MGI:90984		B	B	B	B	C	B	B	B	C	C	B	C	C	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu42	MGI:894611		C	B	B	C	B	B	B	B	C	B	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu49	MGI:90990		C	C	B	C	B	B	B	B	C	B	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	D17Tu50	MGI:90992		C	C	C	B	C	B	B	B	B	C	B	C	C	J:1607	Sertic J, Mamm Genome 1992;2(2):138-42	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	-1.0	Grr	MGI:894612		C	B	B	C	B	B	B	B	C	B	B	C	B	J:10826	Vincek V, Immunogenetics 1990;32(4):293-5	
+CXB	17	-1.0	H2	MGI:95894		C	B	B	C	B	B	B	B	B	C	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:7973	Skow LC, Genetics 1985 Aug;110(4):723-32	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:10460	Scalzo AA, J Exp Med 1990 May 1;171(5):1469-83	J:16711	Tan H, Biochem Genet 1993 Dec;31(11-12):473-84	J:6936	Walker MC, Endocrinology 1983 Mar;112(3):924-30	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:6511	Potter TA, Transplantation 1981 May;31(5):339-42	J:7346	D'Eustachio P, J Exp Med 1984 Mar 1;159(3):958-63	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	17	-1.0	H2-Q9	MGI:95938		C	B	B	C	B	B	B	.	.	.	.	.	.	J:7173	Sutton VR, J Immunol 1983 Sep;131(3):1363-7	
+CXB	17	-1.0	H2-T18	MGI:95950		C	B	B	C	B	B	B	.	.	.	.	.	.	J:6936	Walker MC, Endocrinology 1983 Mar;112(3):924-30	J:6511	Potter TA, Transplantation 1981 May;31(5):339-42	
+CXB	17	-1.0	Scom	MGI:98253		C	B	B	C	B	B	B	.	.	.	.	.	.	J:6936	Walker MC, Endocrinology 1983 Mar;112(3):924-30	
+CXB	17	2.11	D17Mit164	MGI:100888		C	B	C	B	C	B	B	B	B	B	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	17	8.72	Tcp1	MGI:98535		C	B	C	C	B	B	B	B	B	C	B	C	C	J:1607	Sertic J, Mamm Genome 1992;2(2):138-42	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	12.53	D17Mit46	MGI:90835		C	B	C	C	B	B	B	.	B	.	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	17	12.53	Hagh	MGI:95745		C	B	C	C	B	B	B	B	B	C	B	C	C	J:16711	Tan H, Biochem Genet 1993 Dec;31(11-12):473-84	
+CXB	17	13.11	Hba-ps4	MGI:96018		C	B	C	C	B	B	B	B	B	C	B	C	B	J:1607	Sertic J, Mamm Genome 1992;2(2):138-42	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:7973	Skow LC, Genetics 1985 Aug;110(4):723-32	J:16711	Tan H, Biochem Genet 1993 Dec;31(11-12):473-84	J:7346	D'Eustachio P, J Exp Med 1984 Mar 1;159(3):958-63	
+CXB	17	17.09	Cryaa	MGI:88515		C	B	C	C	B	B	B	B	B	C	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:7973	Skow LC, Genetics 1985 Aug;110(4):723-32	
+CXB	17	17.98	D17Mit21	MGI:90809		C	B	B	C	B	B	B	B	B	B	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	17	17.98	D17Mit22	MGI:90810		C	B	B	C	B	B	B	B	B	B	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	17	17.98	H2-Aa	MGI:95895		.	.	.	.	.	.	.	B	B	C	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	18.61	H2-D1	MGI:95896		.	.	.	.	.	.	.	B	C	C	B	C	C	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	19.54	Crisp2	MGI:98815		C	C	B	C	B	B	B	B	C	B	B	C	B	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXB	17	23.97	D17Mit66	MGI:90857		C	B	B	C	B	B	B	B	C	B	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	17	23.98	Pgc	MGI:98909		C	B	B	C	B	B	B	.	.	.	.	.	.	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:7973	Skow LC, Genetics 1985 Aug;110(4):723-32	J:7346	D'Eustachio P, J Exp Med 1984 Mar 1;159(3):958-63	
+CXB	17	45.64	D17Mit38	MGI:90827		B	B	B	C	B	C	B	C	C	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	17	56.83	D17Mit129	MGI:90769		B	C	C	C	C	C	B	B	B	.	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	-1.0	Iapls3-12	MGI:96357		C	B	B	C	B	C	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	18	-1.0	Iapls3-5	MGI:96377		C	B	B	C	C	C	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	18	-1.0	Iapls3-7	MGI:96379		B	B	C	B	B	C	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	18	3.02	D18Mit19	MGI:91070		B	B	B	C	C	C	B	B	B	B	B	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	5.84	D18Mit192	MGI:100784		C	B	B	C	C	C	B	B	B	B	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	5.88	D18Mit110	MGI:91028		C	B	B	C	C	C	B	B	B	B	B	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	18	8.85	D18Mit197	MGI:102427		C	B	B	C	B	B	B	B	B	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	11.96	D18Mit111	MGI:91029		C	B	B	C	B	B	B	B	C	B	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	18.11	D18Mit59	MGI:91113		C	C	B	B	B	C	C	B	C	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	18.17	D18Mit63	MGI:91118		C	C	B	B	B	C	C	B	C	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	18	19.41	D18Mit120	MGI:91039		B	C	B	B	B	C	C	B	C	C	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	18	20.57	D18Mit14	MGI:91059		C	C	C	B	B	C	C	B	C	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	18	21.09	Nr3c1	MGI:95824		C	C	C	B	B	C	C	B	C	C	C	B	C	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	18	28.28	D18Mit53	MGI:91107		C	B	C	C	B	C	C	B	B	B	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	18	28.33	D18Mit105	MGI:91023		C	B	C	C	B	C	C	B	B	B	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	18	30.12	D18Mit123	MGI:91042		C	B	C	C	B	C	C	C	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	34.41	Cd74	MGI:96534		C	B	B	C	B	B	C	.	.	.	.	.	.	J:7977	Richards JE, Immunogenetics 1985;22(2):193-9	
+CXB	18	34.41	D18Mit51	MGI:91105		C	B	B	C	B	B	C	B	C	B	B	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	18	40.14	D18Mit100	MGI:91018		C	B	B	C	B	B	C	B	C	B	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	42.56	D18Mit9	MGI:91147		C	B	B	C	B	C	C	B	C	B	B	C	C	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	18	45.63	D18Mit186	MGI:100790		B	B	B	C	B	C	C	B	C	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	51.27	D18Mit49	MGI:91102		B	B	B	C	B	C	C	B	C	B	C	C	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	18	57.53	D18Mit4	MGI:91092		C	C	B	B	B	C	C	B	C	B	C	C	C	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	19	-1.0	D19Mit6	MGI:91272		C	B	B	C	B	B	C	B	B	C	C	B	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	19	-1.0	Ea4	MGI:95267		C	B	B	C	B	B	B	.	.	.	.	.	.	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	19	-1.0	Iapls3-8	MGI:96380		C	B	C	C	C	C	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	19	-1.0	Mlviq2	MGI:1306808		B	B	B	B	B	B	B	C	B	C	B	B	B	J:43753	Panoutsakopoulou V, J Immunol 1998 Jul 1;161(1):17-26	
+CXB	19	-1.0	Xmv18	MGI:99064		C	B	B	C	B	B	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	19	4.3	D19Mit59	MGI:91271		C	B	B	B	B	B	B	C	B	C	B	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	19	4.34	D19Mit109	MGI:102447		C	B	B	B	B	B	B	C	B	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	19	10.4	D19Mit61	MGI:91274		C	B	B	C	B	B	B	C	B	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	19	13.17	D19Mit85	MGI:100762		C	B	B	C	B	B	B	C	B	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	19	13.18	D19Mit41	MGI:91252		C	B	B	C	B	.	B	C	B	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	19	13.85	D19Mit23	MGI:91232		C	B	B	C	B	B	B	C	B	C	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	19	20.38	D19Mit40	MGI:91251		C	B	B	B	B	B	B	B	B	B	C	B	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	19	29.06	D19Mit46	MGI:91257		C	B	B	B	B	C	C	B	C	C	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	19	33.91	Cyp2c29	MGI:103238		C	B	B	.	B	C	C	B	C	C	C	B	B	J:9133	Meehan RR, Proc Natl Acad Sci U S A 1988 Apr;85(8):2662-6	
+CXB	19	34.08	D19Mit19	MGI:91227		C	B	B	B	B	C	C	B	C	C	C	B	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	19	45.06	D19Mit123	MGI:105894		C	B	B	C	B	C	B	B	B	C	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	19	50.32	D19Mit1	MGI:91215		C	B	B	C	B	C	C	C	B	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	19	50.72	D19Mit34	MGI:91244		C	B	B	C	B	C	C	C	B	C	B	B	.	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	2	-1.0	Ea6	MGI:95269		C	B	C	B	B	C	B	.	.	.	.	.	.	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:6769	Colombatti A, Proc Natl Acad Sci U S A 1982 Mar;79(6):1926-9	
+CXB	2	-1.0	Emv13	MGI:95329		C	C	C	B	B	B	B	.	.	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CXB	2	-1.0	Emv15	MGI:95331		C	C	C	B	B	B	B	.	.	.	.	.	.	J:8719	Lovett M, Genetics 1987 Apr;115(4):747-54	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CXB	2	-1.0	H3	MGI:95977		C	B	B	C	B	B	B	.	.	.	.	.	.	J:1872	Tada N, Immunogenetics 1980;11(5):441-9	J:6476	Goding JW, J Immunol 1981 Apr;126(4):1644-6	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:5820	McKenzie IF, Transplant Proc 1977 Mar;9(1):667-9	J:6504	Michaelson J, Immunogenetics 1981;13(1-2):167-71	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	J:6769	Colombatti A, Proc Natl Acad Sci U S A 1982 Mar;79(6):1926-9	
+CXB	2	-1.0	Ly11	MGI:96857		B	B	C	C	B	C	B	.	.	.	.	.	.	J:6400	Meruelo D, J Immunol 1980 Dec;125(6):2713-8	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:6769	Colombatti A, Proc Natl Acad Sci U S A 1982 Mar;79(6):1926-9	
+CXB	2	-1.0	Ly23	MGI:96863		C	B	B	C	B	B	B	.	.	.	.	.	.	J:7228	Gasser DL, Proc Natl Acad Sci U S A 1983 Nov;80(21):6620-3	
+CXB	2	-1.0	Mpmv28	MGI:97097		C	B	B	C	B	B	B	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	2	-1.0	Pmv33	MGI:97658		C	B	C	B	B	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	2	-1.0	Pol15	MGI:97728		C	C	C	B	B	B	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	2	-1.0	Pol23	MGI:97733		C	B	B	C	B	B	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	2	-1.0	Pol27	MGI:97735		C	B	B	C	B	C	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	2	-1.0	Xmmv71	MGI:99045		C	B	B	C	B	B	B	.	.	.	.	.	.	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	2	-1.0	Xmv10	MGI:99056		C	C	C	B	B	B	B	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	2	44.29	D2Mit329	MGI:100710		C	C	C	B	B	B	C	C	C	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	2	49.45	D2Mit66	MGI:92203		C	B	C	C	B	B	C	C	C	C	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	2	54.13	Cd44	MGI:88338		C	B	C	B	B	B	B	.	.	.	.	.	.	J:8851	Sutton VR, J Immunogenet 1987 Feb;14(1):43-57	J:6769	Colombatti A, Proc Natl Acad Sci U S A 1982 Mar;79(6):1926-9	
+CXB	2	54.43	Cat	MGI:88271		C	B	C	B	B	B	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:6769	Colombatti A, Proc Natl Acad Sci U S A 1982 Mar;79(6):1926-9	
+CXB	2	59.34	D2Mit62	MGI:92199		C	B	B	C	B	B	B	C	C	C	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	2	60.55	B2m	MGI:88127		C	B	B	C	B	B	B	C	C	C	C	B	B	J:9424	Balling R, Cell 1988 Nov 4;55(3):531-5	J:1872	Tada N, Immunogenetics 1980;11(5):441-9	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:6476	Goding JW, J Immunol 1981 Apr;126(4):1644-6	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	J:6504	Michaelson J, Immunogenetics 1981;13(1-2):167-71	J:8794	Taylor BA, Biochem Genet 1987 Apr;25(3-4):267-74	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:7228	Gasser DL, Proc Natl Acad Sci U S A 1983 Nov;80(21):6620-3	J:6769	Colombatti A, Proc Natl Acad Sci U S A 1982 Mar;79(6):1926-9	
+CXB	2	62.9	Il1a	MGI:96542		C	B	B	C	B	B	B	.	C	C	C	C	B	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	J:8880	D'Eustachio P, Immunogenetics 1987;26(6):339-43	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+CXB	2	62.97	Il1b	MGI:96543		C	B	B	C	B	B	B	.	.	.	.	.	.	J:8880	D'Eustachio P, Immunogenetics 1987;26(6):339-43	
+CXB	2	63.23	Ptpra	MGI:97808		C	B	B	C	B	B	B	.	C	B	C	C	B	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+CXB	2	63.24	Itpa	MGI:96622		C	B	B	C	B	B	B	.	.	.	.	.	.	J:8794	Taylor BA, Biochem Genet 1987 Apr;25(3-4):267-74	
+CXB	2	72.63	Pax1	MGI:97485		C	C	C	B	B	B	B	.	.	.	.	.	.	J:9424	Balling R, Cell 1988 Nov 4;55(3):531-5	
+CXB	2	73.57	D2Mit423	MGI:100616		C	C	C	B	B	B	B	B	C	B	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	2	76.15	Bpifa2	MGI:97787		C	C	C	B	B	B	B	.	.	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+CXB	2	76.83	a	MGI:87853		C	C	C	B	B	B	B	.	.	.	.	.	.	J:9424	Balling R, Cell 1988 Nov 4;55(3):531-5	J:1872	Tada N, Immunogenetics 1980;11(5):441-9	J:8719	Lovett M, Genetics 1987 Apr;115(4):747-54	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:8794	Taylor BA, Biochem Genet 1987 Apr;25(3-4):267-74	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:6769	Colombatti A, Proc Natl Acad Sci U S A 1982 Mar;79(6):1926-9	
+CXB	2	84.14	D2Mit226	MGI:92093		C	C	C	B	B	B	B	B	C	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	2	85.01	Svs4	MGI:98450		C	C	C	C	C	B	B	.	.	.	.	.	.	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	
+CXB	2	97.97	D2Mit265	MGI:92135		C	B	B	B	C	B	B	B	C	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	-1.0	Aldr5	MGI:1276518		C	C	C	B	C	C	B	.	.	.	.	.	.	J:7968	Prochazka M, Virology 1985 Sep;145(2):273-9	J:7000	Duley JA, Biochem Genet 1982 Dec;20(11-12):1067-83	
+CXB	3	-1.0	D3Mit120	MGI:92387		B	B	B	B	B	C	C	C	C	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	-1.0	D3Mit19	MGI:92463		B	C	B	B	B	C	B	B	B	B	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	-1.0	D3Mit51	MGI:92521		B	B	B	B	C	B	B	C	C	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	-1.0	D3Mit9	MGI:92562		B	C	B	B	C	B	B	B	C	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	-1.0	H23	MGI:95970		C	C	C	C	C	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+CXB	3	-1.0	H37	MGI:95985		B	C	C	B	C	B	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	
+CXB	3	-1.0	Iapls2-9	MGI:96353		B	C	B	B	B	C	B	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	3	-1.0	Iapls3-13	MGI:96358		C	C	B	B	B	C	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	3	-1.0	If1	MGI:96420		C	C	B	B	C	C	B	.	.	.	.	.	.	J:4430	De Maeyer E, Immunogenetics 1975;1():438-443	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+CXB	3	-1.0	Mpmv9	MGI:97136		B	C	B	B	C	C	B	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	3	-1.0	Xmmv65	MGI:99038		B	C	B	B	C	B	C	.	.	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+CXB	3	3.23	Car2	MGI:88269		C	C	B	B	B	C	B	.	.	.	.	.	.	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+CXB	3	12.19	D3Mit55	MGI:92525		C	C	C	B	B	C	B	C	C	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	21.67	D3Mit6	MGI:92530		B	B	B	B	C	C	C	C	C	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	32.59	D3Mit209	MGI:92483		B	B	B	B	C	C	B	C	C	C	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	3	39.27	D3Mit28	MGI:92501		B	C	B	B	C	B	C	B	B	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	39.27	D3Mit29	MGI:92502		B	C	B	B	C	B	C	B	B	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	43.03	D3Mit10	MGI:92364		B	C	B	B	C	B	C	B	B	C	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	3	49.35	Amy1	MGI:88019		C	C	C	B	C	C	B	.	.	.	.	.	.	J:10458	Nakamura K, J Biochem 1990 Jan;107(1):3-7	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+CXB	3	49.35	Amy2a5	MGI:88020		C	C	C	B	C	C	B	.	.	.	.	.	.	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+CXB	3	61.27	D3Mit110	MGI:92376		B	C	C	B	C	B	B	B	B	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	64.13	Adh7	MGI:87926		C	C	C	B	C	C	B	.	.	.	.	.	.	J:7968	Prochazka M, Virology 1985 Sep;145(2):273-9	J:7000	Duley JA, Biochem Genet 1982 Dec;20(11-12):1067-83	
+CXB	3	66.69	Gbp1	MGI:95666		C	C	C	B*	C	C	B*	B	C	C	B	.	.	J:20637	Prochazka M, Mouse News Lett 1984;71():53	J:7968	Prochazka M, Virology 1985 Sep;145(2):273-9	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+CXB	3	72.28	D3Mit86	MGI:92558		C	C	C	B	C	C	B	B	B	B	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	72.36	D3Mit18	MGI:92452		C	C	C	B	C	C	B	B	B	B	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	3	76.65	D3Mit128	MGI:92395		C	C	B	B	C	C	B	B	B	B	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	3	76.94	Ifi44l	MGI:95975		C	C	B	B	C	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:4430	De Maeyer E, Immunogenetics 1975;1():438-443	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+CXB	3	79.45	D3Mit219	MGI:92494		C	C	B	B	C	C	B	B	B	B	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	-1.0	Adre	MGI:87942		B	B	C	C	C	C	B	.	.	.	.	.	.	J:9001	Roubertoux PL, Behav Genet 1987 Sep;17(5):453-64	
+CXB	4	-1.0	Bfo	MGI:88149		C	C	C	C	C	B	C	.	.	.	.	.	.	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:5466	Eleftheriou BE, J Reprod Fertil 1974 May;38(1):41-7	
+CXB	4	-1.0	Exa	MGI:95464		C	B	B	B	C	C	B	.	.	.	.	.	.	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	
+CXB	4	-1.0	H15	MGI:95887		C	B	C	C	B	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	4	-1.0	H16	MGI:95888		C	B	C	C	C	B	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:28553	Vaithilingam DS, Mol Cell Biochem 1994 Jan 12;130(1):67-74	
+CXB	4	-1.0	H18	MGI:95890		?	?	C	B*	C	B	B*	.	.	.	.	.	.	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:5466	Eleftheriou BE, J Reprod Fertil 1974 May;38(1):41-7	J:28553	Vaithilingam DS, Mol Cell Biochem 1994 Jan 12;130(1):67-74	
+CXB	4	-1.0	H20	MGI:95967		B	B	C	B	C	B	B	.	.	.	.	.	.	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:28553	Vaithilingam DS, Mol Cell Biochem 1994 Jan 12;130(1):67-74	
+CXB	4	-1.0	H21	MGI:95968		B	B*	C	C	C	C	B	.	.	.	.	.	.	J:905	Lock LF, Genomics 1992 Jun;13(2):415-24	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:9001	Roubertoux PL, Behav Genet 1987 Sep;17(5):453-64	
+CXB	4	-1.0	Iapls3-10	MGI:96355		C	B	C	C	C	B	B	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	4	-1.0	Ifna	MGI:107670		C	B	C	C	C	C	B	.	.	.	.	.	.	J:8569	Nadeau JH, Genetics 1986 Dec;114(4):1239-55	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	J:10980	Begley CG, Proc Natl Acad Sci U S A 1991 Feb 1;88(3):869-73	
+CXB	4	-1.0	Ly31	MGI:96869		B	B	C	B	C	B	B	C	C	C	B	B	B	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	
+CXB	4	-1.0	Mpmv19	MGI:97087		B	B	C	C	C	C	B	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	
+CXB	4	-1.0	Mpsq1	MGI:1203739		B	B	C	B	C	B	B	.	.	.	.	.	.	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	
+CXB	4	-1.0	Pmv19	MGI:97642		C	B	C	C	C	C	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	J:10980	Begley CG, Proc Natl Acad Sci U S A 1991 Feb 1;88(3):869-73	
+CXB	4	-1.0	Pmv23	MGI:97647		C	B	C	C	C	C	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	
+CXB	4	-1.0	Pol26	MGI:97734		C	B	C	C	B	C	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	4	-1.0	Pphc2	MGI:104573		C	C	C	B	C	B	B	.	.	.	.	.	.	J:28553	Vaithilingam DS, Mol Cell Biochem 1994 Jan 12;130(1):67-74	
+CXB	4	2.04	D4Mit149	MGI:92774		B	B	B	C	B	B	C	B	B	C	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	4	2.16	Mos	MGI:97052		B	B	B	C	B	B	C	.	.	.	.	.	.	J:9957	Propst F, Genomics 1989 Jul;5(1):118-23	
+CXB	4	3.57	D4Mit235	MGI:100524		B	C	B	C	B	B	C	B	B	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	20.0	D4Mit236	MGI:100523		C	C	C	B	B	B	B	C	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	24.16	D4Mit214	MGI:92846		C	C	C	C	B	C	B	B	B	B	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	4	31.66	D4Mit288	MGI:100471		B	C	C	C	B	C	B	B	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	32.85	Mup1	MGI:97233		B	C	C	C	B	C	B	.	.	.	.	.	.	J:5458	Potter M, Genet Res 1973 Dec;22(3):325-8	J:8569	Nadeau JH, Genetics 1986 Dec;114(4):1239-55	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	J:6746	Bennett KL, Proc Natl Acad Sci U S A 1982 Feb;79(4):1220-4	
+CXB	4	33.17	Alad	MGI:96853		B	B	C	C	B	.	B	.	.	.	.	.	.	J:8569	Nadeau JH, Genetics 1986 Dec;114(4):1239-55	
+CXB	4	34.92	D4Mit178	MGI:92806		B	C	C	C	B	C	B	B	B	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	4	37.89	Tyrp1	MGI:98881	Tyrp1<b>	B	B	C	C	C	C	B	.	.	.	.	.	.	J:5458	Potter M, Genet Res 1973 Dec;22(3):325-8	J:8569	Nadeau JH, Genetics 1986 Dec;114(4):1239-55	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:9001	Roubertoux PL, Behav Genet 1987 Sep;17(5):453-64	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	J:9222	Jackson IJ, Proc Natl Acad Sci U S A 1988 Jun;85(12):4392-6	J:10980	Begley CG, Proc Natl Acad Sci U S A 1991 Feb 1;88(3):869-73	
+CXB	4	44.59	D4Mit153	MGI:92779		C	B	C	C	C	C	B	B	B	B	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	50.04	D4Mit31	MGI:92866		C	B	C	C	C	B	B	B	B	B	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	50.18	Dio1	MGI:94896		C	B	C	C	C	B	B	.	.	.	.	.	.	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	
+CXB	4	52.73	Tal1	MGI:98480		B	B	C	C	C	C	B	.	.	.	.	.	.	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	J:10980	Begley CG, Proc Natl Acad Sci U S A 1991 Feb 1;88(3):869-73	
+CXB	4	53.05	Cyp4a10	MGI:88611		B	B	C	C	C	C	B	.	.	.	.	.	.	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	
+CXB	4	57.76	D4Mit12	MGI:92742		C	B	C	.	C	C	B	C	B	B	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	61.67	D4Mit16	MGI:92786		C	B	C	C	C	B	B	B	B	B	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	4	63.26	Lck	MGI:96756		C	B	C	C	B	B	B	.	.	.	.	.	.	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	
+CXB	4	69.05	D4Mit251	MGI:100508		C	B	C	B	C	B	B	B	C	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	4	70.02	Alpl	MGI:87983		B	B	C	B	C	B	B	.	.	.	.	.	.	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+CXB	4	70.79	Aldh4a1	MGI:2443883		B	B	C	B	C	B	B	.	.	.	.	.	.	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+CXB	4	80.52	D4Mit127	MGI:92750		C	C	C	B	C	B	B	C	B	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	4	80.65	H6pd	MGI:2140356		C	C	C	B	C	B	B	.	.	.	.	.	.	J:44588	Lai WC, Nat Immun 1996-97;15(5):241-8	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	J:7489	Dandoy F, J Exp Med 1984 Jul 1;160(1):294-302	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:28553	Vaithilingam DS, Mol Cell Biochem 1994 Jan 12;130(1):67-74	
+CXB	4	83.75	D4Mit254	MGI:100505		C	C	C	B	C	B	B	C	C	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	-1.0	D5H4S76	MGI:93158		B	C	C	B	C	B	C	.	.	.	.	.	.	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	
+CXB	5	-1.0	Emv1	MGI:95325		B	C	B	C	C	C*	C	.	.	.	.	.	.	J:6807	McCubrey J, Cell 1982 Apr;28(4):881-8	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	J:9012	Joyner AL, Genes Dev 1987 Mar;1(1):29-38	
+CXB	5	-1.0	Iapls1-4	MGI:96327		B	B	C	B	C	B	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	5	-1.0	Iapls3-9	MGI:96381		C	B	C	C	B	B	B	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	5	-1.0	Mpmv7	MGI:97134		B	C	B	C	C	?	C	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	5	-1.0	Pmv12	MGI:97635		C	B	C	C	B	B	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	5	-1.0	Pmv5	MGI:97676		B	C	B	C	C	B	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	5	-1.0	Pol20	MGI:97732		B	B	C	B	C	B	C	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	5	-1.0	Xmv17	MGI:99063		B	C	B	C	C	B	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	5	-1.0	Xmv45	MGI:99093		B	C	B	C	C	B	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	5	2.62	D5Mit346	MGI:102073		B	B	B	C	C	C	B	B	B	B	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	5	3.43	D5Mit48	MGI:93348		B	.	B	C	C	C	B	B	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	13.94	En2	MGI:95390		B	C	B	C	C	C	C	.	.	.	.	.	.	J:9012	Joyner AL, Genes Dev 1987 Mar;1(1):29-38	
+CXB	5	17.33	D5Mit148	MGI:93221		B	C	B	C	C	C	C	B	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	17.84	Haus3	MGI:2387633		B	C	B	C	C	C	C	.	.	.	.	.	.	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	
+CXB	5	28.02	D5Mit52	MGI:93353		B	C	C	B	C	B	C	C	B	B	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	28.55	D5Mit233	MGI:93313		B	C	C	B	C	B	C	C	B	B	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	5	30.52	D5Mit255	MGI:100461		B	C	C	B	C	B	C	C	B	B	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	32.92	D5Mit197	MGI:93275		B	B	C	B	C	B	C	C	B	B	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	38.44	D5Mit58	MGI:93357		B	B	C	B	C	B	C	C	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	48.46	D5Mit91	MGI:93393		B	B	C	B	C	C	C	C	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	52.23	D5Mit239	MGI:93319		B	B	C	B	B	C	C	C	B	B	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	5	54.68	D5Mit24	MGI:93320		B	B	C	B	B	C	C	C	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	61.73	D5Mit242	MGI:93323		C	B	C	C	B	C	C	B	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	64.22	D5Mit139	MGI:93211		C	B	C	C	B	B	C	B	B	B	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	5	64.68	D5Mit291	MGI:100425		C	B	C	C	B	B	C	B	B	B	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	5	68.32	Gusb	MGI:95872		C	B	C	C	B	B	B	.	.	.	.	.	.	J:8964	Gallagher PM, Genomics 1987 Oct;1(2):145-52	J:18105	Swank RT, Science 1973 Sep 28;181(106):1249-52	J:6094	Watson G, Biochem Genet 1978 Oct;16(9-10):897-903	J:6094	Watson G, Biochem Genet 1978 Oct;16(9-10):897-903	
+CXB	5	77.1	D5Mit31	MGI:93335		C	B	C	B	B	B	B	B	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	5	80.16	D5Mit101	MGI:93170		B	C	B	B	B	B	B	B	B	B	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	5	89.3	D5Mit286	MGI:100430		C	B	C	C	B	B	B	.	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	-1.0	D6Mit25	MGI:93658		B	B	C	C	C	B	C	C	C	.	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	-1.0	Ea10	MGI:95264		B	B	C	C	C	B	C	.	.	.	.	.	.	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:10460	Scalzo AA, J Exp Med 1990 May 1;171(5):1469-83	
+CXB	6	-1.0	Klra	MGI:96876		B	B	C	C	C	B	C	.	.	.	.	.	.	J:1426	Scalzo AA, J Immunol 1992 Jul 15;149(2):581-9	J:12581	Yokoyama WM, J Immunol 1991 Nov 1;147(9):3229-36	
+CXB	6	-1.0	Qui	MGI:97839		B	B	C	C	C	B	C	.	.	.	B	C	.	J:8290	Lush IE, Genet Res 1986 Apr;47(2):117-23	J:9722	Lush IE, Genet Res 1988 Dec;52(3):207-12	
+CXB	6	-1.0	Rua	MGI:98206		B	B	C	C	C	B	C	.	.	.	B	C	.	J:8290	Lush IE, Genet Res 1986 Apr;47(2):117-23	J:9722	Lush IE, Genet Res 1988 Dec;52(3):207-12	
+CXB	6	1.81	D6Mit86	MGI:93719		C	B	C	?	C	B	B	C	C	C	B	?	B	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	2.45	D6Rp2	MGI:93826		C	B	C	C	C	B	B	C	C	C	B	C	B	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+CXB	6	5.65	D6Mit83	MGI:93716		C	C	C	B	C	B	B	B	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	6.68	D6Mit1	MGI:93523		C	C	C	B	C	B	B	B	C	C	B	B	B	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+CXB	6	8.1	D6Mit236	MGI:100358		C	C	C	B	C	B	B	B	C	C	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	6	12.36	D6Mit159	MGI:93589		C	B	C	B	C	B	B	B	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	15.12	D6Mit268	MGI:100326		B	B	C	C	C	C	C	C	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	22.51	D6Mit273	MGI:100321		B	B	C	B	C	C	C	B	C	B	B	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	6	23.7	D6Mit74	MGI:93706		B	B	C	B	C	C	C	B	C	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	25.4	Hoxa3	MGI:96175		B	B	C	B	C	.	C	.	.	.	.	.	.	J:8820	Mock BA, Genetics 1987 Aug;116(4):607-12	
+CXB	6	25.81	D6Mit184	MGI:93616		B	B	C	B	C	C	C	C	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	27.26	Ggct	MGI:95700		B	B	C	B	C	C	C	.	.	.	.	.	.	J:17772	Tulchin N, Genetics 1981 Sep;99(1):109-16	
+CXB	6	27.41	D6Mit316	MGI:102119		B	B	C	C	C	C	C	B	B	B	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	32.53	D6Mit188	MGI:93620		C	B	C	C	C	B	C	C	C	B	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	6	42.11	D6Mit102	MGI:93527		C	B	C	C	C	B	C	C	C	B	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	48.93	D6Mit149	MGI:93578		C	B	C	C	C	B	C	C	C	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	6	48.93	D6Mit36	MGI:93667		C	B	C	C	C	B	C	C	C	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	6	49.12	D6Mit39	MGI:93670		C	B	C	C	C	B	C	C	C	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	6	49.19	Il5ra	MGI:96558		C	B	B	C	C	B	C	.	.	.	.	.	.	J:332	Gough NM, Genomics 1992 Apr;12(4):855-6	
+CXB	6	49.99	D6Mit327	MGI:102130		C	B	C	C	C	B	C	C	C	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	6	52.14	D6Mit54	MGI:93686		C	B	C	C	C	B	C	C	C	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	6	59.17	Cd4	MGI:88335		C	B	B	C	B	B	B	.	.	.	.	.	.	J:6511	Potter TA, Transplantation 1981 May;31(5):339-42	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	6	63.08	Klrb1	MGI:96877		B	B	C	C	C	B	C	.	.	.	.	.	.	J:1426	Scalzo AA, J Immunol 1992 Jul 15;149(2):581-9	
+CXB	6	63.09	Klrb1c	MGI:107538		B	B	C	C	C	B	C	.	.	.	.	.	.	J:1426	Scalzo AA, J Immunol 1992 Jul 15;149(2):581-9	J:12581	Yokoyama WM, J Immunol 1991 Nov 1;147(9):3229-36	J:15522	Mathew PA, J Immunol 1993 Nov 15;151(10):5328-37	
+CXB	6	63.44	Klra8	MGI:102968		B	B	C	C	C	B	C	.	.	.	.	.	.	J:1426	Scalzo AA, J Immunol 1992 Jul 15;149(2):581-9	J:10460	Scalzo AA, J Exp Med 1990 May 1;171(5):1469-83	
+CXB	6	64.03	Prh1	MGI:97773		B	B	C	C	C	B	C	.	.	.	.	.	.	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:1426	Scalzo AA, J Immunol 1992 Jul 15;149(2):581-9	J:10460	Scalzo AA, J Exp Med 1990 May 1;171(5):1469-83	J:12581	Yokoyama WM, J Immunol 1991 Nov 1;147(9):3229-36	J:15522	Mathew PA, J Immunol 1993 Nov 15;151(10):5328-37	
+CXB	6	77.37	Kras	MGI:96680		B	C	C	C	B	C	B	.	.	.	.	.	.	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:4253	Malkinson AM, Mouse Genome 1993;91(1):130-32	
+CXB	6	77.7	D6Mit15	MGI:93579		B	C	C	C	C	C	B	C	C	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	7	-1.0	Bc1	MGI:104905		B	B	B	B	B	B	B	C	B	C	C	B	.	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+CXB	7	-1.0	Fvis1	MGI:95536		B	B	B	B	B	B	B	.	.	.	.	.	.	J:8493	Silver J, J Virol 1986 Dec;60(3):1156-8	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+CXB	7	-1.0	H1	MGI:95882		B	B	C	B	C	B	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	7	-1.0	H22	MGI:95969		B	C	B	C	C	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	
+CXB	7	-1.0	H24	MGI:95971		B	C	B	C	C	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	7	-1.0	Hbb	MGI:96020		B	B	C	B	C	B	B	.	.	.	.	.	.	J:905	Lock LF, Genomics 1992 Jun;13(2):415-24	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	J:5687	Stern RH, Biochem Genet 1976 Apr;14(3-4):373-81	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:55327	Sardinha DF, Immunogenetics 1999 Jul;49(7-8):700-3	
+CXB	7	-1.0	Lfo1	MGI:96773		B	B	C	B	C	B	B	.	.	.	.	.	.	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	
+CXB	7	-1.0	Mod2	MGI:97045		B	B	C	B	C	B	B	.	.	.	.	.	.	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+CXB	7	-1.0	Mpmv1	MGI:97077		C	B	C	C	C	B	C	.	.	.	.	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+CXB	7	-1.0	Odc-rs7	MGI:97421		B	B	C	B	C	B	B	.	.	.	.	.	.	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	
+CXB	7	-1.0	Pmv15	MGI:97638		B	C	B	C	C	C	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	7	-1.0	Pmv18	MGI:97641		C	C	C	C	C	B	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	7	-1.0	Pmv29	MGI:97653		B	C	C	C	C	B	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	7	-1.0	Pmv31	MGI:97656		B	B	C	B	C	B	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	7	-1.0	Pmv4	MGI:97665		C	B	B	B	C	B	B	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	7	-1.0	Pol8	MGI:97738		C	C	C	C	C	B	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	7	-1.0	Pol9	MGI:97739		C	C	C	C	C	B	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	7	-1.0	Rasl4	MGI:97870		B	C	B	C	C	B	C	.	B	C	B	C	C	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+CXB	7	-1.0	Tam1	MGI:98482		C	C	C	C	C	B	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	7	-1.0	Xmmv73	MGI:99046		C	C	B	B	C	C	B	.	.	.	.	.	.	J:55327	Sardinha DF, Immunogenetics 1999 Jul;49(7-8):700-3	J:7150	Meruelo D, Proc Natl Acad Sci U S A 1983 Aug;80(16):5032-6	
+CXB	7	2.67	D7Mit340	MGI:105488		C	B	B	B	C	B	B	B	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	17.26	D7Mit117	MGI:93933		C	C	C	C	C	B	B	B	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	7	19.37	D7Mit308	MGI:102147		B	C	B	.	C	C	B	B	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	19.46	Gpi1	MGI:95797		B	C	B	C	C	C	B	.	.	.	.	.	.	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	7	20.65	D7Mit156	MGI:93976		C	B	C	B	C	C	C	B	B	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	29.43	D7Mit229	MGI:100284		C	B	C	C	C	B	B	C	B	.	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	32.87	Gas2	MGI:95657		C	B	C	C	C	B	B	B	B	C	B	C	C	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+CXB	7	33.16	D7Mit120	MGI:93937		C	B	C	C	C	B	B	B	B	C	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	43.46	D7Nds1	MGI:94190		B	B	C	B	C	B	B	B	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	7	45.65	D7Mit90	MGI:94114		B	B	C	B	C	B	B	B	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	45.65	Fes	MGI:95514		B	B	C	B	C	B	B	.	.	.	.	.	.	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+CXB	7	49.01	D7Mit31	MGI:94058		B	B	C	B	C	B	B	B	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	49.01	Tyr	MGI:98880	Tyr<c>	B	B	C	B	C	B	B	.	.	.	.	.	.	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	J:905	Lock LF, Genomics 1992 Jun;13(2):415-24	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	J:55327	Sardinha DF, Immunogenetics 1999 Jul;49(7-8):700-3	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	7	53.57	D7Mit321	MGI:102160		B	B	C	B	C	B	B	C	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	54.61	Art2b	MGI:107545		.	B	C	.	C	B	B	.	.	.	.	.	.	J:55327	Sardinha DF, Immunogenetics 1999 Jul;49(7-8):700-3	
+CXB	7	54.85	Hbb-y	MGI:96027		B	B	C	B	C	B	B	.	.	.	.	.	.	J:5687	Stern RH, Biochem Genet 1976 Apr;14(3-4):373-81	
+CXB	7	58.74	D7Mit281	MGI:100232		B	C	B	C	C	B	C	C	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	7	63.44	D7Mit100	MGI:93916		B	C	B	C	C	B	C	C	C	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	7	64.3	D7Mit66	MGI:94087		B	C	B	C	C	B	C	C	B	C	B	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	7	68.76	D7Mit68	MGI:94089		B	C	B	B	C	B	.	C	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	7	68.94	Il4ra	MGI:105367		B	C	B	B	C	B	C	.	.	.	.	.	.	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	
+CXB	7	69.44	Itgal	MGI:96606		B	C	C	B	B	B	C	.	.	.	.	.	.	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	
+CXB	7	88.85	D7Mit223	MGI:94049		B	B	B	B	B	B	B	C	B	C	C	B	C	J:43753	Panoutsakopoulou V, J Immunol 1998 Jul 1;161(1):17-26	
+CXB	7	88.85	Fgf3	MGI:95517		B	B	B	B	B	B	B	.	.	.	.	.	.	J:8493	Silver J, J Virol 1986 Dec;60(3):1156-8	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+CXB	7	88.85	Mlviq1	MGI:1306807		B	B	B	B	B	B	B	C	B	C	B	B	B	J:43753	Panoutsakopoulou V, J Immunol 1998 Jul 1;161(1):17-26	
+CXB	8	-1.0	D8Mit14	MGI:94320		B	C	B	C	B	B	B	B	C	C	C	B	B	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	8	-1.0	Defa1	MGI:94880		C	B	B	B	C	C	C	.	.	.	.	.	.	J:10035	Ouellette AJ, Genomics 1989 Aug;5(2):233-9	
+CXB	8	-1.0	Emv2	MGI:95335		B	B	B	C	B	B	B	.	.	.	.	.	.	J:6807	McCubrey J, Cell 1982 Apr;28(4):881-8	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+CXB	8	-1.0	H19h	MGI:95892		?	?	B	?	B	C*	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:17649	Bailey DW, Transplantation 1971 Mar;11(3):325-7	
+CXB	8	-1.0	H29	MGI:95976		C	C	B	C	B	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	
+CXB	8	-1.0	Iap8-1	MGI:96310		B	C	B	C	B	B	B	.	.	.	.	.	.	J:10891	Clouston WM, DNA Cell Biol 1990 Nov;9(9):623-30	
+CXB	8	-1.0	Odc-rs12	MGI:97406		B	B	B	C	B	B	B	.	.	.	.	.	.	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	
+CXB	8	-1.0	Pol16	MGI:97729		C	B	B	B	B	B	B	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	8	-1.0	Pol6	MGI:97736		B	B	C	B	B	C	C	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+CXB	8	-1.0	Rasl5-2	MGI:97872		B	C	B	B	B	C	C	.	B	C	B	B	C	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+CXB	8	-1.0	Xmv12	MGI:99058		B	C	B	B	B	C	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	8	-1.0	Xmv26	MGI:99073		C	C	B	C	C	C	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	J:10035	Ouellette AJ, Genomics 1989 Aug;5(2):233-9	
+CXB	8	12.86	D8Mit3	MGI:94396		C	B	B	B	C	C	C	B	B	B	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	16.6	D8Mit281	MGI:100129		C	B	B	B	B	C	C	B	B	C	B	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	8	18.75	D8Mit94	MGI:94464		C	C	B	.	B	C	C	B	B	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	18.89	D8Mit4	MGI:94404		C	C	B	B	B	C	C	B	B	C	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	19.02	D8Mit63	MGI:94430		C	C	B	B	B	C	C	B	B	C	B	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	8	19.38	D8Mit224	MGI:100186		C	C	B	B	B	C	C	B	B	C	B	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	8	22.16	D8Mit190	MGI:94374		B	C	B	B	B	C	B	B	B	C	B	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	23.89	D8Mit65	MGI:94432		B	C	B	B	B	C	C	B	B	C	B	B	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	8	30.79	D8Mit231	MGI:100179		B	B	C	B	B	C	C	B	B	C	B	C	C	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	8	30.94	D8Mit128	MGI:94307		B	B	C	B	B	C	C	B	B	C	B	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	32.3	Cpe	MGI:101932		B	B	C	B	B	C	C	.	.	.	.	.	.	J:14308	Prochazka M, Mouse Genome 1991;89():280	
+CXB	8	33.06	D8Mit132	MGI:94312		B	B	C	B	B	C	B	B	B	C	B	C	B	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	8	33.88	Lpl	MGI:96820		B	B	C	B	B	C	C	.	.	.	.	.	.	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+CXB	8	38.64	D8Mit249	MGI:100161		B	B	C	B	B	C	C	B	C	C	B	C	B	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	8	39.65	Ucp1	MGI:98894		B	B	C	B	B	C	C	.	.	.	.	.	.	J:8101	Jacobsson A, J Biol Chem 1985 Dec 25;260(30):16250-4	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+CXB	8	43.06	D8Mit80	MGI:94449		C	B	C	B	B	C	C	B	C	C	B	C	B	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	
+CXB	8	44.99	Ces1c	MGI:95420		C	B	C*	C	B	C	C	.	.	.	.	.	.	J:905	Lock LF, Genomics 1992 Jun;13(2):415-24	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:8101	Jacobsson A, J Biol Chem 1985 Dec 25;260(30):16250-4	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+CXB	8	44.99	D8Mit240	MGI:100170		C	B	C	C	B	C	C	B	C	C	B	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	52.0	D8Mit211	MGI:100199		C	C	B	C	B	C	B	B	C	C	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	8	56.16	D8Mit113	MGI:94291		C	B	B	C	B	C	C	B	C	C	B	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	57.54	D8Mit213	MGI:100197		C	B	B	C	B	C	C	B	C	C	B	B	B	J:76969	Jones Tiffany L, Immunogenetics 2003 May;55(2):80-6	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	57.98	Zfp1	MGI:99154		B	C	C	B	C	B	B	.	.	.	.	.	.	J:10989	Nadeau JH, Genomics 1990 Nov;8(3):469-76	
+CXB	8	58.7	D8Mit152	MGI:94334		C	B	B	C	B	C	C	B	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	60.2	D8Mit318	MGI:102207		C	C	B	C	B	C	C	B	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	61.37	D8Mit200	MGI:94385		C	C	B	C	B	B	C	B	C	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	66.0	D8Mit120	MGI:94299		B	C	B	C	B	B	B	B	B	C	B	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	72.26	Acta1	MGI:87902		B	C	B	C	B	B	B	.	.	.	.	.	.	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	
+CXB	8	72.27	D8Mit121	MGI:94300		B	C	B	C	B	B	B	B	C	C	C	B	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	8	72.38	D8Mit49	MGI:94414		B	C	B	C	B	B	B	B	C	C	C	B	B	J:58681	Devon RS, Mamm Genome 2000;11(5):395-398	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	72.81	Agt	MGI:87963		B	C	B	C	B	B	B	.	.	.	.	.	.	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	J:20306	Clouston WM, EMBO J 1989 Nov;8(11):3337-43	J:10891	Clouston WM, DNA Cell Biol 1990 Nov;9(9):623-30	J:10025	Clouston WM, FEBS Lett 1989 Sep 25;255(2):419-22	
+CXB	8	73.1	Tsnax	MGI:1855672		B	C	B	C	B	B	B	B	C	C	C	C	B	J:58681	Devon RS, Mamm Genome 2000;11(5):395-398	
+CXB	8	73.59	D8Mit278	MGI:100132		B	C	B	C	B	B	B	B	C	C	C	C	B	J:58681	Devon RS, Mamm Genome 2000;11(5):395-398	
+CXB	8	74.46	D8Mit42	MGI:94407		B	C	B	C	B	B	B	B	C	C	C	C	B	J:58681	Devon RS, Mamm Genome 2000;11(5):395-398	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	8	74.66	D8Mit280	MGI:100130		B	C	C	C	B	B	B	B	C	C	C	C	B	J:58681	Devon RS, Mamm Genome 2000;11(5):395-398	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	9	-1.0	Ctt1	MGI:88565		C	B	C	B	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	J:16097	Vagliani M, Immunogenetics 1993;38(2):157-60	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+CXB	9	-1.0	H61	MGI:1351672		C	C	C	B	B	C	C	.	.	.	.	.	.	J:30730	Elliott RW,  1978;():261-74	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	J:9611	Fiszer-Szafarz B, Somat Cell Mol Genet 1989 Jan;15(1):79-83	
+CXB	9	-1.0	H7	MGI:96006		.	B	C	B	.	B	C	.	.	.	.	.	.	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+CXB	9	-1.0	Lap1	MGI:96749		C	C	C	B	B	B	C	.	.	.	.	.	.	J:6328	Eicher EM, Mol Gen Genet 1980;177(4):571-6	J:7017	Lusis AJ, J Biol Chem 1983 Apr 25;258(8):5071-8	J:6511	Potter TA, Transplantation 1981 May;31(5):339-42	J:8111	D'Eustachio P, Proc Natl Acad Sci U S A 1985 Nov;82(22):7631-5	
+CXB	9	-1.0	Ltw3	MGI:96848		C	C	C	B	B	C	C	.	.	.	.	.	.	J:30730	Elliott RW,  1978;():261-74	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	
+CXB	9	-1.0	Pol10	MGI:97727		C	C	C	C	B	B	C	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	9	-1.0	Pol19	MGI:97731		C	C	C	B	B	B	.	.	.	.	.	.	.	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	9	-1.0	Rasl2-2	MGI:97863		C	C	C	B	B	C	C	.	C	B	C	C	C	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	J:16097	Vagliani M, Immunogenetics 1993;38(2):157-60	
+CXB	9	-1.0	Xmv16	MGI:99062		C	C	C	B	B	B	C	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+CXB	9	17.97	Ets1	MGI:95455		C	B	C	C	B	B	B	B	C	B	B	B	C	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+CXB	9	20.71	D9Mit67	MGI:94759		C	C	B	B	B	B	C	C	C	B	B	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	9	24.84	Upk2	MGI:98913		C	C	C	B	B	B	C	C	C	B	C	C	C	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+CXB	9	25.36	Apoa1	MGI:88049		C	C	C	B	B	B	C	.	.	.	.	.	.	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:6328	Eicher EM, Mol Gen Genet 1980;177(4):571-6	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	J:7017	Lusis AJ, J Biol Chem 1983 Apr 25;258(8):5071-8	J:6511	Potter TA, Transplantation 1981 May;31(5):339-42	J:8111	D'Eustachio P, Proc Natl Acad Sci U S A 1985 Nov;82(22):7631-5	
+CXB	9	25.52	D9Mit191	MGI:94703		C	C	C	B	B	B	C	C	C	B	C	C	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	9	26.83	D9Mit299	MGI:102223		C	C	C	B	B	B	C	C	C	C	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	9	26.83	Ncam1	MGI:97281		C	C	C	B	B	B	C	C	C	C	C	C	B	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	J:8111	D'Eustachio P, Proc Natl Acad Sci U S A 1985 Nov;82(22):7631-5	
+CXB	9	26.85	D9Mit171	MGI:94682		C	C	C	B	B	B	C	C	C	C	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	9	35.6	D9Mit104	MGI:100124		C	C	C	B	B	B	C	C	C	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	9	38.58	Anxa2	MGI:88246		C	C	C	B	B	B	C	.	.	.	.	.	.	J:10405	Amiguet P, Biochemistry 1990 Feb 6;29(5):1226-32	
+CXB	9	43.65	Gsta1	MGI:1095417		C	B	C	B	C	B	C	.	.	.	.	.	.	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	
+CXB	9	43.65	Gsta2	MGI:95863		C	B	C	B	C	B	C	.	.	.	.	.	.	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	
+CXB	9	46.55	D9Mit11	MGI:94617		C	C	C	B	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	J:16097	Vagliani M, Immunogenetics 1993;38(2):157-60	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+CXB	9	46.58	Me1	MGI:97043		C	C	C	B	B	B	C	.	.	.	.	.	.	J:30730	Elliott RW,  1978;():261-74	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	J:6328	Eicher EM, Mol Gen Genet 1980;177(4):571-6	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	J:7017	Lusis AJ, J Biol Chem 1983 Apr 25;258(8):5071-8	J:6511	Potter TA, Transplantation 1981 May;31(5):339-42	J:17820	Potter M, J Natl Cancer Inst 1975 Jun;54(6):1413-7	
+CXB	9	47.85	D9Mit308	MGI:102235		C	C	C	B	B	B	C	C	C	B	C	B	C	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	9	51.36	D9Mit33	MGI:94726		C	C	C	B	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	
+CXB	9	51.41	D9Mit35	MGI:94728		C	C	C	B	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	
+CXB	9	52.24	D9Mit12	MGI:94627		C	C	C	B	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+CXB	9	55.07	D9Mit24	MGI:94719		C	C	C	B	B	B	C	C	C	C	B	B	C	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	9	58.17	Hyal1	MGI:96298		C	C	C	B	B	C	C	.	.	.	.	.	.	J:9611	Fiszer-Szafarz B, Somat Cell Mol Genet 1989 Jan;15(1):79-83	
+CXB	9	59.07	Mst1r	MGI:99614		C	C	C	B	B	C	C	.	.	.	.	.	.	J:30730	Elliott RW,  1978;():261-74	
+CXB	9	64.02	D9Mit20	MGI:94713		C	B	C	C	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	
+CXB	9	64.4	Glb1	MGI:88151		C	C*	C	C	B	B	C*	.	.	.	.	.	.	J:30730	Elliott RW,  1978;():261-74	J:6253	Berger FG, Genetics 1979 Aug;92(4):1187-203	J:6253	Berger FG, Genetics 1979 Aug;92(4):1187-203	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	9	65.48	D9Mit16	MGI:94669		C	B	C	C*	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	J:16097	Vagliani M, Immunogenetics 1993;38(2):157-60	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+CXB	9	67.33	D9Mit17	MGI:94680		C	B	C	B	B	B	C	.	.	.	.	.	.	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	
+CXB	9	67.83	D9Mit214	MGI:100109		.	B	C	B	.	B	C	.	.	.	.	.	.	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+CXB	9	69.87	D9Mit279	MGI:100044		C	B	B	B	B	B	C	C	C	B	C	C	B	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	9	71.49	D9Mit18	MGI:94690		C	B	B	B	B	B	C	C	C	B	C	C	B	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	J:18839	Vagliani M, Immunogenetics 1994;40(1):79-81	J:16097	Vagliani M, Immunogenetics 1993;38(2):157-60	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+CXB	UN	-999.0	Bsp	MGI:88210		B	B	C	B	C	C	B	.	.	.	.	.	.	J:6856	Crichton DN, Genet Res 1982 Jun;39(3):275-85	
+CXB	UN	-999.0	Cpl1	MGI:88483		C	C	B	B	C	B	B	.	.	.	.	.	.	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	
+CXB	UN	-999.0	Cpl2	MGI:88484		B	B	B	B	C	C	C	.	.	.	.	.	.	J:8718	Janat MF, Exp Biol 1987;46(4):217-21	
+CXB	UN	-999.0	dscb	MGI:107510		B	C	B	C	C	B	B	.	.	.	.	.	.	J:2019	Wahlsten D, Brain Res 1991 Aug 23;557(1-2):184-9	
+CXB	UN	-999.0	Gdcr2	MGI:95682		C	.	C	C	.	.	C	.	.	.	.	.	.	J:7860	Kozak LP, Genetics 1985 May;110(1):123-43	
+CXB	UN	-999.0	H26	MGI:95973		C	B	.	C	C	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	
+CXB	UN	-999.0	H27	MGI:95974		B	B	C	B	C	B	C	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	J:8263	Rossomando A, Immunogenetics 1986;23(4):233-45	
+CXB	UN	-999.0	H36	MGI:95984		C	B	B	C	B	C	B	.	.	.	.	.	.	J:4420	Bailey DW, Immunogenetics 1975;2():249-256	
+CXB	UN	-999.0	Iapls2-8	MGI:96352		C	C	C	B	B	B	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	UN	-999.0	Xmmv60	MGI:99034		C	B	C	C	B	B	C	.	.	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+CXB	X	-1.0	DXMit16	MGI:95088		C	C	C	B	C	B	C	C	?	C	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	X	-1.0	Iapls3-11	MGI:96356		B	C	C	B	C	C	C	.	.	.	.	.	.	J:3879	Lueders KK, Mamm Genome 1993;4(2):69-77	
+CXB	X	-1.0	Pmv6	MGI:97687		B	B	C	B	C	C	C	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+CXB	X	26.13	DXMit105	MGI:95065		B	B	C	.	C	C	C	C	B	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	X	28.26	DXMit166	MGI:99982		B	.	C	B	C	C	C	C	.	B	C	C	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	X	29.49	DXMit68	MGI:95143		B	B	C	B	C	C	C	C	B	B	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	X	33.5	DXMit73	MGI:95149		B	B	C	B	C	C	C	C	B	B	C	B	C	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+CXB	X	37.29	DXMit1.1	MGI:95058		B	C	C	B	C	C	C	C	B	B	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	X	50.14	DXMit149	MGI:99999		C	C	C	B	B	.	C	C	B	C	C	B	C	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	X	68.46	DXMit153	MGI:99995		C	B	C	B	C	.	C	B	B	C	C	C	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	X	68.46	DXMit197	MGI:102459		C	B	C	B	C	C	C	B	B	C	C	C	B	J:61417	Toth LA, Behav Genet 1999 Sep;29(5):319-28	
+CXB	X	74.91	DXMit5	MGI:95124		C	B	C	B	C	C	C	B	B	C	C	B	.	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+CXB	X	75.46	DXMit156	MGI:99992		C	B	C	B	C	C	C	B	B	C	C	B	B	J:39615	Panoutsakopoulou V, Mamm Genome 1997 May;8(5):357-61	
+CXB	X	76.03	DXMit31	MGI:95104		C	B	C	B	C	C	C	B	B	C	C	B	B	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	

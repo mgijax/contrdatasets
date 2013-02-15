@@ -1,0 +1,66 @@
+# Legend:
+# NX129 origin = NZB/BlNJ x 129P3/J
+# N = NZB/BlNJ
+# 9 = 129P3/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-11: 1 2 5 6 7 10 12 16 17 18 19
+# field 12: reference
+# field 13: reference citation
+#
+NX129	1	-1.0	Xmmv9	MGI:99053		N	9	N	.	9	N	N	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	1	71.37	Sell	MGI:98279		N	9	N	.	9	N	N	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	10	48.49	Hal	MGI:96010		N	N	N	.	9	9	N	.	.	.	.	J:4406	Taylor RG, Genomics 1993 Apr;16(1):231-40	
+NX129	10	66.65	Mdm1	MGI:96951		9	9	N	.	9	9	9	.	N	.	N	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+NX129	10	66.75	Ifng	MGI:107656		9	9	N	.	9	9	9	.	N	.	N	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+NX129	12	-1.0	Igh-C	MGI:96456		N	.	.	.	.	N	.	9	.	.	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NX129	12	-1.0	Ly18	MGI:96861		9	N	N	.	9	9	9	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	
+NX129	12	3.53	Apob	MGI:88052		9	N	9	.	9	9	9	.	.	.	.	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	
+NX129	12	18.94	D12Mit2	MGI:89435		9	.	.	.	.	N	.	N	.	.	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NX129	12	44.05	D12Mit6	MGI:89467		9	.	.	.	.	N	.	9	.	.	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+NX129	12	44.51	Tshr	MGI:98849		9	9	N	.	N	N	9	9	9	9	9	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+NX129	15	-1.0	Ly6	MGI:96880		9	9	N	.	N	9	N	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:7509	Hogarth PM, Immunogenetics 1984;20(1):57-69	
+NX129	15	-1.0	Pmv17	MGI:97640		9	9	N	.	N	9	N	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	17	29.32	Ptprs	MGI:97815		N	.	.	.	.	9	N	.	.	.	.	J:15863	Yan H, J Biol Chem 1993 Nov 25;268(33):24880-6	
+NX129	19	23.73	Jak2	MGI:96629		9	9	9	.	N	N	9	.	.	.	.	J:24373	Gough NM, Mamm Genome 1995 Apr;6(4):247-8	
+NX129	2	-1.0	Emv13	MGI:95329		N	9	N	.	N	9	9	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+NX129	2	-1.0	Emv15	MGI:95331		N	9	N	.	N	9	9	.	.	.	.	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+NX129	2	-1.0	Xmmv58	MGI:99032		9	N	9	.	N	N	9	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	2	76.15	Bpifa2	MGI:97787		N	9	N	.	N	9	9	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+NX129	2	76.83	a	MGI:87853		N	9	N	.	N	9	9	.	.	.	.	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+NX129	3	-1.0	Xmmv65	MGI:99038		N	9	N	.	9	9	9	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	3	66.69	Gbp1	MGI:95666		N	N	9	.	9	N	9	.	.	.	.	J:20637	Prochazka M, Mouse News Lett 1984;71():53	
+NX129	4	-1.0	Ly31	MGI:96869		9	N	N	.	.	N	9	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	
+NX129	4	-1.0	Xmmv62	MGI:99035		9	N	N	.	N	N	9	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	4	50.18	Dio1	MGI:94896		N	9	N	.	N	N	N	.	N	.	N	J:14517	Berry MJ, J Clin Invest 1993 Sep;92(3):1517-28	
+NX129	4	70.02	Alpl	MGI:87983		9	N	N	.	N	N	9	.	.	.	.	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+NX129	4	70.79	Aldh4a1	MGI:2443883		9	N	N	.	N	N	.	.	.	.	.	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+NX129	4	80.65	H6pd	MGI:2140356		9	N	N	.	N	N	9	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+NX129	5	-1.0	Mpmv23	MGI:97092		N	9	N	.	9	9	N	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	6	-1.0	Mtv8	MGI:97227		N	9	N	9	.	N	N	.	.	.	.	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+NX129	6	49.19	Il5ra	MGI:96558		N	9	N	.	9	9	N	.	.	.	.	J:332	Gough NM, Genomics 1992 Apr;12(4):855-6	
+NX129	6	64.03	Prh1	MGI:97773		N	9	N	.	N	N	9	9	N	N	9	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:20642	Taylor BA, Personal Communication 1994 July 8;():	
+NX129	6	77.37	Kras	MGI:96680		N	N	N	.	N	N	N	N	9	N	9	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:20642	Taylor BA, Personal Communication 1994 July 8;():	
+NX129	7	19.38	Scgb1b27	MGI:87862		N	N	N	.	N	N	9	.	.	.	.	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	J:8671	Dlouhy SR, Genetics 1987 Mar;115(3):535-43	
+NX129	7	30.1	Kcnc1	MGI:96667		N	.	.	.	.	N	.	9	.	.	.	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+NX129	7	30.54	Saa1	MGI:98221		N	N	N	.	N	N	N	.	.	.	.	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	J:8671	Dlouhy SR, Genetics 1987 Mar;115(3):535-43	
+NX129	7	33.44	Oca2	MGI:97454		N	N	N	.	N	N	N	.	.	.	.	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+NX129	7	49.01	Tyr	MGI:98880		N	N	N	.	N	9	N	.	.	.	.	J:7560	Taylor BA, Mol Gen Genet 1984;195(3):491-9	
+NX129	8	-1.0	Defa1	MGI:94880		N	N	9	.	N	N	9	.	.	.	.	J:10035	Ouellette AJ, Genomics 1989 Aug;5(2):233-9	
+NX129	9	-1.0	Xmmv67	MGI:99040		9	9	9	.	N	N	N	.	.	.	.	J:10261	Frank SL, Genomics 1989 Oct;5(3):646-8	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX129	9	7.87	Ldlr	MGI:96765		9	9	9	.	N	N	N	.	.	.	.	J:10261	Frank SL, Genomics 1989 Oct;5(3):646-8	
+NX129	9	24.84	Upk2	MGI:98913		N	.	.	.	.	9	.	.	.	.	.	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+NX129	9	26.83	Ncam1	MGI:97281		9	.	.	.	.	9	.	9	.	.	.	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+NX129	9	46.58	Me1	MGI:97043		9	9	9	.	N	9	9	.	.	.	.	J:6621	Nadeau JH, Biochem Genet 1981 Jun;19(5-6):465-74	
+NX129	9	46.58	Pgm3	MGI:97566		9	9	9	.	N	9	9	.	.	.	.	J:6621	Nadeau JH, Biochem Genet 1981 Jun;19(5-6):465-74	
+NX129	UN	-999.0	Xmmv60	MGI:99034		N	9	N	.	9	N	N	.	.	.	.	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	

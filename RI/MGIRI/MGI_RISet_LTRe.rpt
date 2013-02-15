@@ -1,0 +1,22 @@
+# Legend:
+# LT/Re origin = BALB/c x C58
+# C = BALB/c
+# 8 = C58
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-1: LT
+# field 2: reference
+# field 3: reference citation
+#
+LT/Re	7	-1.0	Hbb	MGI:96020		8	J:5687	Stern RH, Biochem Genet 1976 Apr;14(3-4):373-81	
+LT/Re	7	54.85	Hbb-y	MGI:96027		8	J:5687	Stern RH, Biochem Genet 1976 Apr;14(3-4):373-81	

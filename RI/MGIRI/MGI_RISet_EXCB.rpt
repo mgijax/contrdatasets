@@ -1,0 +1,210 @@
+# Legend:
+# EXCB origin = KE x CBA/Kw
+# E = KE
+# C = CBA/Kw
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-14: 1 2 3 5 6 7 10 40 41 42 43 44 47 49
+# field 15: reference
+# field 16: reference citation
+#
+EXCB	1	-1.0	Upg2	MGI:98910		.	C	.	C	C	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	1	2.08	D1Mit296	MGI:101470		.	.	.	E	C	.	.	C	C	C	E	E	E	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	6.27	D1Mit3	MGI:91682		.	.	.	C	C	.	.	C	C	C	E	E	E	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	32.31	D1Mit480	MGI:105626		.	.	.	C	C	.	.	E	C	E	C	E	E	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	32.91	Idh1	MGI:96413		.	C	.	C	C	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	1	39.91	D1Mit215	MGI:91595		.	.	.	C	C	.	.	E	C	E	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	43.94	D1Mit415	MGI:101351		.	.	.	C	C	.	.	E	C	E	E	E	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	47.76	D1Mit306	MGI:101460		.	.	.	C	C	.	.	E	C	E	E	.	E	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	63.32	D1Mit102	MGI:91471		.	.	.	C	C	.	.	E	C	E	C	E	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	63.84	D1Mit200	MGI:91579		.	.	.	C	C	.	.	E	C	E	C	E	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	70.43	D1Mit452	MGI:101981		.	.	.	C	C	.	.	E	C	E	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	82.67	D1Mit359	MGI:101407		.	.	.	C	C	.	.	C	C	C	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	1	97.55	D1Mit293	MGI:91681		.	.	.	E	E	.	.	C	E	C	C	C	E	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	10	-1.0	D10Mit264	MGI:102260		.	.	.	C	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	3.66	D10Mit80	MGI:88866		.	.	.	E	E	.	.	E	E	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	9.75	D10Mit213	MGI:101307		.	.	.	E	E	.	.	C	E	E	C	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	9.82	D10Mit16	MGI:88780		.	.	.	E	E	.	.	C	E	E	C	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	16.53	D10Mit3	MGI:88813		.	.	.	E	E	.	.	E	E	C	C	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	34.8	D10Mit61	MGI:88845		.	.	.	E	E	.	.	C	E	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	39.72	D10Mit42	MGI:88825		.	.	.	E	E	.	.	E	E	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	47.06	D10Mit95	MGI:88882		.	.	.	C	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	51.19	D10Mit96	MGI:88883		.	.	.	C	C	.	.	E	C	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	66.65	D10Mit180	MGI:88802		.	.	.	E	C	.	.	C	C	C	E	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	10	67.55	D10Mit267	MGI:102264		.	.	.	C	C	.	.	E	C	E	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	11	12.35	D11Mit79	MGI:89158		.	.	.	E	E	.	.	C	C	C	E	C	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	15.29	D11Mit151	MGI:89036		.	.	.	E	E	.	.	C	C	C	E	C	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	16.15	D11Mit230	MGI:101261		.	.	.	E	E	.	.	C	C	C	E	C	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	27.28	D11Mit130	MGI:89013		.	.	.	E	E	.	.	C	C	C	C	C	E	C	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	32.13	D11Mit310	MGI:102275		.	.	.	C	E	.	.	C	C	C	E	C	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	39.47	D11Mit242	MGI:101249		.	.	.	C	E	.	.	C	C	C	E	C	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	54.34	D11Mit41	MGI:89125		.	.	.	C	E	.	.	C	C	C	C	C	E	C	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	78.74	D11Mit168	MGI:89054		.	.	.	C	C	.	.	C	E	C	C	C	C	C	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	11	82.96	D11Mit48	MGI:89127		.	.	.	E	C	.	.	C	E	C	C	C	C	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	12	5.64	D12Mit56	MGI:89463		.	.	.	C	E	.	.	E	E	E	C	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	12	7.79	D12Mit170	MGI:89421		.	.	.	C	E	.	.	E	E	E	C	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	12	13.0	D12Mit136	MGI:89383		.	.	.	C	E	.	.	E	E	E	C	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	12	23.46	D12Mit285	MGI:106943		.	.	.	E	E	.	.	C	E	C	E	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	12	35.51	D12Mit4	MGI:89449		.	.	.	E	E	.	.	C	E	C	C	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	12	50.87	D12Mit231	MGI:101139		.	.	.	E	E	.	.	C	E	C	E	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	12	59.29	D12Mit233	MGI:101137		.	.	.	E	E	.	.	C	E	C	E	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	12	62.59	D12Mit150a	MGI:89399		.	.	.	E	C	.	.	C	C	C	E	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	2.36	D13Mit235	MGI:101100		.	.	.	E	E	.	.	C	E	C	E	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	7.31	D13Mit3	MGI:89757		.	.	.	C	E	.	.	C	C	C	E	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	16.81	D13Mit117	MGI:89654		.	.	.	E	E	.	.	E	C	E	E	E	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	21.0	D13Mit63	MGI:89790		.	.	.	E	E	.	.	E	C	E	E	E	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	21.73	D13Mit64	MGI:89791		.	.	.	E	E	.	.	E	C	E	E	E	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	32.8	D13Mit283	MGI:102341		.	.	.	C	C	.	.	E	E	E	C	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	38.78	D13Mit24	MGI:89751		.	.	.	E	E	.	.	E	E	E	C	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	51.06	D13Mit147	MGI:89686		.	.	.	E	C	.	.	C	C	C	C	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	63.73	D13Mit53	MGI:89780		.	.	.	E	E	.	.	E	E	C	E	E	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	13	65.32	D13Mit77	MGI:89805		E	E	.	C	E	C	E	E	C	C	C	C	C	.	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	14	-1.0	D14Mit140	MGI:89981		.	.	.	C	E	.	.	C	C	C	E	E	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	14	7.08	D14Mit78	MGI:90085		.	.	.	C	C	.	.	C	E	C	C	C	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	14	16.8	D14Mit14	MGI:89980		.	.	.	C	E	.	.	C	E	C	C	C	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	14	31.49	D14Mit234	MGI:102358		.	.	.	E	E	.	.	C	C	C	E	E	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	14	38.21	D14Mit115	MGI:89953		.	.	.	E	E	.	.	C	E	C	E	C	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	14	45.31	D14Mit92	MGI:90100		.	.	.	C	E	.	.	C	C	C	E	C	E	C	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	15	1.8	D15Mit12	MGI:90250		.	.	.	C	E	.	.	E	E	E	E	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	3.96	D15Mit175	MGI:101000		.	.	.	C	C	.	.	C	E	C	E	C	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	8.54	D15Mit252	MGI:105862		.	.	.	C	C	.	.	C	E	C	C	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	17.41	D15Mit86	MGI:90370		.	.	.	C	C	.	.	E	E	E	C	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	29.03	D15Mit122	MGI:90253		.	.	.	C	C	.	.	E	E	E	C	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	29.03	D15Mit133	MGI:90265		.	.	.	C	C	.	.	E	E	E	C	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	29.03	D15Mit63	MGI:90345		.	.	.	C	C	.	.	E	E	E	C	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	33.42	D15Mit105	MGI:90234		.	.	.	C	C	.	.	E	E	E	C	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	15	57.34	D15Mit246	MGI:102389		.	.	.	C	C	.	.	E	C	E	C	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	-1.0	D16Mit5	MGI:90520		.	.	.	E	C	.	.	C	E	C	C	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	-1.0	D16Mit6	MGI:90531		.	.	.	E	E	.	.	C	C	C	C	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	9.23	D16Mit88	MGI:90562		.	.	.	E	E	.	.	C	E	C	C	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	14.69	D16Mit101	MGI:90457		.	.	.	E	E	.	.	C	E	C	C	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	21.41	D16Mit110	MGI:90467		.	.	.	E	C	.	.	C	E	C	E	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	26.99	D16Mit12	MGI:90477		.	.	.	E	C	.	.	C	E	C	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	29.93	D16Mit138	MGI:100943		.	.	.	E	C	.	.	C	C	C	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	40.84	D16Mit174	MGI:100907		.	.	.	E	C	.	.	C	E	C	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	45.41	D16Mit50	MGI:90521		.	.	.	E	C	.	.	C	C	C	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	16	57.68	D16Mit106	MGI:90462		E	E	.	C	E	E	C	C	C	C	C	E	E	.	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	-1.0	Ce2	MGI:88364		.	C	.	C	E	.	C	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	17	-1.0	H2	MGI:95894		.	C	.	C	C	.	C	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	17	8.14	D17Mit113	MGI:90753		.	.	.	C	C	.	.	C	E	C	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	13.09	D17Mit173	MGI:100879		.	.	.	C	C	.	.	C	C	C	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	15.8	D17Mit81	MGI:90873		.	.	.	E	E	.	.	C	C	C	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	23.55	D17Mit68	MGI:90859		.	.	.	C	E	.	.	E	C	.	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	23.98	Pgc	MGI:98909		.	C	.	C	E	.	C	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	17	27.85	D17Mit7	MGI:90861		.	.	.	C	E	.	.	E	E	C	E	E	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	39.3	D17Mit205	MGI:100847		.	.	.	C	C	.	.	E	E	E	E	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	50.81	D17Mit128	MGI:90768		.	.	.	E	C	.	.	E	E	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	17	56.83	D17Mit129	MGI:90769		.	.	.	E	E	.	.	E	E	E	E	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	-1.0	D18Mit34	MGI:91086		.	.	.	E	C	.	.	E	E	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	5.88	D18Mit110	MGI:91028		.	.	.	C	C	.	.	E	E	E	C	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	18.04	D18Mit60	MGI:91115		.	.	.	E	C	.	.	E	E	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	19.97	D18Mit94	MGI:91152		.	.	.	E	C	.	.	E	E	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	23.29	D18Mit202	MGI:102431		.	.	.	E	C	.	.	C	E	C	E	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	30.77	D18Mit122	MGI:91041		.	.	.	C	C	.	.	C	E	C	E	C	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	37.43	D18Mit206	MGI:102436		.	.	.	C	C	.	.	E	E	E	C	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	39.7	D18Mit184	MGI:100792		.	.	.	C	C	.	.	C	C	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	18	54.83	D18Mit3	MGI:91081		.	.	.	C	C	.	.	E	C	E	E	C	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	4.3	D19Mit59	MGI:91271		.	.	.	E	C	.	.	E	C	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	8.93	D19Mit69	MGI:91282		.	.	.	E	C	.	.	E	C	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	12.66	D19Mit128	MGI:106985		.	.	.	C	C	.	.	E	C	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	13.18	D19Mit41	MGI:91252		.	.	.	C	C	.	.	E	C	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	20.18	D19Mit106	MGI:100773		.	.	.	C	C	.	.	C	C	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	20.38	D19Mit40	MGI:91251		.	.	.	C	C	.	.	C	C	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	27.49	D19Mit13	MGI:91219		.	.	.	C	E	.	.	C	C	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	34.61	D19Mit119	MGI:105890		.	.	.	C	E	.	.	E	C	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	39.37	D19Mit10	MGI:91216		.	.	.	C	C	.	.	C	C	C	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	19	51.76	D19Mit33	MGI:91243		.	.	.	C	C	.	.	C	C	C	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	2	-1.0	D2Mit175	MGI:92038		.	.	.	E	E	.	.	C	C	C	C	C	C	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	19.97	D2Mit295	MGI:100744		.	.	.	E	E	.	.	C	C	C	C	C	C	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	39.24	D2Mit91	MGI:92229		.	.	.	E	C	.	.	C	E	C	E	E	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	44.13	D2Mit271	MGI:92142		.	.	.	E	C	.	.	C	E	C	E	E	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	55.23	D2Mit185	MGI:92048		.	.	.	E	C	.	.	C	C	C	C	E	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	57.65	D2Mit102	MGI:91958		.	.	.	C	C	.	.	C	E	C	E	E	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	62.49	D2Mit304	MGI:100735		.	.	.	C	C	.	.	C	C	C	C	E	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	76.83	a	MGI:87853		.	E	.	C	C	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	2	84.27	D2Mit498	MGI:105693		.	.	.	C	C	.	.	C	E	C	E	E	E	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	85.16	Svs5	MGI:98453		.	C	.	C	C	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	2	89.27	D2Mit343	MGI:100696		.	.	.	E	C	.	.	C	E	C	E	E	C	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	2	100.49	D2Mit148	MGI:92008		.	.	.	C	C	.	.	C	E	E	E	E	C	E	J:104037	Grzmil P, MGI Direct Data Submission 2006;():	
+EXCB	3	3.23	Car2	MGI:88269		.	C	.	C	E	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	3	15.98	D3Mit273	MGI:100562		.	.	.	C	E	.	.	E	C	C	E	C	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	3	21.73	D3Mit182	MGI:92455		.	.	.	C	E	.	.	E	C	E	E	C	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	3	26.57	D3Mit208	MGI:92482		.	.	.	C	E	.	.	E	C	E	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	3	39.27	D3Mit28	MGI:92501		.	.	.	E	E	.	.	E	E	E	E	C	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	3	43.18	D3Mit283	MGI:100552		.	.	.	E	C	.	.	E	E	E	E	C	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	3	52.94	D3Mit317	MGI:102042		.	.	.	E	E	.	.	C	E	C	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	3	72.28	D3Mit86	MGI:92558		.	.	.	C	C	.	.	C	E	C	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	4	20.0	D4Mit236	MGI:100523		.	.	.	E	E	.	.	C	C	C	E	E	E	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	4	34.92	D4Mit178	MGI:92806		.	.	.	E	E	.	.	C	C	C	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	4	37.89	Tyrp1	MGI:98881	Tyrp1<b>	.	C	.	E	E	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	4	39.4	D4Mit348	MGI:107086		.	.	.	E	E	.	.	E	C	E	E	E	C	C	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	4	49.41	D4Mit306	MGI:102063		.	.	.	C	C	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	4	53.43	D4Mit37	MGI:92869		.	.	.	C	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	4	70.02	D4Mit54	MGI:92888		.	.	.	C	E	.	.	C	E	C	E	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	5	-1.0	D5Mit23	MGI:93309		.	.	.	E	C	.	.	C	C	C	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	2.62	D5Mit346	MGI:102073		.	.	.	C	C	.	.	E	E	E	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	11.97	D5Mit348	MGI:102076		.	.	.	C	C	.	.	E	C	E	C	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	14.39	D5Mit387	MGI:105732		.	.	.	C	C	.	.	E	C	E	C	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	24.15	D5Mit297	MGI:100419		.	.	.	C	C	.	.	E	E	E	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	38.44	D5Mit356	MGI:102084		.	.	.	E	C	.	.	C	E	C	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	53.23	D5Mit338	MGI:100378		.	.	.	E	C	.	.	C	C	C	E	E	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	60.44	D5Mit424	MGI:107102		.	.	.	E	C	.	.	C	C	C	E	E	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	5	79.23	D5Mit292	MGI:100424		.	.	.	C	C	.	.	C	C	C	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	6	-1.0	Ldr1	MGI:96766		.	C	.	E	C	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	7	-1.0	Hbb	MGI:96020		.	C	.	E	C	.	C	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	7	2.67	D7Mit340	MGI:105488		.	.	.	E	E	.	.	C	C	C	E	E	C	C	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	17.09	D7Mit267	MGI:100246		.	.	.	E	E	.	.	C	E	C	E	C	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	17.26	D7Mit117	MGI:93933		.	.	.	E	E	.	.	C	E	C	E	C	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	19.46	Gpi1	MGI:95797		.	E	.	E	E	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	7	21.97	D7Mit309	MGI:102148		.	.	.	E	E	.	.	C	E	C	E	C	C	C	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	32.84	D7Mit83	MGI:94106		.	.	.	E	C	.	.	C	E	E	E	E	E	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	33.16	D7Mit120	MGI:93937		.	.	.	E	C	.	.	C	E	E	E	C	Z	C	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	42.27	D7Mit318	MGI:102156		.	.	.	E	C	.	.	C	E	E	E	C	Z	C	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	48.36	D7Mit62	MGI:94083		.	.	.	E	C	.	.	C	E	C	E	C	C	C	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	49.01	Tyr	MGI:98880	Tyr<c>	.	C	.	E	C	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	7	54.85	D7Mit37	MGI:94064		.	.	.	E	C	.	.	C	E	C	C	E	C	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	57.52	D7Mit130	MGI:93948		.	.	.	E	E	.	.	C	E	C	C	E	C	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	64.3	D7Mit66	MGI:94087		.	.	.	E	C	.	.	E	E	E	C	E	Z	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	68.76	D7Mit68	MGI:94089		.	.	.	C	C	.	.	E	E	C	C	E	C	E	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	7	82.25	D7Mit333	MGI:102172		.	.	.	C	C	.	.	E	E	C	C	E	C	C	J:84237	Golas A, Folia Biol (Krakow) 2004;52(3-4):211-7	
+EXCB	8	-1.0	Es9	MGI:95448		.	E	.	E	E	.	C	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	8	16.47	D8Mit289	MGI:102179		.	.	.	E	C	.	.	E	E	E	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	8	22.16	D8Mit190	MGI:94374		.	.	.	E	C	.	.	C	E	C	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	8	35.18	D8Mit193	MGI:94377		.	.	.	E	E	.	.	C	E	E	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	8	39.16	D8Mit104	MGI:94281		.	.	.	E	E	.	.	C	E	C	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	8	43.06	D8Mit80	MGI:94449		.	.	.	E	E	.	.	C	E	C	E	E	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	8	60.2	D8Mit318	MGI:102207		.	.	.	E	E	.	.	E	C	E	C	C	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	8	62.63	D8Mit215	MGI:100195		.	.	.	E	E	.	.	E	C	E	C	C	C	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	8	76.14	D8Mit56	MGI:94422		.	.	.	C	C	.	.	E	C	E	C	E	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	18.24	D9Mit297	MGI:102220		.	.	.	E	C	.	.	E	E	E	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	23.36	D9Mit227	MGI:100096		.	.	.	C	C	.	.	E	E	E	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	25.52	D9Mit191	MGI:94703		.	.	.	C	C	.	.	E	E	E	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	26.83	D9Mit26	MGI:94721		.	.	.	C	E	.	.	E	E	E	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	35.6	D9Mit104	MGI:100124		.	.	.	C	E	.	.	E	E	E	C	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	45.88	D9Mit167	MGI:94677		.	.	.	E	E	.	.	E	E	E	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	46.58	D9Mit135	MGI:94642		.	.	.	E	E	.	.	E	E	E	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	46.58	Me1	MGI:97043		.	E	.	E	E	.	E	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	9	51.41	D9Mit355	MGI:107137		.	.	.	E	E	.	.	E	E	E	E	C	E	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	55.03	Trf	MGI:98821		.	E	.	E	E	.	C	.	.	.	.	.	.	.	J:20787	Krzanowska H, Mouse Genome 1994;92(3):507	
+EXCB	9	67.33	D9Mit17	MGI:94680		.	.	.	C	E	.	.	C	E	C	E	C	C	C	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	69.87	D9Mit279	MGI:100044		.	.	.	C	E	.	.	C	E	C	E	C	E	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	71.33	D9Mit82	MGI:94775		.	.	.	C	E	.	.	C	E	C	E	C	E	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	9	71.49	D9Mit18	MGI:94690		.	.	.	C	E	.	.	C	E	C	E	C	E	E	J:121994	Grzmil P, MGI Direct Data Submission 2007;():	
+EXCB	X	-1.0	DXMit16	MGI:95088		.	.	.	E	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	X	29.31	DXMit22	MGI:95094		.	.	.	C	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	X	29.49	DXMit68	MGI:95143		.	.	.	C	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	X	33.5	DXMit140	MGI:100008		.	.	.	E	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	X	34.57	DXMit144	MGI:100004		.	.	.	E	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	X	34.69	DXMit46	MGI:95120		.	.	.	E	E	.	.	E	C	E	E	E	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	X	53.75	DXMit117	MGI:95078		.	.	.	E	E	.	.	E	C	E	E	C	E	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	
+EXCB	X	68.46	DXMit10	MGI:95059		.	.	.	E	E	.	.	E	E	E	E	E	C	E	J:90435	Golas A, MGI Direct Data Submission 2004;():	

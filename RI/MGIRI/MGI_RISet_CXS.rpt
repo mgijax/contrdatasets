@@ -1,0 +1,182 @@
+# Legend:
+# CXS origin = BALB/cHeA x STS/A
+# C = BALB/cHeA
+# S = STS/A
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-14: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+# field 15: reference
+# field 16: reference citation
+#
+CXS	1	-1.0	Akp1	MGI:87982		S	C	C	S	C	C	S	C	S	S	S	C	S	S	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	-1.0	Iap3rb14	MGI:99296		S	C	C	S	C	C	S	C	S	C	S	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	1	-1.0	Iap5ra11	MGI:99341		S	C	S	S	C	C	C	C	S	C	C	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	1	-1.0	Len1	MGI:96771		S	C	S	S	C	C	C	C	S	C	C	S	C	S	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	-1.0	Ly33	MGI:96870		S	S	C	S	C	C	S	C	S	C	C	C	S	S	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:8847	Kimura S, Immunogenetics 1987;26(4-5):315-6	
+CXS	1	-1.0	Mtv7	MGI:97226		S	C	S	S	C	C	S	C	S	C	S	C	S	S	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	-1.0	Pepc	MGI:97541		S	C	S	S	C	S	S	S	S	C	S	C	C	S	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:13996	Wilson CM, Mouse News Lett 1984;71():51	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	-1.0	Ren2	MGI:97899		S	C	S	S	C	S	S	S	S	S	S	C	C	C	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:13996	Wilson CM, Mouse News Lett 1984;71():51	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	57.91	Ren1	MGI:97898		S	C	S	S	C	S	S	S	S	S	S	C	C	C	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	
+CXS	1	60.73	Ptprc	MGI:97810		S	S	S	S	C	S	S	S	S	C	S	C	C	S	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	71.37	Sell	MGI:98279		S	C	C	S	C	S	S	S	S	C	S	C	S	S	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	78.02	Fcgr2b	MGI:95499		S	C	C	S	C	C	S	S	S	C	S	C	S	S	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:8847	Kimura S, Immunogenetics 1987;26(4-5):315-6	J:10118	Huppi K, J Immunol 1989 Dec 1;143(11):3787-91	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	1	78.8	Fcgr3	MGI:95500		S	C	C	S	C	C	S	S	S	C	S	C	S	S	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	
+CXS	1	80.33	Fcer1a	MGI:95494		S	C	C	S	C	C	S	C	S	C	S	C	S	S	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:10118	Huppi K, J Immunol 1989 Dec 1;143(11):3787-91	
+CXS	10	-1.0	Iap3ra17	MGI:99281		S	S	C	C	C	S	S	C	C	C	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	10	-1.0	Iap3rb17	MGI:99299		S	S	C	C	C	S	S	C	C	C	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	10	9.75	Myb	MGI:97249		S	C	C	S	S	C	S	S	C	C	C	S	C	C	J:8733	Mock B, Nucleic Acids Res 1987 Jun 11;15(11):4700	
+CXS	10	74.5	Gli1	MGI:95727		S	S	C	C	C	S	S	C	C	C	S	S	S	C	J:10992	Kozak CA, Genomics 1990 Nov;8(3):519-24	
+CXS	11	-1.0	Es3	MGI:95442		C	S	S	C	S	C	S	C	S	S	S	S	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:8291	Uiterdijk HG, Genet Res 1986 Apr;47(2):125-9	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	J:8312	Michael SK, Somat Cell Mol Genet 1986 May;12(3):215-23	J:7846	Frater-Schroder M, Biochem Genet 1985 Feb;23(1-2):139-53	
+CXS	11	-1.0	Hba	MGI:96014		C	S	C*	C	C	S	S	C	C	S	C	C	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:8291	Uiterdijk HG, Genet Res 1986 Apr;47(2):125-9	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	J:8312	Michael SK, Somat Cell Mol Genet 1986 May;12(3):215-23	J:7846	Frater-Schroder M, Biochem Genet 1985 Feb;23(1-2):139-53	
+CXS	11	-1.0	Hoxb	MGI:96181		C	C	S	S	S	S	S	C	S	S	S	S	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+CXS	11	-1.0	Iap3ra14	MGI:99278		C	C	C	C	C	S	S	C	S	S	C	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	11	-1.0	Iap3rb11	MGI:99293		C	S	S	C	S	C	S	C	C	S	C	C	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	11	-1.0	Iap3rb19	MGI:99302		C	S	S	C	S	.	S	C	S	S	S	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	11	-1.0	Iap3rc24	MGI:99327		C	C	S	S	S	S	S	C	S	C	S	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	11	-1.0	Mtv3	MGI:97197		C	C	S	C	S	C	S	C	S	S	S	S	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	J:8312	Michael SK, Somat Cell Mol Genet 1986 May;12(3):215-23	
+CXS	11	-1.0	Rnu1a1	MGI:97972		C	C	S	S	S	S	S	C	S	C	S	S	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:8643	Mock B, Nucleic Acids Res 1987 Mar 11;15(5):2397	J:8312	Michael SK, Somat Cell Mol Genet 1986 May;12(3):215-23	
+CXS	11	2.76	Tcn2	MGI:98534		C	S	S	C	S	C	S	C	C	S	C	C	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	J:7846	Frater-Schroder M, Biochem Genet 1985 Feb;23(1-2):139-53	
+CXS	11	31.97	Il4	MGI:96556		C	C	C	C	C	S	S	C	S	S	C	C	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:9398	D'Eustachio P, J Immunol 1988 Nov 1;141(9):3067-71	
+CXS	11	31.99	Il5	MGI:96557		C	C	C	C	C	S	S	C	S	S	C	C	C	S	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+CXS	11	32.13	Il3	MGI:96552		C	C	C	C	C	S	S	C	S	S	C	S	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+CXS	11	49.82	Ccl2	MGI:98259		C	C	S	C	S	S	S	C	S	C	S	S	S	S	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+CXS	11	49.99	Ccl1	MGI:98258		C	C	S	S	S	S	S	C	S	C	S	S	C	S	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+CXS	11	59.02	B4galnt2	MGI:1342058		C	C	S	S	S	S	S	C	S	S	S	S	C	S	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:8291	Uiterdijk HG, Genet Res 1986 Apr;47(2):125-9	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:8643	Mock B, Nucleic Acids Res 1987 Mar 11;15(5):2397	J:8312	Michael SK, Somat Cell Mol Genet 1986 May;12(3):215-23	
+CXS	11	59.82	Hoxb5	MGI:96186		C	C	S	S	S	S	S	C	S	S	S	S	C	S	J:8643	Mock B, Nucleic Acids Res 1987 Mar 11;15(5):2397	
+CXS	11	82.96	Tk1	MGI:98763		C	S	S	C	S	C	S	C	S	S	S	S	C	S	J:461	Martiniuk F, Mamm Genome 1991;1(4):267-9	
+CXS	12	-1.0	D12H14S17	MGI:89328		.	S	S	S	S	C	C	S	S	S	C	S	S	S	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXS	12	-1.0	D12Mit7	MGI:89478		C	S	C	S	C	C	C	S	S	S	C	S	S	C	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXS	12	-1.0	D12Nyu7	MGI:89575		C	C	S	C	C	C	C	C	C	S	C	S	S	C	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+CXS	12	-1.0	Es25	MGI:95437		C	.	S	S	C	C	C	C	S	S	C	S	S	C	J:21861	Okumoto M, J Radiat Res (Tokyo) 1994 Sep;35(3):179-85	
+CXS	12	-1.0	Iap3rc18	MGI:99320		C	S	S	S	S	C	C	S	S	S	C	S	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	12	-1.0	Iap3rc27	MGI:99330		C	S	S	C	C	C	C	C	C	S	C	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	12	-1.0	Iap5rc21	MGI:99389		S	C	S	C	S	S	C	S	C	S	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	12	-1.0	Igh	MGI:96442		C	.	C	S	C	C	C	C	C	S	S	C	C	S	J:21861	Okumoto M, J Radiat Res (Tokyo) 1994 Sep;35(3):179-85	
+CXS	12	-1.0	Ly18	MGI:96861		S	C	S	C	S	S	S	S	C	S	S	S	S	C	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+CXS	12	-1.0	Mtv9	MGI:97228		C	C	C	S	C	C	C	S	C	S	C	S	S	S	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	J:21861	Okumoto M, J Radiat Res (Tokyo) 1994 Sep;35(3):179-85	
+CXS	12	-1.0	Serpina1	MGI:98376		C	S	C	S	C	C	C	S	S	S	C	S	S	C	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+CXS	12	35.51	D12Mit4	MGI:89449		C	C	C	S	C	S	C	S	C	S	C	C	S	S	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXS	12	37.16	D12Mit5	MGI:89457		C	C	C	S	C	S	C	S	C	S	C	C	S	S	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXS	12	44.05	D12Mit6	MGI:89467		C	C	C	S	C	C	C	S	C	S	C	S	S	S	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXS	12	51.66	Chga	MGI:88394		.	S	.	.	C	C	C	.	S	S	C	.	.	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+CXS	12	61.09	Ckb	MGI:88407		C	S	S	S	S	C	C	S	S	S	C	S	S	S	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+CXS	13	30.06	Il9	MGI:96563		C	C	S	C	C	C	C	C	C	C	S	S	S	S	J:10448	Mock BA, Immunogenetics 1990;31(4):265-70	
+CXS	15	-1.0	Iap3rc17	MGI:99319		S	S	C	S	C	S	S	S	S	S	C	C	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	16	-1.0	Mtv6	MGI:97225		S	C	C	S	S	C	C	C	C	C	S	S	S	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	17	-1.0	D17Tu34	MGI:90977		C	C	S	S	C	.	C	C	C	S	C	S	C	C	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+CXS	17	-1.0	H2	MGI:95894		C	S	S	C	S	S	C	C	C	S	C	S	C	S	J:10445	Sertic J, Genomics 1990 Mar;6(3):560-4	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:12090	Sarvetnick N, Immunogenetics 1989;30(1):34-41	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	17	-1.0	H2-T18	MGI:95950		.	.	.	C	S	S	C	C	C	S	C	S	C	S	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+CXS	17	-1.0	Iap5rc17	MGI:99384		C	S	S	S	S	S	C	C	C	S	C	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	17	-1.0	Rasl3	MGI:97869		S	C	C	S	S	C	C	S	C	C	C	S	C	C	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+CXS	17	13.11	Hba-ps4	MGI:96018		C	S	?	S	S	S	C	C	C	S	C	S	C	S	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:12090	Sarvetnick N, Immunogenetics 1989;30(1):34-41	J:1694	Hanley-Hyde J, Genomics 1992 Aug;13(4):1018-30	
+CXS	17	15.38	Pim1	MGI:97584		C	S	S	S	S	S	C	C	C	S	C	S	C	S	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:1694	Hanley-Hyde J, Genomics 1992 Aug;13(4):1018-30	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+CXS	17	18.29	C4b	MGI:88228		C	S	S	C	S	S	C	C	C	S	C	S	C	S	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+CXS	17	18.36	Cyp21a1	MGI:88591		C	S	S	C	S	S	C	C	C	S	C	S	C	S	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+CXS	17	18.59	Tnf	MGI:104798		C	S	S	C	S	S	C	C	C	S	C	S	C	S	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+CXS	17	19.55	Mut	MGI:97239		C	C	S	C	S	.	C	C	C	S	C	S	C	S	J:10445	Sertic J, Genomics 1990 Mar;6(3):560-4	
+CXS	17	22.54	Tcte1	MGI:98640		C	C	S	C	S	S	C	C	C	S	C	S	C	S	J:12090	Sarvetnick N, Immunogenetics 1989;30(1):34-41	
+CXS	17	29.32	Ptprs	MGI:97815		C	S	S	S	S	S	C	C	C	C	C	S	C	S	J:15863	Yan H, J Biol Chem 1993 Nov 25;268(33):24880-6	
+CXS	17	29.72	C3	MGI:88227		C	S	S	S	S	S	C	C	C	C	C	S	C	S	J:10445	Sertic J, Genomics 1990 Mar;6(3):560-4	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+CXS	19	8.46	Ms4a2	MGI:95495		S	S	C	S	C	S	S	S	S	S	C	C	C	C	J:10118	Huppi K, J Immunol 1989 Dec 1;143(11):3787-91	
+CXS	2	-1.0	Iap5rc16	MGI:99383		S	S	S	C	C	C	C	S	C	S	C	C	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	2	-1.0	Ly25	MGI:96864		S	S	S	C	C	C	C	S	C	S	C	C	S	C	J:7300	Hogarth PM, Immunogenetics 1984;19(1):83-6	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	2	23.22	Hc	MGI:96031		C	S	C	C	C	S	C	C	S	C	C	S	C	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	2	54.13	Cd44	MGI:88338		S	S	S	C	C	C	S	S	C	S	C	C	S	C	J:7300	Hogarth PM, Immunogenetics 1984;19(1):83-6	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	2	62.9	Il1a	MGI:96542		S	S	S	C	C	S	S	S	C	S	C	C	S	C	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+CXS	2	63.23	Ptpra	MGI:97808		S	S	S	C	C	S	C	S	C	S	C	C	S	C	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+CXS	2	65.65	Hao1	MGI:96011		S	S	S	C	C	S	C	S	C	S	C	C	S	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	3	66.69	Gbp1	MGI:95666		S	S	C	S	S	S	C	S	S	C	S	C	C	S	J:20637	Prochazka M, Mouse News Lett 1984;71():53	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	4	-1.0	Iap3ra18	MGI:99282		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap3rb12	MGI:99294		C	S	C	C	S	C	C	S	C	S	S	C	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap3rb13	MGI:99295		C	S	C	C	S	C	C	S	C	S	S	C	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap3rb18	MGI:99300		C	S	C	C	C	C	C	S	C	C	S	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap3rc15	MGI:99317		C	S	C	C	S	C	C	C	C	S	S	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap3rc20	MGI:99323		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap5ra10	MGI:99340		C	S	C	C	C	C	C	S	C	S	S	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap5rb24	MGI:99368		C	S	C	C	S	C	C	C	C	S	S	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Iap5rc20	MGI:99388		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	4	-1.0	Ifna	MGI:107670		C	S	C	C	S	C	C	S	C	S	S	C	C	.	J:10558	Okumoto M, Cancer Res 1990 Jul 1;50(13):3848-50	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	
+CXS	4	-1.0	Ly29	MGI:96867		C	S	C	C	S	C	C	C	C	S	S	S	C	S	J:8028	Gonez LJ, Immunogenetics 1985;22(3):305-8	J:10558	Okumoto M, Cancer Res 1990 Jul 1;50(13):3848-50	
+CXS	4	-1.0	Lyr	MGI:96893		C	S	C	.	S	.	C	S	C	S	S	C	.	S	J:10558	Okumoto M, Cancer Res 1990 Jul 1;50(13):3848-50	
+CXS	4	-1.0	Mtv17	MGI:97187		C	S	C	C	S	C	C	C	C	S	S	S	C	S	J:8028	Gonez LJ, Immunogenetics 1985;22(3):305-8	J:10558	Okumoto M, Cancer Res 1990 Jul 1;50(13):3848-50	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	4	-1.0	Xmv14	MGI:99060		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:22430	Stoye JP, Mamm Genome 1995 Jan;6(1):31-6	
+CXS	4	-1.0	Xmv44	MGI:99092		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:22430	Stoye JP, Mamm Genome 1995 Jan;6(1):31-6	
+CXS	4	-1.0	Xmv8	MGI:99131		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:22430	Stoye JP, Mamm Genome 1995 Jan;6(1):31-6	
+CXS	4	-1.0	Xmv9	MGI:99133		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:22430	Stoye JP, Mamm Genome 1995 Jan;6(1):31-6	
+CXS	4	23.04	Cd72	MGI:88345		C	S	C	C	S	C	C	C	C	S	C*	S	C	S	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:8028	Gonez LJ, Immunogenetics 1985;22(3):305-8	J:9386	Nakamura S, Immunogenetics 1988;28(5):314-9	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	4	32.85	Mup1	MGI:97233		S*	S	C	C	S	C	C	S	C	S	S	C	C	S	J:8028	Gonez LJ, Immunogenetics 1985;22(3):305-8	J:10558	Okumoto M, Cancer Res 1990 Jul 1;50(13):3848-50	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	4	37.89	Tyrp1	MGI:98881	Tyrp1<b>	C*	S	C	C	S	C	C	S	C	S	S*	C	S	S	J:8028	Gonez LJ, Immunogenetics 1985;22(3):305-8	J:10558	Okumoto M, Cancer Res 1990 Jul 1;50(13):3848-50	J:8083	Michalides R, Virology 1985 Apr 30;142(2):278-90	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	4	53.05	Cyp4a10	MGI:88611		C	S	C	C	C	C	C	S	C	S	S	S	C	S	J:10558	Okumoto M, Cancer Res 1990 Jul 1;50(13):3848-50	J:4474	Huppi K, Curr Top Microbiol Immunol 1988;137():276-88	
+CXS	4	78.66	Nppa	MGI:97367		S	S	S	S	S	C	C	S	S	S	S	S	S	C	J:22430	Stoye JP, Mamm Genome 1995 Jan;6(1):31-6	
+CXS	5	-1.0	Emv1	MGI:95325		S	S	S	C	S	C	C	C	S	C	S	C	S	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	5	-1.0	Iap5rb13	MGI:99356		S	S	C	S	C	C	C	S	C	C	S	S	C	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	5	32.8	Pgm1	MGI:97564		S	S	S	S	C	C	C	C	S	C	C	C	C	C	J:9889	Patarca R, J Exp Med 1989 Jul 1;170(1):145-61	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	5	44.77	Afp	MGI:87951		S	S	C	S	C	C	C	S	C	C	S	S	C	C	J:9772	Campbell GR, Oncogene Res 1989;4(1):47-54	J:9889	Patarca R, J Exp Med 1989 Jul 1;170(1):145-61	
+CXS	5	50.68	Spp1	MGI:98389		S	S	C	S	C	C	C	S	C	C	?	S	C	C	J:9889	Patarca R, J Exp Med 1989 Jul 1;170(1):145-61	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	5	53.07	Pde6b	MGI:97525		S	S	C	S	C	C	C	S	C	C	S	S	C	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	J:9889	Patarca R, J Exp Med 1989 Jul 1;170(1):145-61	
+CXS	5	55.93	Dao	MGI:94859		S	S	C	S	C	C	C	S	C	C	S	S	C	C	J:9889	Patarca R, J Exp Med 1989 Jul 1;170(1):145-61	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	5	55.99	Acads	MGI:87868		S	S	C	S	C	C	C	S	C	C	S	S	C	C	J:9889	Patarca R, J Exp Med 1989 Jul 1;170(1):145-61	
+CXS	5	68.32	Gusb	MGI:95872		C	C	C	S	C	S	C	C	C	S	C	S	S	C	J:9889	Patarca R, J Exp Med 1989 Jul 1;170(1):145-61	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	6	25.4	Hoxa3	MGI:96175		C	S	C	S	C	C	S	S	S	S	C	C	S	S	J:8820	Mock BA, Genetics 1987 Aug;116(4):607-12	
+CXS	7	-1.0	Iap5rb14	MGI:99357		S	S	S	S	S	S	C	C	C	S	S	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	7	-1.0	Pj1	MGI:97589		.	.	S	S	.	C	.	S	.	.	S	S	S	C	J:1357	Kyuwa S, Microb Pathog 1992 Feb;12(2):95-104	
+CXS	7	-1.0	Prt4	MGI:97779		S	S	S	S	S	C	C	C	C	S	S	S	.	S	J:1357	Kyuwa S, Microb Pathog 1992 Feb;12(2):95-104	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	7	-1.0	Prt5	MGI:97780		S	S	S	S	S	C	C	C	C	S	S	S	.	S	J:1357	Kyuwa S, Microb Pathog 1992 Feb;12(2):95-104	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	7	-1.0	Tpe1	MGI:103146		S	S	S	S	S	S	C	C	C	S	?	?	S	S	J:1357	Kyuwa S, Microb Pathog 1992 Feb;12(2):95-104	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	7	18.78	Upk1a	MGI:98911		S	S	S	S	S	S	C	C	C	S	S	C	S	S	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+CXS	7	19.46	Gpi1	MGI:95797		S	S	S	S	S	S	C	C	C	S	?	?	S	S	J:1357	Kyuwa S, Microb Pathog 1992 Feb;12(2):95-104	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	7	69.44	Itgal	MGI:96606		C	C	S	S	S	C	C	S	.	C	S	S	S	C	J:1357	Kyuwa S, Microb Pathog 1992 Feb;12(2):95-104	
+CXS	8	-1.0	Es9	MGI:95448		C	C	C	S	S	S	S	S	S	C	S	S	S	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	8	-1.0	Iap3rb10	MGI:99292		C	C	C	S	S	S	S	S	C	C	C	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	8	20.69	Gsr	MGI:95804		C	S	C	S	S	S	S	S	C	C	C	S	S	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	8	45.11	Ces1e	MGI:95432		C	C	C	S	S	S	S	S	S	C	S	S	S	C	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	8	71.91	Aprt	MGI:88061		S	S	S	S	C	S	S	S	C	C	S	S	S	S	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	
+CXS	8	72.26	Acta1	MGI:87902		S	S	S	S	C	S	S	S	C	C	S	S	S	S	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	
+CXS	8	72.81	Agt	MGI:87963		S	S	S	S	C	S	S	S	C	C	S	S	S	S	J:3742	Abonia JP, Mamm Genome 1993;4(1):25-32	
+CXS	9	24.84	Upk2	MGI:98913		S	S	C	C	C	S	C	C	S	S	S	S	C	C	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+CXS	9	26.83	Ncam1	MGI:97281		C	S	S	C	S	S	C	C	C	S	C	S	C	C	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+CXS	9	46.58	Me1	MGI:97043		S	S	S	S	S	S	C	C	C	C	S	C	C	S	J:8016	Hilgers J, Curr Top Microbiol Immunol 1985;122():31-7	
+CXS	UN	-999.0	Iap3ra11	MGI:99275		C	S	S	C	S	S	C	S	C	C	C	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3ra12	MGI:99276		S	C	C	C	S	S	C	S	C	C	C	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3ra13	MGI:99277		S	C	C	C	S	S	C	S	C	C	C	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3ra15	MGI:99279		C	C	C	C	S	S	C	C	C	C	S	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3ra16	MGI:99280		C	C	C	C	S	S	C	C	C	C	S	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rb15	MGI:99297		C	S	C	C	S	S	S	S	S	C	C	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rb16	MGI:99298		C	S	C	C	S	S	S	S	S	C	C	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc16	MGI:99318		S	S	S	S	S	S	C	C	S	S	S	S	S	.	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc19	MGI:99321		C	S	C	S	C	C	C	S	C	C	C	C	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc21	MGI:99324		S	C	C	S	C	C	C	C	C	S	C	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc22	MGI:99325		C	S	C	C	S	S	C	S	S	C	C	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc23	MGI:99326		S	C	S	S	S	C	C	S	C	S	S	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc25	MGI:99328		S	S	C	S	S	C	S	S	C	S	C	C	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc26	MGI:99329		C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap3rc28	MGI:99331		C	S	C	S	C	S	S	C	S	S	C	C	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5ra12	MGI:99342		C	C	S	S	C	C	C	C	C	S	S	S	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5ra13	MGI:99343		S	S	C	S	C	C	C	S	C	C	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5ra8	MGI:99350		C	C	S	S	S	C	C	S	C	C	C	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5ra9	MGI:99351		S	C	C	S	C	C	S	S	C	S	C	C	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb15	MGI:99358		C	C	S	S	S	C	C	S	C	C	C	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb16	MGI:99359		C	S	S	S	S	C	C	S	S	C	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb17	MGI:99360		C	S	C	S	C	S	S	C	S	S	C	C	C	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb18	MGI:99361		C	C	S	S	S	C	C	S	C	C	C	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb19	MGI:99362		C	S	S	S	S	C	C	S	S	C	S	S	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb20	MGI:99364		S	C	C	S	C	C	S	S	C	S	C	C	S	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb21	MGI:99365		S	C	S	S	C	S	C	S	C	C	S	C	C	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb22	MGI:99366		S	C	C	C	C	C	C	S	C	S	C	C	C	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rb23	MGI:99367		S	C	S	C	S	C	C	C	C	C	S	S	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rc14	MGI:99381		C	C	C	C	C	S	S	C	C	C	C	S	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rc15	MGI:99382		S	C	S	C	S	S	C	C	C	C	C	S	C	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rc18	MGI:99385		S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rc19	MGI:99386		S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Iap5rc22	MGI:99390		C	S	C	C	C	C	C	S	C	C	S	C	S	S	J:21511	Kaushik N, Mamm Genome 1994 Nov;5(11):688-95	
+CXS	UN	-999.0	Rasl2-6	MGI:97867		S	S	S	S	C	C	C	S	C	S	S	C	S	C	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	

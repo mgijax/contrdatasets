@@ -1,0 +1,28 @@
+# Legend:
+# HP/EiTy origin = AKR/J x C57BL/6J
+# A = AKR/J
+# B = C57BL/6J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-1: HP
+# field 2: reference
+# field 3: reference citation
+#
+HP/EiTy	1	-1.0	Pepc	MGI:97541		?	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+HP/EiTy	1	-1.0	Ren2	MGI:97899		A	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+HP/EiTy	1	32.91	Idh1	MGI:96413		B	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+HP/EiTy	1	38.54	Slc11a1	MGI:1345275	Slc11a1<s>	A	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+HP/EiTy	1	67.71	Soat1	MGI:104665		B	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+HP/EiTy	6	-1.0	Igk-Pc	MGI:96498		B	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	
+HP/EiTy	6	32.14	Cd8a	MGI:88346		B	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	
+HP/EiTy	6	32.14	Cd8b1	MGI:88347		B	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	

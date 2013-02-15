@@ -1,0 +1,156 @@
+# Legend:
+# SWXL origin = SWR/J x C57L/J
+# S = SWR/J
+# L = C57L/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-17: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+# field 18: reference
+# field 19: reference citation
+#
+SWXL	1	-1.0	Akp1	MGI:87982		.	.	.	S*	.	.	S	.	.	.	.	L*	.	S	S	S	L	J:7544	Tada N, Hybridoma 1983;2(1):29-38	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:3774	Capeless CG, Behav Genet 1992 Nov;22(6):655-63	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	
+SWXL	1	-1.0	Mtv7	MGI:97226		.	.	.	S	.	.	S	.	.	.	.	L	.	S	?	S	L	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	J:6681	Kimura S, Immunogenetics 1981;14(1-2):3-14	
+SWXL	1	-1.0	Pepc	MGI:97541		.	.	.	L	.	.	S	.	.	.	.	L	.	S	L	S	S	J:7544	Tada N, Hybridoma 1983;2(1):29-38	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+SWXL	1	-1.0	Ren2	MGI:97899		.	.	.	L	.	.	S	.	.	.	.	L	.	S	L	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+SWXL	1	-1.0	Xmmv9	MGI:99053		.	.	.	L	.	.	S	.	.	.	.	L*	.	S	S	S	L	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:3774	Capeless CG, Behav Genet 1992 Nov;22(6):655-63	
+SWXL	1	45.73	Mlph	MGI:2176380		.	.	.	L*	.	.	S	.	.	.	.	L	.	S	L*	L	L*	J:7544	Tada N, Hybridoma 1983;2(1):29-38	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+SWXL	1	69.75	Prdx6	MGI:894320		.	.	.	S	.	.	L	.	.	.	.	L	.	S	S	S	L	J:7544	Tada N, Hybridoma 1983;2(1):29-38	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	
+SWXL	1	71.37	Sell	MGI:98279		.	.	.	L	.	.	S	.	.	.	.	L*	.	S	S	S	L	J:7544	Tada N, Hybridoma 1983;2(1):29-38	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:11049	Dowbenko DJ, Genomics 1991 Feb;9(2):270-7	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:3774	Capeless CG, Behav Genet 1992 Nov;22(6):655-63	
+SWXL	1	78.02	Fcgr2b	MGI:95499		.	.	.	S*	.	.	S	.	.	.	.	L*	.	S	S	S	L	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6681	Kimura S, Immunogenetics 1981;14(1-2):3-14	J:3774	Capeless CG, Behav Genet 1992 Nov;22(6):655-63	
+SWXL	1	79.54	Nhlh1	MGI:98481		.	.	.	S	.	.	S	.	.	.	.	L	.	S	S	S	L	J:904	Gough NM, Mamm Genome 1992;3(3):182-3	
+SWXL	10	48.49	Hal	MGI:96010		.	.	.	S	.	.	S	.	.	.	.	L	.	S	L	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	10	60.3	Kcnc2	MGI:96668		.	.	.	S	.	.	S	.	.	.	.	L	.	L	S	L	S	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+SWXL	11	-1.0	Scl1	MGI:98243		.	.	.	L	.	.	L	.	.	.	.	S	.	L	L	L	S	J:13968	Blackwell JM, Mouse News Lett 1984;70():86	
+SWXL	11	33.04	Sparc	MGI:98373		.	.	.	S	.	.	L	.	.	.	.	L	.	L	.	S	S	J:8425	Mason IJ, EMBO J 1986 Aug;5(8):1831-7	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	11	38.99	Pmp22	MGI:97631		.	.	.	S	.	.	S	.	.	.	.	L	.	L	S	S	S	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+SWXL	11	59.02	B4galnt2	MGI:1342058		.	.	.	S	.	.	L	.	.	.	.	S	.	S	S	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	11	83.35	Gaa	MGI:95609		.	.	.	L	.	.	S	.	.	.	.	S	.	S	L	S	S	J:461	Martiniuk F, Mamm Genome 1991;1(4):267-9	
+SWXL	12	-1.0	D12H14S17	MGI:89328		.	.	.	L	.	.	L	.	.	.	.	L	.	L	L	L	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	-1.0	D12N1	MGI:89512		.	.	.	.	.	.	L	.	.	.	.	L	.	L	L	L	L	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+SWXL	12	-1.0	D12Nyu1	MGI:89566		.	.	.	S	.	.	S	.	.	.	.	S	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	
+SWXL	12	-1.0	D12Nyu17	MGI:99647		.	.	.	.	.	.	.	.	.	.	.	L	.	L	L	L	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	-1.0	D12Nyu3	MGI:89571		.	.	.	S	.	.	S	.	.	.	.	S	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+SWXL	12	-1.0	D12Nyu4	MGI:89572		.	.	.	L	.	.	L	.	.	.	.	L	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+SWXL	12	-1.0	D12Nyu6	MGI:89574		.	.	.	S	.	.	S	.	.	.	.	S	.	L	S	S	L	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+SWXL	12	-1.0	D12Nyu8	MGI:89576		.	.	.	L	.	.	L	.	.	.	.	L	.	L	S	S	L	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+SWXL	12	-1.0	Igh	MGI:96442		.	.	.	L	.	.	L	.	.	.	.	L	.	L	L	L	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	12	-1.0	Igh-V3609	MGI:96481		.	.	.	L	.	.	L	.	.	.	.	L	.	L	L	L	L	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+SWXL	12	-1.0	Mtv9	MGI:97228		.	.	.	L	.	.	L	.	.	.	.	L	.	S	L	S	L	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+SWXL	12	-1.0	Odc-rs8	MGI:97422		.	.	.	?	.	.	L	.	.	.	.	L	.	L	L	L	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	
+SWXL	12	8.11	Odc1	MGI:97402		.	.	.	S	.	.	S	.	.	.	L	L	.	L	L	L	L	J:10259	Villani V, Genomics 1989 Oct;5(3):636-8	J:20642	Taylor BA, Personal Communication 1994 July 8;():	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	
+SWXL	12	8.5	Rrm2	MGI:98181		.	.	.	S	.	.	S	.	.	.	.	L	.	L	L	L	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	13.39	Lamb1	MGI:96743		.	.	.	.	.	.	S	.	.	.	.	L	.	S	L	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7978	Elliott RW, In Vitro Cell Dev Biol 1985 Aug;21(8):477-84	
+SWXL	12	15.78	Ahr	MGI:105043		.	S	.	S*	.	L	S	.	.	.	.	L	.	L	S	L	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:6132	Wood AW, J Biol Chem 1979 Jul 10;254(13):5647-51	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	
+SWXL	12	33.4	D12Mit3	MGI:89440		.	.	.	L	.	.	S	.	.	.	.	S	.	L	S	S	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	33.73	Sptb	MGI:98387		.	.	.	L	.	.	S	.	.	.	.	S	.	L	S	S	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	33.73	Zbtb25	MGI:99197		.	.	.	L	.	.	S	.	.	.	.	S	.	L	S	S	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	37.16	D12Mit5	MGI:89457		.	.	.	L	.	.	S	.	.	.	.	L	.	L	S	S	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	39.7	Fos	MGI:95574		.	.	.	L	.	.	L	.	.	.	.	L	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+SWXL	12	44.05	D12Mit6	MGI:89467		.	.	.	L	.	.	L	.	.	.	.	L	.	S	L	S	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+SWXL	12	44.51	Tshr	MGI:98849		.	.	.	L	.	.	L	.	.	.	.	L	.	S	L	S	L	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+SWXL	12	61.09	Ckb	MGI:88407		.	.	.	L	.	.	L	.	.	.	.	L	.	.	.	.	.	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+SWXL	12	62.1	Ighm	MGI:96448		.	.	.	L	.	.	L	.	.	.	.	L	.	L	L	L	L	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+SWXL	13	-1.0	D13Rp4	MGI:108217		.	.	.	S	.	.	S	.	.	.	.	L	.	S	L	L	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+SWXL	13	-1.0	Lth1	MGI:96838		.	.	.	L	.	.	S	.	.	.	.	S	.	S	S	L	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7979	Elliott RW, J Hered 1985 Jul-Aug;76(4):243-6	
+SWXL	13	31.92	Gas1	MGI:95655		.	.	.	L	.	.	L	.	.	.	.	S	.	L	S	L	S	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+SWXL	13	47.88	Arsb	MGI:88075		.	.	.	L	.	.	S	.	.	.	.	S	.	S	L	L	S	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7979	Elliott RW, J Hered 1985 Jul-Aug;76(4):243-6	
+SWXL	13	50.65	Hmgcr	MGI:96159		.	.	.	L	.	.	.	.	.	.	.	S	.	S	L	L	S	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	
+SWXL	13	63.73	D13Mit53	MGI:89780		.	.	.	S	.	.	S	.	.	.	.	.	.	S	L	L	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+SWXL	13	63.93	D13Mit196	MGI:89739		.	.	.	S	.	.	S	.	.	.	.	.	.	S	L	L	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+SWXL	13	67.21	D13Mit35	MGI:89762		.	.	.	S	.	.	S	.	.	.	.	.	.	S	L	L	S	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+SWXL	15	29.3	Tg	MGI:98733		.	.	.	S	.	.	S	.	.	.	.	S	.	S	S	L	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8652	Taylor BA, Proc Natl Acad Sci U S A 1987 Apr;84(7):1986-90	
+SWXL	15	37.52	Il2rb	MGI:96550		.	.	.	S	.	.	S	.	.	.	.	S	.	S	S	L	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	16	37.25	Pou1f1	MGI:97588		.	.	.	S	.	.	L	.	.	.	.	L	.	S	L	S	S	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	
+SWXL	17	-1.0	D17Rp11e	MGI:90952		.	.	.	L	.	.	L	.	.	.	.	S	.	L	S	S	S	J:13993	Mann E, Mouse News Lett 1984;71():48	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:10825	Gaskins HR, Immunogenetics 1990;32(4):286-9	
+SWXL	17	-1.0	D17Tu18	MGI:90964		S	L	.	S	L	S	L	L	L	L	L	L	S	L	.	S	.	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+SWXL	17	-1.0	H2	MGI:95894		S	L	L	?	S	L	?	L	S	S	L	?	S	S	S	L	S	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:10825	Gaskins HR, Immunogenetics 1990;32(4):286-9	
+SWXL	17	-1.0	H2-T18	MGI:95950		.	.	.	L	.	.	L	.	.	.	.	S	.	S	S	L	S	J:10825	Gaskins HR, Immunogenetics 1990;32(4):286-9	
+SWXL	17	-1.0	Rasl2-1	MGI:97862		.	.	.	L	.	.	L	.	.	.	.	L	.	L	L	S	L	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+SWXL	17	15.38	Pim1	MGI:97584		.	.	.	L	.	.	L	.	.	.	.	S	.	L	S	L	S	J:10825	Gaskins HR, Immunogenetics 1990;32(4):286-9	
+SWXL	17	15.69	Glo1	MGI:95742		L	L	L	S	S	L	S	L	S	S	L	L	S	S	.	.	.	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+SWXL	17	17.09	Cryaa	MGI:88515		L	L	L	S	S	L	S	L	S	S	L	L	S	S	.	.	.	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+SWXL	17	18.5	Hspa1b	MGI:99517		.	.	.	L	.	.	L	.	.	.	.	S	.	S	S	L	S	J:10825	Gaskins HR, Immunogenetics 1990;32(4):286-9	
+SWXL	19	-1.0	Xmmv42	MGI:99018		.	.	.	L	.	.	L	.	.	.	.	S	.	S	S	S	L	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	2	-1.0	Emv15	MGI:95331		.	.	.	S	.	.	L	.	.	.	.	L	.	L	L	S	L	J:8719	Lovett M, Genetics 1987 Apr;115(4):747-54	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	
+SWXL	2	-1.0	Ly11	MGI:96857		.	.	.	S	.	.	S	.	.	.	.	L	.	L	L	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	
+SWXL	2	-1.0	Ly23	MGI:96863		.	.	.	S	.	.	L	.	.	.	.	L	.	L	L	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:7228	Gasser DL, Proc Natl Acad Sci U S A 1983 Nov;80(21):6620-3	
+SWXL	2	-1.0	Xmv10	MGI:99056		.	.	.	S	.	.	L	.	.	.	.	L	.	L	L	S	L	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+SWXL	2	21.81	Ass1	MGI:88090		.	.	.	L	.	.	S	.	.	.	.	S	.	S	L	S	S	J:10442	Jackson MJ, Genomics 1990 Mar;6(3):545-7	
+SWXL	2	22.94	Hspa5	MGI:95835		.	.	.	L	.	.	S	.	.	.	.	S	.	S	L	S	S	J:3522	Gaskins HR, Mamm Genome 1992;3(12):709-11	
+SWXL	2	23.22	Hc	MGI:96031		.	.	.	L	.	.	S	.	.	.	.	S	.	S	L	S	S	J:10442	Jackson MJ, Genomics 1990 Mar;6(3):545-7	J:3522	Gaskins HR, Mamm Genome 1992;3(12):709-11	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	
+SWXL	2	60.55	B2m	MGI:88127		.	.	.	S	.	.	L	.	.	.	.	L	.	L	L	S	L	J:1872	Tada N, Immunogenetics 1980;11(5):441-9	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:6860	Chorney M, Immunogenetics 1982;16(1):91-3	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	J:7228	Gasser DL, Proc Natl Acad Sci U S A 1983 Nov;80(21):6620-3	
+SWXL	2	62.9	Il1a	MGI:96542		.	.	.	S	.	.	L	.	.	.	.	S	.	L	L	S	L	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+SWXL	2	63.23	Ptpra	MGI:97808		.	.	.	S	.	.	L	.	.	.	.	S	.	L	L	S	L	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+SWXL	2	76.83	a	MGI:87853		.	.	.	S	.	.	L	.	.	.	.	L	.	L	L	S	L	J:1872	Tada N, Immunogenetics 1980;11(5):441-9	J:8719	Lovett M, Genetics 1987 Apr;115(4):747-54	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:6960	Meruelo D, Proc Natl Acad Sci U S A 1982 Dec;79(23):7460-4	
+SWXL	3	39.01	Pklr	MGI:97604		.	.	.	S	.	.	.	.	.	.	.	L	.	L	S	S	L	J:1919	Fitton LA, Genet Res 1991 Dec;58(3):233-41	
+SWXL	3	40.51	S100a10	MGI:1339468		.	.	.	S	.	.	L	.	.	.	.	L	.	L	S	S	L	J:8809	Saris CJ, J Biol Chem 1987 Aug 5;262(22):10663-71	
+SWXL	3	49.35	Amy1	MGI:88019		.	.	.	L	.	.	L	.	.	.	.	L	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+SWXL	3	49.35	Amy2a5	MGI:88020		.	.	.	L	.	.	L	.	.	.	.	L	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+SWXL	4	-1.0	Ly20	MGI:96862		.	.	.	S	.	.	S	.	.	.	.	S	.	S	S	S	S	J:6921	Meruelo D, J Immunol 1983 Feb;130(2):946-50	
+SWXL	4	-1.0	Ly31	MGI:96869		.	.	.	L	.	.	L	.	.	.	.	S	.	L	S	L	S	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	4	-1.0	Mtv14	MGI:97186		.	.	.	S	.	.	S	.	.	.	.	S	.	S	S	L	L	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	
+SWXL	4	-1.0	Xmmv62	MGI:99035		.	.	.	L	.	.	S	.	.	.	.	S	.	L	S	L	S	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	4	37.89	Tyrp1	MGI:98881	Tyrp1<b>	.	.	.	S	.	.	S	.	.	.	.	S	.	L	S	L	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6921	Meruelo D, J Immunol 1983 Feb;130(2):946-50	J:10980	Begley CG, Proc Natl Acad Sci U S A 1991 Feb 1;88(3):869-73	
+SWXL	4	52.73	Tal1	MGI:98480		.	.	.	L	.	.	L	.	.	.	.	S	.	L	S	L	S	J:10980	Begley CG, Proc Natl Acad Sci U S A 1991 Feb 1;88(3):869-73	
+SWXL	4	70.02	Alpl	MGI:87983		.	.	.	L	.	.	L	.	.	.	.	S*	.	L	S	L*	S*	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+SWXL	4	70.79	Aldh4a1	MGI:2443883		.	.	.	L	.	.	L	.	.	.	.	S	.	L	L	L	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+SWXL	4	80.65	H6pd	MGI:2140356		.	.	.	L	.	.	S	.	.	.	.	S	.	L	S	L	S	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+SWXL	5	-1.0	D5H4S76	MGI:93158		.	.	.	L	.	.	.	.	.	.	.	S	.	S	S	S	S	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	
+SWXL	5	-1.0	Mpmv23	MGI:97092		.	.	.	L	.	.	S	.	.	.	.	L	.	S	L	L	S	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	5	-1.0	Nmyc2	MGI:97358		.	.	.	S	.	.	S	.	.	.	.	L	.	L	S	S	L	J:9772	Campbell GR, Oncogene Res 1989;4(1):47-54	
+SWXL	5	-1.0	Xmv28	MGI:99075		.	.	.	L	.	.	S	.	.	.	.	S	.	L	S	S	S	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+SWXL	5	32.8	Pgm1	MGI:97564		.	.	.	L	.	.	.	.	.	.	.	S	.	S	S	S	S	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	
+SWXL	6	-1.0	Es12	MGI:95423		.	.	.	S	.	.	L	.	.	.	.	L	.	S	S	L	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+SWXL	6	-1.0	Ldr1	MGI:96766		.	.	.	?	.	.	L	.	.	.	.	?	.	S	S	S	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:3774	Capeless CG, Behav Genet 1992 Nov;22(6):655-63	
+SWXL	6	-1.0	Mtv29	MGI:97196		.	.	.	L	.	.	L	.	.	.	.	L	.	S	L	S	S	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+SWXL	6	-1.0	Soa	MGI:98349		.	.	.	?	.	.	.	.	.	.	.	?	.	S	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:3774	Capeless CG, Behav Genet 1992 Nov;22(6):655-63	
+SWXL	6	1.81	D6Mit86	MGI:93719		.	.	.	L	.	.	L	.	.	.	.	L	.	S	L	S	S	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+SWXL	6	2.45	D6Rp2	MGI:93826		.	.	.	L	.	.	L	.	.	.	.	L	.	L	L	S	S	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+SWXL	6	49.19	Il5ra	MGI:96558		.	.	.	S	.	.	L	.	.	.	.	L	.	L	S	L	L	J:332	Gough NM, Genomics 1992 Apr;12(4):855-6	
+SWXL	6	64.03	Prh1	MGI:97773		.	.	.	?	.	.	L	.	.	.	.	?	.	S	S	S	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:3774	Capeless CG, Behav Genet 1992 Nov;22(6):655-63	
+SWXL	6	77.37	Kras	MGI:96680		.	.	.	S	.	.	.	.	.	.	.	L	.	S	S	S	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+SWXL	7	-1.0	Bc1	MGI:104905		.	.	.	S	.	.	S	.	.	.	.	L	.	.	L	S	.	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+SWXL	7	-1.0	Mod2	MGI:97045		.	.	.	S	.	.	S	.	.	.	.	S	.	S	S	S	L	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+SWXL	7	-1.0	Odc-rs6	MGI:97420		.	.	.	L	.	.	S	.	.	.	.	S	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	
+SWXL	7	-1.0	Odc-rs7	MGI:97421		.	.	.	S*	.	.	S	.	.	.	.	S	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	
+SWXL	7	-1.0	Pmv31	MGI:97656		.	.	.	L	.	.	S	.	.	.	.	S	.	S	S	S	L	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+SWXL	7	15.54	Cyp2a5	MGI:88597		.	S	.	L	.	L	L	.	.	.	.	S	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6132	Wood AW, J Biol Chem 1979 Jul 10;254(13):5647-51	
+SWXL	7	19.46	Gpi1	MGI:95797		.	S	.	L	.	L	L	.	.	.	.	S	.	L	S	S	L	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:10026	Birkenmeier EH, Genes Dev 1989 Aug;3(8):1146-56	J:6132	Wood AW, J Biol Chem 1979 Jul 10;254(13):5647-51	
+SWXL	7	21.02	Cebpa	MGI:99480		.	.	.	L	.	.	L	.	.	.	.	S	.	L	S	S	L	J:10026	Birkenmeier EH, Genes Dev 1989 Aug;3(8):1146-56	
+SWXL	7	28.85	Kcnc3	MGI:96669		.	.	.	S	.	.	S	.	.	.	.	L	.	L	S	L	S	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+SWXL	7	32.87	Gas2	MGI:95657		.	.	.	L	.	.	S	.	.	.	.	S	.	S	S	S	S	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+SWXL	7	45.65	Fes	MGI:95514		.	.	.	L	.	.	S	.	.	.	.	S	.	S	S	S	S	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+SWXL	7	49.01	Tyr	MGI:98880	Tyr<c>	.	S	.	L	.	L	S	.	.	.	.	S	.	S	S	S	L	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	J:6132	Wood AW, J Biol Chem 1979 Jul 10;254(13):5647-51	
+SWXL	7	68.94	Il4ra	MGI:105367		.	.	.	L	.	.	S	.	.	.	.	S	.	S	L	S	S	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	
+SWXL	7	69.44	Itgal	MGI:96606		.	.	.	L	.	.	S	.	.	.	.	S	.	S	L	S	S	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	7	88.06	Th	MGI:98735		.	.	.	S	.	.	S	.	.	.	.	S	.	S	L	S	L	J:8891	Brilliant MH, J Neurogenet 1987 Aug;4(5):259-66	
+SWXL	8	-1.0	Odc-rs12	MGI:97406		.	.	.	S	.	.	L	.	.	.	.	S	.	S	L	L	L	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	
+SWXL	8	-1.0	Rasl5-2	MGI:97872		.	.	.	L	.	.	L	.	.	.	.	L	.	L	L	S	S	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+SWXL	8	-1.0	Tel-rs2	MGI:99680		.	.	.	L	.	.	L	.	.	.	.	S	.	L	L	L	L	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	
+SWXL	8	20.69	Gsr	MGI:95804		.	.	.	L	.	.	L	.	.	.	.	S	.	L	L	S	S	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+SWXL	8	33.88	Lpl	MGI:96820		.	.	.	L	.	.	L	.	.	.	.	S	.	L	L	L	L	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+SWXL	8	44.99	Ces1c	MGI:95420		.	.	.	L	.	.	L	.	.	.	.	S	.	S	L	L	L	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+SWXL	8	47.79	Got2	MGI:95792		.	.	.	L	.	.	L	.	.	.	.	S	.	S	L	L	L	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+SWXL	9	-1.0	Es13	MGI:95424		.	.	.	S	.	L	L	.	.	.	.	S	.	S	S	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6328	Eicher EM, Mol Gen Genet 1980;177(4):571-6	J:6125	Womack JE, Biochem Genet 1978 Dec;16(11-12):1107-12	
+SWXL	9	-1.0	Lap1	MGI:96749		.	.	.	L	.	L	S	.	.	.	.	S	.	S	S	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6328	Eicher EM, Mol Gen Genet 1980;177(4):571-6	J:6125	Womack JE, Biochem Genet 1978 Dec;16(11-12):1107-12	
+SWXL	9	-1.0	Rasl2-2	MGI:97863		.	.	.	S	.	.	L	.	.	.	.	S	.	S	S	S	S	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+SWXL	9	-1.0	Xmmv67	MGI:99040		.	.	.	L	.	.	S	.	.	.	.	S	.	S	S	L	S	J:10261	Frank SL, Genomics 1989 Oct;5(3):646-8	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	
+SWXL	9	7.87	Ldlr	MGI:96765		.	.	.	L	.	.	S	.	.	.	.	S	.	S	S	L	S	J:10261	Frank SL, Genomics 1989 Oct;5(3):646-8	J:10902	Hoatlin ME, Proc Natl Acad Sci U S A 1990 Dec;87(24):9985-9	
+SWXL	9	7.93	Epor	MGI:95408		.	.	.	L	.	.	S	.	.	.	.	S	.	S	S	L	S	J:10902	Hoatlin ME, Proc Natl Acad Sci U S A 1990 Dec;87(24):9985-9	
+SWXL	9	17.97	Ets1	MGI:95455		.	.	.	L	.	.	S	.	.	.	.	L	.	S	S	S	S	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+SWXL	9	24.84	Upk2	MGI:98913		.	.	.	L	.	.	L	.	.	.	.	L	.	S	S	S	S	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+SWXL	9	25.36	Apoa1	MGI:88049		.	.	.	L	.	L	L	.	.	.	.	L	.	S	S	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6328	Eicher EM, Mol Gen Genet 1980;177(4):571-6	J:10902	Hoatlin ME, Proc Natl Acad Sci U S A 1990 Dec;87(24):9985-9	
+SWXL	9	46.58	Me1	MGI:97043		.	.	.	S	.	L	L	.	.	.	.	S	.	S	S	S	S	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	J:6328	Eicher EM, Mol Gen Genet 1980;177(4):571-6	J:6125	Womack JE, Biochem Genet 1978 Dec;16(11-12):1107-12	J:10902	Hoatlin ME, Proc Natl Acad Sci U S A 1990 Dec;87(24):9985-9	
+SWXL	9	59.07	Mst1r	MGI:99614		.	.	.	S	.	.	L	.	.	.	.	S	.	S	S	L	S	J:10902	Hoatlin ME, Proc Natl Acad Sci U S A 1990 Dec;87(24):9985-9	
+SWXL	UN	-999.0	Rasl2-6	MGI:97867		.	.	.	L	.	.	L	.	.	.	.	S	.	L	S	S	L	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+SWXL	UN	-999.0	Xmmv66	MGI:99039		.	.	.	S	.	.	S	.	.	.	.	L	.	L	L	L	S	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:16092	Malek TR, Immunogenetics 1993;38(2):154-6	

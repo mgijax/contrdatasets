@@ -1,0 +1,24 @@
+# Legend:
+# 9XA origin = 129/Sv-Oca2<+> Tyr<+> Kitl<Sl-J> x A/HeJ
+# 9 = 129/Sv-Oca2<+> Tyr<+> Kitl<Sl-J>
+# A = A/HeJ
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-9: A B D E F I J K M
+# field 10: reference
+# field 11: reference citation
+#
+9XA	7	-1.0	Rip	MGI:97928		A	9	A	A	9	9	9	A	9	J:9564	Noshiro M, Biochemistry 1988 Aug 23;27(17):6444-8	J:9563	Noshiro M, Biochemistry 1988 Aug 23;27(17):6434-43	
+9XA	7	-1.0	Ripr	MGI:97929		.	9	A	A	9	9	9	A	9	J:9564	Noshiro M, Biochemistry 1988 Aug 23;27(17):6444-8	
+9XA	7	14.39	Cyp2a4	MGI:88596		A	9	A	A	9	9	9	A	A	J:10456	Burkhart BA, Gene 1990 Mar 15;87(2):205-11	
+9XA	7	15.54	Cyp2a5	MGI:88597		A	9	A	A	9	9	9	A	?	J:10456	Burkhart BA, Gene 1990 Mar 15;87(2):205-11	J:9563	Noshiro M, Biochemistry 1988 Aug 23;27(17):6434-43	

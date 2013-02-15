@@ -1,0 +1,21 @@
+# Legend:
+# NXL origin = B10.D2/(58N)Sn x C57L/J
+# N = B10.D2/(58N)Sn
+# L = C57L/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-4: 1 3 4 8
+# field 5: reference
+# field 6: reference citation
+#
+NXL	16	-1.0	Ly7	MGI:96883		L	L	N	L	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	

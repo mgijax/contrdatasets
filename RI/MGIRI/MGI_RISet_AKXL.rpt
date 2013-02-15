@@ -1,0 +1,469 @@
+# Legend:
+# AKXL origin = AKR/J x C57L/J
+# A = AKR/J
+# L = C57L/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-18: 5 6 7 8 9 12 13 14 16 17 19 21 24 25 28 29 37 38
+# field 19: reference
+# field 20: reference citation
+#
+AKXL	1	-1.0	Akp1	MGI:87982		A	L	L	L	L	L	L	L	L	A	L	L	L	A	A	A	A	L	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:8744	Seldin MF, Cytogenet Cell Genet 1987;45(1):52-4	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	
+AKXL	1	-1.0	Amh-rs1	MGI:88007		L	L	A	A	A	L	A	A	L	A	L	L	A	A	A	A	A	L	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:21913	Ogawa Y, Genomics 1994 Nov 15;24(2):383-7	
+AKXL	1	-1.0	D1Bir2	MGI:91354		A	L	L	L	L	L	L	L	L	A	L	L	L	A	A	A	A	L	J:3011	Birkenmeier EH, Mamm Genome 1992;3(10):537-45	
+AKXL	1	-1.0	D1Rp2	MGI:106082		L	A	L	L	A	L	L	A	A	L	A	L	A	A	A	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	1	-1.0	Gas10	MGI:95656		L	L	L	A	A	L	A	A	L	A	L	L	A	A	A	A	A	L	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+AKXL	1	-1.0	Lmyc2	MGI:96800		L	A	L	A	A	L	L	A	L	A	A	L	A	A	L	A	A	L	J:9772	Campbell GR, Oncogene Res 1989;4(1):47-54	J:2643	Beier DR, Proc Natl Acad Sci U S A 1992 Oct 1;89(19):9102-6	
+AKXL	1	-1.0	Mpmv16	MGI:97084		A	A	L	A	A	A	L	L	L	A	L	L	A	A	A	A	L	A	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	1	-1.0	Mpmv6	MGI:97132		A	A	L	A	A	A	L	L	L	A	L	L	A	A	A	A	L	L	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	1	-1.0	Mtv7	MGI:97226		L	L	L	L	A	L	L	L	L*	A	L	L	L	A	A	A	L*	A	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:12048	Festenstein H, Immunogenetics 1977;5():357-361	J:8744	Seldin MF, Cytogenet Cell Genet 1987;45(1):52-4	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	
+AKXL	1	-1.0	Odc-rs1	MGI:97403		A	A	L	L	A	A	L	L	L	A	L	L	A	A	L	A	L	A	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	J:7978	Elliott RW, In Vitro Cell Dev Biol 1985 Aug;21(8):477-84	
+AKXL	1	-1.0	Pepc	MGI:97541		A	A	L	A	A	A	L*	L	L	A*	L*	L	A*	A	A	A	L	A	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:5644	Taylor BA, Genet Res 1975 Dec;26(3):307-12	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:12048	Festenstein H, Immunogenetics 1977;5():357-361	J:20642	Taylor BA, Personal Communication 1994 July 8;():	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	J:7978	Elliott RW, In Vitro Cell Dev Biol 1985 Aug;21(8):477-84	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+AKXL	1	-1.0	Pmv21	MGI:97645		.	L	L	L	L	A	L	A	L	A	L	L	L	L	A	A	A	L	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	1	-1.0	Pmv44	MGI:97670		L	L	L	L	L	L	L	L	L	A	L	L	L	A	A	A	A	L	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	1	-1.0	Ren2	MGI:97899		A	A	L	A	A	A	L	L	L	A	L	L	A	A	A	A	L	A	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	J:7978	Elliott RW, In Vitro Cell Dev Biol 1985 Aug;21(8):477-84	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+AKXL	1	-1.0	Upg2	MGI:98910		A	A	L	A	A	A	L	L	L	A	L	L	A	A	A	A	L	A	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	
+AKXL	1	-1.0	Xmv21	MGI:99068		A	A	L	L	A	A	L	L	L	A	L	L	A	A	L	A	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	1	-1.0	Xmv41	MGI:99090		.	L	L	L	A	L	L	L	L	L	L	L	L	L	A	A	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	1	43.98	Nppc	MGI:97369		L	L	A	A	A	L	L	A	L	A	A	L	A	A	L	A	L	L	J:21913	Ogawa Y, Genomics 1994 Nov 15;24(2):383-7	
+AKXL	1	45.73	Mlph	MGI:2176380		L	L	A	A	A	L	A	A	L	A	L	L*	A	A	L	A	L	L	J:3252	King TR, Genomics 1991 Oct;11(2):273-83	J:21913	Ogawa Y, Genomics 1994 Nov 15;24(2):383-7	J:5644	Taylor BA, Genet Res 1975 Dec;26(3):307-12	J:12048	Festenstein H, Immunogenetics 1977;5():357-361	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+AKXL	1	57.91	Ren1	MGI:97898		A	A	L	A	A	A	L	L	L	A	L	L	A	.	A	A	L	A	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	
+AKXL	1	65.3	Lamc1	MGI:99914		A	A	L	L	A	A	L	L	L	A	L	L	A	A	L	A	L	A	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:7978	Elliott RW, In Vitro Cell Dev Biol 1985 Aug;21(8):477-84	
+AKXL	1	67.71	Soat1	MGI:104665		A	A	A	A	A	L*	L	L	L	A*	L*	L	L	A*	L*	A*	L*	A*	J:5644	Taylor BA, Genet Res 1975 Dec;26(3):307-12	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	J:12048	Festenstein H, Immunogenetics 1977;5():357-361	J:20642	Taylor BA, Personal Communication 1994 July 8;():	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	J:6286	Wilcox FH, Biochem Genet 1979 Dec;17(11-12):1093-107	J:7978	Elliott RW, In Vitro Cell Dev Biol 1985 Aug;21(8):477-84	J:6070	Wilson CM, Proc Natl Acad Sci U S A 1978 Nov;75(11):5623-6	
+AKXL	1	69.75	Prdx6	MGI:894320		L	L	L	A	?	L	L	L	L	A	L	L	L	A	L	A	L	A	J:6437	Elliott RW, Mol Gen Genet 1980;180(1):17-22	J:8744	Seldin MF, Cytogenet Cell Genet 1987;45(1):52-4	
+AKXL	1	69.75	Serpinc1	MGI:88095		L	L	L	L	A	L	L	L	L	A	L	L	L	.	L	A	L	A	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	
+AKXL	1	78.8	Fcgr3	MGI:95500		L	L	L	L	A	L	L	L	L	A	L	L	L	.	A	A	A	A	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:9984	Maruyama N, Biochem Genet 1989 Apr;27(3-4):229-37	
+AKXL	1	79.22	Apoa2	MGI:88050		L	L	L	L	A	L	L	L	L	A	L	L	L	.	A	A	A	A	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	
+AKXL	1	79.54	Nhlh1	MGI:98481		L	L	L	L	A	L	L	L	L	A	L	L	L	L	A	A	A	A	J:904	Gough NM, Mamm Genome 1992;3(3):182-3	
+AKXL	1	80.33	Apcs	MGI:98229		.	L	L	L	A	L	L	L	L	A	L	L	L	L	A	A	A	A	J:9984	Maruyama N, Biochem Genet 1989 Apr;27(3-4):229-37	
+AKXL	1	80.97	Spta1	MGI:98385		L	L	L	L	A	L	L	L	L	A	L	L	L	A	A	A	A	A	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:8744	Seldin MF, Cytogenet Cell Genet 1987;45(1):52-4	J:9984	Maruyama N, Biochem Genet 1989 Apr;27(3-4):229-37	
+AKXL	10	-1.0	D10Mit75	MGI:88860		L	L	L	L	L	L	L	L	L	A	A	L	L	A	A	A	A	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	10	-1.0	D10Nds1	MGI:88923		L	L	L	L	L	L	L	L	L	A	A	A	L	A	A	A	A	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	10	-1.0	Xmv39	MGI:99087		L	A	A	L	L	L	L	L	L	A	A	A	L	A	A	A	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	10	9.75	Myb	MGI:97249		L	A	A	L	L	L	L	L	L	A	A	A	L	A	A	A	A	A	J:1364	Buckley MF, Immunogenetics 1992;36(3):199-201	
+AKXL	10	11.67	D10Mit106	MGI:88722		A	A	A	A	L	L	L	L	L	A	L	A	L	A	A	A	A	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	10	12.26	Enpp1	MGI:97370		A	A	A	A	L	L	L	L	L	A	L	A	L	A	A	A	A	A	J:1364	Buckley MF, Immunogenetics 1992;36(3):199-201	
+AKXL	10	15.06	Ptprk	MGI:103310		A	A	A	A	L	L	L	L	L	A	L	A	L	A	A	A	A	A	J:25687	Jiang YP, Mol Cell Biol 1993 May;13(5):2942-51	
+AKXL	10	16.53	D10Mit3	MGI:88813		A	A	A	A	L	L	L	L	L	A	L	A	L	A	A	A	A	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	10	34.72	D10Mit130	MGI:88749		L	A	A	A	L	L	L	L	L	A	A	A	L	A	A	L	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	10	39.72	D10Mit175	MGI:88797		L	A	A	A	L	L	A	L	L	A	A	A	A	L	L	L	A	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	10	39.72	D10Mit42	MGI:88825		L	A	A	L	L	L	A	L	L	A	L	L	A	L	L	L	A	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	10	47.06	D10Mit95	MGI:88882		L	A	A	L	A	L	A	A	A	L	A	A	A	L	L	L	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	10	48.49	Hal	MGI:96010		A	A	A	L	A	L	A	L	.	A	.	A	L	L	L	A	L	A	J:10302	Brilliant MH, Genomics 1990 Jan;6(1):115-22	J:46658	Dunlevy JR, Mamm Genome 1998 Apr;9(4):316-9	J:25176	Chakravarti S, Mamm Genome 1995 May;6(5):367-8	
+AKXL	10	50.32	Lum	MGI:109347		L	A	A	L	A	L	A	A	A	L	A	A	L	L	L	L	A	L	J:25176	Chakravarti S, Mamm Genome 1995 May;6(5):367-8	
+AKXL	10	50.34	Kera	MGI:1202398		L	A	A	L	A	L	A	A	A	L	A	A	L	L	L	L	A	L	J:46658	Dunlevy JR, Mamm Genome 1998 Apr;9(4):316-9	
+AKXL	10	51.14	Gad1-ps	MGI:95633		L	A	A	L	A	L	A	A	A	L	A	A	L	L	L	L	A	L	J:10302	Brilliant MH, Genomics 1990 Jan;6(1):115-22	J:46658	Dunlevy JR, Mamm Genome 1998 Apr;9(4):316-9	J:25176	Chakravarti S, Mamm Genome 1995 May;6(5):367-8	
+AKXL	10	51.15	D10Mit12	MGI:88737		L	A	A	L	A	L	A	A	A	L	A	A	L	L	L	L	A	L	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	J:46658	Dunlevy JR, Mamm Genome 1998 Apr;9(4):316-9	J:25176	Chakravarti S, Mamm Genome 1995 May;6(5):367-8	
+AKXL	10	60.3	Kcnc2	MGI:96668		A	A	L	L	A	L	A	A	A	L	A	L	L	L	A	L	A	L	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+AKXL	10	66.65	D10Mit180	MGI:88802		A	A	L	L	A	L	A	L	A	L	A	L	L	L	A	L	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	10	66.65	Mdm1	MGI:96951		A	A	L	L	A	L	A	L	A	L	A	L	L	L	A	L	A	L	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+AKXL	10	67.32	D10Mit164	MGI:88785		A	A	L	L	A	L	.	L	A	L	A	L	L	L	A	L	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	11	-1.0	D11Kyo1	MGI:88970		A	A	L	L	L	L	L	A	L	A	L	L	L	A	L	L	A	L	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	
+AKXL	11	-1.0	Emv14	MGI:95330		A	A	A	A	L	L	A	A	L	A	A	L	A	L	L	L	A*	A	J:7991	Taylor BA, J Virol 1985 Oct;56(1):172-5	J:9147	Hart CP, Genetics 1988 Feb;118(2):319-27	J:6786	Steffen DL, J Virol 1982 Apr;42(1):165-75	J:9562	Buchberg AM, Oncogene Res 1988;2(2):149-65	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	-1.0	Es3	MGI:95442		A	L	L	A	L	L	L	L	L	A	A	L	L*	L	L	L	A	A	J:7991	Taylor BA, J Virol 1985 Oct;56(1):172-5	J:9147	Hart CP, Genetics 1988 Feb;118(2):319-27	J:9562	Buchberg AM, Oncogene Res 1988;2(2):149-65	J:5718	Mishkin JD, Biochem Genet 1976 Aug;14(7-8):635-40	J:20642	Taylor BA, Personal Communication 1994 July 8;():	
+AKXL	11	-1.0	Hba	MGI:96014		A	L	.	L	A	L	A	A	A	A	L	L	L	A	L	L	L	A	J:9147	Hart CP, Genetics 1988 Feb;118(2):319-27	J:7957	Silver J, Mol Cell Biol 1985 Jul;5(7):1784-6	
+AKXL	11	-1.0	Hoxb	MGI:96181		A	A	A	A	L	L	L	A	A	A	L	L	L	L	L	A	A	A	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+AKXL	11	-1.0	Mpmv15	MGI:97083		A	L	L	A	L	L	A	L	L	A	A	L	A	L	L	L	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	11	-1.0	Mpmv18	MGI:97086		A	L	L	L	A	L	A	A	A	A	L	L	L	A	L	A	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	11	-1.0	Mpmv2	MGI:97088		A	A	A	A	L	L	L	A	L	A	A	L	A	L	L	A	A	A	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	-1.0	Mpmv4	MGI:97110		.	A	A	A	L	L	L	A	A	A	A	L	A	L	L	L	A	A	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	-1.0	Mpmv8	MGI:97135		A	A	L	L	L	L	L	A	L	A	L	L	L	A	L	L	A	L	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	11	-1.0	Pmv2	MGI:97643		.	L	A	L	A	L	L	A	A	A	L	A	L	A	A	A	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	11	-1.0	Pmv22	MGI:97646		A	L	A	L	A	L	L	A	A	A	L	A	L	A	A	A	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	11	-1.0	Xmv20	MGI:99067		A	A	A	A	L	L	L	A	A	A	A	L	L	L	A	A	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	11	-1.0	Xmv42	MGI:99091		A	A	A	A	L	L	L	A	A	A	A	L	L	L	L	L	A	A	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	9.41	Egfr	MGI:95294		A	L	L	L	A	L	L	A	A	A	L	A	L	A	A	A	L	A	J:9147	Hart CP, Genetics 1988 Feb;118(2):319-27	J:7957	Silver J, Mol Cell Biol 1985 Jul;5(7):1784-6	
+AKXL	11	45.76	D11Nds1	MGI:89264		A	A	A	A	L	L	L	A	L	A	A	L	A	L	L	A	A	A	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	46.81	Evi2a	MGI:95458		A	A	A	A	L	L	L	A	L	A	A	L	A	L	L	A	A	A	J:9562	Buchberg AM, Oncogene Res 1988;2(2):149-65	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	47.28	D11Mit8	MGI:89159		A	A	A	A	L	L	L	A	L	A	A	L	A	L	L	A	A	A	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	49.99	Ccl1	MGI:98258		A	A	A	A	L	L	L	A	L	A	A	L	A	L	L	L	A	A	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	51.04	Ccl3	MGI:98260		A	A	A	A	L	L	L	A	?	A	A	L	A	L	L	L	A	A	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	J:24223	Blackburn CC, Genomics 1995 Mar 20;26(2):308-17	
+AKXL	11	51.09	Ccl4	MGI:98261		A	A	A	A	L	L	L	A	A	A	A	L	A	L	L	L	A	A	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+AKXL	11	59.82	Hoxb7	MGI:96188		A	A	A	A	L	L	L	A	A	A	L	L	L	L	L	A	A	A	J:9147	Hart CP, Genetics 1988 Feb;118(2):319-27	
+AKXL	11	63.47	Cnp	MGI:88437		A	A	A	A	L	L	L	A	L	A	L	L	L	A	L	L	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:9450	Bernier L, J Neurosci Res 1988 Aug;20(4):497-504	
+AKXL	11	80.91	Galk1	MGI:95730		A	L	A	A	L	L	A	L	L	A	A	L	L	L	L	L	A	L	J:9147	Hart CP, Genetics 1988 Feb;118(2):319-27	J:5718	Mishkin JD, Biochem Genet 1976 Aug;14(7-8):635-40	J:20642	Taylor BA, Personal Communication 1994 July 8;():	
+AKXL	11	82.96	Tk1	MGI:98763		A	L	L	A	L	L	L	L	L	A	A	L	L	L	L	L	A	L	J:461	Martiniuk F, Mamm Genome 1991;1(4):267-9	
+AKXL	12	-1.0	D12H14S17	MGI:89328		A	L	.	A	A	A	L	L	L	L	A	L	A	A	A	L	A	A	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	-1.0	D12Mit7	MGI:89478		A	L	.	L	A	A	L	A	A	L	A	L	L	A	A	A	A	A	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	-1.0	D12N1	MGI:89512		A	L	L	A	A	A	L	L	L	A	L	L	A	A	A	L	A	A	J:455	Cho M, Mamm Genome 1991;1(1):30-6	J:9368	Bauer SR, Nucleic Acids Res 1988 Aug 25;16(16):8200	
+AKXL	12	-1.0	D12Nyu1	MGI:89566		A	A	L	L	A	A	L	A	A	A	L	L	L	A	L	A	L	A	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	J:9046	von Deimling OH, Biochem Genet 1987 Oct;25(9-10):639-46	
+AKXL	12	-1.0	D12Nyu15	MGI:99649		A	A	.	L	L	A	A	L	A	A	A	L	L	A	L	A	L	A	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	-1.0	D12Nyu19	MGI:99645		A	L	.	L	L	A	L	L	A	A	A	L	A	L	L	A	L	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	-1.0	D12Nyu20	MGI:99644		A	L	.	L	L	A	A	L	A	A	A	L	A	L	A	A	L	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	-1.0	D12Nyu5	MGI:89573		L	A	L	L	A	A	L	L	.	L	L	L	A	A	L	A	L	A	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+AKXL	12	-1.0	D12Nyu9	MGI:89577		A	L	L	A	A	A	L	L	L	A	L	L	A	A	A	L	A	A	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+AKXL	12	-1.0	Es25	MGI:95437		A	L	L	L	A	A	L	A	A	A	L	L	A	L	A	A	L	L	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	J:9046	von Deimling OH, Biochem Genet 1987 Oct;25(9-10):639-46	
+AKXL	12	-1.0	Igh	MGI:96442		.	L	.	A	.	.	L	L	L	A	L	L	A	A	A	L	A	A	J:20310	Riblet R, Eur J Immunol 1975 Nov;5(11):775-7	
+AKXL	12	-1.0	Igh-C	MGI:96456		A	L	L	A	A	A	L	L	L	A	L	L	A	A	A	L	A	A	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	J:8280	Birkenmeier EH, Proc Natl Acad Sci U S A 1986 Apr;83(8):2516-20	
+AKXL	12	-1.0	Igh-Dex	MGI:96458		.	L	.	A	.	A	L	L	L	A	L	L	A	A	A	L	A	A	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	J:20310	Riblet R, Eur J Immunol 1975 Nov;5(11):775-7	
+AKXL	12	-1.0	Igh-V	MGI:96477		.	L	.	.	.	A	L	L	L	.	L	L	A	A	A	L	A	A	J:5725	Berek C, J Exp Med 1976 Nov 2;144(5):1164-74	
+AKXL	12	-1.0	Igh-V3609	MGI:96481		A	L	L	A	A	A	L	L	L	A	L	L	A	A	A	L	A	A	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+AKXL	12	-1.0	Ighg2a	MGI:96443		A	L	A	A	A	A	L	L	L	A	L	L	A	A	A	L	A	A	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:5559	Taylor BA, Nature 1975 Aug 21;256(5519):644-6	J:14905	Krammer P, Z Immunitatsforsch Immunobiol 1978 Jun;154(3):284-95	
+AKXL	12	-1.0	Ltw2	MGI:96847		A	L	L	L	A	A	L	A	A	A	L	L	A	L	L	L	L	L	J:6130	Elliott RW, Genetics 1979 Feb;91(2):295-308	
+AKXL	12	-1.0	Ly18	MGI:96861		A	A	L	L	A	A*	L	A	A	A	L	L	A	A	L	A	L	A	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:6605	Kimura S, Immunogenetics 1981;13(6):547-54	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	J:9046	von Deimling OH, Biochem Genet 1987 Oct;25(9-10):639-46	
+AKXL	12	-1.0	Mpmv11	MGI:97079		A	L	L	A	A	A	L	A	L	A	L	L	A	A	A	L	L	A	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	12	-1.0	Mtv30	MGI:97198		A	L	.	L	A	L	L	A	L	A	L	L	A	L	A	A	L	L	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	
+AKXL	12	-1.0	Odc-rs8	MGI:97422		A	L	L	A	A	A	L	L	L	A	L	L	A	A	A	L	A	A	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	
+AKXL	12	-1.0	Pmv27	MGI:97651		A	L	L	A	A	L	A	A	L	A	L	L	L	A	A	A	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	12	-1.0	Pmv3	MGI:97654		A	A	L	L	A	A	L	A	A	A	L	L	L	A	L	A	L	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	12	-1.0	Serpina1	MGI:98376		A	L	A	A	A	A	A	A	L	A	?	L	L	A	A	A	A	A	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	J:5559	Taylor BA, Nature 1975 Aug 21;256(5519):644-6	
+AKXL	12	-1.0	Tsu	MGI:98859		.	.	.	A	A	.	L	L	.	.	.	.	L	A	.	.	.	A	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	
+AKXL	12	-1.0	Xmmv50	MGI:99026		A	L	A	A	A	L	L	L	L	A	L	L	A	A	A	L	A	A	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+AKXL	12	3.53	Apob	MGI:88052		A	L	L	A	A	L	L	A	L*	A	L	L	A	L	A	A	L	L	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	
+AKXL	12	8.11	Odc1	MGI:97402		A	L	L	A	A	A	L	A	A	A	L	L	A	L	A	A	L	L	J:10259	Villani V, Genomics 1989 Oct;5(3):636-8	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	
+AKXL	12	8.5	Rrm2	MGI:98181		A	L	.	L	L	A	A	L	A	A	A	L	A	L	A	A	L	L	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	10.96	D12Nyu2	MGI:89570		A	L	L	L	A	A	L	A	A	A	L	L	A	L	A	A	L	L	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	
+AKXL	12	13.39	Lamb1	MGI:96743		A	A	L	L	A	A	L	L	L	A	L	L	A	A	L	A	L	A	J:7978	Elliott RW, In Vitro Cell Dev Biol 1985 Aug;21(8):477-84	
+AKXL	12	15.78	Ahr	MGI:105043		A	A	L	L	A	A	L	A	A	A	L	L	A	A	L	A	L	A	J:15484	Jiao S, J Lipid Res 1990 Mar;31(3):467-77	J:8895	Poland A, Mol Pharmacol 1987 Oct;32(4):471-8	J:8723	Lusis AJ, J Biol Chem 1987 Jun 5;262(16):7594-604	J:10358	Berger FG, Biochem Genet 1989 Dec;27(11-12):745-53	
+AKXL	12	33.73	Hspa2	MGI:96243		A	A	.	L	A	A	A	A	A	L	A	L	L	A	A	L	L	A	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	35.51	D12Mit4	MGI:89449		A	A	.	L	A	A	A	A	A	L	A	L	L	A	A	L	L	A	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AKXL	12	44.51	Tshr	MGI:98849		A	A	L	A	A	L	A	A	L	A	L	A	L	A	A	A	A	A	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+AKXL	12	61.09	Ckb	MGI:88407		A	L	A	A	A	L	L	L	L	A	L	L	A	A	A	L	A	A	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+AKXL	12	61.59	Crip1	MGI:88501		A	L	L	A	A	A	L	L	L	A	L	L	A	A	A	L	A	A	J:8280	Birkenmeier EH, Proc Natl Acad Sci U S A 1986 Apr;83(8):2516-20	
+AKXL	12	62.09	Igha	MGI:96444		A	L	L	A	A	A	L	L	.	A	L	L	A	A	A	L	A	A	J:7556	D'Eustachio P, J Exp Med 1984 Sep 1;160(3):827-38	
+AKXL	13	-1.0	D13Rp4	MGI:108217		L	A	L	A	L	L	L	L	L	A	A	L	L	A	L	L	L	L	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AKXL	13	-1.0	D13Ty1	MGI:106053		A	A	L	L	L	A	L	L	A	A	A	L	A	L	L	L	L	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	13	-1.0	Lth1	MGI:96838		L	A	L	A	L	L	L	A	A	A	L	A	A	A	L	L	A	A	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	J:1969	Jenkins EP, Genomics 1991 Dec;11(4):1102-12	J:7979	Elliott RW, J Hered 1985 Jul-Aug;76(4):243-6	
+AKXL	13	-1.0	Ly28	MGI:96866		.	A	L	L	A	.	L	L	A	A	.	L	A	.	L	L	A	L	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+AKXL	13	-1.0	Pmv67	MGI:97695		A	A	L	L	A	A	A	L	A	A	A	L	L	L	L	L	.	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	13	-1.0	Pmv9	MGI:97711		A	A	L	A	L	L	L	A	L	A	A	A	A	L	L	L	A	A	J:32825	Poirier C, Mamm Genome 1996 Apr;7(4):322	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	13	-1.0	Tel13q	MGI:98672		L	L	L	A	L	L	L	L	L	A	A	L	L	A	L	L	A	L	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AKXL	13	-1.0	Xmmv79	MGI:102665		A	A	L	A	L	A	A	L	A	L	A	L	L	L	L	A	L	A	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+AKXL	13	-1.0	Xmv13	MGI:99059		A	A	L	L	L	A	L	L	A	A	A	L	A	L	L	L	L	A	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	J:1969	Jenkins EP, Genomics 1991 Dec;11(4):1102-12	
+AKXL	13	3.25	D13Mit1	MGI:89634		A	A	L	A	A	A	A	L	L	L	A	L	L	L	L	A	L	L	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	13	7.31	D13Mit3	MGI:89757		A	A	L	A	L	A	A	L	A	L	A	L	L	L	L	L	L	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	13	35.55	Srd5a1	MGI:98400		A	A	L	L	L	A	L	L	A	A	A	L	A	L	L	L	L	A	J:1969	Jenkins EP, Genomics 1991 Dec;11(4):1102-12	
+AKXL	13	47.88	Arsb	MGI:88075		A	A	L	A	L	L	L	A	A	A	L	A	A	L	L	L	A	A	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	J:32825	Poirier C, Mamm Genome 1996 Apr;7(4):322	J:1969	Jenkins EP, Genomics 1991 Dec;11(4):1102-12	J:7979	Elliott RW, J Hered 1985 Jul-Aug;76(4):243-6	
+AKXL	13	50.2	D13Mit107	MGI:89643		A	A	L	A	L	L	L	A	L	A	L	A	A	L	L	L	A	A	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AKXL	13	50.21	F2r	MGI:101802		A	A	L	A	L	L	L	A	L	A	L	A	A	L	L	L	A	A	J:32825	Poirier C, Mamm Genome 1996 Apr;7(4):322	
+AKXL	13	50.65	Hmgcr	MGI:96159		A	A	L	A	L	L	L	A	L	A	L	A	A	L	L	L	A	A	J:1025	Hwa JJ, J Lipid Res 1992 May;33(5):711-25	
+AKXL	13	63.73	D13Mit53	MGI:89780		L	L	L	A	L	L	L	L	L	A	A	L	L	A	L	L	.	L	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AKXL	13	63.93	D13Mit196	MGI:89739		L	L	L	A	L	L	L	L	L	A	A	L	L	A	L	L	L	L	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AKXL	13	67.21	D13Mit78	MGI:89806		L	L	L	A	L	L	L	L	L	A	A	L	L	A	L	L	A	L	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AKXL	14	-1.0	Carg1	MGI:894648		A	A	A	L	.	A	A	L	L	L	L	A	A	.	.	L	L	L	J:52948	Ashman RB, Microb Pathog 1998 Dec;25(6):333-5	
+AKXL	14	-1.0	D14Mit214	MGI:101029		A	A	A	L	.	A	A	L	L	L	L	A	A	.	.	L	A	A	J:52948	Ashman RB, Microb Pathog 1998 Dec;25(6):333-5	
+AKXL	14	-1.0	Mtv11	MGI:97184		A	A	A	L	L	A	A	A	L	L	L	A	A	L	L	L	A	A	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	J:52948	Ashman RB, Microb Pathog 1998 Dec;25(6):333-5	J:16621	Jordan-Starck TC, J Lipid Res 1994 Feb;35(2):194-210	
+AKXL	14	-1.0	Tcra	MGI:98553		A	A	A	L	.	A	A	L	L	L	L	A	A	.	.	L	A	A	J:52948	Ashman RB, Microb Pathog 1998 Dec;25(6):333-5	
+AKXL	14	-1.0	Tcra-V2	MGI:98563		.	A	.	L	.	.	A	L	.	.	.	.	.	.	.	.	.	A	J:1762	Pircher H, Eur J Immunol 1992 Feb;22(2):399-404	
+AKXL	14	-1.0	Xmv19	MGI:99065		.	A	A	L	L	A	A	L	L	L	L	A	A	L	L	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	14	26.4	Rnase1	MGI:97919		A	A	A	L	L	A	A	L	L	L	L	A	A	L	L	L	L*	A	J:52948	Ashman RB, Microb Pathog 1998 Dec;25(6):333-5	J:8319	Elliott RW, Cytogenet Cell Genet 1986;42(1-2):110-2	J:16621	Jordan-Starck TC, J Lipid Res 1994 Feb;35(2):194-210	
+AKXL	14	34.36	Clu	MGI:88423		A	A	A	?	L	A	A	A	L	L	L	A	A	L	L	L	A	A	J:52948	Ashman RB, Microb Pathog 1998 Dec;25(6):333-5	J:16621	Jordan-Starck TC, J Lipid Res 1994 Feb;35(2):194-210	
+AKXL	14	58.09	D14Mit9	MGI:90098		A	L	A	L	L	A	A	A	A	A	L	L	L	A	L	A	L	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	15	-1.0	D15Kyo1	MGI:90223		A	L	L	L	L	L	L	L	L	L	A	L	A	A	A	L	L	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	
+AKXL	15	-1.0	Xmv37	MGI:99085		A	A	L	L	L	L	L	A	L	A	L	A	L	L	L	A	A	A	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	15	29.3	Tg	MGI:98733		A	L	L	L	L	L	L	L	L	L	L	L	A	A	A	A	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:8652	Taylor BA, Proc Natl Acad Sci U S A 1987 Apr;84(7):1986-90	
+AKXL	15	37.67	D15Mit1	MGI:90227		L	L	L	L	L	A	L	L	L	A	L	L	L	L	L	L	L	L	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	15	57.2	Krt8	MGI:96705		L	L	A	A	A	L	L	A	A	A	L	A	A	A	L	A	A	L	J:2643	Beier DR, Proc Natl Acad Sci U S A 1992 Oct 1;89(19):9102-6	
+AKXL	15	58.05	D15Mit16	MGI:90294		L	L	L	A	L	L	L	A	A	L	L	A	L	A	A	L	L	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	16	-1.0	D16H21S52	MGI:90447		A	L	L	L	L	A	L	L	A	L	A	L	L	A	A	A	A	A	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	J:9328	Cheng SV, Proc Natl Acad Sci U S A 1988 Aug;85(16):6032-6	
+AKXL	16	-1.0	D16Ros1	MGI:90606		A	L	L	L	A	A	A	L	L	L	A	A	L	L	L	A	A	L	J:517	Ratty AK, Mamm Genome 1992;3(1):5-10	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	
+AKXL	16	-1.0	D16Ros2	MGI:90607		A	L	L	L	A	A	L	L	A	L	A	L	L	A	A	A	A	L	J:517	Ratty AK, Mamm Genome 1992;3(1):5-10	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	
+AKXL	16	-1.0	Mpmv17	MGI:97085		A	A	L	L	A	A	A	L	L	L	A	A	L	L	L	A	A	L	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	16	-1.0	Pmv14	MGI:97637		A	L	L	L	L	A	L	L	A	L	A	L	L	A	A	A	A	A	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	16	-1.0	Pmv32	MGI:97657		A	L	L	L	A	L	A	L	L	A	A	A	A	L	A	A	L	A	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	16	-1.0	Xmv35	MGI:99083		A	L	L	L	A	A	L	L	A	L	A	L	L	A	A	A	A	A	J:517	Ratty AK, Mamm Genome 1992;3(1):5-10	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	16	3.33	D16Mit9	MGI:90564		A	L	L	L	A	L	A	L	L	A	A	A	A	L	L	L	L	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	16	26.99	D16Mit12	MGI:90477		A	A	L	L	A	A	A	L	L	L	A	A	L	L	A	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	16	36.36	D16Mit47	MGI:90517		A	L	L	L	A	A	L	L	A	L	A	L	L	A	A	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	16	37.25	Pou1f1	MGI:97588		A	L	L	L	A	A	L	L	A	L	A	L	L	A	A	A	A	L	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	
+AKXL	16	51.56	Sod1	MGI:98351		A	A	A	L	L	A	L	A	A	A	A	L	L	A	L	L	A	A	J:4282	Taylor BA, Mouse Genome 1993;91(1):134-36	J:9328	Cheng SV, Proc Natl Acad Sci U S A 1988 Aug;85(16):6032-6	
+AKXL	16	57.68	D16Mit106	MGI:90462		A	L	A	L	A	A	L	A	L	L	A	L	L	A	L	L	A	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	17	-1.0	Ce2	MGI:88364		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	L	J:6472	Siadak AW, Immunogenetics 1981;12(1-2):45-58	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	
+AKXL	17	-1.0	D17H21S56	MGI:90663		L	A	L	A	L	L	A	L	L	L	L	A	A	L	L	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:9915	Mizuno K, Immunogenetics 1989;30(2):105-11	
+AKXL	17	-1.0	D17Leh108A	MGI:90685		L	A	L	A	L	L	A	A	L	L	L	A	L	.	A	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	-1.0	D17Leh66E	MGI:894609		L	A	L	L	A	L	A	L	L	L	L	A	L	.	L	A	A	L	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:9915	Mizuno K, Immunogenetics 1989;30(2):105-11	
+AKXL	17	-1.0	D17Mit1	MGI:90737		L	A	L	A	L	L	A	L	L	L	A	A	A	L	L	A	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	-1.0	D17Mit11	MGI:90749		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	-1.0	D17Mit27	MGI:90815		L	L	L	L	L	L	A	L	L	L	L	A	A	L	A	A	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	-1.0	D17Mit45	MGI:90834		L	A	L	A	L	L	A	L	L	L	L	A	A	L	A	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	-1.0	D17Nds2	MGI:90936		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	-1.0	D17Rp11e	MGI:90952		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	L	J:13993	Mann E, Mouse News Lett 1984;71():48	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:33857	Lavenu A, Genomics 1996 Jun 15;34(3):381-8	
+AKXL	17	-1.0	D17Tu10	MGI:90960		L	A	A	A	L	L	A	L	L	L	A	L	A	.	L	A	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	-1.0	D17Tu16	MGI:90963		L	A	L	A	L	L	A	A	L	L	L	A	L	.	A	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	-1.0	D17Tu2	MGI:90966		L	A	L	A	L	L	A	A	L	L	L	A	L	.	A	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	-1.0	D17Tu49	MGI:90990		L	A	L	A	L	L	A	A	L	L	L	A	L	.	A	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	-1.0	D17Tu5	MGI:90991		L	A	L	L	A	L	A	L	L	L	L	A	L	.	L	A	L	L	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:9915	Mizuno K, Immunogenetics 1989;30(2):105-11	
+AKXL	17	-1.0	D17Tu50	MGI:90992		L	L	L	A	L	L	A	L	L	L	L	A	A	.	A	A	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	-1.0	H2	MGI:95894		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:9915	Mizuno K, Immunogenetics 1989;30(2):105-11	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:16711	Tan H, Biochem Genet 1993 Dec;31(11-12):473-84	J:7346	D'Eustachio P, J Exp Med 1984 Mar 1;159(3):958-63	
+AKXL	17	-1.0	H2-S	MGI:95939		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	
+AKXL	17	-1.0	H2-T18	MGI:95950		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	
+AKXL	17	-1.0	Hprt-ps1	MGI:96218		L	L	A	A	A	L	A	A	L	L	A	A	L	L	L	L	L	L	J:13993	Mann E, Mouse News Lett 1984;71():48	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	-1.0	Rasl2-3	MGI:97864		L	A	A	A	A	L	A	A	L	L	A	A	L	L	L	L	L	L	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	J:33857	Lavenu A, Genomics 1996 Jun 15;34(3):381-8	
+AKXL	17	-1.0	Rasl3	MGI:97869		L	A	A	A	L	L	A	L	L	L	A	A	A	L	L	A	L	A	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+AKXL	17	-1.0	Thy2	MGI:98748		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	L	J:6472	Siadak AW, Immunogenetics 1981;12(1-2):45-58	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	
+AKXL	17	-1.0	Tsil	MGI:107442		L	A	A	A	L	L	A	A	L	L	L	A	L	L	A	.	.	L	J:33857	Lavenu A, Genomics 1996 Jun 15;34(3):381-8	
+AKXL	17	-1.0	Xmv36	MGI:99084		L	L	L	A	L	L	A	L	L	L	L	A	A	L	A	A	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	17	12.53	D17Mit46	MGI:90835		L	L	L	A	L	L	A	L	L	L	L	A	A	L	A	A	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	12.53	Hagh	MGI:95745		L	L	L	A	L	L	A	L	L	L	L	A	A	.	.	A	L	A	J:16711	Tan H, Biochem Genet 1993 Dec;31(11-12):473-84	
+AKXL	17	13.11	Hba-ps4	MGI:96018		L	L	L	A	L	L	A	L	L	L	L	A	A	L	A	A	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:9915	Mizuno K, Immunogenetics 1989;30(2):105-11	J:16711	Tan H, Biochem Genet 1993 Dec;31(11-12):473-84	J:7346	D'Eustachio P, J Exp Med 1984 Mar 1;159(3):958-63	
+AKXL	17	15.38	Pim1	MGI:97584		L	A	L	A	L	L	A	L	L	L	L	A	A	L	A	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:9915	Mizuno K, Immunogenetics 1989;30(2):105-11	
+AKXL	17	17.98	D17Mit16	MGI:90801		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	17.98	D17Mit21	MGI:90809		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	17.98	H2-K1	MGI:95904		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:6472	Siadak AW, Immunogenetics 1981;12(1-2):45-58	
+AKXL	17	18.59	D17Mit13	MGI:90770		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	18.61	H2-D1	MGI:95896		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:6472	Siadak AW, Immunogenetics 1981;12(1-2):45-58	
+AKXL	17	18.99	H2-T3	MGI:95959		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:6472	Siadak AW, Immunogenetics 1981;12(1-2):45-58	
+AKXL	17	19.16	D17Leh525	MGI:90712		.	A	.	A	L	L	.	.	.	L	.	A	L	.	A	.	L	.	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	19.16	D17Mit24	MGI:90812		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	17	19.44	Pgk2	MGI:97563		L	A	L	A	L	L	A	A	L	L	L	A	L	L	A	L	L	A	J:6472	Siadak AW, Immunogenetics 1981;12(1-2):45-58	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	
+AKXL	17	19.54	Crisp2	MGI:98815		L	A	L	A	L	L	A	A	L	L	L	A	L	.	A	L	L	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	17	23.98	Pgc	MGI:98909		L	A	L	A	L	L	A	A	L	L	L	A	L	L*	A	L	L	L	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:7346	D'Eustachio P, J Exp Med 1984 Mar 1;159(3):958-63	J:7001	Szymura JM, Biochem Genet 1982 Dec;20(11-12):1211-9	
+AKXL	17	29.32	Ptprs	MGI:97815		L	A	A	A	A	L	A	A	L	L	A	A	L	L	L	L	L	L	J:15863	Yan H, J Biol Chem 1993 Nov 25;268(33):24880-6	
+AKXL	17	29.73	D17Mit20	MGI:90808		L	A	A	A	A	L	A	A	L	L	A	A	L	L	L	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	18	-1.0	Xmv22	MGI:99069		L	A	L	L	L	L	A	L	L	A	L	L	L	A	L	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	18	-1.0	Xmv23	MGI:99070		L	A	L	L	L	L	A	L	L	A	L	L	L	A	L	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	18	3.02	D18Mit19	MGI:91070		L	A	A	A	A	L	L	A	A	L	A	L	L	A	A	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	18	5.88	D18Mit110	MGI:91028		L	A	L	A	A	L	L	A	A	L	A	L	L	A	A	A	L	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	18	16.2	D18Mit62	MGI:91117		A	A	A	A	A	L	A	A	A	L	A	L	L	A	L	L	L	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	18	20.57	D18Mit14	MGI:91059		A	A	A	A	A	L	A	A	A	L	A	L	L	A	L	L	L	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	18	21.09	Nr3c1	MGI:95824		A	A	A	A	A	L	A	A	A	L	A	L	L	A	L	L	L	L	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	18	34.41	Cd74	MGI:96534		A	A	.	L	L	L	L	A	A	L	L	L	L	L	A	L	L	L	J:7977	Richards JE, Immunogenetics 1985;22(2):193-9	
+AKXL	18	34.41	D18Mit51	MGI:91105		A	A	L	L	L	L	A	A	L	L	L	L	L	A	L	L	L	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	18	42.56	D18Mit9	MGI:91147		A	A	A	L	L	L	A	L	L	L	L	L	L	A	L	L	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	18	51.27	D18Mit49	MGI:91102		L	A	L	L	L	L	A	L	L	A	A	L	L	A	L	L	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	18	57.53	D18Mit4	MGI:91092		A	L	A	L	L	L	A	L	L	A	A	L	L	A	A	L	A	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	19	-1.0	D19Mit6	MGI:91272		L	L	L	L	L	L	.	L	L	L	L	A	L	L	A	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	19	-1.0	D19Rp19e	MGI:91337		A	A	A	A	A	A	L	A	L	L	L	L	A	A	A	A	A	L	J:22443	Li X, Mamm Genome 1995 Jan;6(1):42-5	J:14278	Elliott RW, Mouse News Lett 1988;80():180	
+AKXL	19	-1.0	Xmmv42	MGI:99018		A	A	A	L	A	A	L	A	L	L	L	L	A	A	A	A	A	L	J:22443	Li X, Mamm Genome 1995 Jan;6(1):42-5	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:9124	Hogarth PM, Immunogenetics 1988;27(5):383-7	
+AKXL	19	-1.0	Xmv18	MGI:99064		L	L	L	L	L	L	L	L	L	L	L	A	L	L	A	A	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	19	4.3	D19Mit59	MGI:91271		A	A	A	L	A	A	L	A	L	L	L	L	A	A	A	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	J:42942	Schreiber M, Oncogene 1997 Sep 4;15(10):1171-8	
+AKXL	19	4.33	Fosl1	MGI:107179		A	A	A	L	A	A	L	A	L	L	L	L	A	.	A	A	A	L	J:42942	Schreiber M, Oncogene 1997 Sep 4;15(10):1171-8	
+AKXL	19	4.34	Ltbp3	MGI:1101355		A	A	A	L	A	A	L	A	L	L	L	L	A	A	A	A	A	L	J:22443	Li X, Mamm Genome 1995 Jan;6(1):42-5	
+AKXL	19	5.44	Slc3a2	MGI:96955		A	A	A	L	A	A	L	A	L	L	L	L	A	A	A	A	A	L	J:22443	Li X, Mamm Genome 1995 Jan;6(1):42-5	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:11060	Chainani M, Genomics 1991 Feb;9(2):376-9	J:14278	Elliott RW, Mouse News Lett 1988;80():180	J:9124	Hogarth PM, Immunogenetics 1988;27(5):383-7	J:10118	Huppi K, J Immunol 1989 Dec 1;143(11):3787-91	
+AKXL	19	6.1	Incenp	MGI:1313288		A	A	A	L	A	A	L	A	L	L	L	L	A	A	A	A	A	L	J:50321	Fowler KJ, Cytogenet Cell Genet 1998;82(1-2):67-70	
+AKXL	19	7.16	Cd5	MGI:88340		A	A	A	L	A	A	A*	A	L	L	L	L	A	A	L*	A	A	L	J:22443	Li X, Mamm Genome 1995 Jan;6(1):42-5	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:10118	Huppi K, J Immunol 1989 Dec 1;143(11):3787-91	
+AKXL	19	8.46	Ms4a2	MGI:95495		A	A	A	L	A	A	A	A	L	L	L	L	A	L	L	A	A	L	J:22443	Li X, Mamm Genome 1995 Jan;6(1):42-5	J:10118	Huppi K, J Immunol 1989 Dec 1;143(11):3787-91	
+AKXL	19	13.18	D19Mit41	MGI:91252		A	L	A	L	A	A	A	A	L	L	L	A	A	A	.	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	19	20.38	D19Mit40	MGI:91251		A	L	A	L	A	A	A	L	L	L	L	A	L	L	L	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	19	23.73	Jak2	MGI:96629		A	L	A	L	A	A	L	L	L	L	L	A	L	L	L	A	A	L	J:24373	Gough NM, Mamm Genome 1995 Apr;6(4):247-8	
+AKXL	19	23.83	Rln1	MGI:97931		A	L	A	L	A	A	L	L	L	L	L	A	L	L	L	A	A	L	J:605	Fowler KJ, FEBS Lett 1991 Nov 4;292(1-2):183-6	
+AKXL	19	32.75	Rbp4	MGI:97879		A	L	L	L	A	A	L	L	L	L	L	A	A	L	L	A	A	L	J:11060	Chainani M, Genomics 1991 Feb;9(2):376-9	
+AKXL	19	33.91	Cyp2c29	MGI:103238		A	L	L	L	A	A	L	L	L	L	L	A	A	L	L	A	A	L	J:11060	Chainani M, Genomics 1991 Feb;9(2):376-9	J:9133	Meehan RR, Proc Natl Acad Sci U S A 1988 Apr;85(8):2662-6	
+AKXL	19	34.08	D19Mit19	MGI:91227		A	L	L	L	A	A	L	L	L	L	L	A	A	L	L	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	19	36.26	D19Mit11.1	MGI:91217		A	L	L	L	A	A	L	L	L	L	L	A	A	L	L	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	19	51.41	D19Mit35	MGI:91245		L	A	L	L	L	L	L	L	L	L	L	A	L	L	A	A	A	L	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	2	-1.0	Emv13	MGI:95329		L	L	L	A	A	A	L	L	A	L	A	L	A	A	A	L	A	L	J:7991	Taylor BA, J Virol 1985 Oct;56(1):172-5	J:9964	Crosby JL, Genomics 1989 Jul;5(1):19-23	J:6786	Steffen DL, J Virol 1982 Apr;42(1):165-75	
+AKXL	2	-1.0	Ly23	MGI:96863		L	L	L	A	L	A	L	L	L	A	L	L	A	L	A	L	A	L	J:7228	Gasser DL, Proc Natl Acad Sci U S A 1983 Nov;80(21):6620-3	
+AKXL	2	-1.0	Mpmv14	MGI:97082		L	L	L	A	L	A	L	L	A	A	L	L	A	A	?	L	A	L	J:1725	Ozcelik T, Genomics 1992 Aug;13(4):1157-61	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	2	-1.0	Pmv33	MGI:97658		L	L	A	A	A	A	A	L	L	L	L	L	A	A	L	L	A	L	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	2	-1.0	Pmv7	MGI:97698		.	A	L	L	A	A	L	L	L	A	L	L	A	L	A	L	A	L	J:1725	Ozcelik T, Genomics 1992 Aug;13(4):1157-61	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:1901	Schurr E, Cytogenet Cell Genet 1991;57(4):214-6	
+AKXL	2	-1.0	Rasl2-4	MGI:97865		L	L	L	A	L	A	L	L	L	A	L	L	A	A	A	L	A	L	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+AKXL	2	21.81	Ass1	MGI:88090		A	A	L	L	A	A	A	L	L	A	L	L	A	A	A	L	A	A	J:10442	Jackson MJ, Genomics 1990 Mar;6(3):545-7	
+AKXL	2	21.81	D2Mit64	MGI:92201		A	A	L	L	A	A	A	L	L	A	L	L	A	A	A	L	A	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	23.22	Hc	MGI:96031		A	A	L	L	A	A	A	L	L	A	L	L	A	A	A	L	A	L	J:10442	Jackson MJ, Genomics 1990 Mar;6(3):545-7	J:1901	Schurr E, Cytogenet Cell Genet 1991;57(4):214-6	
+AKXL	2	24.26	D2Mit7	MGI:92205		A	A	L	L	A	A	A	L	L	A	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	29.98	Neb	MGI:97292		A	A	L	L	A	A	L	L	L	A	L	L	A	A	L	L	A	L	J:44617	Fulop C, Gene 1997 Nov 20;202(1-2):95-102	J:1901	Schurr E, Cytogenet Cell Genet 1991;57(4):214-6	
+AKXL	2	29.98	Tnfaip6	MGI:1195266		A	A	L	L	L	A	L	L	L	A	L	L	A	A	L	L	A	L	J:44617	Fulop C, Gene 1997 Nov 20;202(1-2):95-102	
+AKXL	2	41.97	D2Mit56	MGI:92192		A	L	L	A	L	A	A	L	L	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	42.65	Dlx2	MGI:94902		A	L	L	A	L	A	A	L	L	L	L	L	A	A	A	L	A	L	J:1725	Ozcelik T, Genomics 1992 Aug;13(4):1157-61	
+AKXL	2	42.79	D2Mit11	MGI:91966		A	L	L	A	L	A	A	L	L	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	44.13	D2Mit35	MGI:92171		A	L	L	A	L	A	A	L	L	A	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	47.93	Lith1	MGI:102584		L	L	L	A	L	A	A	.	L	L	L	A	A	.	.	L	L	L	J:28288	Khanuja B, Proc Natl Acad Sci U S A 1995 Aug 15;92(17):7729-33	
+AKXL	2	49.45	D2Mit66	MGI:92203		L	L	L	A	L	A	A	A	A	A	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	49.45	Serping1	MGI:894696		L	L	L	A	L	A	A	A	A	A	L	L	A	A	A	L	A	L	J:41338	Lener M, Mamm Genome 1998 Jan;9(1):94	
+AKXL	2	49.68	D2Mit14a	MGI:91999		L	L	L	A	L	A	A	A	A	A	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	57.55	Actc1	MGI:87905		L	L	L	A	L	A	L	L	L	A	.	L	A	A	A	L	A	L	J:9964	Crosby JL, Genomics 1989 Jul;5(1):19-23	
+AKXL	2	59.14	Rap1a-ps2	MGI:3651938		L	L	L	A	L	A	L	L	L	A	L	L	A	A	A	L	.	L	J:895	Dower NA, Mamm Genome 1992;3(3):162-7	
+AKXL	2	60.55	B2m	MGI:88127		L	L	L	A	L	A	L	L	L	A	L	L	A	A	A	L	A	L	J:1872	Tada N, Immunogenetics 1980;11(5):441-9	J:7991	Taylor BA, J Virol 1985 Oct;56(1):172-5	J:9964	Crosby JL, Genomics 1989 Jul;5(1):19-23	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:6860	Chorney M, Immunogenetics 1982;16(1):91-3	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:7228	Gasser DL, Proc Natl Acad Sci U S A 1983 Nov;80(21):6620-3	
+AKXL	2	62.9	Il1a	MGI:96542		L	L	L	A	L	A	L	L	L	A	A	L	A	L	A	L	A	L	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+AKXL	2	63.23	Ptpra	MGI:97808		L	L	L	A	L	A	L	L	L	A	A	L	A	L	A	L	A	L	J:10677	Sap J, Proc Natl Acad Sci U S A 1990 Aug;87(16):6112-6	
+AKXL	2	71.17	D2Mit109	MGI:91965		L	L	L	A	L	A	L	L	A	A	A	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	2	78.2	Rpn2	MGI:98085		A	L	L	L	A	L	L	L	A	L	A	L	A	A	A	L	A	L	J:11210	Pirozzi G, Biochem Biophys Res Commun 1991 May 15;176(3):1482-6	
+AKXL	2	85.16	Svs5	MGI:98453		A	A	A	L	A	A	A	L	A	L	L	L	A	A	A	L	A	L	J:7991	Taylor BA, J Virol 1985 Oct;56(1):172-5	
+AKXL	3	-1.0	D3Mit19	MGI:92463		A	L	A	A	A	A	A	A	L	A	A	A	A	L	A	L	A	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	3	-1.0	D3Mit51	MGI:92521		L	L	L	L	L	A	A	A	L	L	A	L	A	A	L	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	-1.0	D3Mit9	MGI:92562		A	L	L	L	L	A	A	A	L	L	A	L	A	L	L	L	A	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	-1.0	D3Pas1	MGI:92632		L	L	L	L	A	A	A	A	L	L	A	L	L	A	L	L	A	L	J:1578	Serikawa T, Mamm Genome 1992;3(2):65-72	
+AKXL	3	-1.0	D3Tu51	MGI:92637		L	L	A	L	L	A	A	A	L	L	L	L	A	.	L	L	A	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+AKXL	3	-1.0	Es26	MGI:95438		L	L	L	L	L	A	A	A	L	L	A	L	A	A	L	L	L	L	J:14460	Birkenmeier EH, Mamm Genome 1993 Sep;4(9):531-6	
+AKXL	3	-1.0	Mpmv20	MGI:97089		L	L	A	A	L	A	L	A	L	L	L	L	L	A	L	L	L	L	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	3	-1.0	Pmv26	MGI:97650		A	A	A	A	A	L	A	L	L	L	A	A	A	L	A	L	L	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	3	-1.0	Pmv28	MGI:97652		A	L	A	L	L	A	A	A	L	L	L	L	A	L	L	L	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	3	-1.0	Xmmv47	MGI:99023		L	L	L	L	L	A	A	A	L	L	A	L	A	A	L	L	L	L	J:1578	Serikawa T, Mamm Genome 1992;3(2):65-72	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+AKXL	3	-1.0	Xmmv65	MGI:99038		A	L	A	L	L	A	A	A	L	L	L	L	A	L	L	L	A	A	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+AKXL	3	2.56	Fabp4	MGI:88038		L	A	L	L	L	A	L	A	L	A	A	A	L	A	L	L	.	A	J:8761	Heuckeroth RO, J Biol Chem 1987 Jul 15;262(20):9709-17	
+AKXL	3	3.23	Car2	MGI:88269		L	A	L	L	L	A	L	A	L	A	A	A	L	A	L	L	A	A	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	J:9175	Mucenski ML, Oncogene Res 1988 Feb;2(3):219-33	J:8761	Heuckeroth RO, J Biol Chem 1987 Jul 15;262(20):9709-17	
+AKXL	3	12.66	Mecom	MGI:95457		L	L	A	A	L	A	A	A	L	A	L	L	L	A	L	L	A	L	J:9175	Mucenski ML, Oncogene Res 1988 Feb;2(3):219-33	
+AKXL	3	12.7	D3Mit46	MGI:92516		L	L	A	A	L	A	A	A	L	A	L	L	L	A	L	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	18.3	D3Mit21	MGI:92484		L	L	A	A	L	A	A	A	L	L	A	L	L	A	L	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	21.67	D3Mit6	MGI:92530		L	L	L	L	A	A	A	A	L	L	A	L	L	A	L	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	21.81	D3Mit5	MGI:92519		L	L	L	L	A	A	A	A	L	L	A	L	L	A	L	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	29.17	D3Mit7	MGI:92541		L	A	L	L	L	A	A	A	L	L	L	L	A	A	L	L	L	L	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	3	32.25	D3Mit22	MGI:92495		L	L	L	L	L	A	A	A	L	L	A	L	A	A	L	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	32.59	Sis	MGI:1917233		L	L	L	L	L	A	A	A	L	L	A	L	A	A	L	L	L	L	J:14460	Birkenmeier EH, Mamm Genome 1993 Sep;4(9):531-6	
+AKXL	3	34.97	D3Mit26	MGI:92500		L	L	L	L	L	A	A	A	L	L	A	L	A	L	L	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	38.19	D3Mit40	MGI:92510		A	L	A	L	L	A	A	A	L	L	A	L	A	L	L	L	A	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	39.02	D3Mit49	MGI:92518		A	L	A	L	L	A	A	A	L	L	L	L	A	L	L	L	A	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	3	40.51	S100a10	MGI:1339468		A	L	A	L	L	A	A	A	.	L	L	L	A	L	L	L	A	A	J:8809	Saris CJ, J Biol Chem 1987 Aug 5;262(22):10663-71	
+AKXL	3	49.35	Amy1	MGI:88019		A	L	A	L	L	A	A	A	L	L	L	L	A	A	A	L	L	A	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+AKXL	3	49.35	Amy2a5	MGI:88020		A	L	A	L	L	A	A	A	L	L	L	L	A	A	A	L	L	A	J:9139	Paul PR, Biochem Genet 1987 Aug;25(7-8):569-79	
+AKXL	4	-1.0	D4Ty1	MGI:106068		L	A	A	L	A	A	L	L	L	A	A	L	L	L	L	A	L	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	4	-1.0	Ly31	MGI:96869		L	A	A	L	A	A	L	A	L	A	A	L	L	L	L	A	L	A	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	
+AKXL	4	-1.0	Mpmv19	MGI:97087		.	A	A	L	A	L	L	L	L	A	L	L	L	A	L	A	A	L	J:1584	Rohdewohld H, Mamm Genome 1992;3(2):119-21	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:3566	Chang-Yeh A, Proc Natl Acad Sci U S A 1993 Jan 1;90(1):292-6	
+AKXL	4	-1.0	Pmv19	MGI:97642		.	A	A	L	A	L	L	L	L	A	L	L	L	A	L	A	A	L	J:1584	Rohdewohld H, Mamm Genome 1992;3(2):119-21	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:3566	Chang-Yeh A, Proc Natl Acad Sci U S A 1993 Jan 1;90(1):292-6	
+AKXL	4	-1.0	Pmv25	MGI:97649		.	L	A	A	L	A	A	L	L	L	A	A	A	L	L	L	L	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	4	-1.0	Rasl2-7	MGI:97868		L	A	A	A	L	A	L	L	A	L	L	A	A	A	A	A	L	A	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+AKXL	4	-1.0	Xmmv62	MGI:99035		L	A	A	L	A	A	L	L	L	A	A	A	L	L	L	L	A	A	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+AKXL	4	10.61	D4Mit2	MGI:92830		L	A	A	L	A	A	A	L	A	A	L	A	A	A	A	A	L	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	4	23.04	Cd72	MGI:88345		L	A	A	A	L	A	A	L	A	A	L	A	A	A	A	A	L	A	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:6604	Tada N, Immunogenetics 1981;13(6):539-46	
+AKXL	4	32.85	Mup1	MGI:97233		L	A	L	A	A	A	L	L	A	L	L	L	A	A	L	L	L	L	J:6746	Bennett KL, Proc Natl Acad Sci U S A 1982 Feb;79(4):1220-4	
+AKXL	4	37.89	Tyrp1	MGI:98881	Tyrp1<b>	L	A	L	A	A	L	L	L	L	A	L	?	L	A	L	L	L	L	J:1584	Rohdewohld H, Mamm Genome 1992;3(2):119-21	J:9222	Jackson IJ, Proc Natl Acad Sci U S A 1988 Jun;85(12):4392-6	
+AKXL	4	53.2	Ipp	MGI:96581		.	A	A	L	L	.	L	L	L	A	L	A	L	.	L	A	A	L	J:3566	Chang-Yeh A, Proc Natl Acad Sci U S A 1993 Jan 1;90(1):292-6	
+AKXL	4	57.36	Mycl1	MGI:96799		L	A	A	L	A	L	L	L	L	A	A	L	L	A	L	A	L	L	J:9772	Campbell GR, Oncogene Res 1989;4(1):47-54	J:1584	Rohdewohld H, Mamm Genome 1992;3(2):119-21	
+AKXL	4	57.86	Pou3f1	MGI:101896		L	L	A	L	A	.	L	L	L	A	A	L	L	A	L	A	L	L	J:1584	Rohdewohld H, Mamm Genome 1992;3(2):119-21	
+AKXL	4	69.93	Hspg2	MGI:96257		L	A	A	L	A	A	L	A	L	A	A	L	L	L	L	A	L	A	J:454	Chakravarti S, Mamm Genome 1991;1(4):270-2	
+AKXL	4	70.02	Alpl	MGI:87983		L	A	A	L	A	A	L	A	L	A	A	L	L	L	L	A	L	A	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	J:454	Chakravarti S, Mamm Genome 1991;1(4):270-2	J:1584	Rohdewohld H, Mamm Genome 1992;3(2):119-21	J:2537	Watanabe K, Mouse Genome 1992;90(3):444-45	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+AKXL	4	70.79	Aldh4a1	MGI:2443883		L	A	A	L	A	A	L	A	L	A	A	L	L	L	L	A	L	A	J:1584	Rohdewohld H, Mamm Genome 1992;3(2):119-21	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+AKXL	4	73.01	Padi2	MGI:1338892		L	A	A	L	A	A	L	A	L	A	A	L	L	L	L	A	L	A	J:2537	Watanabe K, Mouse Genome 1992;90(3):444-45	
+AKXL	4	80.65	H6pd	MGI:2140356		L	A	A	L	A	A	L	L	L	A	A	A	L	L	L	L	A	A	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:454	Chakravarti S, Mamm Genome 1991;1(4):270-2	J:2537	Watanabe K, Mouse Genome 1992;90(3):444-45	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+AKXL	4	87.61	Dvl1	MGI:94941		L	A	A	L	A	L	L	L	L	A	A	A	L	A	L	L	A	A	J:2643	Beier DR, Proc Natl Acad Sci U S A 1992 Oct 1;89(19):9102-6	
+AKXL	5	-1.0	D5Bir2	MGI:93115		L	L	L	L	A	L	A	A	L	A	L	A	A	A	A	L	L	A	J:3011	Birkenmeier EH, Mamm Genome 1992;3(10):537-45	
+AKXL	5	-1.0	D5Bir3	MGI:93119		A	L	A	L	L	L	A	A	L	A	L	A	A	A	L	L	L	A	J:3011	Birkenmeier EH, Mamm Genome 1992;3(10):537-45	J:47774	Fowler KJ, Cytogenet Cell Genet 1997;79(3-4):298-301	
+AKXL	5	-1.0	D5H4S76	MGI:93158		A	L	L	A	L	L	L	A	L	A	L	A	L	A	L	L	L	A	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	
+AKXL	5	-1.0	D5Kyo2	MGI:93164		A	A	L	A	A	L	A	.	A	A	L	A	A	L	L	L	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	
+AKXL	5	-1.0	Mpmv13	MGI:97081		L	L	L	L	A	L	A	A	L	A	L	A	A	L	A	L	L	A	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:47774	Fowler KJ, Cytogenet Cell Genet 1997;79(3-4):298-301	
+AKXL	5	-1.0	Mpmv7	MGI:97134		A	L	A	L	L	L	A	A	L	A	L	A	A	A	L	L	L	A	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	J:47774	Fowler KJ, Cytogenet Cell Genet 1997;79(3-4):298-301	
+AKXL	5	-1.0	Mr66-1	MGI:97139		A	A	L	A	A	L	A	A	A	A	L	A	A	L	L	L	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:11828	Adiletta DC, DNA Cell Biol 1993 May;12(4):319-27	
+AKXL	5	-1.0	Pmv11	MGI:97634		L	L	L	A	L	A	L	A	L	A	A	L	L	L	L	L	L	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:16406	Maichele AJ, Mamm Genome 1994 Jan;5(1):15-8	
+AKXL	5	-1.0	Xmv17	MGI:99063		L	L	L	L	A	L	A	A	L	A	L	A	A	A	A	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	5	-1.0	Xmv38	MGI:99086		A	L	L	A	L	L	A	A	L	A	L	A	L	A	L	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	5	-1.0	Xmv45	MGI:99093		.	L	L	L	A	L	A	A	L	A	L	A	A	A	A	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	5	8.0	D5Mit1	MGI:93167		L	L	L	L	A	A	A	A	L	A	L	A	A	A	A	L	?	.	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	5	16.76	Cenpa	MGI:88375		A	L	A	L	L	L	A	L	L	A	L	A	A	L	A	L	L	A	J:47774	Fowler KJ, Cytogenet Cell Genet 1997;79(3-4):298-301	
+AKXL	5	17.84	Haus3	MGI:2387633		A	L	A	L	L	L	A	L	L	A	L	A	A	L	A	L	L	A	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	J:47774	Fowler KJ, Cytogenet Cell Genet 1997;79(3-4):298-301	
+AKXL	5	18.09	Adra2c	MGI:87936		A	L	A	L	L	L	.	L	L	A	L	A	A	L	A	L	L	A	J:15640	Link RE, Mamm Genome 1993 Nov;4(11):650-5	J:47774	Fowler KJ, Cytogenet Cell Genet 1997;79(3-4):298-301	
+AKXL	5	18.25	Plk-ps1	MGI:103247		A	L	A	L	L	L	A	L	L	A	L	A	A	.	A	L	L	A	J:36971	Clay FJ, Gene 1997 Oct 1;198(1-2):329-39	
+AKXL	5	24.9	Qdpr	MGI:97836		A	L	A	L	L	L	A	L	L	A	L	A	A	L	A	L	L	A	J:9764	Cheng SV, Genomics 1989 Apr;4(3):419-26	J:15640	Link RE, Mamm Genome 1993 Nov;4(11):650-5	J:47774	Fowler KJ, Cytogenet Cell Genet 1997;79(3-4):298-301	
+AKXL	5	55.99	Acads	MGI:87868		A	A	L	L	L	A	A	A	A	L	L	L	L	A	L	L	L	L	J:16406	Maichele AJ, Mamm Genome 1994 Jan;5(1):15-8	J:8881	Winchester G, Immunogenetics 1987;26(6):356-8	
+AKXL	5	62.82	Hpd	MGI:96213		A	A	L	A	L	L	A	A	A	A	L	L	L	L	L	L	L	L	J:16406	Maichele AJ, Mamm Genome 1994 Jan;5(1):15-8	J:8881	Winchester G, Immunogenetics 1987;26(6):356-8	
+AKXL	5	68.26	Phkg1	MGI:97579		L	A	L	A	A	L	A	A	A	A	L	L	L	L	L	L	L	L	J:16406	Maichele AJ, Mamm Genome 1994 Jan;5(1):15-8	
+AKXL	5	68.32	Gusb	MGI:95872		L	A	L	A	A	L	A	A	A	A	L	L	L	L	L	L	L	L	J:16406	Maichele AJ, Mamm Genome 1994 Jan;5(1):15-8	J:8881	Winchester G, Immunogenetics 1987;26(6):356-8	
+AKXL	5	68.35	D5Mit27	MGI:93331		L	A	L	A	A	L	A	A	A	A	L	L	L	L	L	L	L	L	J:16406	Maichele AJ, Mamm Genome 1994 Jan;5(1):15-8	
+AKXL	5	76.5	Epo	MGI:95407		A	A	L	A	A	L	A	A	A	A	L	A	A	L	L	L	A	A	J:16406	Maichele AJ, Mamm Genome 1994 Jan;5(1):15-8	
+AKXL	6	-1.0	D6Kyo1	MGI:93519		L	L	L	L	L	L	A	A	L	A	L	A	L	A	A	L	L	L	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	
+AKXL	6	-1.0	D6Mit42	MGI:93674		L	L	L	L	L	A	A	A	L	A	L	A	L	A	A	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	-1.0	Ea10	MGI:95264		.	A	.	L	.	A	A	L	L	A	A	L	A	L	L	L	L	A	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+AKXL	6	-1.0	Es12	MGI:95423		L	L	L	L	L	A	L	L	L	A	A	L	A	L	L	L	L	A	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+AKXL	6	-1.0	Igk-J	MGI:96497		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	L	L	J:8431	Boyd RT, Immunogenetics 1986;24(3):150-7	
+AKXL	6	-1.0	Igk-Pc	MGI:96498		.	L	.	L	.	L	A	.	L	L	.	L	A	A	A	A	L	L	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	
+AKXL	6	-1.0	Igk-V28	MGI:96511		L	L	L	L	L	L	A	L	L	L	L	L	A*	A	A	L	L	L	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	J:6044	Gibson DM, J Immunol 1978 Oct;121(4):1585-90	
+AKXL	6	-1.0	Klra	MGI:96876		L	L	L	L	L	A	A	L	L	A	A	L	A	L	L	L	L	A	J:10723	Yokoyama WM, J Immunol 1990 Oct 1;145(7):2353-8	J:12581	Yokoyama WM, J Immunol 1991 Nov 1;147(9):3229-36	
+AKXL	6	-1.0	Mtv23	MGI:97190		L	L	L	L	L	L	A	A	L	A	L	A	L	L	A	A	L	L	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+AKXL	6	-1.0	Mtv29	MGI:97196		L	L	L	A	L	L	A	A	L	A	L	A	L	A	A	A	L	L	J:10675	Lee BK, J Virol 1990 Sep;64(9):4568-72	
+AKXL	6	-1.0	Myk103	MGI:97266		L	L	L	L	L	L	A	A	L	A	L	A	L	A	A	L	L	L	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:8767	Wilkie TM, Mol Cell Biol 1987 May;7(5):1646-55	
+AKXL	6	-1.0	Odc-rs5	MGI:97419		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	L	L	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	
+AKXL	6	-1.0	Rn7s6	MGI:97956		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	L	L	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	
+AKXL	6	-1.0	Tcrb	MGI:98578		L	L	L	L	L	L	A	A	L	A	A	A	L	A	A	L	L	L	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	
+AKXL	6	-1.0	Tcrb-V8	MGI:98606		L	L	L	L	L	L	A	A	L	A	A	A	L	A	A	L	L	L	J:8767	Wilkie TM, Mol Cell Biol 1987 May;7(5):1646-55	
+AKXL	6	-1.0	Xmv24	MGI:99071		A	L	L	L	L	L	L	L	L	A	L	L	.	A	L	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	6	1.81	D6Mit86	MGI:93719		L	L	L	L	.	L	A	A	L	L	L	A	A	L	A	A	L	A	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+AKXL	6	6.68	D6Mit1	MGI:93523		L	L	L	L	.	L	A	A	L	A	L	A	.	L	A	A	L	.	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+AKXL	6	24.42	D6Mit33	MGI:93665		L	L	L	L	L	L	A	A	L	A	L	A	L	A	A	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	30.89	Igk	MGI:96494		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	L	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:10507	Elliott RW, Genomics 1990 Apr;6(4):635-44	J:8932	Sweetser DA, J Biol Chem 1987 Nov 25;262(33):16060-71	
+AKXL	6	32.14	Cd8a	MGI:88346		L	L	L	L	L	L	A	L	L	L	L	L	A*	A	A	L*	L	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:10507	Elliott RW, Genomics 1990 Apr;6(4):635-44	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	J:7941	Roehm NW, J Immunol 1985 Sep;135(3):2176-82	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	J:8932	Sweetser DA, J Biol Chem 1987 Nov 25;262(33):16060-71	
+AKXL	6	32.14	Cd8b1	MGI:88347		L	L	L	L	L	L	A	L	L	L	L	L	A*	A	A	L*	L	L	J:4416	Claflin JL, Immunogenetics 1978;6():379-387	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	J:6044	Gibson DM, J Immunol 1978 Oct;121(4):1585-90	
+AKXL	6	32.14	D6Mit16	MGI:93590		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	32.14	D6Mit17	MGI:93601		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	32.14	Fabp1	MGI:95479		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	L	L	J:8932	Sweetser DA, J Biol Chem 1987 Nov 25;262(33):16060-71	
+AKXL	6	34.81	D6Mit3	MGI:93661		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	35.16	D6Mit4	MGI:93671		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	36.34	D6Mit21	MGI:93643		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	37.15	D6Mit22	MGI:93654		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	37.62	Tgfa	MGI:98724		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	A	L	J:12769	Fowler KJ, Genomics 1993 Jun;16(3):782-4	
+AKXL	6	37.75	D6Mit29	MGI:93660		L	L	L	L	L	L	A	L	L	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	39.13	D6Mit40	MGI:93672		L	L	L	L	L	L	A	L	A	L	L	L	A	A	A	L	A	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	6	49.19	Il5ra	MGI:96558		L	L	L	L	L	L	L	L	A	L	A	L	A	L	A	L	L	L	J:332	Gough NM, Genomics 1992 Apr;12(4):855-6	
+AKXL	6	53.62	Raf1	MGI:97847		L	L	L	L	L	L	L	L	A	L	A	L	A	L	L	L	L	A	J:10507	Elliott RW, Genomics 1990 Apr;6(4):635-44	
+AKXL	6	53.72	Rho	MGI:97914		L	L	L	L	L	L	L	L	A	L	A	L	A	L	L	L	L	A	J:10507	Elliott RW, Genomics 1990 Apr;6(4):635-44	
+AKXL	6	63.09	Klrb1c	MGI:107538		L	L	L	L	L	A	L	L	L	A	A	L	A	L	L	L	L	A	J:12581	Yokoyama WM, J Immunol 1991 Nov 1;147(9):3229-36	
+AKXL	6	64.03	Prh1	MGI:97773		L	L	L	L	L	A	A	L	L	A	A	L	A	L	L	L	L	A	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:10723	Yokoyama WM, J Immunol 1990 Oct 1;145(7):2353-8	J:12581	Yokoyama WM, J Immunol 1991 Nov 1;147(9):3229-36	
+AKXL	7	-1.0	Bc1	MGI:104905		L	L	L	L	L	A	A	L	L	L	L	L	L	A	A	A	L	A	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+AKXL	7	-1.0	Emv11	MGI:95327		L	A	A	A	A	L	L	L	A	A	L	A	A	A	L	L	L	A	J:6786	Steffen DL, J Virol 1982 Apr;42(1):165-75	
+AKXL	7	-1.0	Fau-ps3	MGI:1095402		A	L	A	A	A	L	L	L	A	A	A	A	L	A	A	L	A	A	J:41506	Casteels D, Mouse Genome 1997;95(2):488-91	
+AKXL	7	-1.0	Fvis1	MGI:95536		L	L	L	L	L	A	A	L	L	L	L	L	L	A	A	A	L	A	J:8493	Silver J, J Virol 1986 Dec;60(3):1156-8	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+AKXL	7	-1.0	Hbb	MGI:96020		A	A	A	A	A	A	L	L	A	A	A	A	L	L	L	L	A	A	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:5687	Stern RH, Biochem Genet 1976 Apr;14(3-4):373-81	
+AKXL	7	-1.0	Mod2	MGI:97045		A	A	A	A	A	A	L	L	L	A	A	A	L	L	L	A	A	A	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+AKXL	7	-1.0	Odc-rs7	MGI:97421		A	A	A	A	A	A	L	L	L	A	A	A	L	L	L	L	A	A	J:953	Richards-Smith BA, Mamm Genome 1992;2(4):215-32	J:13992	Richards-Smith B, Mouse News Lett 1984;71():46-47	
+AKXL	7	-1.0	Pmv29	MGI:97653		L	L	A	L	A	L	L	A	A	A	L	A	A	A	L	L	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	7	-1.0	Pmv31	MGI:97656		A	A	A	A	A	A	L	L	L	A	A	A	L	L	L	A	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	7	-1.0	Rasl4	MGI:97870		A	L	A	A	L	A	L	L	A	L	A	A	L	L	A	L	A	A	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+AKXL	7	15.54	Cyp2a5	MGI:88597		A	L	A	L	A	.	L	A	A	A	L	.	A	.	.	A	.	A	J:6945	Symington FW, Immunogenetics 1982;16(5):381-91	
+AKXL	7	18.78	Upk1a	MGI:98911		A	L	A	L	.	L	L	L	A	A	A	A	A	A	L	L	A	A	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+AKXL	7	19.26	Cd22	MGI:88322		A	L	A	L	A	.	L	L	A	A	A	.	A	.	.	L	.	A	J:6945	Symington FW, Immunogenetics 1982;16(5):381-91	
+AKXL	7	21.02	Cebpa	MGI:99480		A	L	A	L	A	L	L	L	A	A	A	L	A	A	A	L	A	A	J:10026	Birkenmeier EH, Genes Dev 1989 Aug;3(8):1146-56	J:9999	Xanthopoulos KG, Cytogenet Cell Genet 1989;50(2-3):174-5	
+AKXL	7	21.37	Nudt19	MGI:94203		A	L	A	L	A	L	L	L	A	A	A	L*	A	A	A	L	A	A	J:6945	Symington FW, Immunogenetics 1982;16(5):381-91	J:10026	Birkenmeier EH, Genes Dev 1989 Aug;3(8):1146-56	J:20642	Taylor BA, Personal Communication 1994 July 8;():	J:9999	Xanthopoulos KG, Cytogenet Cell Genet 1989;50(2-3):174-5	J:7029	Elliott RW, Proc Natl Acad Sci U S A 1983 Jan;80(2):501-4	
+AKXL	7	28.85	Kcnc3	MGI:96669		A	A	L	L	A	L	A	A	A	L	A	L	L	L	A	L	A	L	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+AKXL	7	32.87	Gas2	MGI:95657		A	L	A	A	A	L	L	A	A	A	L	A	L	A	A	A	A	A	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+AKXL	7	33.44	Oca2	MGI:97454		A	L	A	A	A	L	L	A	A	A	L	A	L	A	A	A	A	A	J:14250	Nicholls RD, Mouse News Lett 1989;84():87-88	
+AKXL	7	45.65	Fes	MGI:95514		A	A	A	A	A	A	L	L	L	A	A	A	L	L	L	A	A	A	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+AKXL	7	49.01	Tyr	MGI:98880	Tyr<c>	A	A	A	A	A	A	L	L	L	A	A	A	L	L	L	A	A	A	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+AKXL	7	54.85	Hbb-y	MGI:96027		.	.	.	A	.	.	L	L	A	.	.	A	.	L	L	.	A	A	J:5687	Stern RH, Biochem Genet 1976 Apr;14(3-4):373-81	
+AKXL	7	68.94	Il4ra	MGI:105367		L	L	A	L	L	A	A	L	L	A	A	L	L	L	A	L	A	L	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	
+AKXL	7	69.44	Itgal	MGI:96606		L	L	A	L	L	A	A	L	L	L	A	L	L	L	A	L	A	L	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	
+AKXL	7	88.06	Th	MGI:98735		L	A	L	L	L	A	A	L	L	A	L	L	L	A	A	A	L	A	J:8891	Brilliant MH, J Neurogenet 1987 Aug;4(5):259-66	
+AKXL	7	88.85	Fgf3	MGI:95517		L	L	L	L	L	A	A	L	L	L	L	L	L	A	A	A	L	A	J:8493	Silver J, J Virol 1986 Dec;60(3):1156-8	J:11492	Suzuki H, Immunogenetics 1991;34(4):252-6	J:40254	Taylor BA, Genomics 1997 Aug 15;44(1):153-4	
+AKXL	8	-1.0	D8Mit41	MGI:94406		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	-1.0	Rasl5-2	MGI:97872		A	L	L	L	A	L	A	L	L	A	L	L	L	L	A	A	L	A	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+AKXL	8	-1.0	Tel-rs2	MGI:99680		A	L	L	A	L	A	A	L	L	L	L	L	A	L	L	L	L	A	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	
+AKXL	8	-1.0	Xmv12	MGI:99058		A	L	L	L	A	L	A	L	L	A	L	L	L	L	A	A	L	A	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	J:10832	Canfield VA, J Biol Chem 1990 Nov 15;265(32):19878-84	J:10432	White RA, Proc Natl Acad Sci U S A 1990 Apr;87(8):3117-21	
+AKXL	8	-1.0	Xmv26	MGI:99073		.	L	L	L	A	L	A	L	L	A	L	L	A	A	A	A	L	A	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	J:10832	Canfield VA, J Biol Chem 1990 Nov 15;265(32):19878-84	
+AKXL	8	5.89	Atp4b	MGI:88114		A	L	L	L	A	L	A	L	L	A	L	L	A	A	A	A	L	A	J:10832	Canfield VA, J Biol Chem 1990 Nov 15;265(32):19878-84	
+AKXL	8	11.42	Ank1	MGI:88024		A	L	L	A	A	L	A	L	L	A	A	L	L	L	A	A	L	A	J:10432	White RA, Proc Natl Acad Sci U S A 1990 Apr;87(8):3117-21	
+AKXL	8	11.42	Plat	MGI:97610		A	L	L	A	A	L	A	L	L	A	A	L	L	L	A	A	L	A	J:10432	White RA, Proc Natl Acad Sci U S A 1990 Apr;87(8):3117-21	
+AKXL	8	12.0	D8Mit23	MGI:94389		A	L	L	A	A	L	A	L	L	A	A	L	L	L	A	A	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	12.86	D8Mit3	MGI:94396		A	L	L	A	A	L	A	L	L	A	A	L	L	L	A	A	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	21.16	D8Mit24	MGI:94390		A	L	L	L	A	L	A	L	L	A	L	L	L	L	A	A	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	24.7	D8Mit5	MGI:94415		A	L	L	L	A	L	A	L	L	A	L	L	L	L	A	A	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	27.47	D8Mit177	MGI:94361		A	L	L	A	A	L	A	L	L	L	L	L	L	A	A	A	L	A	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	
+AKXL	8	32.3	D8Mit25	MGI:94391		A	A	L	A	L	L	A	A	L	L	L	L	L	L	L	L	L	A	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	32.3	D8Mit8	MGI:94448		A	A	L	A	L	L	A	A	L	L	L	L	L	L	L	L	L	A	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	33.88	Lpl	MGI:96820		A	L	L	A	L	A	A	L	L	L	L	.	A	L	L	L	L	A	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+AKXL	8	34.43	D8Mit9	MGI:94459		A	L	L	A	L	A	A	L	L	L	L	L	A	L	L	L	L	A	J:32008	Yen CH, Mamm Genome 1996 Mar;7(3):218-21	
+AKXL	8	39.65	Ucp1	MGI:98894		A	L	L	A	L	A	A	L	L	A	L	L	A	L	L	L	L	A	J:8101	Jacobsson A, J Biol Chem 1985 Dec 25;260(30):16250-4	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+AKXL	8	42.16	D8Mit45	MGI:94410		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	43.51	D8Mit50	MGI:94416		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	44.99	Ces1c	MGI:95420		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	L	L	A	J:8101	Jacobsson A, J Biol Chem 1985 Dec 25;260(30):16250-4	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	J:20248	Genetta TL, Biochem Biophys Res Commun 1988 Mar 30;151(3):1364-70	
+AKXL	8	45.94	D8Mit40	MGI:94405		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	L	L	A	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	8	74.46	D8Mit42	MGI:94407		L	L	L	L	A	L	A	L	L	L	A	A	L	A	L	L	L	L	J:17312	Cheah YC, Mamm Genome 1994 Mar;5(3):189-90	
+AKXL	9	-1.0	D9Kyo1	MGI:94607		L	L	A	A	A	A	A	L	L	L	L	A	A	A	A	L	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	
+AKXL	9	-1.0	Lap1	MGI:96749		.	L	.	A	L	L	A	L	A	A	L	L	A	L	L	L	L	L	J:7969	Hildebrand CE, Biochem Biophys Res Commun 1985 Jul 16;130(1):396-406	
+AKXL	9	-1.0	Ltw3	MGI:96848		A	A	A	A	A	A	A	L	L	L	L	A	A	A	A	A	A	L	J:30730	Elliott RW,  1978;():261-74	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:6621	Nadeau JH, Biochem Genet 1981 Jun;19(5-6):465-74	
+AKXL	9	-1.0	Rasl2-2	MGI:97863		A	A	A	A	A	A	A	L	L	L	L	A	A	A	A	A	A	L	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+AKXL	9	-1.0	Xmv15	MGI:99061		L	L	A	A	A	A	A	L	L	A	L	L	A	L	L	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	9	-1.0	Xmv16	MGI:99062		.	L	L	A	L	L	L	L	L	A	L	L	A	L	L	L	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	9	-1.0	Xmv25	MGI:99072		.	L	L	A	L	L	A	L	L	A	L	L	A	L	L	A	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AKXL	9	24.52	Thy1	MGI:98747		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	A	L	A	J:10147	Miller RD, Immunogenetics 1989;30(6):511-4	J:7969	Hildebrand CE, Biochem Biophys Res Commun 1985 Jul 16;130(1):396-406	
+AKXL	9	24.84	Cd3d	MGI:88331		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	A	L	A	J:10147	Miller RD, Immunogenetics 1989;30(6):511-4	
+AKXL	9	24.84	Cd3e	MGI:88332		A	L	L	A	L	L	A	L	L	A	L	L	A	L	L	A	L	A	J:10147	Miller RD, Immunogenetics 1989;30(6):511-4	
+AKXL	9	31.3	Cyp1a2	MGI:88589		.	L	.	A	A	L	A	L	A	A	L	L	A	L	L	A	A	A	J:10147	Miller RD, Immunogenetics 1989;30(6):511-4	J:7969	Hildebrand CE, Biochem Biophys Res Commun 1985 Jul 16;130(1):396-406	
+AKXL	9	43.65	Gsta1	MGI:1095417		L	A	A	.	A	A	A	L	L	L	L	.	A	.	A	L	A	A	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	
+AKXL	9	46.58	Pgm3	MGI:97566		A	L	A	A	A	A	A	L	L	L	L	A	A	A	A	L	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	J:6621	Nadeau JH, Biochem Genet 1981 Jun;19(5-6):465-74	J:8604	Demmer LA, J Biol Chem 1987 Feb 25;262(6):2458-67	J:7969	Hildebrand CE, Biochem Biophys Res Commun 1985 Jul 16;130(1):396-406	
+AKXL	9	51.36	Rbp1	MGI:97876		.	.	A	A	A	A	A	L	L	L	L	A	A	A	A	L	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	J:8604	Demmer LA, J Biol Chem 1987 Feb 25;262(6):2458-67	
+AKXL	9	51.37	Rbp2	MGI:97877		L	L	A	A	A	A	A	L	L	L	L	A	A	A	A	L	A	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:11090	Kasahara M, Genomics 1990 Sep;8(1):90-6	J:8604	Demmer LA, J Biol Chem 1987 Feb 25;262(6):2458-67	
+AKXL	9	54.72	Ryk	MGI:101766		L	L	A	A	A	L	A	L	L	L	L	A	A	A	A	A	A	A	J:24374	Gough NM, Mamm Genome 1995 Apr;6(4):255-6	
+AKXL	9	59.07	Mst1r	MGI:99614		.	A	A	A	A	A	A	L	L	L	L	L	A	A	A	A	L	L	J:30730	Elliott RW,  1978;():261-74	
+AKXL	9	64.4	Glb1	MGI:88151		.	A	A	A	A	A	A	L	L	A	L	L	A	A	A	A	L	L	J:30730	Elliott RW,  1978;():261-74	J:7969	Hildebrand CE, Biochem Biophys Res Commun 1985 Jul 16;130(1):396-406	
+AKXL	9	72.43	Cck	MGI:88297		A	A	A	A	A	A	A	L	L	A	L	A	A	L	A	A	L	L	J:10241	Friedman JM, Genomics 1989 Oct;5(3):463-9	
+AKXL	UN	-999.0	Mpmv26	MGI:97095		L	A	A	L	A	L	A	A	A	L	A	A	A	L	L	L	L	A	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AKXL	UN	-999.0	Xmmv66	MGI:99039		L	A	A	L	L	L	A	L	A	L	A	A	A	L	L	L	A	A	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+AKXL	X	-1.0	DXKyo1	MGI:95057		L	A	A	L	A	L	L	L	L	L	A	L	A	L	L	A	L	A	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	
+AKXL	X	-1.0	DXMit16	MGI:95088		L	L	A	A	A	L	L	L	L	L	A	A	A	L	L	A	L	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	X	-1.0	Opn1lw	MGI:98202		L	A	A	L	.	L	L	L	L	L	A	L	A	L	L	A	L	.	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:9627	Mullins LJ, Genomics 1988 Oct;3(3):187-94	
+AKXL	X	-1.0	Pmv1	MGI:97632		A	A	A	A	A	A	L	A	A	A	A	L	L	A	A	A	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	X	-1.0	Pmv6	MGI:97687		A	A	A	L	A	L	L	A	L	L	A	A	A	L	L	A	L	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AKXL	X	33.5	DXMit73	MGI:95149		L	A	A	L	A	L	L	L	L	L	A	A	A	L	L	A	L	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	X	38.17	F8	MGI:88383		L	A	A	L	.	L	L	L	L	L	A	L	A	L	L	A	L	.	J:15206	Kondo Y, Mamm Genome 1993;4(10):571-6	J:9627	Mullins LJ, Genomics 1988 Oct;3(3):187-94	
+AKXL	X	57.4	DXMit38	MGI:95111		L	L	L	A	A	L	A	A	L	L	L	A	A	L	L	A	L	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	X	74.91	DXMit5	MGI:95124		A	L	L	A	L	L	A	A	A	L	A	L	A	L	A	A	L	A	J:11923	Taylor BA, Mamm Genome 1993;4(5):239-42	
+AKXL	X	76.03	DXMit31	MGI:95104		A	L	L	A	L	L	A	A	A	L	A	L	A	L	A	A	L	A	J:28086	Taylor BA, Mamm Genome 1995 Aug;6(8):493-8	
+AKXL	Y	-1.0	Pmv34	MGI:97659		L	A	L	A	L	A	A	A	L	L	L	L	L	L	L	L	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	

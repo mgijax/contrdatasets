@@ -1,0 +1,51 @@
+# Legend:
+# LXB origin = C57L/J x C57BL/6J
+# L = C57L/J
+# B = C57BL/6J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-5: 1 2 3 4 5
+# field 6: reference
+# field 7: reference citation
+#
+LXB	1	-1.0	Pmv24	MGI:97648		.	B	B	B	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	1	-1.0	Pmv44	MGI:97670		.	B	B	L	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	1	32.91	Idh1	MGI:96413		L	B	L	B	L	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+LXB	1	38.54	Slc11a1	MGI:1345275	Slc11a1<s>	B	B	L	B	L	J:6406	O'Brien AD, Nature 1980 Oct 2;287(5781):440-2	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+LXB	1	45.73	Mlph	MGI:2176380		L	B	L	B	L	J:6209	Bradley DJ, Clin Exp Immunol 1979 Jul;37(1):7-14	
+LXB	10	-1.0	Mpmv12	MGI:97080		.	L	L	L	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+LXB	10	-1.0	Mpmv5	MGI:97121		.	L	L	L	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+LXB	10	60.3	Kcnc2	MGI:96668		.	.	B	B	.	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+LXB	12	-1.0	Igh-Gte	MGI:96459		.	B	B	L	.	J:6455	Ju ST, J Immunol 1981 Jan;126(1):183-6	
+LXB	12	-1.0	Ighg2a	MGI:96443		.	B	B	L	.	J:6455	Ju ST, J Immunol 1981 Jan;126(1):183-6	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+LXB	12	-1.0	Serpina1	MGI:98376		.	B	B	L	.	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+LXB	12	13.0	Tpo	MGI:98813		.	.	L	B	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+LXB	12	44.51	Tshr	MGI:98849		.	B	B	L	.	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+LXB	16	-1.0	Ly7	MGI:96883		.	B	B	L	.	J:7482	Hogarth PM, Immunogenetics 1984;19(6):539-43	
+LXB	16	-1.0	Pmv14	MGI:97637		.	B	L	B	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	16	-1.0	Pmv16	MGI:97639		.	L	L	B	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	4	-1.0	Pmv23	MGI:97647		L	B	L	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	4	-1.0	Pmv30	MGI:97655		L	B	L	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	4	37.89	Tyrp1	MGI:98881	Tyrp1<b>	L	L	B	L	.	J:6426	Erickson RP, Genet Res 1980 Aug;36(1):91-7	
+LXB	5	-1.0	Mpmv7	MGI:97134		.	L	L	L	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+LXB	5	-1.0	Pmv12	MGI:97635		B	L	B	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	5	-1.0	Pmv5	MGI:97676		L	L	L	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	6	27.26	Ggct	MGI:95700		.	B	L	L	.	J:17772	Tulchin N, Genetics 1981 Sep;99(1):109-16	
+LXB	7	-1.0	Mpmv1	MGI:97077		.	L	L	L	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+LXB	7	-1.0	Pmv15	MGI:97638		.	L	L	B	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	7	-1.0	Pmv18	MGI:97641		.	L	L	B	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	7	-1.0	Pmv4	MGI:97665		.	L	L	B	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXB	7	28.85	Kcnc3	MGI:96669		.	.	B	B	.	J:16048	Haas M, Mamm Genome 1993 Dec;4(12):711-5	
+LXB	UN	-999.0	Gdr1	MGI:95694		L	L	B	L	.	J:6426	Erickson RP, Genet Res 1980 Aug;36(1):91-7	
+LXB	UN	-999.0	Mpmv26	MGI:97095		.	L	B	L	.	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+LXB	X	-1.0	Pmv6	MGI:97687		.	L	L	B	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	

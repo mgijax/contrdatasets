@@ -1,0 +1,54 @@
+# Legend:
+# LXPL origin = C57L/J x PL/J
+# L = C57L/J
+# P = PL/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-12: 1 2 3 4 6 7 8 9 10 11 12 13
+# field 13: reference
+# field 14: reference citation
+#
+LXPL	1	78.02	Fcgr2b	MGI:95499		P	.	.	L	L	.	.	.	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+LXPL	10	48.49	Hal	MGI:96010		P	P	.	L	P	.	L	.	.	.	.	.	J:4406	Taylor RG, Genomics 1993 Apr;16(1):231-40	
+LXPL	12	-1.0	D12Mit7	MGI:89478		.	P	.	P	P	P	.	.	.	P	.	P	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+LXPL	12	-1.0	Ly18	MGI:96861		P	.	.	L	L	.	.	.	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+LXPL	12	35.51	D12Mit4	MGI:89449		.	P	.	L	P	L	.	.	.	P	.	P	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+LXPL	15	29.3	Tg	MGI:98733		L	P	.	L	L	.	.	.	.	.	.	.	J:8652	Taylor BA, Proc Natl Acad Sci U S A 1987 Apr;84(7):1986-90	
+LXPL	19	5.44	Slc3a2	MGI:96955		P	.	.	P	L	.	.	.	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+LXPL	19	7.16	Cd5	MGI:88340		P	.	.	P	L	.	.	.	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+LXPL	2	-1.0	Emv13	MGI:95329		L	P	L	P	L	.	.	.	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+LXPL	2	-1.0	Emv15	MGI:95331		L	P	L	P	L	.	.	.	.	.	.	.	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+LXPL	2	-1.0	Xmv10	MGI:99056		L	P	L	P	L	.	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+LXPL	2	60.55	B2m	MGI:88127		L	.	.	P	L	.	.	.	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	
+LXPL	2	63.24	Itpa	MGI:96622		L	L	.	P	L	.	L	L	P	P	L	P	J:8794	Taylor BA, Biochem Genet 1987 Apr;25(3-4):267-74	
+LXPL	2	76.15	Bpifa2	MGI:97787		L	P	L	P	L	.	.	.	.	.	.	.	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	
+LXPL	2	76.83	a	MGI:87853		L	P	L	P	L	.	L	P	P	P	L	P	J:8877	Siracusa LD, Genetics 1987 Sep;117(1):93-100	J:9913	Siracusa LD, Genetics 1989 Jul;122(3):669-79	J:8794	Taylor BA, Biochem Genet 1987 Apr;25(3-4):267-74	J:20642	Taylor BA, Personal Communication 1994 July 8;():	
+LXPL	4	-1.0	Ly31	MGI:96869		L	.	.	P	P	.	.	.	.	.	.	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	
+LXPL	4	57.9	D4Nds2	MGI:93040		P	L	.	P	P	L	.	.	.	.	.	.	J:32574	Petry F, Immunogenetics 1996;43(6):370-6	
+LXPL	4	69.05	C1qc	MGI:88225		L	L	.	P	P	P	.	.	.	.	.	.	J:32574	Petry F, Immunogenetics 1996;43(6):370-6	
+LXPL	4	70.02	Alpl	MGI:87983		L	L	L	P	P	.	.	.	.	.	.	.	J:7653	Tada N, Immunogenetics 1984;20(5):589-92	J:32574	Petry F, Immunogenetics 1996;43(6):370-6	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+LXPL	4	70.79	Aldh4a1	MGI:2443883		.	L	L	P	L	.	.	.	.	.	.	.	J:32574	Petry F, Immunogenetics 1996;43(6):370-6	J:6709	Wilcox FH, J Hered 1981 Nov-Dec;72(6):387-90	
+LXPL	5	-1.0	Xmv28	MGI:99075		L	P	P	L	P	.	.	.	.	.	.	.	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+LXPL	6	-1.0	Es12	MGI:95423		L	.	.	P	L	L	P	.	L	P	.	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+LXPL	6	-1.0	Igk-J	MGI:96497		.	.	.	L	L	.	.	.	.	.	.	.	J:8431	Boyd RT, Immunogenetics 1986;24(3):150-7	
+LXPL	6	-1.0	Igk-V28	MGI:96511		L	L	.	L	L	.	.	.	.	.	.	.	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	
+LXPL	6	-1.0	Rn7s6	MGI:97956		L	L	.	L	L	.	.	.	.	.	.	.	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	
+LXPL	6	64.03	Prh1	MGI:97773		P	P	.	P	P	L	P	.	P	P	L	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+LXPL	6	77.37	Kras	MGI:96680		P	L	.	L	L	P	P	.	P	P	P	L	J:10238	Azen EA, Genomics 1989 Oct;5(3):415-22	
+LXPL	7	-1.0	Pmv31	MGI:97656		L	P	L	L	L	.	.	.	.	.	.	.	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+LXPL	7	45.65	Fes	MGI:95514		L	P	.	L	L	.	.	.	.	.	.	.	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+LXPL	7	49.01	Tyr	MGI:98880	Tyr<c>	L	P	.	L	L	.	.	.	.	.	.	.	J:14243	Taylor BA, Mouse News Lett 1989;83():167-8	
+LXPL	7	88.06	Th	MGI:98735		P	P	.	L	L	.	.	.	.	.	.	.	J:8891	Brilliant MH, J Neurogenet 1987 Aug;4(5):259-66	
+LXPL	8	-1.0	Es2	MGI:95431		P	.	.	P	L	L	L	.	P	.	L	L	J:20642	Taylor BA, Personal Communication 1994 July 8;():	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+LXPL	8	33.88	Lpl	MGI:96820		P	.	.	L	L	.	.	.	.	.	.	.	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	
+LXPL	8	44.99	Ces1c	MGI:95420		P	.	.	P	L	.	.	.	.	.	.	.	J:9560	Kirchgessner TG, J Biol Chem 1989 Jan 25;264(3):1473-82	

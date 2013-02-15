@@ -1,0 +1,22 @@
+# Legend:
+# 129XB origin = 129S2/SvPas-Oca2<+> Tyr<+> Kitl<Sl>/+ x C57BL/6JPas
+# 9 = 129S2/SvPas-Oca2<+> Tyr<+> Kitl<Sl>/+
+# B = C57BL/6JPas
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-13: C D F G H I K N P Q R S T
+# field 14: reference
+# field 15: reference citation
+#
+129XB	2	76.83	a	MGI:87853		9	B	B	9	9	B	B	9	B	9	9	B	B	J:16287	Le Tissier PR, Mouse Genome 1993;91(4):879-81	
+129XB	2	84.44	Ada	MGI:87916		9	B	B	9	9	B	B	9	B	B	9	B	B	J:16287	Le Tissier PR, Mouse Genome 1993;91(4):879-81	

@@ -1,0 +1,635 @@
+# Legend:
+# CcS origin = BALB/cHeA x STS/A
+# C = BALB/cHeA
+# S = STS/A
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-20: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+# field 21: reference
+# field 22: reference citation
+#
+CcS	1	-1.0	Akp1	MGI:87982		C	S	C	C	C	C	C	S	C	C	Z	S	C	C	C	C	C	C	S	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	-1.0	D1Mit237	MGI:91619		S	C	C	C	C	.	.	C	C	C	C	C	.	.	.	C	C	.	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	-1.0	D1Nds5	MGI:106083		C	.	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	-1.0	Ly33	MGI:96870		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	-1.0	Mtv7	MGI:97226		C	S	C	C	C	C	C	C	C	C	S	S	C	C	C	C	C	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	-1.0	Pepc	MGI:97541		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	J:11506	van Zutphen LF, Lab Anim 1991 Jul;25(3):193-7	
+CcS	1	2.57	D1Mit1	MGI:91467		S	S	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	10.59	D1Mit211	MGI:91591		S	S	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	11.77	D1Mit20	MGI:91578		S	S	C	C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	15.15	D1Mit170	MGI:91546		S	S	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	26.99	D1Mit18	MGI:91556		S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	.	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	30.44	D1Mit22	MGI:91600		S	Z	C	C	C	S	C	C	C	C	C	C	C	C	C	.	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	32.31	D1Mit5.1	MGI:91699		S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	33.72	D1Mit21	MGI:91589		S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	38.58	D1Mit23	MGI:91611		S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	39.21	D1Mit162	MGI:91537		S	C	C	C	C	S	C	C	C	C	C	C	.	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	39.91	D1Mit215	MGI:91595		S	C	C	C	C	S	C	C	C	C	.	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	40.97	D1Mit216	MGI:91596		S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	42.63	D1Mit8	MGI:91731		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	44.07	Chrng	MGI:87895		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	S	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	44.07	D1Mit49	MGI:91698		Z	C	Z	C	C	C	C	S	C	C	C	C	C	C	C	.	C	S	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	44.69	D1Mit48	MGI:91697		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	S	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	46.74	D1Mit45	MGI:91694		S	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	54.7	D1Mit192	MGI:91569		C	C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	57.91	D1Mit30	MGI:91683		C	C	.	.	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	57.91	D1Mit31	MGI:91684		C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	57.92	D1Mit164	MGI:91539		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	60.73	Ptprc	MGI:97810		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	S	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	63.84	D1Mit200	MGI:91579		C	C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	65.33	D1Mit43	MGI:91692		C	C	.	C	.	X	S	C	C	C	C	C	C	C	C	C	C	X	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	65.98	D1Mit42	MGI:91691		C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	.	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	67.71	D1Mit14	MGI:91512		C	.	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	68.28	D1Mit227	MGI:91608		C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	68.38	D1Mit33	MGI:91685		C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	75.1	D1Mit16	MGI:91534		.	.	.	.	.	.	S	C	C	C	Z	C	C	C	C	.	C	C	Z	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	76.25	D1Mit15	MGI:91523		C	C	C	C	C	C	S	C	C	C	S	S	C	C	C	C	C	C	Z	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	76.73	D1Mit36	MGI:91688		C	.	C	C	C	C	S	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	76.84	D1Mit205	MGI:91584		C	C	C	C	C	C	S	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	78.02	Fcgr2b	MGI:95499		C	C	C	C	C	C	S	C	Z	Z	S	S	C	C	Z	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	80.33	D1Mit206	MGI:91585		C	S	Z	C	C	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	82.74	D1Mit207	MGI:91586		C	S	C	C	C	.	.	C	C	C	S	S	C	.	.	C	C	.	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	89.46	D1Mit221	MGI:91602		C	S	C	C	C	C	C	S	C	C	.	S	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	89.54	D1Mit208	MGI:91587		C	S	C	C	C	C	C	S	C	C	S	S	C	C	C	.	C	C	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	95.03	D1Mit17	MGI:91545		C	S	C	C	C	C	C	.	C	C	C	C	C	.	C	C	C	C	S	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	1	95.74	D1Mit56	MGI:91706		C	C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	-1.0	D10Mit75	MGI:88860		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	-1.0	D10Nds1	MGI:88923		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	1.91	D10Mit49	MGI:88832		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	3.04	D10Mit28	MGI:88811		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	4.25	D10Mit1	MGI:88714		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	7.65	D10Mit146	MGI:88766		.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	9.75	Myb	MGI:97249		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	9.78	D10Mit2	MGI:88804		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	16.53	D10Mit3	MGI:88813		C	C	C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	24.87	D10Mit40	MGI:88823		C	C	C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	34.72	D10Mit130	MGI:88749		C	C	C	C	C	C	C	.	C	C	C	C	C	C	S	.	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	34.83	D10Mit20	MGI:88805		C	C	C	C	C	C	C	C	C	C	X	C	C	C	S	Z	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	34.95	D10Mit113	MGI:88730		C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	Z	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	35.26	D10Mit31	MGI:88815		C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	Z	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	45.35	D10Mit67	MGI:88851		C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	51.15	D10Mit12	MGI:88737		C	.	C	C	S	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	54.72	D10Mit133	MGI:88752		C	S	C	C	S	C	C	C	C	C	S	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	57.74	D10Mit150	MGI:88770		C	C	C	C	S	C	C	C	C	C	S	C	C	C	S	C	C	.	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	64.71	D10Mit46	MGI:88829		C	Z	S	.	S	C	C	C	C	C	S	.	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	64.73	D10Mit47	MGI:88830		C	C	S	.	S	C	C	C	C	C	S	.	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	66.75	D10Mit14	MGI:88759		C	C	S	C	S	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	66.75	D10Mit24	MGI:88809		C	Z	S	.	S	C	C	C	C	C	S	.	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	70.36	D10Mit25	MGI:88810		C	Z	.	.	S	C	C	C	C	C	C	.	C	C	.	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	70.36	D10Mit35a	MGI:88819		C	Z	S	C	S	C	C	.	.	C	C	C	C	X	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	10	73.57	D10Mit103	MGI:88719		C	C	S	C	S	X	C	C	C	C	C	C	C	C	C	S	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	D11Mit22	MGI:89105		Z	C	S	Z	C	C	C	S	C	C	C	C	C	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	D11Nds10	MGI:106084		Z	C	S	Z	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	D11Nds18	MGI:89269		Z	C	C	S	C	C	C	S	S	C	C	C	C	C	S	Z	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	D11Nki1	MGI:106085		C	C	S	S	C	C	C	C	S	C	C	C	C	S	S	Z	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	Es3	MGI:95442		C	C	C	S	C	C	C	S	C	C	C	C	.	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	J:11506	van Zutphen LF, Lab Anim 1991 Jul;25(3):193-7	
+CcS	11	-1.0	Hba	MGI:96014		C	Z	C	Z	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	Mpmv18	MGI:97086		C	S	C	S	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	Mpmv4	MGI:97110		C	C	C	S	C	C	C	S	C	C	C	C	C	C	S	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	-1.0	Mtv3	MGI:97197		C	C	C	S	.	.	.	C	S	C	C	C	S	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	2.51	D11Mit1	MGI:88978		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	4.7	D11Mit71	MGI:89150		.	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	5.78	D11Mit62	MGI:89140		C	S	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	7.3	D11Mit2	MGI:89087		C	S	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	9.41	Egfr	MGI:95294		C	S	Z	C	C	C	C	C	S	C	C	C	S	C	C	S	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	10.57	D11Mit162	MGI:89048		C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	15.29	D11Mit151	MGI:89036		C	S	C	S	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	15.38	D11Mit19	MGI:89076		C	S	C	S	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	19.32	D11Mit173	MGI:89059		C	S	C	S	C	C	S	S	C	Z	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	21.96	D11Mit51	MGI:89131		C	S	C	S	C	C	S	.	.	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	25.18	D11Mit174	MGI:89060		C	C	C	S	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	25.94	D11Mit21	MGI:89099		C	C	S	Z	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	27.23	D11Mit20	MGI:89088		Z	C	S	Z	C	.	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	29.23	D11Mit139	MGI:89022		S	C	S	S	C	C	C	S	C	C	C	C	C	C	C	.	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	31.95	D11Mit24	MGI:89107		Z	C	S	S	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	31.99	D11Nds9	MGI:89274		C	C	S	S	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	34.5	D11Mit164	MGI:89050		C	C	S	S	C	C	C	C	S	C	C	C	.	C	S	C	.	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	37.81	D11Mit26	MGI:89109		.	C	.	.	.	.	.	C	S	C	C	C	C	C	S	.	C	C	S	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	41.82	D11Mit28	MGI:89111		C	C	S	S	C	C	C	Z	S	C	C	C	C	C	S	Z	C	C	Z	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	41.87	D11Mit4	MGI:89123		C	C	S	S	C	C	C	Z	S	C	C	C	.	C	.	Z	.	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	42.83	Trp53	MGI:98834		C	C	S	S	C	C	C	Z	S	C	C	C	C	C	S	S	C	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	47.28	D11Mit8	MGI:89159		C	C	C	S	C	C	C	Z	S	C	C	C	C	C	S	Z	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	49.7	D11Mit37	MGI:89120		.	C	C	S	C	C	C	S	S	C	C	C	C	C	S	S	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	51.23	D11Mit36	MGI:89119		Z	C	C	S	C	C	C	S	C	C	C	C	C	C	S	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	54.34	D11Mit41	MGI:89125		Z	C	C	S	C	.	C	S	C	C	C	C	C	C	S	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	58.33	D11Mit122	MGI:89004		C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	58.9	D11Mit70	MGI:89149		C	C	C	S	C	C	C	X	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	60.14	D11Mit98	MGI:89178		C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	60.47	D11Mit67	MGI:89145		C	C	C	S	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	71.86	D11Mit180	MGI:89066		C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	75.93	D11Mit61	MGI:89139		C	C	C	S	C	C	C	S	C	.	C	C	S	C	.	.	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	79.65	D11Mit167	MGI:89053		C	C	C	S	C	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	82.96	D11Mit48	MGI:89127		C	.	C	S	C	C	C	S	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	82.96	D11Mit49	MGI:89128		C	.	C	S	C	C	C	.	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	11	83.36	D11Mit104	MGI:88984		C	C	C	S	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	-1.0	D12Mit7	MGI:89478		C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	-1.0	D12Nds4	MGI:104395		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	-1.0	Es25	MGI:95437		C	Z	C	S	C	C	S	C	C	C	S	C	C	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	-1.0	Mtv9	MGI:97228		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	2.59	D12Mit37	MGI:89447		C	S	C	S	C	C	C	C	C	C	Z	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	8.49	D12Mit12	MGI:89365		C	S	C	S	C	C	S	C	C	C	C	C	C	C	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	9.69	D12Mit83	MGI:89493		C	S	C	S	C	C	S	C	C	C	C	C	C	C	.	.	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	13.0	D12Mit136	MGI:89383		C	S	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	15.67	D12Mit46	MGI:89454		C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	15.83	D12Mit147	MGI:89395		C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	22.11	D12Mit127	MGI:89373		C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	26.43	D12Mit36	MGI:89446		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	X	S	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	32.02	D12Mit33	MGI:89443		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	33.4	D12Mit3	MGI:89440		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	34.06	D12Mit52	MGI:89460		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	35.51	D12Mit4	MGI:89449		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	36.85	D12Mit149	MGI:89397		C	C	C	.	C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	37.16	D12Mit5	MGI:89457		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	39.7	D12Mit95	MGI:89506		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	44.05	D12Mit6	MGI:89467		C	C	C	C	C	.	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	50.43	D12Mit30	MGI:89441		C	C	C	S	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	50.43	D12Mit97	MGI:89508		C	C	C	S	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	50.63	D12Mit98	MGI:89509		.	.	.	S	.	.	.	.	.	.	.	.	S	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	55.45	D12Mit28	MGI:89438		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	12	63.48	D12Mit144	MGI:89392		C	C	C	C	C	S	C	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	-1.0	D13Mit116	MGI:89653		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	-1.0	D13Mit39	MGI:89766		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	-1.0	D13Mit7	MGI:89797		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	-1.0	D13Mit8	MGI:89808		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	-1.0	Fim1	MGI:95534		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	5.92	D13Mit162	MGI:89703		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	11.8	D13Mit133	MGI:89671		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	14.36	D13Mit4	MGI:89767		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	14.44	D13Mit18	MGI:89721		C	C	C	.	C	C	C	.	C	.	C	.	C	C	.	.	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	16.81	D13Mit117	MGI:89654		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	17.62	D13Mit38	MGI:89765		C	C	C	C	C	C	C	C	C	C	C	C	X	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	22.86	D13Mit34	MGI:89761		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	30.06	D13Mit13	MGI:89667		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	39.4	D13Mit25	MGI:89752		C	.	C	S	C	C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	41.95	D13Mit125	MGI:89662		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	42.19	D13Mit9	MGI:89819		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	45.05	D13Mit126	MGI:89663		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	45.1	D13Mit27	MGI:89754		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	.	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	54.93	D13Mit47	MGI:89773		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	.	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	61.69	D13Mit130	MGI:89668		C	C	.	C	.	C	C	C	.	C	C	C	C	C	.	C	.	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	63.73	D13Mit53	MGI:89780		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	64.06	D13Mit32	MGI:89760		C	C	C	C	.	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	13	64.12	D13Mit31	MGI:89759		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	-1.0	D14Nds5	MGI:90160		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	6.03	D14Mit132	MGI:89972		C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	6.33	D14Mit1	MGI:89935		C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	6.33	D14Mit11	MGI:89947		C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	7.08	D14Mit48	MGI:90052		C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	11.53	Plau	MGI:97611		C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	Z	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	11.94	D14Mit126	MGI:89965		C	C	C	.	.	C	C	.	C	S	C	C	C	C	C	C	C	C	X	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	11.95	D14Mit2	MGI:90025		C	.	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	16.8	D14Mit44	MGI:90048		S	C	C	C	C	C	C	C	C	C	C	C	S	C	.	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	23.95	D14Mit129	MGI:89968		S	C	C	C	C	C	C	C	C	C	C	C	S	C	C	.	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	24.6	D14Mit18	MGI:90023		S	C	C	C	C	C	C	C	C	C	C	C	S	C	.	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	24.6	D14Mit4	MGI:90044		Z	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	25.63	D14Mit130	MGI:89970		S	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	28.13	D14Mit20	MGI:90026		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	34.66	D14Mit28	MGI:90031		C	C	C	C	C	C	C	C	C	C	C	C	S	C	.	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	34.66	D14Nds6	MGI:90161		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	35.69	D14Mit39	MGI:90043		C	C	C	C	C	C	C	C	C	C	C	C	S	.	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	36.32	D14Mit32	MGI:90036		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	37.26	D14Mit34	MGI:90038		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	38.21	D14Mit115	MGI:89953		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	44.17	D14Mit125	MGI:89964		C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	.	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	50.9	D14Mit144	MGI:89985		S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	50.9	D14Mit8	MGI:90087		.	.	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	57.2	D14Mit95	MGI:90103		S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	58.09	D14Mit9	MGI:90098		S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	.	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	59.45	D14Mit96	MGI:90104		S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	62.2	D14Mit97	MGI:90105		C	C	C	C	C	S	C	C	C	C	C	C	C	S	X	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	64.72	D14Mit77	MGI:90084		C	C	C	C	C	S	C	S	C	.	.	C	C	S	C	.	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	14	66.1	D14Mit107	MGI:89944		C	S	C	C	C	S	C	S	C	S	C	C	C	S	.	C	C	C	.	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	-1.0	D15Mit78	MGI:90361		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	-1.0	D15Mit8	MGI:90363		C	C	C	S	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	-1.0	D15Nds2	MGI:90421		C	C	C	S	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	-1.0	D15Nds3	MGI:90422		C	C	C	S	C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	-1.0	D15Nds5	MGI:90424		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	-1.0	D15Nds6	MGI:99855		C	C	C	C	C	C	C	C	C	S	C	C	S	C	.	.	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	1.84	D15Mit13	MGI:90261		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	1.92	D15Mit125	MGI:90256		C	C	C	C	C	C	C	.	C	.	C	.	.	.	.	.	S	.	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	4.39	D15Mit11	MGI:90239		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	5.35	D15Mit10	MGI:90228		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	8.54	D15Mit52	MGI:90333		C	C	C	S	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	15.1	D15Mit22	MGI:90303		C	C	C	C	C	X	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	15.17	D15Mit6	MGI:90341		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	16.29	D15Mit24	MGI:90304		C	C	C	C	.	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	16.74	D15Mit5	MGI:90330		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	22.32	D15Mit132	MGI:90264		C	C	C	S	C	C	C	C	C	.	C	S	C	S	C	.	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	24.41	D15Mit121	MGI:90252		C	C	C	S	C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	26.19	D15Mit17	MGI:90297		C	C	C	S	C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	29.31	D15Mit123	MGI:90254		C	C	C	S	C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	30.37	D15Mit3	MGI:90310		C	C	C	S	C	C	C	C	.	C	C	S	C	.	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	34.15	D15Mit1001	MGI:90571		C	C	C	S	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	34.16	D15Mit29	MGI:90309		C	C	C	S	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	37.67	D15Mit1	MGI:90227		C	C	C	S	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	37.7	D15Mit119	MGI:90249		C	C	C	X	.	C	C	C	C	C	C	X	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	39.43	D15Mit33	MGI:90314		C	C	C	S	C	C	C	C	C	.	C	C	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	40.89	D15Mit37	MGI:90317		C	C	C	S	C	C	C	C	C	C	C	C	C	Z	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	45.09	D15Mit74	MGI:90357		C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	45.31	D15Mit34	MGI:90315		.	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	47.79	D15Mit108	MGI:90237		C	C	C	C	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	52.36	D15Mit39	MGI:90319		C	C	C	C	C	C	S	C	C	.	C	C	Z	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	53.99	D15Mit41	MGI:90321		C	C	C	C	C	C	C	C	C	S	C	C	Z	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	53.99	D15Mit43	MGI:90323		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	55.99	D15Mit44	MGI:90324		C	C	C	C	C	C	C	.	C	S	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	56.13	D15Mit14	MGI:90272		C	C	C	C	C	C	C	C	.	S	C	C	S	.	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	56.13	Gpd1	MGI:95679		Z	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	57.22	D15Mit40	MGI:90320		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	58.05	D15Mit16	MGI:90294		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	58.06	D15Mit15	MGI:90283		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	15	58.97	D15Mit79	MGI:90362		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	-1.0	D16Mit5	MGI:90520		C	S	C	C	C	C	Z	C	C	C	Z	S	C	C	C	C	C	C	C	Z	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	-1.0	D16Nds2	MGI:90604		C	S	S	C	C	C	C	C	C	C	C	C	C	C	S	Z	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	-1.0	Mtv6	MGI:97225		C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	S	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	2.33	D16Mit32	MGI:90501		C	S	S	C	C	C	S	C	C	C	C	S	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	6.54	D16Mit81	MGI:90555		C	S	S	C	C	C	S	C	C	C	C	S	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	8.31	D16Mit73	MGI:90546		C	S	S	C	C	C	S	C	X	C	S	S	C	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	10.09	D16Mit34	MGI:90503		C	S	S	C	C	C	S	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	10.09	D16Mit56	MGI:90527		C	S	S	C	C	C	S	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	30.83	D16Mit91	MGI:90566		C	S	C	X	S	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	30.92	D16Mit15	MGI:90489		C	S	C	C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	36.02	D16Mit77	MGI:90550		.	.	.	.	.	.	S	.	.	.	C	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	45.36	D16Mit19	MGI:90491		C	C	S	C	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	16	48.96	D16Mit7	MGI:90542		C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Mit1	MGI:90737		C	C	C	C	C	C	S	C	C	C	C	S	C	C	C	S	C	S	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Mit10	MGI:90738		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Mit11	MGI:90749		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Mit18	MGI:90805		C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Mit27	MGI:90815		C	C	C	C	S	S	C	C	C	C	C	C	X	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Nds2	MGI:90936		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Nds3	MGI:90937		C	C	C	C	S	C	C	C	C	C	C	X	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Nds4	MGI:106087		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Nds5	MGI:106088		C	C	C	Z	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	-1.0	D17Tu34	MGI:90977		C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	2.68	D17Mit19	MGI:90806		C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	8.14	D17Mit113	MGI:90753		C	C	C	C	S	S	C	C	C	C	.	.	.	.	.	C	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	8.72	Tcp1	MGI:98535		C	C	S	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	12.53	D17Mit46	MGI:90835		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	14.26	D17Mit30	MGI:90819		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	.	.	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	15.39	D17Mit23	MGI:90811		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	17.98	D17Mit16	MGI:90801		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	17.98	D17Mit21	MGI:90809		.	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	17.98	D17Mit22	MGI:90810		C	C	C	C	S	C	C	C	C	C	C	X	C	X	X	C	X	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	18.31	D17Mit34	MGI:90823		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	.	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	18.59	D17Mit13	MGI:90770		.	C	C	C	S	C	C	Z	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	18.61	H2-D1	MGI:95896		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	19.74	D17Mit51	MGI:90841		C	C	C	C	S	C	C	C	C	.	C	C	C	C	C	.	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	22.56	D17Mit35	MGI:90824		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	22.89	D17Mit138	MGI:90779		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	23.56	D17Mit115	MGI:90755		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	27.37	D17Mit6	MGI:90850		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	27.85	D17Mit7	MGI:90861		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	28.37	D17Mit1009	MGI:92895		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	29.73	D17Mit20	MGI:90808		C	C	C	C	C	C	X	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	38.15	D17Mit119	MGI:90759		C	C	C	C	C	C	S	S	C	C	C	C	C	S	C	S	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	39.08	D17Mit3	MGI:90818		C	C	C	C	C	C	S	S	C	C	C	C	C	S	C	S	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	44.66	D17Mit92	MGI:90885		C	C	C	C	C	C	C	S	C	S	C	C	C	C	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	50.3	D17Mit42	MGI:90831		C	C	C	C	C	C	Z	C	S	C	C	C	.	C	C	S	C	S	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	17	57.39	D17Mit130	MGI:90771		C	C	C	.	C	C	S	C	C	C	C	S	C	C	C	S	C	S	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	3.02	D18Mit19	MGI:91070		C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	4.53	D18Mit18	MGI:91069		C	C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	5.8	D18Mit31	MGI:91083		C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	C	.	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	8.24	D18Mit20	MGI:91072		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	11.53	D18Mit83	MGI:91140		C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	19.97	D18Mit94	MGI:91152		C	C	.	C	.	C	.	C	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	20.57	D18Mit14	MGI:91059		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	21.09	D18Mit17	MGI:91068		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	23.74	Mcc	MGI:96930		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	23.86	D18Mit35	MGI:91087		C	C	C	C	C	C	C	C	C	C	C	C	.	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	24.56	D18Mit58	MGI:91112		C	.	C	C	C	.	C	.	C	C	C	C	C	.	C	S	C	.	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	24.64	D18Mit36	MGI:91088		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	25.47	D18Mit57	MGI:91111		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	X	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	27.17	D18Mit24	MGI:91076		C	C	C	C	C	C	C	C	C	C	C	C	.	C	C	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	29.03	D18Mit54	MGI:91108		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	34.36	D18Mit28	MGI:91079		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	34.41	D18Mit51	MGI:91105		C	C	C	C	C	S	C	S	C	C	.	C	C	S	C	.	S	S	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	34.41	D18Mit78	MGI:91134		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	37.11	D18Mit40	MGI:91093		C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	38.71	D18Mit107	MGI:91025		S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	39.53	D18Mit81	MGI:91138		S	C	C	S	C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	40.14	D18Mit100	MGI:91018		S	C	C	S	C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	42.56	D18Mit9	MGI:91147		S	C	C	Z	C	C	C	C	C	C	C	Z	C	C	S	S	C	C	Z	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	43.49	D18Mit33	MGI:91085		C	C	C	C	C	C	.	C	C	C	C	C	C	C	.	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	44.19	D18Mit103	MGI:91021		C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	45.24	Dcc	MGI:94869		C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	18	57.53	D18Mit4	MGI:91092		C	C	C	C	Z	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	-1.0	D19Mit6	MGI:91272		C	C	Z	C	C	.	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	-1.0	D19Mit62	MGI:91275		C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	6.15	D19Mit56	MGI:91268		C	.	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	10.4	D19Mit61	MGI:91274		C	C	C	C	C	C	C	C	C	C	S	S	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	11.02	D19Mit52	MGI:91264		C	C	C	C	.	C	C	.	.	C	.	S	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	13.18	D19Mit41	MGI:91252		C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	13.82	D19Mit16	MGI:91224		C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	Z	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	13.9	D19Mit60	MGI:91273		C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	28.42	D19Mit64	MGI:91277		C	C	C	C	.	C	C	.	.	C	.	S	.	C	.	C	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	30.3	D19Mit12	MGI:91218		C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	30.3	D19Mit63	MGI:91276		C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	36.26	D19Mit11.1	MGI:91217		C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	37.98	D19Mit67	MGI:91280		C	C	C	C	C	C	C	C	C	S	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	38.75	D19Mit17	MGI:91225		C	C	C	C	C	.	S	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	39.37	D19Mit10	MGI:91216		C	C	C	C	C	C	S	C	C	Z	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	50.72	D19Mit34	MGI:91244		C	C	C	C	C	C	S	C	C	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	19	51.41	D19Mit35	MGI:91245		C	C	C	C	C	C	S	C	C	C	X	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	-1.0	D2Mit17	MGI:92032		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	-1.0	D2Mit252	MGI:92121		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	-1.0	D2Mit332	MGI:100707		C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	-1.0	D2Mit5	MGI:92186		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	-1.0	D2Mit51	MGI:92188		C	C	C	C	C	C	C	.	.	C	C	C	C	C	C	S	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	-1.0	D2Nds3	MGI:92301		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	-1.0	Mpmv28	MGI:97097		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	2.23	D2Mit1	MGI:91954		C	C	C	C	C	C	C	C	C	C	C	C	C	Z	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	2.25	D2Mit115	MGI:91972		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	6.9	D2Mit4	MGI:92176		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	23.22	Hc	MGI:96031		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	24.26	D2Mit7	MGI:92205		C	C	C	C	C	C	C	C	C	C	C	.	C	.	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	31.66	D2Mit156	MGI:92017		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	34.9	D2Mit61	MGI:92198		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	38.54	D2Mit9	MGI:92227		.	.	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	41.97	D2Mit56	MGI:92192		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	42.79	D2Mit11	MGI:91966		C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	43.93	D2Mit10	MGI:91955		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	44.13	D2Mit35	MGI:92171		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	44.13	D2Mit37	MGI:92173		C	C	C	.	C	C	C	C	C	S	C	C	C	C	C	.	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	45.36	D2Mit158	MGI:92019		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	47.93	D2Mit94	MGI:92232		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	48.5	D2Mit248	MGI:92116		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	49.08	D2Mit220	MGI:92087		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	49.08	D2Mit331	MGI:100708		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	49.35	D2Mit126	MGI:91984		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	49.45	D2Mit160	MGI:92022		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	49.45	D2Mit66	MGI:92203		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	49.68	D2Mit14a	MGI:91999		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	50.23	D2Mit272	MGI:92143		C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	51.17	D2Mit253	MGI:92122		C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	.	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	51.37	D2Mit186	MGI:92049		C	C	C	C	C	C	C	C	C	X	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	51.62	D2Mit303	MGI:100736		C	.	.	C	C	C	C	C	C	C	.	C	C	C	C	.	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	51.62	D2Mit350	MGI:100689		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	51.62	D2Nds1	MGI:92298		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	52.4	D2Mit130	MGI:91989		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	54.13	Cd44	MGI:88338		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	54.43	Cat	MGI:88271		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	54.43	D2Mit250	MGI:92119		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	54.46	D2Mit127	MGI:91985		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	54.57	D2Mit43	MGI:92179		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	54.85	D2Mit333	MGI:100706		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	54.85	D2Mit42	MGI:92178		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	55.07	D2Mit99	MGI:92237		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	55.14	D2Mit44	MGI:92180		.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	S	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	55.23	D2Mit185	MGI:92048		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	55.62	D2Mit128	MGI:91986		C	C	C	C	C	C	.	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	55.67	D2Mit13	MGI:91988		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	56.02	Fshb	MGI:95582		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	56.21	D2Mit58	MGI:92194		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	56.55	D2Mit162	MGI:92024		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	57.65	D2Mit102	MGI:91958		C	C	.	C	.	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	57.97	D2Mit101	MGI:91957		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	60.55	B2m	MGI:88127		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	78.48	D2Mit55	MGI:92191		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	83.37	D2Mit50	MGI:92187		C	C	C	C	C	C	C	.	.	C	C	C	C	C	C	S	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	83.83	D2Mit49	MGI:92185		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	85.27	D2Mit227	MGI:92094		C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	S	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	87.22	D2Mit52	MGI:92189		C	C	C	C	C	C	C	.	C	C	C	C	C	C	C	S	C	.	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	2	103.43	D2Mit74	MGI:92210		C	C	C	C	C	C	.	.	.	.	.	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	-1.0	D3Mit1	MGI:92363		C	.	C	S	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	-1.0	D3Mit9	MGI:92562		C	C	C	C	C	.	C	Z	C	C	C	.	C	.	C	S	C	S	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	-1.0	D3Tu51	MGI:92637		C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	C	C	C	C	S	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	-1.0	Mpmv20	MGI:97089		C	C	C	C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	-1.0	Mpmv9	MGI:97136		C	S	S	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	1.96	D3Mit117	MGI:92383		C	C	C	C	C	S	C	S	C	C	C	C	C	.	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	2.02	Il7	MGI:96561		C	C	C	C	C	S	Z	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	12.7	D3Mit46	MGI:92516		C	C	C	C	C	C	S	C	.	C	C	C	C	C	C	C	.	C	.	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	18.3	D3Mit21	MGI:92484		.	.	.	C	C	C	C	C	C	C	C	.	C	.	C	C	.	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	21.81	D3Mit5	MGI:92519		S	C	C	C	C	C	C	Z	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	27.32	D3Mit25	MGI:92499		S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	38.8	D3Mit175	MGI:92447		.	C	.	.	.	.	C	Z	.	C	C	C	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	39.02	D3Mit49	MGI:92518		C	C	C	C	C	C	.	S	C	C	C	C	C	S	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	39.27	D3Mit28	MGI:92501		C	C	.	C	C	C	C	S	C	C	C	C	C	S	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	40.14	D3Mit156	MGI:92426		C	C	C	C	C	C	.	S	C	C	C	C	C	S	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	43.03	D3Mit10	MGI:92364		C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	S	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	43.71	D3Mit11	MGI:92375		C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	S	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	43.71	D3Mit12	MGI:92386		C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	S	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	55.85	D3Mit159	MGI:92429		C	C	C	C	C	C	C	S	C	C	C	C	C	C	.	.	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	63.4	D3Mit125	MGI:92392		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	66.68	D3Mit160	MGI:92431		C	S	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	66.69	D3Mit38	MGI:92507		C	S	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	67.53	D3Mit17	MGI:92441		C	C	C	C	C	C	C	S	C	X	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	72.36	D3Mit18	MGI:92452		C	C	S	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	72.43	D3Mit45	MGI:92515		C	S	S	C	C	C	C	S	C	C	Z	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	78.31	D3Mit114a	MGI:92380		C	S	S	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	78.97	D3Mit58	MGI:92528		C	.	S	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	79.05	D3Mit59	MGI:92529		C	S	S	C	C	C	C	S	.	C	S	C	.	C	.	C	.	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	79.28	D3Mit162	MGI:92433		C	S	S	C	C	C	C	S	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	3	80.67	D3Mit163	MGI:92434		C	.	S	C	C	.	.	S	C	C	S	C	C	.	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	-1.0	D4Mit23	MGI:92859		C	C	C	C	C	C	C	.	S	S	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	-1.0	D4Mit6	MGI:92894		C	C	C	C	C	C	C	C	S	.	.	C	C	C	S	.	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	-1.0	D4Mit77	MGI:92913		C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	S	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	-1.0	Mpmv19	MGI:97087		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	-1.0	Mtv17	MGI:97187		C	C	C	C	C	C	C	C	S	S	C	C	C	C	S	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	2.04	D4Mit149	MGI:92774		S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	5.58	D4Mit19	MGI:92819		S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	6.01	D4Mit18	MGI:92808		S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	16.7	D4Mit172	MGI:92800		S	C	C	C	C	C	C	C	S	.	.	C	C	C	S	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	16.86	D4Nds3	MGI:93041		S	C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	16.92	D4Mit39	MGI:92871		S	C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	.	C	.	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	20.11	D4Mit4	MGI:92872		C	C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	23.04	Cd72	MGI:88345		C	C	C	C	C	C	C	C	S	S	C	C	C	C	S	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	24.28	D4Mit55	MGI:92889		C	C	C	C	C	C	C	C	S	S	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	32.54	D4Mit164	MGI:92791		C	C	S	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	32.85	Mup1	MGI:97233		C	C	S	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	33.96	D4Mit17	MGI:92797		C	C	S	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	34.92	D4Mit7	MGI:92905		C	C	S	C	C	C	C	C	S	S	C	C	C	C	C	C	C	.	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	37.89	Tyrp1	MGI:98881		C	C	C	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	
+CcS	4	39.46	D4Mit152	MGI:92778		C	C	C	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	40.86	D4Mit45	MGI:92878		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	42.13	D4Mit27	MGI:92863		C	C	C	C	C	C	C	C	C	S	C	Z	C	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	43.3	D4Mit145	MGI:92770		C	C	C	C	C	C	C	C	C	.	.	C	C	C	C	S	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	43.34	D4Mit9	MGI:92926		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	45.6	D4Mit28	MGI:92864		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	47.39	D4Mit167	MGI:92794		C	C	C	C	C	.	.	C	C	S	C	C	C	.	.	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	49.41	D4Mit168	MGI:92795		X	C	C	C	C	C	X	C	C	S	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	50.04	D4Mit31	MGI:92866		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	53.43	D4Mit37	MGI:92869		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	57.41	D4Mit11	MGI:92731		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	.	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	57.9	D4Nds2	MGI:93040		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	S	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	67.01	D4Mit70	MGI:92906		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	74.75	D4Mit32	MGI:92867		C	S	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	75.67	D4Mit13	MGI:92753		C	S	C	C	C	C	C	C	C	S	C	C	C	Z	C	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	78.87	D4Mit129	MGI:92752		C	S	C	C	C	C	C	C	S	C	C	C	C	S	C	C	C	S	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	81.46	D4Mit190	MGI:92820		C	S	C	C	C	C	C	C	C	.	.	C	C	S	C	C	S	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	82.64	D4Mit42	MGI:92875		S	Z	C	C	C	C	C	C	C	S	C	C	C	Z	C	C	Z	S	Z	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	83.54	D4Mit131	MGI:92755		S	S	C	C	C	C	C	C	C	S	C	C	C	S	C	C	S	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	4	86.17	D4Mit59	MGI:92893		S	S	C	C	C	C	C	C	C	S	C	C	C	S	C	C	S	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	-1.0	D5Nds4	MGI:93467		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	2.76	D5Mit49	MGI:93349		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	10.81	D5Mit179	MGI:93255		C	S	C	S	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	20.17	D5Mit13	MGI:93201		C	C	C	Z	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	26.02	D5Mit11	MGI:93179		C	C	C	Z	C	C	C	C	C	C	C	C	C	C	C	X	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	26.89	D5Mit54	MGI:93354		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	28.02	D5Mit52	MGI:93353		C	C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	28.24	D5Mit55	MGI:93355		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	29.12	D5Mit183	MGI:93260		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	31.65	D5Mit1003	MGI:91500		C	C	C	C	S	.	.	C	C	C	C	C	C	.	.	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	32.8	Pgm1	MGI:97564		C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	J:11506	van Zutphen LF, Lab Anim 1991 Jul;25(3):193-7	
+CcS	5	41.19	D5Mit112	MGI:93182		C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	42.62	D5Mit114	MGI:93184		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	43.56	D5Mit12	MGI:93190		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	44.78	D5Mit6	MGI:93359		C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	47.29	D5Mit7	MGI:93370		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	47.77	D5Mit20	MGI:93277		.	C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	Z	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	50.64	D5Mit10	MGI:93168		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	52.15	D5Mit175	MGI:93251		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	53.07	Pde6b	MGI:97525		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	
+CcS	5	54.65	D5Mit26	MGI:93330		.	C	C	C	C	C	C	C	C	S	C	C	.	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	54.68	D5Mit24	MGI:93320		C	C	C	C	C	C	C	C	S	S	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	55.72	D5Mit25	MGI:93329		C	C	C	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	55.93	Dao	MGI:94859		C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	63.25	D5Mit1005	MGI:93955		C	C	C	.	S	C	C	C	C	.	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	68.32	Gusb	MGI:95872		C	S	Z	C	Z	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	68.35	D5Mit27	MGI:93331		C	S	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	70.17	D5Mit164	MGI:93239		C	S	S	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	70.66	D5Mit29	MGI:93332		C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	71.21	D5Mit63	MGI:93363		C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	75.36	D5Mit60	MGI:93360		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	76.5	D5Mit46	MGI:93346		.	.	C	C	C	C	C	C	C	Z	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	77.1	D5Mit31	MGI:93335		X	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	84.59	D5Mit191	MGI:93269		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	5	89.8	D5Mit143	MGI:93216		C	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	-1.0	D6Mit25	MGI:93658		S	.	.	C	C	C	C	C	C	C	.	C	.	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	-1.0	D6Mit42	MGI:93674		C	S	S	C	C	C	C	C	S	C	C	C	S	C	C	C	S	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	7.74	D6Mit50	MGI:93682		C	S	S	C	C	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	11.91	D6Mit158	MGI:93588		C	S	S	C	C	C	S	C	C	C	C	C	S	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	12.75	D6Mit48	MGI:93679		C	S	S	C	C	C	S	C	C	C	C	C	S	C	C	S	X	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	12.82	D6Mit51	MGI:93683		C	S	.	C	C	C	S	C	C	C	C	C	.	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	18.39	D6Mit173	MGI:93605		C	S	S	C	S	C	C	C	C	C	C	C	S	C	C	S	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	25.4	Hoxa3	MGI:96175		C	S	Z	C	C	C	C	C	S	C	C	C	S	C	C	S	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	28.17	D6Mit122	MGI:93549		S	.	C	S	S	.	C	.	S	S	C	S	S	.	C	S	S	.	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	37.15	D6Mit22	MGI:93654		C	S	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	37.29	D6Mit6	MGI:93691		C	S	Z	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	37.75	D6Mit29	MGI:93660		C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	37.96	D6Mit9	MGI:93723		C	S	Z	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	41.25	D6Mit31	MGI:93663		C	S	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	42.17	D6Mit177	MGI:93609		C	S	C	C	.	C	C	C	C	S	C	C	C	C	X	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	45.69	D6Mit165	MGI:93596		C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	49.71	D6Mit35	MGI:93666		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	52.37	D6Mit23	MGI:93656		C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	52.75	D6Mit10	MGI:93524		.	.	C	C	S	C	C	C	C	C	C	.	C	C	C	C	C	C	C	Z	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	55.86	D6Mit109	MGI:93534		C	C	C	S	C	C	C	S	C	C	C	C	C	C	S	C	C	S	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	62.56	D6Mit52	MGI:93684		S	C	C	C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	63.04	D6Mit61	MGI:93693		S	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	64.03	D6Mit13	MGI:93557		S	C	Z	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	Z	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	64.58	D6Mit110	MGI:93536		S	C	C	C	C	.	C	.	C	.	C	.	C	.	C	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	69.36	D6Mit59	MGI:93690		S	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	73.86	D6Mit58	MGI:93689		S	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	77.64	D6Mit14	MGI:93568		S	S	S	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	6	77.7	D6Mit15	MGI:93579		S	.	S	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	D7Mit142	MGI:93961		.	.	.	.	.	.	C	.	.	.	C	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	D7Mit18	MGI:94001		C	.	C	C	C	S	S	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	D7Mit26	MGI:94053		C	C	C	C	C	S	S	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	D7Mit32a	MGI:94059		C	.	.	C	C	S	C	C	.	C	S	.	C	C	.	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	D7Mit74a	MGI:94096		C	S	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	.	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	D7Mit9	MGI:94113		C	C	S	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	Mpmv1	MGI:97077		C	C	C	C	C	S	S	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	-1.0	Prt4	MGI:97779		C	C	C	Z	Z	S	S	C	C	C	S	C	C	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	3.81	D7Mit75	MGI:94097		X	.	C	C	X	C	C	C	C	X	C	.	C	C	X	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	9.69	D7Nds6	MGI:94195		C	S	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	9.94	D7Mit57	MGI:94080		C	S	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	13.87	D7Mit22	MGI:94045		C	.	C	C	C	C	S	S	C	C	C	C	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	17.26	D7Mit117	MGI:93933		C	S	S	C	C	C	S	C	C	C	C	S	C	C	C	C	C	C	X	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	19.37	D7Mit55	MGI:94078		C	S	Z	C	C	C	S	C	C	C	S	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	19.46	Gpi1	MGI:95797		C	S	Z	C	C	C	Z	C	C	C	S	S	C	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	J:11506	van Zutphen LF, Lab Anim 1991 Jul;25(3):193-7	
+CcS	7	21.95	D7Mit54	MGI:94077		C	C	C	C	C	C	S	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	23.35	D7Mit25	MGI:94052		C	C	C	C	C	C	S	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	28.71	D7Nds5	MGI:94194		C	C	C	C	C	S	S	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	33.16	D7Mit120	MGI:93937		C	C	C	C	C	S	S	C	C	C	S	C	C	C	C	.	C	.	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	33.71	D7Mit160	MGI:93981		C	C	C	C	C	S	S	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	43.46	D7Nds1	MGI:94190		C	C	C	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	43.68	D7Nds2	MGI:94191		C	C	C	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	49.01	D7Mit31	MGI:94058		C	C	C	C	C	S	C	C	C	C	S	C	C	C	Z	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	63.44	D7Mit7	MGI:94091		C	C	C	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	66.7	D7Mit8	MGI:94102		C	C	C	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	67.42	D7Mit164	MGI:93985		C	C	S	C	C	S	C	C	C	C	S	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	69.44	Itgal	MGI:96606		C	C	Z	C	C	S	C	C	C	C	S	C	C	C	Z	C	S	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	70.15	D7Mit67	MGI:94088		C	C	S	C	C	S	C	C	C	C	S	C	C	C	S	.	S	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	81.76	D7Mit10	MGI:93915		C	C	S	C	C	C	C	C	C	C	S	C	C	C	S	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	87.93	D7Mit14	MGI:93958		C	C	Z	C	C	C	C	C	C	C	Z	C	.	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	88.64	D7Mit15	MGI:93969		C	C	S	C	C	C	C	C	C	C	Z	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	88.76	D7Mit47	MGI:94073		C	C	S	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	88.85	Fgf3	MGI:95517		C	C	Z	C	C	C	C	C	C	C	Z	C	C	C	C	C	C	C	S	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	7	88.86	D7Nds4	MGI:94193		C	C	S	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	S	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	-1.0	D8Mit14	MGI:94320		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	-1.0	D8Mit43	MGI:94408		C	C	S	C	S	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	-1.0	D8Mit44	MGI:94409		C	C	S	C	S	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	-1.0	D8Mit85	MGI:94454		C	C	C	C	C	S	C	C	C	C	S	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	-1.0	Es9	MGI:95448		C	C	C	C	C	S	C	Z	C	Z	S	C	C	C	S	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	2.14	D8Mit155	MGI:94337		C	C	S	C	S	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	2.52	D8Mit58	MGI:94424		C	C	S	C	S	C	C	S	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	5.91	D8Mit17	MGI:94353		.	.	S	.	S	.	.	S	.	S	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	20.69	Gsr	MGI:95804		C	C	C	C	C	C	S	S	C	C	C	C	C	C	S	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	21.16	D8Mit125	MGI:94304		C	C	C	C	C	S	S	S	C	C	C	C	C	C	S	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	21.16	D8Mit24	MGI:94390		C	C	C	C	C	S	S	S	C	C	C	C	.	C	S	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	29.8	D8Mit54	MGI:94420		C	C	C	C	C	S	C	C	C	C	C	C	C	C	S	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	30.82	D8Mit129	MGI:94308		C	C	C	C	C	S	C	C	X	C	C	C	C	C	S	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	32.3	D8Mit25	MGI:94391		C	C	C	C	C	S	C	X	C	C	C	C	C	.	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	32.3	D8Mit8	MGI:94448		C	C	C	C	C	S	C	C	C	Z	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	35.65	D8Mit28	MGI:94394		C	C	C	C	C	S	S	C	C	C	C	C	C	C	S	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	39.59	D8Mit106	MGI:94283		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	42.42	D8Mit57	MGI:94423		C	C	C	C	.	S	S	C	C	C	.	C	C	C	.	C	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	43.06	D8Mit80	MGI:94449		C	C	C	C	C	S	S	C	C	C	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	43.51	D8Mit81	MGI:94450		C	C	C	C	C	S	S	C	C	C	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	45.11	Ces1e	MGI:95432		C	C	C	C	C	S	C	Z	C	Z	S	C	C	C	S	Z	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	45.94	D8Mit40	MGI:94405		C	C	C	C	C	S	C	Z	C	C	S	C	.	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	53.18	D8Mit12	MGI:94298		C	C	S	C	C	C	C	Z	C	S	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	53.24	D8Mit47	MGI:94412		C	C	S	C	C	C	C	S	C	S	C	C	C	C	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	58.5	D8Mit165	MGI:94348		C	C	S	C	C	C	C	S	C	C	C	C	C	S	S	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	61.34	D8Mit117	MGI:94295		C	C	.	C	.	C	C	S	C	C	C	C	C	S	S	C	C	C	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	70.47	D8Mit36	MGI:94403		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	71.91	Aprt	MGI:88061		C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	72.18	D8Mit13	MGI:94309		.	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	74.46	D8Mit42	MGI:94407		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	74.62	D8Mit92	MGI:94462		C	C	C	C	C	C	C	C	C	.	C	C	C	S	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	8	74.69	D8Mit93	MGI:94463		C	C	C	Z	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	-1.0	D9Mit15	MGI:94658		C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	-1.0	D9Mit6	MGI:94751		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	-1.0	D9Mit87	MGI:94779		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	.	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	-1.0	D9Mit9	MGI:94782		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	-1.0	D9Nds5	MGI:94849		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	-1.0	Es13	MGI:95424		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	-1.0	Mpmv27	MGI:97096		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	9.83	D9Mit85	MGI:94777		C	S	S	C	C	C	C	S	C	C	C	C	.	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	14.43	D9Mit42	MGI:94734		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	17.8	D9Mit90	MGI:94783		C	C	C	C	X	C	C	S	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	20.76	D9Mit2	MGI:94712		C	C	C	C	C	C	S	S	C	C	C	C	C	C	C	C	C	C	C	S	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	26.42	D9Mit154	MGI:94663		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	26.83	D9Mit22	MGI:94717		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	26.83	D9Nds6	MGI:94850		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	26.83	Ncam1	MGI:97281		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	
+CcS	9	27.75	D9Mit27	MGI:94722		S	S	C	.	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	28.62	D9Mit4	MGI:94732		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	31.31	D9Mit21	MGI:94716		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	33.34	D9Mit163	MGI:94673		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	34.3	D9Mit31	MGI:94724		C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	46.55	D9Mit11	MGI:94617		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	46.58	Me1	MGI:97043		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	J:11622	Moen CJ, Mamm Genome 1991;1(4):217-27	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	47.35	D9Mit10	MGI:94611		.	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	55.07	D9Mit24	MGI:94719		C	.	C	C	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	64.02	D9Mit20	MGI:94713		C	C	C	C	C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	65.48	D9Mit16	MGI:94669		C	C	C	C	C	C	C	C	C	.	C	C	C	C	C	.	.	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	67.33	D9Mit17	MGI:94680		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	69.26	D9Mit56	MGI:94747		C	C	C	C	C	C	C	.	C	C	C	.	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	71.33	D9Mit82	MGI:94775		C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	71.49	D9Mit18	MGI:94690		C	C	C	C	C	C	C	C	C	C	C	.	C	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	9	71.55	D9Mit19	MGI:94701		C	C	.	C	.	C	C	C	C	C	C	C	S	C	C	C	C	C	C	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	X	-1.0	DXMit19	MGI:95091		C	C	C	C	X	C	C	X	C	C	C	C	C	C	C	C	C	C	C	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	X	68.46	DXMit10	MGI:95059		C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	X	74.91	DXMit5	MGI:95124		C	.	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	C	.	C	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	
+CcS	X	75.78	DXMit15	MGI:95087		C	C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	J:31555	Stassen AP, Mamm Genome 1996 Jan;7(1):55-8	

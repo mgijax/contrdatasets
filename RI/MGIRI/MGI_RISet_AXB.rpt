@@ -1,0 +1,835 @@
+# Legend:
+# AXB origin = A/J x C57BL/6J
+# A = A/J
+# B = C57BL/6J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-25: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+# field 26: reference
+# field 27: reference citation
+#
+AXB	1	-1.0	Akp1	MGI:87982		A	A	B	B	B	B	A	B	B	B	B	B	B	B	B	.	B	B	B	A	B	A	B	A	B	J:9832	Paigen B, Genetics 1989 May;122(1):163-8	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	
+AXB	1	-1.0	Bxv1	MGI:88221		B	A	B	B	B	B	B	A	B	B	B	B	B	B	B	.	B	B	.	B	B	A	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	1	-1.0	D1Byu10	MGI:91370		A	A	B	A	A	B	A	A	B	A	B	B	B	B	B	.	B	A	A	A	A	.	B	B	.	J:17344	Estes SS, Mouse Genome 1994;92(1):130-32	
+AXB	1	-1.0	D1J1	MGI:91422		B	B	B	B	B	B	B	B	A	B	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	1	-1.0	D1J2	MGI:105038		A	A	B	A	A	B	A	B	A	A	A	B	B	B	B	.	A	A	A	A	B	.	B	B	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	1	-1.0	D1Mit128	MGI:91499		B	A	B	A	A	B	A	A	A	A	B	A	A	A	B	.	A	B	B	B	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	1	-1.0	D1Mit13	MGI:91501		B	B	B	A	B	B	A	A	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	-1.0	D1Mit334	MGI:101432		B	A	B	A	A	B	A	B	A	A	B	A	B	B	B	.	A	B	B	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	-1.0	D1Mit437	MGI:101965		B	A	.	A	A	B	.	A	.	A	.	A	A	.	B	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	1	-1.0	D1Mit80	MGI:91732		B	A	B	A	B	B	A	B	A	A	B	A	B	B	B	.	B	B	B	B	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	1	-1.0	D1Mit88	MGI:91740		B	B	B	A	B	B	A	A	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	-1.0	D1Rp2	MGI:106082		A	B	B	A	A	B	A	B	A	A	A	B	B	B	B	.	A	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	1	-1.0	Gln3-5	MGI:95735		B	A	B	B	A	B	A	A	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:22095	Lueders KK, Mouse Genome 1994;92(4):691-693	
+AXB	1	-1.0	Iapls1-31	MGI:99810		B	B	B	A	B	B	A	B	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	1	-1.0	Iapls3-1	MGI:96354		B	B	B	A	B	B	A	A	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	1	-1.0	Len1	MGI:96771		B	A	B	A	A	B	A	A	B	A	B	A	B	B	A	.	A	B	B	B	A	B	A	A	A	J:9347	Schurr E, Curr Top Microbiol Immunol 1988;137():310-5	
+AXB	1	-1.0	Mpmv25	MGI:97094		B	B	B	B	B	B	B	A	B	B	.	B	.	B	A	.	B	.	.	.	B	.	A	.	B	J:9832	Paigen B, Genetics 1989 May;122(1):163-8	
+AXB	1	-1.0	Mpmv29	MGI:97098		A	A	B	B	B	B	B	A	B	B	B	B	B	B	A	.	B	B	A	A	B	A	B	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	1	-1.0	Pepc	MGI:97541		B	B	B	B	B	B	B	B	A	B	B	A	B	B	B	.	B	B	B	B	B	A	B	A	B	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	
+AXB	1	-1.0	Pmv21	MGI:97645		B	A	B	B	B	B	B	B	B	B	B	B	B	B	B	.	B	B	B	A	B	A	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	1	-1.0	Pmv24	MGI:97648		A	A	B	B	B	B	B	A	B	B	B	B	B	B	A	.	A	B	A	A	B	A	B	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	1	-1.0	Pmv45	MGI:97671		A	B	A	A	B	B	A	B	A	A	A	B	B	B	.	.	.	A	.	A	B	B	A	A	B	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	1	-1.0	Xmmv74	MGI:99047		B	A	B	B	B	B	B	.	B	B	.	A	.	B	A	.	B	.	.	.	B	.	A	.	B	J:9832	Paigen B, Genetics 1989 May;122(1):163-8	
+AXB	1	-1.0	Xmv41	MGI:99090		A	A	B	B	B	B	B	A	B	B	B	B	B	B	A	.	B	B	A	A	B	A	B	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	1	2.08	D1Mit296	MGI:101470		A	B	A	A	B	B	A	B	A	A	A	B	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	2.08	D1Mit58	MGI:91708		A	B	A	A	B	B	A	B	A	A	A	B	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	2.61	D1Mit294	MGI:101472		A	B	A	A	B	B	A	B	A	A	A	B	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	6.27	D1Mit3	MGI:91682		A	B	B	A	A	B	A	B	A	A	A	B	B	B	B	.	A	A	A	A	B	.	A	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	1	8.7	D1Mit1008	MGI:89471		A	A	A	A	A	B	A	B	B	A	A	B	B	A	B	.	A	A	A	A	B	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	1	9.9	D1Mit169	MGI:91544		A	A	B	A	A	B	A	B	A	A	A	B	B	B	B	.	A	A	A	A	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	10.59	D1Mit211	MGI:91591		A	A	B	A	A	B	A	B	A	A	A	B	B	B	B	.	A	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	10.92	D1Mit373	MGI:101393		A	A	B	A	A	B	A	B	A	A	A	B	B	B	B	.	A	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	12.82	D1Mit318	MGI:101448		A	A	B	A	A	B	A	B	A	A	A	A	B	B	B	.	A	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	17.67	D1Mit123	MGI:91494		A	A	B	A	A	B	A	A	A	A	A	B	B	B	B	.	B	A	A	A	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	18.55	D1Mit212	MGI:91592		A	A	B	A	A	B	A	A	A	A	A	B	B	B	B	.	B	A	A	A	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	22.88	D1Mit213	MGI:91593		A	A	B	A	A	B	A	A	B	A	B	B	B	B	B	.	B	A	A	A	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	23.18	D1Mit375	MGI:101391		A	A	B	A	A	B	A	A	B	A	B	B	B	B	B	.	B	A	A	A	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	1	29.34	D1Mit161	MGI:91536		B	A	B	A	A	B	A	A	B	A	B	B	B	B	B	.	B	B	B	B	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	1	31.79	D1Mit303	MGI:101463		B	A	B	A	A	B	A	A	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	1	32.31	D1Mit480	MGI:105626		B	A	B	A	A	B	A	A	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	1	32.31	D1Mit5.1	MGI:91699		B	A	B	A	A	B	A	A	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	1	33.31	Crygf	MGI:88526		B	A	B	A	A	B	A	A	B	A	B	A	B	B	B	.	A	B	B	B	A	B	A	A	A	J:9802	Schurr E, J Immunol 1989 Jun 15;142(12):4507-13	J:9347	Schurr E, Curr Top Microbiol Immunol 1988;137():310-5	
+AXB	1	33.31	D1Mit76	MGI:91727		B	A	B	A	A	B	A	A	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	1	36.05	Fn1	MGI:95566		B	A	B	A	A	B	A	A	A	A	B	A	B	B	B	.	A	B	B	B	A	B	A	A	A	J:11325	Malo D, Genomics 1991 Jun;10(2):356-64	J:12786	Malo D, Genomics 1993 Jun;16(3):655-63	J:9802	Schurr E, J Immunol 1989 Jun 15;142(12):4507-13	J:9347	Schurr E, Curr Top Microbiol Immunol 1988;137():310-5	
+AXB	1	36.94	D1Mit380	MGI:101386		B	A	.	A	A	B	.	A	.	A	.	A	A	.	B	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	1	38.01	D1Mit19	MGI:91567		B	A	B	A	A	B	A	A	A	A	B	A	A	A	B	.	A	B	B	B	B	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	1	38.34	D1Mcg2	MGI:99406		B	A	.	A	A	B	A	.	A	A	.	.	A	A	B	.	A	B	B	B	B	.	B	A	.	J:12786	Malo D, Genomics 1993 Jun;16(3):655-63	
+AXB	1	38.54	D1Mit181	MGI:91558		B	A	.	A	A	B	.	A	.	B	.	A	A	.	B	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	1	38.54	Slc11a1	MGI:1345275	Slc11a1<s>	B	A	B	A	A	B	A	A	A	A	A	A	A	A	B	.	A	B	B	B	B	.	B	A	A	J:11325	Malo D, Genomics 1991 Jun;10(2):356-64	J:12786	Malo D, Genomics 1993 Jun;16(3):655-63	J:9802	Schurr E, J Immunol 1989 Jun 15;142(12):4507-13	J:9347	Schurr E, Curr Top Microbiol Immunol 1988;137():310-5	
+AXB	1	38.54	Vil1	MGI:98930		B	A	B	A	A	B	A	A	A	A	A	A	A	A	B	.	A	B	B	B	B	A	B	A	A	J:11325	Malo D, Genomics 1991 Jun;10(2):356-64	J:12786	Malo D, Genomics 1993 Jun;16(3):655-63	J:9802	Schurr E, J Immunol 1989 Jun 15;142(12):4507-13	
+AXB	1	38.55	D1Mit7	MGI:91720		B	A	.	A	A	B	A	.	A	A	.	.	A	A	B	.	A	B	B	B	B	.	B	A	.	J:12786	Malo D, Genomics 1993 Jun;16(3):655-63	
+AXB	1	39.16	D1Mcg8	MGI:99412		B	A	.	A	A	B	A	.	A	A	.	.	A	A	B	.	A	B	B	B	B	.	B	A	.	J:12786	Malo D, Genomics 1993 Jun;16(3):655-63	
+AXB	1	39.51	D1Mit132	MGI:91504		B	A	B	A	A	B	A	A	A	A	B	A	A	A	B	.	A	B	B	B	B	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	1	39.91	D1Mit215	MGI:91595		B	A	B	A	A	B	A	A	A	A	B	A	A	A	B	.	A	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	43.98	Nppc	MGI:97369		B	A	B	A	B	.	.	B	.	A	B	.	B	B	B	.	.	B	B	B	.	.	A	.	.	J:21913	Ogawa Y, Genomics 1994 Nov 15;24(2):383-7	
+AXB	1	44.06	Akp3	MGI:87984		B	A	B	A	B	B	A	B	A	A	B	A	B	B	B	.	A	B	B	B	B	A	A	A	B	J:11325	Malo D, Genomics 1991 Jun;10(2):356-64	J:21913	Ogawa Y, Genomics 1994 Nov 15;24(2):383-7	J:9802	Schurr E, J Immunol 1989 Jun 15;142(12):4507-13	
+AXB	1	44.07	Chrng	MGI:87895		B	A	B	A	B	B	A	B	A	A	B	A	B	B	B	.	B	B	B	B	B	A	A	A	B	J:11325	Malo D, Genomics 1991 Jun;10(2):356-64	J:21913	Ogawa Y, Genomics 1994 Nov 15;24(2):383-7	J:9802	Schurr E, J Immunol 1989 Jun 15;142(12):4507-13	
+AXB	1	44.44	Sag	MGI:98227		B	A	.	A	B	B	A	.	A	A	B	A	B	B	B	.	B	B	B	B	B	.	A	A	B	J:11325	Malo D, Genomics 1991 Jun;10(2):356-64	J:21913	Ogawa Y, Genomics 1994 Nov 15;24(2):383-7	
+AXB	1	50.34	D1Mit137	MGI:91509		B	B	B	A	B	B	A	B	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	50.84	D1Mit26	MGI:91644		B	B	B	A	B	B	A	B	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	50.84	D1Nds2	MGI:91836		B	B	B	A	B	B	A	B	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	52.58	D1Mit54	MGI:91704		B	B	B	A	B	B	A	A	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	54.7	D1Mit139	MGI:91511		B	B	B	B	B	B	A	A	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	54.7	D1Mit94	MGI:91747		B	B	B	B	B	B	A	A	A	A	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	58.18	D1Mit140	MGI:91513		B	B	B	B	B	B	B	B	A	B	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	61.62	Cfh	MGI:88385		B	B	B	B	B	B	B	B	A	A	.	A	B	B	.	.	B	B	B	B	B	A	A	A	B	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	
+AXB	1	61.62	D1Mit199	MGI:91576		B	B	B	B	B	B	B	B	A	B	B	A	B	B	A	.	B	B	B	B	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	62.56	D1Mit100	MGI:91469		B	B	B	B	B	B	B	B	A	B	B	A	B	B	A	.	B	B	B	B	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	1	63.24	D1Mit264	MGI:91649		B	B	B	B	B	B	B	B	A	B	B	A	B	B	A	.	B	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	63.28	D1Mit194	MGI:91571		B	B	B	B	B	B	B	B	A	B	B	A	B	B	A	.	B	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	63.32	D1Mit102	MGI:91471		B	B	B	B	B	B	B	B	A	B	B	A	B	B	A	.	B	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	67.71	D1Mit14	MGI:91512		B	B	B	B	B	B	B	B	A	B	B	A	B	B	A	.	B	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	69.75	D1Mit105	MGI:91474		B	B	B	B	B	B	B	B	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	69.75	Serpinc1	MGI:88095		B	B	B	B	B	B	B	B	A	B	.	A	B	B	.	.	B	B	B	B	B	A	B	B	B	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	
+AXB	1	76.25	D1Mit15	MGI:91523		B	A	B	B	B	B	B	A	A	B	B	B	B	B	A	.	B	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	1	79.22	Apoa2	MGI:88050		A	A	B	B	B	B	B	A	B	B	.	B	B	B	A	.	B	B	B	A	B	A	B	A	B	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:9832	Paigen B, Genetics 1989 May;122(1):163-8	
+AXB	1	79.96	D1Mit456	MGI:101985		A	A	B	B	B	B	B	A	B	B	B	B	B	B	A	.	B	B	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	1	80.97	Spta1	MGI:98385		A	A	B	B	B	B	B	A	B	B	.	A	B	B	.	.	B	B	B	A	B	A	B	A	B	J:9230	Seldin MF, Genomics 1988 Jan;2(1):48-56	J:9832	Paigen B, Genetics 1989 May;122(1):163-8	
+AXB	1	83.48	D1Mit315	MGI:101451		A	A	B	B	B	B	B	A	B	B	B	B	B	B	A	.	B	B	A	A	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	1	84.48	Ephx1	MGI:95405		A	A	B	B	B	B	B	A	B	B	B	B	B	B	A	.	B	B	A	A	B	.	B	A	.	J:55357	Hartsfield JK Jr, MGI Direct Data Submission 1999;():	
+AXB	1	98.2	D1Mit155	MGI:91529		B	A	B	B	B	B	B	B	B	B	B	B	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	10	-1.0	D10J1	MGI:88708		B	B	A	B	A	B	A	A	A	A	A	B	B	B	A	.	B	B	B	B	B	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	10	-1.0	D10J2	MGI:105039		B	A	B	B	A	B	B	B	B	A	B	B	B	B	A	.	A	A	A	A	B	.	A	B	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	10	-1.0	D10Mit205	MGI:101315		B	B	B	A	A	B	A	B	A	A	A	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	10	-1.0	D10Mit264	MGI:102260		B	A	B	B	A	B	A	B	A	A	B	B	B	B	B	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	10	-1.0	D10Mit66	MGI:88850		B	A	B	B	A	B	A	B	A	A	B	B	B	B	B	.	B	B	B	B	B	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	10	-1.0	D10Nds1	MGI:88923		B	A	B	B	A	B	B	A	A	A	B	A	B	B	A	.	A	B	B	B	A	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	10	-1.0	Fdpsl3	MGI:95505		.	.	.	.	.	.	.	.	.	.	B	.	.	B	.	.	.	B	B	B	A	.	B	B	.	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	
+AXB	10	-1.0	Fdpsl4	MGI:95506		.	.	.	.	.	.	.	.	.	.	B	.	.	B	.	.	.	B	B	B	A	.	B	B	.	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	
+AXB	10	-1.0	Mpmv12	MGI:97080		A	A	A	B	A	A	B	A	A	A	B	B	B	B	A	A	A	B	B	B	B	B	B	A	A	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:18183	Rees D, Immunogenetics 1994;39(5):363-6	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	10	-1.0	Mpmv5	MGI:97121		B	A	B	B	A	B	B	A	A	A	B	A	B	B	A	A	A	B	A	B	A	B	B	B	A	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:18183	Rees D, Immunogenetics 1994;39(5):363-6	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	10	-1.0	Skn2	MGI:98312		.	A	A	B	B	.	.	A	.	A	.	.	A	.	.	B	.	B	B	B	B	.	B	.	.	J:18183	Rees D, Immunogenetics 1994;39(5):363-6	
+AXB	10	2.06	D10Mit166	MGI:88787		B	A	A	B	A	B	B	A	A	A	B	A	B	B	A	.	A	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	10	7.94	D10Mit168	MGI:88789		A	A	A	B	A	A	B	A	A	A	B	B	B	B	A	.	A	B	B	B	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	9.75	Myb	MGI:97249		A	A	A	B	A	A	B	A	A	A	B	B	B	B	.	A	B	B	B	B	A	.	B	A	.	J:18183	Rees D, Immunogenetics 1994;39(5):363-6	
+AXB	10	9.78	D10Mit17	MGI:88791		A	A	A	B	A	A	B	A	A	A	B	B	B	B	A	.	A	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	9.78	D10Mit2	MGI:88804		A	A	A	B	A	A	B	A	A	A	B	.	B	B	A	.	A	B	B	B	B	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	10	11.67	D10Mit106	MGI:88722		A	A	A	B	A	A	B	A	A	A	B	B	B	B	A	.	A	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	11.87	D10Mit86	MGI:88872		A	A	A	B	A	A	B	A	A	A	B	B	B	B	A	.	A	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	14.23	D10Mit126	MGI:88744		A	A	A	B	A	A	B	A	A	A	B	B	B	B	A	.	A	B	B	B	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	39.72	D10Mit42	MGI:88825		B	A	B	B	A	B	B	B	B	A	B	B	B	B	B	.	A	A	A	A	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	45.28	D10Mit230	MGI:101290		B	A	B	B	A	B	A	B	A	A	B	B	B	B	B	.	B	B	B	B	B	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	10	46.85	D10Mit10	MGI:88715		B	A	B	B	A	B	A	B	A	A	B	B	B	B	B	.	B	B	B	B	B	.	A	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	10	46.97	D10Mit11	MGI:88726		B	A	B	B	A	B	A	B	B	A	B	B	B	B	B	.	B	B	B	B	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	55.73	D10Mit162	MGI:88783		B	A	B	B	A	B	A	B	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	10	61.58	D10Mit233	MGI:101287		B	A	B	A	A	B	A	B	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	10	63.23	D10Mit266	MGI:102263		B	A	B	A	A	B	A	B	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	10	66.75	D10Mit14	MGI:88759		B	B	A	B	A	B	A	A	A	A	A	B	B	B	A	.	B	B	B	B	B	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	10	67.89	D10Mit237	MGI:101283		B	B	A	B	A	B	A	A	A	A	A	B	A	A	A	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	10	70.36	D10Mit35a	MGI:88819		B	B	B	B	A	B	A	B	A	A	A	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	10	72.31	D10Mit297	MGI:105803		B	B	B	A	A	B	A	B	B	A	B	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	-1.0	D11Mit35	MGI:89118		B	B	A	A	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	11	-1.0	D11Mit356	MGI:105817		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	-1.0	D11Mit38	MGI:89121		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	-1.0	Es3	MGI:95442		B	B	A	A	A	B	A	B	A	B	A	A	A*	B	B	.	B	B	B	B	B	B	A	A	B	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	
+AXB	11	-1.0	Hba	MGI:96014		B	B	A	A	A	A	A	A	A	B	A	A	B	B	B	.	B	A	A	.	.	.	A	.	.	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	
+AXB	11	-1.0	Iapls1-35	MGI:102948		B	B	B	B	A	A	A	B	A	B	A	A	A	B	B	.	B	B	B	B	B	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	11	-1.0	Iapls2-20	MGI:102945		B	B	B	B	A	A	A	B	A	B	A	A	A	B	B	.	B	B	B	B	B	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	11	-1.0	Iapls3-25	MGI:99807		B	B	A	B	A	B	B	B	A	B	A	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	11	-1.0	Mpmv2	MGI:97088		B	B	A	B	B	B	A	A	A	B	B	B	B	B	A	.	A	A	A	A	B	B	A	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	11	-1.0	Mpmv4	MGI:97110		B	B	A	A	A	A	A	A	A	B	A	A	A	B	A	.	B	A	A	A	B	A	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	11	-1.0	Mpmv8	MGI:97135		B	B	B	B	A	A	A	B	B	B	A	A	A	B	B	.	B	B	B	B	B	B	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	11	-1.0	Myhs	MGI:97261		B	B	A	B	A	A	.	A	.	B	B	A	B	B	A	.	A	B	A	A	A	B	A	A	.	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	
+AXB	11	-1.0	Pmv2	MGI:97643		A	B	A	A	A	A	A	A	A	A	A	A	A	A	.	.	.	A	.	A	A	B	B	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	11	-1.0	Pmv22	MGI:97646		A	B	A	A	A	A	A	A	A	A	A	A	A	.	B	.	B	A	A	A	A	B	B	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	11	-1.0	Pmv46	MGI:97672		A	B	A	A	A	A	A	A	A	A	B	A	A	A	B	.	A	A	A	A	A	B	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	11	-1.0	Pmv56	MGI:97683		B	B	B	B	A	A	A	B	B	B	A	B	A	B	B	.	A	B	B	B	B	B	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	11	-1.0	Xmv42	MGI:99091		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	A	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	11	3.52	D11Mit74	MGI:89153		A	B	A	A	A	A	A	A	A	A	A	A	A	A	B	.	A	A	A	A	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	9.41	Egfr	MGI:95294		A	B	A	A	.	A	A	A	.	A	A	A	.	A	B	.	.	A	.	.	A	.	.	.	.	J:3460	Blatt C, Mouse Genome 1992;90(4):675	
+AXB	11	10.57	D11Mit162	MGI:89048		A	B	A	A	A	A	A	A	.	A	A	A	A	A	B	.	.	A	A	A	.	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	15.63	D11Mit82	MGI:89162		A	B	A	A	A	A	A	A	A	B	A	A	B	B	B	.	B	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	16.31	D11Mit83	MGI:89163		A	B	A	A	A	A	A	A	A	B	A	A	B	B	B	.	B	A	A	A	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	21.96	D11Mit51	MGI:89131		A	B	A	B	A	A	A	A	A	B	A	A	B	B	B	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	32.13	D11Mit140	MGI:89024		B	B	A	B	A	A	B	A	A	B	A	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	32.13	D11Mit310	MGI:102275		B	B	A	B	A	A	B	A	A	B	A	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	32.13	Il3	MGI:96552		B	B	A	B	A	A	B	A	A	B	A	.	B	B	B	.	.	A	A	A	.	.	A	A	.	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	
+AXB	11	36.21	D11Mit208	MGI:89097		B	B	.	B	A	A	.	A	.	B	.	A	B	.	A	.	.	A	A	A	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	11	39.47	D11Mit242	MGI:101249		B	B	A	B	A	A	A	A	A	B	B	A	B	B	A	.	A	A	A	A	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	41.87	D11Mit4	MGI:89123		B	B	A	B	B	A	A	A	A	B	B	A	B	B	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	11	42.51	D11Mit278	MGI:101213		B	B	A	B	B	A	A	A	A	B	B	A	B	B	A	.	A	A	A	A	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	42.76	D11Mit298	MGI:101193		B	B	.	B	B	A	.	A	.	B	.	A	B	.	A	.	.	A	A	A	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	11	42.86	D11Mit60	MGI:89138		B	B	A	B	B	A	A	A	A	B	B	A	B	B	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	11	42.88	D11Mit29	MGI:89112		B	B	A	B	B	A	A	A	A	B	B	A	B	B	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	11	42.88	D11Mit30	MGI:89113		B	B	A	B	B	A	A	A	A	B	B	A	B	B	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	11	45.92	D11Mit321	MGI:102287		B	B	.	B	B	B	.	A	.	B	.	B	B	.	A	.	.	A	A	A	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	11	46.17	D11Mit116	MGI:88997		B	B	A	B	B	B	A	A	B	B	B	B	B	B	A	.	A	A	A	A	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	11	46.18	D11Mit245	MGI:101246		B	B	A	B	B	B	A	A	B	B	B	B	B	B	A	.	A	A	A	A	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	50.86	D11Mit120	MGI:89002		B	B	A	A	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	51.23	D11Mit119	MGI:89000		B	B	A	A	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	51.23	D11Mit36	MGI:89119		B	B	A	A	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	52.22	D11Mit39	MGI:89122		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	52.4	D11Mit196	MGI:89083		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	54.34	D11Mit212	MGI:89102		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	54.34	D11Mit41	MGI:89125		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	54.6	D11Mit179	MGI:89065		B	B	A	B	A	A	A	A	B	B	A	A	A	B	A	.	B	A	A	A	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	58.9	D11Mit288	MGI:101203		B	B	A	B	A	A	A	A	B	B	A	A	A	B	B	.	B	B	B	B	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	59.82	D11Mit54	MGI:89134		B	B	A	B	A	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	59.82	Hoxb5	MGI:96186		B	B	A	B	A	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	A	A	A	.	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	
+AXB	11	59.82	Hoxb6	MGI:96187		B	B	A	B	A	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	.	A	A	.	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	
+AXB	11	59.82	Hoxb7	MGI:96188		B	B	A	B	A	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	.	A	A	.	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	
+AXB	11	59.83	Hoxb4	MGI:96185		B	B	A	B	A	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	A	A	A	.	J:8920	Lonai P, DNA 1987 Oct;6(5):409-18	
+AXB	11	67.84	D11Mit10	MGI:88979		B	B	B	B	A	A	A	B	B	B	A	A	A	B	B	.	B	B	B	B	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	70.29	D11Mit258	MGI:101233		B	B	B	B	A	A	A	B	B	B	A	B	A	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	71.83	D11Mit333	MGI:102299		B	B	B	B	A	A	A	B	B	B	A	B	A	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	73.75	D11Mit336	MGI:102302		B	B	B	B	A	B	A	B	B	B	A	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	74.06	D11Mit334	MGI:102300		B	B	B	B	A	B	A	B	B	B	A	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	75.93	D11Mit301	MGI:101190		B	B	B	B	A	B	A	B	A	B	A	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	11	75.93	D11Mit61	MGI:89139		B	B	B	B	A	B	A	B	A	B	A	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	11	80.6	D11Mit214	MGI:89104		B	B	A	B	A	B	A	B	A	B	A	A	B	B	B	.	B	B	B	B	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	82.37	D11Mit103	MGI:88983		B	B	A	B	A	B	A	A	A	B	A	A	B	B	B	.	B	B	B	B	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	11	82.96	D11Mit48	MGI:89127		B	B	A	A	A	B	A	B	A	B	A	A	B	B	B	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	-1.0	D12J1	MGI:89331		A	B	A	A	A	B	A	B	B	B	B	B	B	A	A	.	A	B	B	B	B	A	A	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	12	-1.0	D12J2	MGI:89332		B	B	A	A	A	B	B	A	A	B	B	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	12	-1.0	D12J3	MGI:89333		B	B	A	A	A	A	B	A	A	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	12	-1.0	D12J4	MGI:89334		B	B	A	A	A	A	B	A	A	B	B	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	12	-1.0	D12J5	MGI:89335		A	B	A	A	A	B	A	B	B	B	B	B	B	A	A	.	A	B	B	B	B	.	A	B	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	12	-1.0	D12J6	MGI:89336		B	B	A	A	A	B	B	A	A	B	B	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	12	-1.0	D12Mit14	MGI:89387		A	B	A	A	A	A	A	A	A	B	A	A	A	A	A	.	A	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	12	-1.0	D12Mit157	MGI:89406		A	B	A	B	A	A	A	B	A	B	.	A	A	A	A	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	12	-1.0	D12Mit17	MGI:89420		A	B	A	A	A	B	A	B	B	B	B	B	B	A	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	-1.0	D12Nyu14	MGI:99650		A	B	.	A	A	.	.	B	.	B	B	B	.	A	A	.	.	B	B	B	.	.	A	B	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AXB	12	-1.0	D12Nyu18	MGI:99646		A	B	.	A	A	B	.	B	.	B	B	B	.	A	A	.	.	B	B	B	.	.	A	B	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AXB	12	-1.0	D12Nyu19	MGI:99645		B	B	.	A	A	A	.	A	.	B	B	B	.	A	A	.	.	A	A	A	.	.	B	A	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AXB	12	-1.0	Iapls2-10	MGI:96337		A	B	A	A	A	A	A	A	B	B	A	A	A	A	A	.	A	A	A	A	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	12	-1.0	Iapls2-22	MGI:102941		A	B	A	B	A	A	A	B	A	B	A	A	A	A	A	.	A	B	B	B	A	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	12	-1.0	Igh-C	MGI:96456		A	.	A	A	A	B	A	B	B	B	B	.	B	A	A	.	A	B	B	B	B	.	A	B	A	J:3460	Blatt C, Mouse Genome 1992;90(4):675	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	12	-1.0	Mpmv11	MGI:97079		A	B	A	A	A	A	A	A	A	B	A	A	A	A	A	.	A	B	B	B	B	A	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	12	-1.0	Odc-rs8	MGI:97422		A	B	A	A	A	B	A	B	B	B	.	B	.	.	.	.	A	B	.	.	.	.	A	B	.	J:3460	Blatt C, Mouse Genome 1992;90(4):675	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	12	-1.0	Pmv3	MGI:97654		B	B	A	A	A	A	A	A	B	B	A	A	A	A	A	.	A	A	A	A	B	A	A	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	12	-1.0	Pmv37	MGI:97662		B	B	A	A	A	B	A	A	A	B	A	?	B	B	A	.	A	A	A	A	B	B	B	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	12	-1.0	Rnu1a2	MGI:97973		B	A	A	A	A	A	A	A	B	B	A	A	A	A	A	.	A	A	A	A	B	A	A	A	A	J:9074	Lund E, Somat Cell Mol Genet 1988 Mar;14(2):143-8	
+AXB	12	-1.0	Ryk-ps1	MGI:103028		B	B	A	B	A	.	.	A	.	B	B	.	A	A	A	.	.	B	A	A	.	.	B	.	A	J:24374	Gough NM, Mamm Genome 1995 Apr;6(4):255-6	
+AXB	12	2.59	D12Mit37	MGI:89447		B	B	A	A	A	B	A	A	A	B	A	B	B	B	A	.	A	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	5.58	D12Mit168	MGI:89418		B	B	A	A	A	B	B	A	A	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	5.64	D12Mit56	MGI:89463		B	B	A	A	A	B	B	A	A	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	6.58	D12Mit216	MGI:101154		B	B	A	A	A	B	B	A	A	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	8.04	D12Mit58	MGI:89465		B	B	A	A	A	B	B	A	A	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	8.11	D12Nds11	MGI:89564		B	B	A	A	A	B	B	A	A	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	12	10.04	D12Mit84	MGI:89494		B	B	A	A	A	A	B	A	A	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	13.0	D12Mit136	MGI:89383		B	B	A	A	A	B	B	A	A	B	B	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	13.0	Tpo	MGI:98813		B	B	.	A	A	A	.	A	.	B	B	B	.	A	A	.	.	A	A	A	.	.	B	A	.	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+AXB	12	13.74	D12Mit106	MGI:89350		B	B	A	A	A	A	B	A	A	B	B	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	15.67	D12Mit46	MGI:89454		B	B	A	A	A	A	B	A	A	B	B	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	15.71	D12Mit153	MGI:89402		B	B	A	A	A	A	B	A	A	B	B	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	22.11	D12Mit110	MGI:89355		B	B	A	A	A	A	B	A	B	B	A	A	A	A	A	.	A	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	26.43	D12Mit36	MGI:89446		A	B	A	A	A	A	A	A	B	B	A	A	A	A	A	.	A	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	28.94	D12Mit114	MGI:89359		A	B	A	A	A	A	A	A	A	B	A	A	A	A	A	.	A	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	12	28.94	D12Mit34	MGI:89444		A	B	A	A	A	A	A	A	A	B	A	A	A	A	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	34.06	D12Mit52	MGI:89460		A	B	A	A	A	A	A	B	A	B	A	A	A	A	A	.	A	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	12	37.16	D12Mit5	MGI:89457		A	B	A	B	A	A	A	B	A	B	A	A	A	A	A	.	A	B	B	B	A	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	12	37.86	D12Mit214	MGI:101156		A	B	A	B	A	A	A	B	A	B	A	A	A	A	A	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	44.93	D12Mit118	MGI:89363		A	B	B	B	A	A	A	B	B	B	A	A	A	A	A	.	A	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	45.02	D12Mit259	MGI:102325		A	B	B	B	A	A	A	B	B	B	A	A	A	A	A	.	A	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	50.43	D12Mit30	MGI:89441		A	B	B	B	A	A	A	B	B	B	A	A	A	A	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	50.87	D12Mit231	MGI:101139		A	B	B	B	A	A	A	B	B	B	A	A	B	A	A	.	A	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	51.55	D12Mit101	MGI:89345		A	B	B	A	A	A	A	B	B	B	A	A	B	A	A	.	A	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	12	55.11	D12Mit167	MGI:89417		A	B	A	A	A	A	A	B	A	A	A	A	B	A	A	.	A	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	12	57.99	D12Mit53	MGI:89461		A	B	A	A	A	A	A	B	B	B	B	B	B	A	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	59.29	D12Mit233	MGI:101137		A	B	A	A	A	A	A	B	B	B	B	B	B	A	A	.	A	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	12	62.1	D12Mit20	MGI:89436		A	B	A	A	A	B	A	B	B	B	B	B	B	A	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	12	62.1	D12Mit8	MGI:89489		A	A	.	A	A	B	.	B	.	B	.	B	B	.	A	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	13	-1.0	D13J1	MGI:89628		A	B	A	A	B	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	13	-1.0	D13J2	MGI:89629		A	B	A	A	B	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	13	-1.0	D13J3	MGI:89630		A	B	A	A	B	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	13	-1.0	D13J4	MGI:894317		A	.	B	.	B	A	A	A	A	B	B	B	A	A	A	.	B	A	A	A	A	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	13	-1.0	D13Mit10	MGI:89635		A	B	A	A	B	B	B	B	B	A	B	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	J:30571	Robert B, Mouse Genome 1995;93(4):1044-1046	
+AXB	13	-1.0	D13Mit110	MGI:89647		A	A	A	B	A	A	A	B	A	B	A	A	A	A	A	.	A	A	A	A	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	-1.0	D13Mit59	MGI:89786		A	B	A	A	A	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	13	-1.0	D13Mit7	MGI:89797		A	B	A	A	B	A	B	A	B	A	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	J:30571	Robert B, Mouse Genome 1995;93(4):1044-1046	
+AXB	13	-1.0	D13Rp4	MGI:108217		A	A	B	A	B	B	A	A	A	B	A	A	A	A	B	.	B	A	A	A	A	.	A	A	.	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AXB	13	-1.0	Fdpsl7	MGI:95509		.	.	.	.	.	.	.	.	.	.	A	.	.	A	.	.	.	A	A	A	B	.	B	A	.	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	
+AXB	13	-1.0	Iapls2-6	MGI:96350		A	A	A	B	A	A	A	A	A	A	A	B	A	A	A	.	A	A	A	A	A	.	B	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	13	-1.0	Iapls3-14	MGI:96359		A	A	B	A	A	B	A	A	A	B	A	A	A	A	A	.	B	A	A	A	A	.	B	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	13	-1.0	Iapls3-53	MGI:102940		A	A	A	A	A	A	A	A	A	B	A	B	A	A	A	.	A	A	A	A	A	.	B	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	13	-1.0	Pmv9	MGI:97711		A	A	A	B	A	B	A	B	A	B	A	A	A	A	.	.	.	A	.	A	A	B	B	B	A	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	
+AXB	13	-1.0	Xmv13	MGI:99059		A	B	A	A	B	A	B	A	A	B	A	B	A	A	A	.	A	A	A	A	B	B	B	A	A	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	J:30571	Robert B, Mouse Genome 1995;93(4):1044-1046	
+AXB	13	7.26	D13Mit16	MGI:89700		A	B	A	A	B	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	13	7.31	D13Mit3	MGI:89757		A	B	A	A	B	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	13	7.34	D13Mit115	MGI:89652		A	B	A	A	B	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	13	7.73	D13Mit17	MGI:89710		A	A	.	A	B	B	.	B	.	A	.	B	B	.	A	.	.	A	A	A	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	13	14.44	D13Mit18	MGI:89721		A	B	A	A	A	B	A	B	B	A	A	B	B	A	A	.	B	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	13	24.5	D13Mit91	MGI:89821		A	B	A	A	A	B	A	B	B	A	B	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	13	27.68	D13Nds1	MGI:89878		A	B	A	A	B	B	B	B	B	A	B	B	B	A	A	.	B	A	A	A	B	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	J:30571	Robert B, Mouse Genome 1995;93(4):1044-1046	
+AXB	13	27.84	Msx2	MGI:97169		A	B	A	A	B	B	B	B	B	A	B	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:30571	Robert B, Mouse Genome 1995;93(4):1044-1046	
+AXB	13	28.71	D13Mit54	MGI:89781		A	B	A	A	B	B	B	B	B	A	B	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	13	30.06	D13Mit13	MGI:89667		A	B	A	A	B	B	B	B	B	A	B	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	J:30571	Robert B, Mouse Genome 1995;93(4):1044-1046	
+AXB	13	30.06	Il9	MGI:96563		A	B	A	A	B	B	B	B	B	A	B	B	A	A	A	.	B	A	A	A	B	B	B	A	B	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	J:4581	Andalibi A, Mamm Genome 1993;4(4):211-9	J:10448	Mock BA, Immunogenetics 1990;31(4):265-70	J:30571	Robert B, Mouse Genome 1995;93(4):1044-1046	
+AXB	13	31.88	D13Mit122	MGI:89659		A	B	A	A	B	A	B	B	B	A	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	13	32.53	D13Mit209	MGI:101126		A	B	A	A	B	A	B	A	B	A	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	13	32.59	D13Mit282a	MGI:102342		A	B	A	A	B	A	B	A	B	A	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	13	32.8	D13Mit283	MGI:102341		A	B	A	A	B	A	B	A	B	A	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	13	34.54	D13Mit66	MGI:89793		A	B	A	A	B	A	B	A	A	B	A	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	13	39.64	D13Mit11	MGI:89646		A	B	A	A	A	A	A	A	A	B	A	B	A	A	A	.	A	A	A	A	A	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	13	40.95	D13Mit254	MGI:101081		A	B	.	A	A	A	.	A	.	B	.	B	A	.	A	.	.	A	A	A	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	13	40.98	D13Mit231	MGI:101104		A	.	B	A	A	A	A	A	.	B	A	.	A	A	A	.	A	A	A	A	.	.	B	B	.	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	
+AXB	13	45.05	D13Mit126	MGI:89663		A	B	.	A	A	A	.	B	.	B	.	B	A	.	A	.	.	A	A	A	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	13	47.43	D13Mit193	MGI:89736		A	.	A	A	B	A	A	B	.	B	A	.	A	A	A	.	A	A	A	A	.	.	B	B	.	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	
+AXB	13	47.75	D13Mit106	MGI:89642		A	A	.	A	B	A	.	B	.	B	.	B	A	.	A	.	.	A	A	A	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	13	47.77	D13Mit105	MGI:89641		A	A	A	A	A	A	A	B	A	B	A	.	A	A	A	.	A	A	A	A	A	.	B	.	.	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	47.88	Arsb	MGI:88075		A	A	A	A	B	A	A	B	A	B	A	A	A	A	.	.	A	A	A	A	A	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	13	49.22	D13Mit108	MGI:89644		A	A	A	A	A	A	.	B	A	B	A	.	A	A	A	.	A	A	A	A	A	.	B	.	.	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	50.2	D13Mit107	MGI:89643		.	A	.	B	A	A	A	B	A	B	A	.	A	A	A	.	A	A	A	A	A	.	B	.	.	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	50.66	D13Mit128	MGI:89665		A	A	A	B	A	A	A	B	A	B	A	A	A	A	A	.	A	A	A	A	A	.	B	B	.	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	51.11	D13Mit194	MGI:89737		A	.	A	B	A	A	A	B	.	B	A	.	A	A	A	.	A	A	A	A	.	.	B	B	.	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	
+AXB	13	52.94	D13Mit146	MGI:89685		A	A	B	B	A	B	A	B	A	B	A	.	A	A	A	.	B	A	A	A	A	.	B	.	.	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	53.05	Naip5	MGI:1298220		A	A	B*	B	A	B	A	B	.	B	A	A	A	A	A	.	B	A	A	A	.	.	B	B	B	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	J:20633	Yoshida S, Infect Immun 1991 Jan;59(1):428-32	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	54.28	D13Mit70	MGI:89798		A	.	A	A	A	B	A	A	.	B	A	.	A	A	A	.	B	A	A	A	.	.	B	B	.	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	
+AXB	13	54.94	D13Mit287	MGI:102346		A	A	.	A	A	B	.	A	.	B	.	A	A	.	A	.	.	A	A	A	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	13	56.92	D13Mit73	MGI:89801		A	A	?	A	A	B	A	?	A	B	A	.	A	A	A	.	B	A	A	A	A	.	B	B	.	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	59.67	D13Mit149	MGI:89688		A	A	B	A	B	B	A	A	A	B	A	.	B	B	A	.	B	A	A	A	A	.	B	.	.	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	59.69	D13Mit148	MGI:89687		A	A	B	A	B	B	A	A	A	B	A	.	B	B	A	.	B	A	A	A	A	.	B	.	.	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	59.69	D13Mit213	MGI:101122		A	A	.	A	B	B	.	A	.	B	.	A	B	.	A	.	.	A	A	A	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	13	63.03	D13Mit129	MGI:89666		A	A	B	A	B	B	A	A	A	B	A	.	A	A	B	.	B	A	A	A	A	.	B	.	.	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	63.73	D13Mit53	MGI:89780		A	A	B*	B	B	B	A	A	A	B	A	A	A	A	B	.	B	A	A	A	A	.	B	A	.	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	63.93	D13Mit196	MGI:89739		A	A	B	B	B	A	A	A	A	B	A	A	A	A	B	.	B	A	A	A	A	.	B	A	.	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	
+AXB	13	64.06	D13Mit32	MGI:89760		A	.	A	B	B	A	A	A	.	B	A	.	A	A	B	.	B	A	A	A	.	.	B	A	.	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	
+AXB	13	64.61	Itga1	MGI:96599		A	A	B	B	B	A	A	A	A	A	B	B	A	A	B	.	B	A	A	A	A	.	B	A	B	J:2669	Douville P, Genomics 1992 Oct;14(2):503-5	
+AXB	13	65.32	D13Mit77	MGI:89805		A	A	B*	B	B	A	A	A	A	B	B*	A	A	A	B	.	B	A	A	A	A	.	B	A	.	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	J:25245	Dietrich WF, Genomics 1995 Apr 10;26(3):443-50	
+AXB	13	67.21	D13Mit78	MGI:89806		A	A	?	B	B	A	A	A	A	B	A	A	A	A	B	.	B	A	A	A	A	.	B	A	.	J:40663	Yen CH, Mamm Genome 1997 Jun;8(6):411-7	J:28034	Beckers MC, Mamm Genome 1995 Aug;6(8):540-5	
+AXB	14	-1.0	amd	MGI:88003		B	A	.	.	B	A	B	B	.	A	.	.	.	.	A	.	B	B	B	B	A	.	A	.	B	J:11025	Traystman MD, Am J Pathol 1991 Mar;138(3):721-6	J:2843	Traystman MD, Clin Exp Immunol 1991 Nov;86(2):291-8	
+AXB	14	-1.0	asa	MGI:88078		.	A	.	.	B	A	B	.	.	B	.	.	.	.	A	.	A	B	B	B	B	.	A	.	B	J:2843	Traystman MD, Clin Exp Immunol 1991 Nov;86(2):291-8	
+AXB	14	-1.0	D14J2	MGI:89932		B	A	A	A	B	B	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	14	-1.0	D14Mit140	MGI:89981		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	-1.0	D14Mit166	MGI:90009		B	A	A	B	B	B	A	B	B	B	A	B	A	A	B	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	-1.0	D14Mit201	MGI:101042		A	A	.	A	B	A	.	B	.	A	.	B	B	A	B	.	.	B	B	B	.	.	B	B	.	J:61355	Howard BA, Mech Dev 2000 Mar 1;91(1-2):305-9	
+AXB	14	-1.0	D14Mit260	MGI:105852		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	-1.0	D14Mit36	MGI:90040		B	A	A	B	A	B	A	B	B	B	B	B	A	A	B	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	14	-1.0	D14Mit80a	MGI:90088		B	A	.	A	B	A	.	B	.	B	.	B	B	A	B	.	.	B	B	B	.	.	A	B	.	J:61355	Howard BA, Mech Dev 2000 Mar 1;91(1-2):305-9	
+AXB	14	-1.0	Iapls1-30	MGI:96326		A	B	A	B	A	B	A	B	B	B	A	B	A	A	B	.	A	B	B	B	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	14	-1.0	Iapls2-21	MGI:102939		A	A	A	A	B	B	A	B	A	B	A	B	A	A	B	.	B	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	14	-1.0	Iapls2-23	MGI:102938		B	A	B	A	B	B	A	B	A	B	A	B	A	A	B	.	B	B	B	B	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	14	-1.0	Iapls3-48	MGI:1270852		A	A	A	B	A	B	A	B	B	B	A	B	A	A	B	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	14	-1.0	Tcra	MGI:98553		B	A	B	A	B	A	A	B	.	B	B	B	B	B	B	.	B	B	B	B	A	A	A	B	B	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:11025	Traystman MD, Am J Pathol 1991 Mar;138(3):721-6	
+AXB	14	-1.0	Xmv19	MGI:99065		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	A	A	B	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	14	6.86	D14Mit147	MGI:89988		A	A	A	B	B	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	7.08	D14Mit48	MGI:90052		A	A	A	B	B	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	14	7.08	D14Mit98	MGI:90106		A	A	A	B	B	A	A	A	B	B	A	B	A	B	B	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	7.08	Il3ra	MGI:96553		A	A	A	B	B	A	.	A	.	B	A	.	A	B	.	.	.	B	B	B	.	.	B	B	.	J:23971	Ichihara M, EMBO J 1995 Mar 1;14(5):939-50	
+AXB	14	12.07	D14Mit207	MGI:101036		A	A	.	A	B	A	.	B	.	B	.	B	B	B	B	.	.	B	B	B	.	.	B	B	.	J:61355	Howard BA, Mech Dev 2000 Mar 1;91(1-2):305-9	
+AXB	14	16.09	D14Mit202	MGI:101041		A	A	.	A	B	A	.	B	.	A	.	B	B	B	B	.	.	B	B	B	.	.	B	B	.	J:61355	Howard BA, Mech Dev 2000 Mar 1;91(1-2):305-9	
+AXB	14	16.8	D14Mit14	MGI:89980		A	A	A	A	B	A	A	B	A	A	B	B	B	B	B	.	B	B	B	B	B	.	A	B	.	J:23971	Ichihara M, EMBO J 1995 Mar 1;14(5):939-50	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	J:61355	Howard BA, Mech Dev 2000 Mar 1;91(1-2):305-9	
+AXB	14	22.18	Nrg3	MGI:1097165		A	A	.	A	B	A	.	B	.	A	.	B	A	A	B	.	.	A	A	A	.	.	A	B	.	J:61355	Howard BA, Mech Dev 2000 Mar 1;91(1-2):305-9	
+AXB	14	23.95	D14Mit129	MGI:89968		B	A	B	A	B	A	A	B	.	?	B	B	B	B	B	.	B	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	J:61355	Howard BA, Mech Dev 2000 Mar 1;91(1-2):305-9	
+AXB	14	24.16	D14Mit152	MGI:89994		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	14	24.6	D14Mit60	MGI:90066		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	25.36	D14Mit121	MGI:89960		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	26.03	D14Mit61	MGI:90067		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	26.31	Pnp	MGI:97365		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	B*	B	A	B	.	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:26239	Bobey NAM, Mouse Genome 1995;93(2):431-2	J:11025	Traystman MD, Am J Pathol 1991 Mar;138(3):721-6	
+AXB	14	26.46	D14Mit62	MGI:90068		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	14	27.68	D14Mit142	MGI:89983		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	31.51	D14Mit113	MGI:89951		B	A	B	A	B	A	A	B	A	B	B	B	B	B	B	.	A	B	B	B	A	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	14	33.21	D14Mit37	MGI:90041		B	A	B	A	B	B	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	14	37.26	D14Mit34	MGI:90038		B	A	A	A	B	B	A	B	A	B	B	B	B	B	B	.	B	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	14	44.98	D14Mit7	MGI:90076		B	A	B	A	B	B	A	B	A	B	A	B	A	A	B	.	B	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	14	50.9	D14Mit265	MGI:105857		A	A	A	B	B	B	A	B	B	B	A	B	A	A	B	.	A	B	B	B	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	14	64.86	D14Mit266	MGI:105858		A	A	A	B	A	B	B	B	B	B	B	B	A	A	B	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	15	-1.0	D15Citb1	MGI:99849		A	B	B	B	A	A	A	B	B	A	B	A	.	B	B	.	B	A	.	A	B	.	.	.	B	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	15	-1.0	D15J1	MGI:90222		B	A	B	A	A	A	A	A	A	B	A	A	B	B	B	.	A	B	B	B	B	.	B	A	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	15	-1.0	D15Mit180	MGI:100995		A	A	B	B	B	A	B	B	B	A	A	A	B	B	B	.	A	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	15	-1.0	D15Nds2	MGI:90421		B	A	B	A	B	A	A	A	B	A	A	A	B	B	B	.	A	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	15	-1.0	Gln3-9	MGI:102554		A	B	B	B	A	A	B	B	A	B	B	B	B	B	A	.	B	A	A	A	B	.	A	A	.	J:22095	Lueders KK, Mouse Genome 1994;92(4):691-693	
+AXB	15	-1.0	Iapls1-22	MGI:96320		A	A	B	B	A	A	B	B	A	B	B	A	B	B	A	.	B	A	A	A	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	15	-1.0	Iapls1-43	MGI:102937		B	A	B	B	B	A	B	B	A	A	A	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	15	-1.0	Iapls3-45	MGI:102936		B	A	B	A	B	A	B	B	B	B	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	15	-1.0	Ins3-ps	MGI:96574		A	A	.	B	.	A	B	B	.	B	B	A	.	B	A	.	.	A	.	.	A	.	A	.	.	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	15	-1.0	Krt1c	MGI:96697		A	B	B	B	A	B	B	A	A	B	B	A	.	A	A	.	A	A	.	A	A	.	B	.	B	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	15	-1.0	Ly6	MGI:96880		A	A	B	B	B	A	B	B	A	B	B	A	B	B	B	.	B	B	B	B	B	B	A	A	B	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	15	-1.0	Pmv17	MGI:97640		A	A	B	B	B	A	B	B	A	B	B	A	B	B	B	.	B	A	A	A	B	B	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	
+AXB	15	-1.0	Pmv36	MGI:97661		A	B	B	B	A	B	B	A	A	B	B	A	A	A	A	.	A	A	A	A	A	A	B	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	15	-1.0	Xmmv75	MGI:99048		A	A	B	B	B	A	B	B	.	B	B	A	.	B	B	.	B	A	.	.	B	.	A	.	B	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	15	4.39	D15Mit11	MGI:90239		A	A	B	A	A	A	A	A	A	B	A	A	B	B	B	.	A	B	B	B	B	.	B	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	15	13.02	D15Mit111	MGI:90241		A	A	B	B	B	A	B	B	B	A	A	A	B	B	B	.	A	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	15	15.1	D15Mit22	MGI:90303		B	A	B	B	B	A	B	B	B	B	B	A	B	B	B	.	A	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	15	16.74	D15Mit5	MGI:90330		B	A	B	B	B	A	B	B	B	B	B	A	B	B	B	.	B	B	B	B	B	.	B	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	15	21.96	D15Mit26	MGI:90306		B	B	B	B	B	A	B	B	A	B	B	A	B	B	B	.	B	B	B	B	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	15	29.03	D15Mit234	MGI:102376		A	B	B	B	B	A	B	B	A	B	B	B	B	B	B	.	B	B	B	B	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	15	32.19	D15Mit156	MGI:90290		A	B	B	B	B	A	B	B	A	B	B	B	B	B	B	.	B	B	B	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	15	33.42	D15Mit105	MGI:90234		A	B	B	B	B	A	B	B	A	B	B	B	B	B	B	.	B	B	B	B	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	15	34.29	D15Mit28	MGI:90308		A	A	B	B	B	A	B	B	A	B	B	B	B	B	B	.	B	B	B	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	15	37.85	Apobec3	MGI:1933111		A	A	B	.	.	.	.	B	.	.	.	A	.	.	.	.	.	.	.	.	.	.	.	.	.	J:23760	Hasenkrug KJ, J Virol 1995 Apr;69(4):2617-20	
+AXB	15	37.85	Pdgfb	MGI:97528		A	A	B	B	A	A	B	B	A	B	B	A	B	B	A	.	B	A	A	A	B	B	A	A	B	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	15	39.79	D15Mit107	MGI:90236		A	A	B	B	A	A	B	B	A	B	B	B	B	B	A	.	B	A	A	A	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	15	45.02	D15Mit171	MGI:101004		A	A	B	B	A	B	B	B	B	B	B	B	B	B	A	.	A	A	A	A	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	15	47.79	D15Mit108	MGI:90237		A	A	B	B	A	B	B	B	B	B	B	B	A	A	A	.	A	A	A	A	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	15	52.36	D15Mit39	MGI:90319		A	A	B	B	A	B	B	B	B	B	B	B	A	A	A	.	A	A	A	A	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	15	54.65	Wnt1	MGI:98953		A	B	B	B*	A*	B	B	B	B	B	.	A	.	A	A	.	A	A	A	A	A	.	B	B	.	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	15	56.13	Gpd1	MGI:95679		A	B	B	B	A	B	B	A	A	B	B	A	A	A	A	.	A	A	A	A	A	.	B	B	A	J:8753	Meruelo D, Immunogenetics 1987;25(6):361-72	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	J:8650	LeClair KP, Proc Natl Acad Sci U S A 1987 Mar;84(6):1638-43	
+AXB	16	-1.0	D16J1	MGI:90449		B	B	A	A	A	B	B	B	B	A	B	A	B	B	A	.	B	B	B	B	B	.	B	A	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	16	-1.0	D16J2	MGI:90450		B	B	A	A	A	B	B	B	B	A	B	A	B	B	A	.	B	B	B	B	B	A	B	A	B	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	16	-1.0	D16J3	MGI:894285		A	A	B	A	B	B	B	B	B	B	B	.	A	A	B	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	16	-1.0	D16Mit5	MGI:90520		B	B	B	A	B	B	B	B	B	B	B	B	A	A	B	.	A	B	B	B	A	.	B	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	16	-1.0	Pmv14	MGI:97637		A	A	A	A	B	B	B	B	B	B	B	B	A	A	B	.	.	B	B	B	A	B	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	16	-1.0	Pmv16	MGI:97639		A	A	A	A	A	B	B	A	B	B	A	B	A	A	B	.	.	B	A	A	A	B	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	16	-1.0	Pmv32	MGI:97657		B	B	A	B	B	A	B	B	B	A	B	A	A	B	B	.	B	B	B	B	B	B	B	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	16	-1.0	Pmv35	MGI:97660		B	B	B	A	B	B	B	B	B	B	B	B	A	A	.	.	.	B	.	B	A	B	B	B	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	16	2.33	D16Mit32	MGI:90501		B	A	B	A	A	B	B	B	B	A	B	A	B	B	A	.	B	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	2.59	D16Mit79	MGI:90552		B	B	A	A	A	B	B	B	B	A	B	A	B	B	A	.	B	B	B	B	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	16	3.43	D16Mit122	MGI:90480		B	B	A	A	A	B	B	B	B	A	B	A	B	B	A	.	B	B	B	B	B	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	16	3.5	D16Mit142	MGI:100939		B	B	A	A	A	B	B	B	B	A	B	A	B	B	A	.	B	B	B	B	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	16	5.34	D16Mit87	MGI:90561		B	B	A	A	B	B	B	B	B	A	B	A	B	B	A	.	B	B	B	B	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	16	12.38	D16Mit29	MGI:90497		B	B	A	A	B	B	B	B	B	A	B	A	B	B	B	.	B	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	16	19.88	D16Mit3	MGI:90498		B	A	A	A	A	B	A	B	B	A	A	B	B	B	B	.	B	B	B	B	A	.	B	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	16	25.43	D16Mit4	MGI:90509		A	A	A	A	B	B	A	B	A	A	B	B	B	B	B	.	B	B	B	B	A	.	B	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	16	28.37	D16Mit125	MGI:90483		B	B	B	B	B	B	B	B	B	A	B	B	B	B	B	.	B	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	29.93	D16Mit138	MGI:100943		B	A	B	A	B	B	B	B	A	A	B	B	B	B	B	.	B	B	B	B	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	33.97	D16Mit171	MGI:100910		B	B	B	A	B	B	B	B	B	B	B	B	B	B	B	.	A	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	36.36	D16Mit47	MGI:90517		B	B	B	A	B	B	B	B	B	B	B	B	A	A	B	.	A	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	40.84	D16Mit27	MGI:90495		A	A	A	A	B	B	B	B	B	B	B	B	A	A	B	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	41.08	D16Mit65	MGI:90537		A	A	A	A	B	B	B	B	B	B	B	B	A	A	B	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	45.36	D16Mit19	MGI:90491		B	B	A	A	B	B	B	A	B	B	B	B	A	A	B	.	A	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	16	45.41	D16Mit50	MGI:90521		B	B	A	A	B	B	B	A	B	B	B	B	A	A	B	.	A	B	B	B	A	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	16	45.89	D16Mit203	MGI:102401		B	B	A	A	B	B	B	A	B	B	B	B	A	A	B	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	16	57.68	D16Mit106	MGI:90462		A	A	A	A	A	B	B	A	B	A	A	B	A	A	B	.	B	B	A	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	-1.0	D17Byu3	MGI:90650		A	A	A	B	A	B	A	A	B	B	B	B	.	B	B	.	A	B	B	B	.	A	B	A	.	J:17344	Estes SS, Mouse Genome 1994;92(1):130-32	
+AXB	17	-1.0	D17J1	MGI:90683		A	A	A	B	A	B	A	A	A	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	17	-1.0	D17J2	MGI:90684		A	A	A	B	A	A	A	A	B	B	B	A	B	B	A	.	A	A	A	A	A	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	17	-1.0	D17Mit10	MGI:90738		A	A	A	B	A	B	A	A	B	B	A	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	17	-1.0	D17Mit11	MGI:90749		A	A	A	B	A	B	A	A	A	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	-1.0	D17Mit18	MGI:90805		A	A	A	B	A	A	A	B	B	B	B	B	B	B	A	.	B	B	B	A	A	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	17	-1.0	D17Mit27	MGI:90815		A	A	A	B	A	A	A	B	B	B	B	B	B	B	A	.	A	A	A	A	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	17	-1.0	D17Mit45	MGI:90834		A	A	B	B	A	A	A	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	-1.0	Gln3-4	MGI:95734		A	A	A	B	A	B	A	A	A	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:22095	Lueders KK, Mouse Genome 1994;92(4):691-693	
+AXB	17	-1.0	Gln3-7	MGI:95737		A	A	A	B	A	B	A	A	A	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:22095	Lueders KK, Mouse Genome 1994;92(4):691-693	
+AXB	17	-1.0	H2	MGI:95894		A	A	A	B	A	B	A	A	A	B	B	A	B	B	A	.	A	B	B	B	.	.	B	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:17657	Lovell DP, Genetics 1986 Jul;113(3):755-64	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	
+AXB	17	-1.0	Iapls1-37	MGI:1270846		B	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	A	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	17	8.8	D17Mit222a	MGI:102404		A	A	A	B	A	A	A	B	B	B	B	B	B	B	A	.	A	A	A	A	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	17	12.53	D17Mit46	MGI:90835		A	A	B	B	A	A	A	A	B	B	B	B	B	B	A	.	A	A	A	A	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	14.26	D17Mit30	MGI:90819		A	A	B	B	A	A	A	A	B	B	B	B	B	A	A	.	A	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	15.39	D17Mit23	MGI:90811		A	A	B	B	A	A	A	A	A	B	B	A	B	A	A	.	A	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	17.98	D17Mit21	MGI:90809		A	A	A	B	A	B	A	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	17.98	D17Mit62	MGI:90853		A	A	A	B	A	B	A	A	A	B	B	A	B	A	A	.	A	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	18.31	D17Mit34	MGI:90823		A	A	A	B	A	B	A	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	18.37	C4a	MGI:98320		A	B	B	.	B	.	B	A	B	.	.	A	.	.	A	.	A	.	.	.	.	.	.	.	.	J:9797	Bruisten SM, Genetics 1989 Apr;121(4):795-801	
+AXB	17	18.5	D17Mit83	MGI:90875		A	A	A	B	A	B	A	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	18.59	Tnf	MGI:104798		A	A	.	B	A	B	.	A	.	B	.	A	B	.	A	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	17	19.01	D17Mit47	MGI:90836		A	A	A	B	A	B	A	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	19.66	D17Mit176	MGI:100876		A	A	.	B	A	B	.	A	.	B	.	B	B	.	B	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	17	22.32	D17Mit50	MGI:90840		A	A	A	B	A	B	A	A	B	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	17	23.97	D17Mit66	MGI:90857		A	A	.	B	A	B	.	A	.	B	.	B	B	.	B	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	17	27.4	D17Mit139	MGI:90780		A	A	.	B	A	A	.	A	.	B	.	A	B	.	A	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	17	29.73	D17Mit20	MGI:90808		B	A	A	B	A	A	A	A	B	B	A	A	B	B	A	.	A	B	B	B	A	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	17	38.64	D17Mit53	MGI:90843		B	B	A	A	A	A	A	A	B	B	A	A	B	B	B	.	A	B	B	B	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	39.08	D17Mit3	MGI:90818		B	B	A	A	A	B	A	A	B	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	17	41.87	D17Mit159	MGI:90800		B	B	.	B	B	B	.	A	.	B	.	B	B	.	B	.	.	B	B	B	.	.	.	A	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	17	45.2	D17Mit93	MGI:90886		B	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	45.64	D17Mit38	MGI:90827		B	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	A	B	B	B	A	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	17	50.3	D17Mit208	MGI:100844		B	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	B	B	B	B	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	17	50.97	D17Mit2	MGI:90807		B	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	B	B	B	B	A	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	17	55.02	D17Mit155	MGI:90796		B	A	A	B	B	B	A	A	B	B	B	B	B	B	B	.	B	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	55.48	D17Mit76	MGI:90868		B	A	A	B	B	B	A	A	B	B	B	B	B	B	B	.	B	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	56.83	D17Mit129	MGI:90769		B	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	17	59.77	D17Mit221	MGI:100831		B	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	A	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	17	60.67	D17Mit123	MGI:90763		.	B	A	B	B	B	A	A	B	B	B	B	B	B	B	.	A	A	A	A	B	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	18	-1.0	Iapls2-27	MGI:102927		B	A	B	A	B	A	A	B	B	A	A	B	A	A	.	.	.	.	.	.	.	.	.	.	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	18	-1.0	Iapls3-12	MGI:96357		B	A	B	A	B	A	A	A	B	A	B	B	A	A	A	.	B	A	A	A	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	18	-1.0	Iapls3-5	MGI:96377		B	A	B	A	A	B	A	B	B	B	B	B	A	A	A	.	A	B	A	A	B	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	18	-1.0	Iapls3-7	MGI:96379		B	B	A	A	A	B	B	A	B	A	B	B	A	A	B	.	A	A	A	A	A	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	18	6.02	D18Mit67	MGI:91122		B	A	B	A	A	B	A	B	B	B	B	B	A	A	A	.	A	B	A	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	18	8.24	D18Mit20	MGI:91072		B	A	B	A	A	B	A	B	B	B	B	B	A	A	A	.	A	A	A	A	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	18	11.96	D18Mit68	MGI:91123		B	A	B	A	A	B	A	A	B	B	A	A	A	A	A	.	A	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	18	19.41	D18Mit120	MGI:91039		B	A	B	A	A	B	A	A	B	B	A	A	A	A	B	.	A	A	A	A	A	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	18	20.57	D18Mit14	MGI:91059		B	B	B	A	A	B	A	A	B	B	B	A	A	A	B	.	A	A	A	A	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	18	21.09	D18Mit17	MGI:91068		B	B	B	A	A	B	B	A	B	B	B	B	A	A	B	.	A	A	A	A	A	.	B	A	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	18	27.17	D18Mit24	MGI:91076		B	B	A	A	A	B	B	A	B	A	B	B	A	A	B	.	A	A	A	A	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	18	34.41	Csf1r	MGI:1339758		B	B	B	A	B	A	A	A	B	A	B	A	A	A	B	.	B	A	A	A	B	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	18	34.41	Pde6a	MGI:97524		B	B	B	A	B	A	A	A	B	A	B	B	A	A	B	.	B	A	A	A	B	.	B	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	18	39.7	D18Mit184	MGI:100792		B	A	B	A	B	A	A	A	B	A	B	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	18	42.56	D18Mit9	MGI:91147		B	A	B	A	B	A	A	A	B	A	B	B	A	A	A	.	B	A	A	A	B	.	A	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	18	50.7	D18Mit8	MGI:91136		B	B	B	A	B	A	A	A	B	A	B	B	A	A	A	.	B	A	A	A	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	18	57.53	D18Mit4	MGI:91092		B	B	B	A	B	A	A	B	B	A	A	B	A	A	A	.	B	A	A	A	B	.	A	B	.	J:4133	Mu JL, Mamm Genome 1993;4(3):148-52	
+AXB	19	-1.0	D19J2	MGI:894325		A	A	A	A	B	A	A	B	A	B	B	B	A	A	B	.	B	B	B	B	A	A	A	A	B	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	19	-1.0	D19Mit37	MGI:91247		A	B	A	B	A	A	B	A	A	A	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	-1.0	D19Mit6	MGI:91272		B	A	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	-1.0	Iapls3-44	MGI:102926		B	A	A	B	B	B	B	B	A	B	B	A	B	A	B	.	B	B	B	B	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	19	-1.0	Iapls3-8	MGI:96380		B	A	B	A	A	B	A	B	B	A	B	B	B	B	B	.	B	B	B	B	A	.	B	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	19	-1.0	Xmv18	MGI:99064		B	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	A	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	19	3.04	D19Mit32	MGI:91242		B	B	A	B	B	B	B	A	A	A	B	A	B	A	B	.	B	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	10.39	Pomc-ps1	MGI:104962		B	A	A	.	.	.	.	B	A	B	.	A	.	.	.	.	.	B	.	.	B	.	A	.	.	J:3460	Blatt C, Mouse Genome 1992;90(4):675	
+AXB	19	10.4	D19Mit61	MGI:91274		B	A	A	B	B	B	B	B	A	B	B	A	B	A	B	.	B	B	B	B	B	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	19	13.18	D19Mit41	MGI:91252		B	A	A	B	B	B	B	B	A	B	B	A	A	A	B	.	B	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	13.82	D19Mit16	MGI:91224		B	A	A	B	B	B	B	B	A	B	B	A	A	A	B	.	B	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	13.85	D19Mit23	MGI:91232		B	A	A	B	B	B	B	B	A	B	B	.	A	A	B	.	B	B	B	B	B	.	A	B	.	J:19179	Naggert JK, Mamm Genome 1994 Jul;5(7):453-5	
+AXB	19	14.32	D19Mit14	MGI:91220		B	A	A	B	B	B	B	B	A	B	A	B	A	A	B	.	B	B	B	B	B	.	A	B	.	J:19179	Naggert JK, Mamm Genome 1994 Jul;5(7):453-5	
+AXB	19	14.32	Gda	MGI:95678		B	A	A	B	B	B	B	B	A	B	B	A	A	A	B	.	B	B	B	B	B	.	A	B	.	J:75769	Giese RD, Genome 2002 Apr;45(2):276-81	
+AXB	19	16.14	D19Mit45	MGI:91256		B	A	A	B	B	A	B	B	A	B	A	A	A	A	B	.	B	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	20.38	D19Mit40	MGI:91251		B	A	A	B	B	A	A	B	A	B	A	A	B	B	B	.	B	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	20.99	D19Mit86	MGI:100761		B	A	A	B	B	A	A	B	A	A	A	A	B	B	B	.	B	B	B	B	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	19	21.34	D19Mit30	MGI:91240		B	B	A	B	B	A	A	B	A	A	A	B	A	A	B	.	B	B	B	B	B	.	A	B	.	J:19179	Naggert JK, Mamm Genome 1994 Jul;5(7):453-5	
+AXB	19	21.77	Vldlr	MGI:98935		B	B	A	B	B	A	A	B	A	A	A	B	A	A	B	.	B	B	B	B	B	.	A	B	.	J:19179	Naggert JK, Mamm Genome 1994 Jul;5(7):453-5	
+AXB	19	22.62	D19Mit47	MGI:91258		B	B	A	B	B	A	A	B	A	B	B	B	A	A	B	.	B	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	19	28.42	D19Mit64	MGI:91277		A	A	A	B	B	A	A	B	A	B	B	A	A	A	B	.	B	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	29.06	D19Mit46	MGI:91257		A	A	A	B	B	A	A	B	A	B	B	A	A	A	B	.	B	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	34.08	D19Mit19	MGI:91227		A	A	A	B	A	A	A	B	A	B	B	A	B	B	A	.	B	B	B	B	B	.	A	A	.	J:19179	Naggert JK, Mamm Genome 1994 Jul;5(7):453-5	
+AXB	19	36.26	D19Mit11.1	MGI:91217		A	A	A	B	A	A	A	B	A	B	B	A	B	B	A	.	B	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	38.46	D19Mit53	MGI:91265		A	A	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	39.37	D19Mit10	MGI:91216		A	A	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	42.2	D19Mit74	MGI:91288		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	45.05	D19Mit25	MGI:91234		A	B	A	B	A	A	B	A	A	A	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	45.06	D19Mit123	MGI:105894		A	B	A	B	A	A	B	A	A	A	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	19	48.79	D19Mit36	MGI:91246		A	A	A	B	A	A	B	A	A	A	B	A	B	B	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	19	50.32	D19Mit1	MGI:91215		A	A	A	B	A	A	B	A	A	A	B	A	B	B	A	.	A	B	B	B	B	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	19	50.72	D19Mit34	MGI:91244		A	A	A	B	A	A	B	A	A	A	B	A	B	B	A	.	A	A	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	2	-1.0	D2J1	MGI:91946		A	B	B	A	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	2	-1.0	D2J3	MGI:91947		B	A	B	A	A	A	B	A	A	B	B	B	B	B	A	.	B	B	B	B	A	.	A	B	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	J:34929	Beckers MC, Genomics 1996 Aug 15;36(1):202-5	
+AXB	2	-1.0	D2Mit51	MGI:92188		B	B	B	A	B	B	B	B	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	2	-1.0	D2Mit60	MGI:92197		B	B	A	A	A	A	B	A	A	B	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	-1.0	D2Mit82	MGI:92219		B	A	A	A	A	A	B	A	A	B	A	A	A	A	A	.	B	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	-1.0	Iapls2-3	MGI:96345		B	B	A	A	A	A	B	A	B	B	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	2	-1.0	Iapls2-4	MGI:96348		A	B	B	A	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	2	-1.0	Lsr1	MGI:96833		B	A	.	A	.	A	A	.	A	.	.	.	.	.	.	.	B	.	.	.	.	.	.	.	.	J:7345	Gervais F, J Immunol 1984 Apr;132(4):2078-83	
+AXB	2	-1.0	Mpmv28	MGI:97097		A	A	B	B	A	A	A	B	A	A	B	A	A	B	A	.	A	B	B	B	B	B	A	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	2	-1.0	Odc-rs2	MGI:97414		A	B	B	A	B	A	B	B	A	B	.	A	.	B	.	.	A	B	.	.	B	.	A	A	.	J:3460	Blatt C, Mouse Genome 1992;90(4):675	
+AXB	2	-1.0	Pmv33	MGI:97658		B	B	B	A	B	B	B	A	A	A	B	B	B	B	A	.	B	B	A	B	B	A	B	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	2	-1.0	Pmv7	MGI:97698		B	A	A	A	A	A	A	A	A	B	B	A	B	B	A	.	A	B	B	A	A	A	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:1901	Schurr E, Cytogenet Cell Genet 1991;57(4):214-6	
+AXB	2	-1.0	Xmmv58	MGI:99032		A	B	B	A	A	A	B	A	A	B	.	A	.	B	.	A	A	B	B	.	.	.	A	A	.	J:20616	Siracusa LD, Mamm Genome 1993;4 Spec No():S31-46	
+AXB	2	2.23	D2Mit1	MGI:91954		A	A	A	B	A	A	A	B	A	B	A	A	A	A	A	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	2.77	D2Mit355	MGI:100684		B	A	A	B	A	A	A	B	A	B	B	A	A	A	B	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	5.74	D2Mit177	MGI:92040		B	A	A	B	B	A	A	B	A	B	B	A	A	A	B	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	5.8	D2Mit117	MGI:91974		B	A	A	B	B	A	A	B	A	B	B	A	A	A	B	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	6.25	D2Mit359	MGI:100680		B	A	A	B	A	A	A	B	A	B	B	A	A	A	B	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	7.12	D2Mit31	MGI:92167		B	A	A	B	A	A	A	B	A	B	B	A	A	A	B	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	14.63	D2Mit6	MGI:92196		B	B	A	A	A	A	B	A	A	B	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	2	15.15	D2Mit79	MGI:92215		B	B	A	A	A	A	B	A	A	B	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	19.97	D2Mit295	MGI:100744		B	A	A	A	A	A	B	A	A	B	B	A	A	A	A	.	B	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	22.5	D2Mit367	MGI:100672		B	A	A	A	A	A	A	A	A	B	B	A	A	A	A	.	A	A	B	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	23.22	Hc	MGI:96031		B	A	.	A	.	A	A	.	A	.	.	.	.	.	.	.	B	.	.	.	.	.	.	.	.	J:7345	Gervais F, J Immunol 1984 Apr;132(4):2078-83	
+AXB	2	24.26	D2Mit7	MGI:92205		B	A	A	A	B	A	A	A	A	B	B	A	A	A	A	.	B	A	A	A	A	.	A	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	2	27.37	D2Mit241	MGI:92109		B	A	A	A	A	A	A	A	A	B	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	29.98	Neb	MGI:97292		B	A	A	A	A	A	A	A	B	B	B	B	A	A	A	.	A	B	B	A	A	A	A	A	A	J:34929	Beckers MC, Genomics 1996 Aug 15;36(1):202-5	J:1901	Schurr E, Cytogenet Cell Genet 1991;57(4):214-6	
+AXB	2	38.62	D2Mit90	MGI:92228		B	A	B	A	A	A	B	A	B	B	B	B	B	B	A	.	A	B	B	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	39.13	Scn9a	MGI:107636		B	A	.	A	A	A	.	A	.	B	B	.	B	B	.	.	.	.	B	B	.	.	A	.	.	J:34929	Beckers MC, Genomics 1996 Aug 15;36(1):202-5	
+AXB	2	40.89	D2Mit380	MGI:100659		B	A	B	A	A	A	B	A	B	B	B	B	B	B	A	.	B	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	41.97	D2Mit56	MGI:92192		B	A	Z	A	A	A	B	A	A	B	B	B	B	B	A	.	B	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	44.29	D2Mit329	MGI:100710		B	A	B	A	A	A	B	A	A	B	B	B	B	B	A	.	B	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	2	49.68	D2Mit14a	MGI:91999		B	A	B	A	A	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	J:34929	Beckers MC, Genomics 1996 Aug 15;36(1):202-5	
+AXB	2	50.66	D2Mit15	MGI:92010		B	A	B	A	A	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	53.07	D2Mit184	MGI:92047		A	A	B	A	A	A	B	A	A	B	A	A	B	B	A	.	B	B	B	B	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	59.34	D2Mit62	MGI:92199		A	B	B	A	A	A	B	A	A	B	A	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	60.55	B2m	MGI:88127		A	B	.	.	A	A	B	.	A	.	.	A	B	.	A	.	A	.	.	.	.	.	.	.	.	J:17657	Lovell DP, Genetics 1986 Jul;113(3):755-64	
+AXB	2	60.68	D2Mit397	MGI:100642		A	B	B	A	A	A	B	A	A	B	A	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	2	70.42	D2Mit401	MGI:100638		A	B	B	A	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	73.57	D2Mit423	MGI:100616		A	B	B	A	B	A	B	B	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	73.59	D2Mit340	MGI:100699		A	B	B	A	B	A	B	B	A	B	B	A	B	B	A	.	A	B	B	B	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	78.48	D2Mit55	MGI:92191		A	B	B	A	B	A	B	B	A	B	B	A	B	B	A	.	A	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	2	78.72	D2Mit409	MGI:100630		A	B	B	A	B	A	B	B	A	B	B	A	B	B	A	.	A	B	B	B	B	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	2	86.02	D2Mit311	MGI:100728		B	B	B	A	B	B	B	B	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	88.99	D2Mit229	MGI:92096		B	B	B	A	B	B	B	A	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	88.99	D2Mit414	MGI:100625		B	B	B	A	B	B	B	A	A	A	B	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	92.32	D2Mit344	MGI:100695		B	B	B	A	B	B	B	A	A	A	B	B	B	B	A	.	B	B	B	B	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	96.21	D2Mit113	MGI:91970		B	B	B	A	B	B	B	A	A	A	A	B	B	B	A	.	B	B	B	B	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	97.89	Gnas	MGI:95777		B	B	B	A	B	B	B	A	A	A	A	.	B	B	A	.	B	B	B	B	B	A	A	A	B	J:9413	Blatt C, Proc Natl Acad Sci U S A 1988 Oct;85(20):7642-6	
+AXB	2	100.49	D2Mit148	MGI:92008		B	B	A	A	B	B	B	A	A	B	A	B	B	B	A	.	B	B	B	B	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	2	103.43	D2Mit74	MGI:92210		B	A	B	A	A	B	B	A	A	B	A	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	2	103.83	D2Mit266	MGI:92136		B	A	B	A	A	B	B	A	A	B	A	B	B	B	A	.	B	B	B	B	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	-1.0	D3J1	MGI:92352		B	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	A	B	B	B	B	A	B	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	3	-1.0	D3J2	MGI:92353		A	A	A	A	A	A	B	A	A	B	A	B	A	.	B	.	A	A	A	A	B	B	A	B	B	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	3	-1.0	D3J4	MGI:92355		A	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	B	B	B	B	B	.	.	.	B	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	3	-1.0	D3Mit19	MGI:92463		A	A	A	A	A	A	B	A	A	A	A	A	A	A	B	.	A	A	A	A	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	3	-1.0	Iapls2-18	MGI:102924		B	B	A	B	A	B	A	B	A	B	A	B	A	A	A	.	A	B	B	B	B	.	B	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	3	-1.0	Mpmv9	MGI:97136		B	A	A	B	A	A	B	A	A	B	A	A	A	A	B	.	A	.	A	B	A	A	B	A	.	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	3	-1.0	Rnu1b3	MGI:97975		A	A	A	A	B	A	B	B	B	B	A	B	A	A	A	.	B	B	B	B	B	A	B	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:9074	Lund E, Somat Cell Mol Genet 1988 Mar;14(2):143-8	
+AXB	3	2.01	D3Mit164	MGI:92435		B	B	A	A	A	B	B	B	A	B	A	B	A	A	A	.	A	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	3.23	Car2	MGI:88269		B	B	A	A	A	B	A	B	A	B	A	B	A	A	A	.	A	B	B	B	.	B	B	B	A	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9175	Mucenski ML, Oncogene Res 1988 Feb;2(3):219-33	
+AXB	3	10.82	D3Mit203	MGI:92477		B	A	B	B	A	B	A	B	A	B	A	B	A	A	A	.	A	A	A	A	A	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	3	12.66	Mecom	MGI:95457		B	A	.	B	A	B	A	B	A	B	A	A	.	A	.	.	A	A	A	A	B	A	B	A	A	J:9175	Mucenski ML, Oncogene Res 1988 Feb;2(3):219-33	
+AXB	3	12.7	D3Mit46	MGI:92516		B	A	B	B	A	B	A	B	A	B	A	B	A	A	A	.	A	A	A	A	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	3	15.18	D3Mit151	MGI:92421		B	A	B	B	A	B	A	B	A	B	A	B	B	A	A	.	A	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	18.3	D3Mit21	MGI:92484		B	B	A	B	A	B	B	A	A	B	A	B	B	A	A	.	A	A	A	A	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	3	19.32	D3Mit94	MGI:92567		B	A	A	A	B	B	B	A	A	B	A	B	B	A	A	.	A	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	20.54	D3Mit224	MGI:100611		B	A	A	A	B	B	B	A	A	B	A	B	B	A	A	.	A	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	21.67	D3Mit6	MGI:92530		B	A	A	A	B	B	B	A	A	B	A	B	B	A	A	.	A	A	A	A	B	.	B	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	3	28.63	D3Mit173	MGI:92445		B	B	A	A	B	A	B	B	A	B	A	A	A	A	A	.	A	A	A	A	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	3	29.17	D3Mit7	MGI:92541		B	B	A	A	B	A	B	B	A	B	A	A	A	A	A	.	A	A	A	A	B	.	B	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	3	32.25	D3Mit22	MGI:92495		B	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	A	A	A	A	B	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	3	32.59	D3Mit209	MGI:92483		B	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	A	A	A	A	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	3	35.01	D3Mit244	MGI:100591		B	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	A	B	B	B	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	3	36.94	Fgg	MGI:95526		B	B	A	A	B	A	B	B	B	B	A	B	.	A	A	.	A	B	B	B	B	.	B	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:9073	Blatt C, Somat Cell Mol Genet 1988 Mar;14(2):133-42	
+AXB	3	40.14	D3Mit141	MGI:92410		B	B	A	A	B	A	B	B	B	Z	A	B	A	A	A	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	41.78	Rnu1b1	MGI:97974		A	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	B	B	B	B	B	.	B	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:9074	Lund E, Somat Cell Mol Genet 1988 Mar;14(2):143-8	J:9073	Blatt C, Somat Cell Mol Genet 1988 Mar;14(2):133-42	
+AXB	3	43.03	D3Mit10	MGI:92364		A	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	B	B	B	B	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	3	43.71	D3Mit11	MGI:92375		A	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	B	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	43.73	D3Mit75	MGI:92547		A	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	B	B	B	B	A	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	3	43.89	D3Mit189	MGI:92462		A	B	A	A	B	A	B	B	B	B	A	B	A	A	A	.	B	B	B	B	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	3	45.52	D3Mit266	MGI:100569		A	B	A	A	B	A	B	A	B	B	A	B	A	A	A	.	B	B	B	B	B	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	3	48.81	D3Mit78	MGI:92550		A	A	A	A	A	A	B	B	B	B	A	A	A	A	B	.	B	A	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	49.08	D3Mit106	MGI:92371		A	A	A	A	A	A	B	B	B	B	A	A	A	A	B	.	B	A	B	B	A	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	3	49.35	Amy1	MGI:88019		A	A	A	A	A	A	B	A	B	B	A	B	.	A	B	.	B	B	A	.	A	.	A	B	.	J:9175	Mucenski ML, Oncogene Res 1988 Feb;2(3):219-33	J:9073	Blatt C, Somat Cell Mol Genet 1988 Mar;14(2):133-42	
+AXB	3	49.35	Amy2a5	MGI:88020		A	A	A	A	A	A	B	A	B	B	A	B	.	A	B	.	B	B	A	.	A	.	A	B	.	J:9073	Blatt C, Somat Cell Mol Genet 1988 Mar;14(2):133-42	
+AXB	3	54.48	D3Mit216	MGI:92491		A	A	A	A	A	A	B	A	B	B	A	A	A	A	B	.	B	A	A	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	56.54	D3Mit109	MGI:92374		A	A	A	A	A	A	B	A	B	B	A	A	A	A	B	.	A	A	B	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	3	58.5	Egf	MGI:95290		A	A	A	A	A	A	B	A	B	B	A	A	A	A	.	.	A	A	.	A	A	A	A	B	B	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:9175	Mucenski ML, Oncogene Res 1988 Feb;2(3):219-33	
+AXB	3	61.32	D3Mit14	MGI:92408		A	A	A	A	A	A	B	A	B	B	A	A	A	A	B	.	B	A	A	A	A	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	3	62.55	Cenpe	MGI:1098230		B	B	A	A	B	A	A	A	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:50321	Fowler KJ, Cytogenet Cell Genet 1998;82(1-2):67-70	
+AXB	3	63.04	D3Mit256	MGI:100579		B	B	A	A	A	B	A	B	A	B	A	B	A	A	A	.	A	B	B	B	B	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	3	64.13	Adh7	MGI:87926		A	A	A	A	B	A	B	A	A	B	A	A	A	A	B	.	B	A	A	A	B	A	A	B	.	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:9175	Mucenski ML, Oncogene Res 1988 Feb;2(3):219-33	J:9073	Blatt C, Somat Cell Mol Genet 1988 Mar;14(2):133-42	
+AXB	3	67.53	D3Mit17	MGI:92441		A	A	A	B	A	A	B	A	A	A	A	A	A	A	B	.	A	A	A	A	B	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	4	-1.0	D4J1	MGI:92707		B	A	B	B	A	A	B	A	B	B	A	A	A	B	B	.	A	B	B	B	A	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	4	-1.0	D4J2	MGI:92708		B	A	B	B	A	A	B	A	B	B	A	A	A	B	B	.	A	B	B	B	A	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	4	-1.0	D4Mit6	MGI:92894		B	B	B	B	B	B	A	A	B	B	B	B	B	B	B	.	A	A	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	4	-1.0	Gln3-2	MGI:95732		A	B	B	B	B	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	B	.	J:22095	Lueders KK, Mouse Genome 1994;92(4):691-693	
+AXB	4	-1.0	Gln3-6	MGI:95736		A	B	B	B	B	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	B	.	J:22095	Lueders KK, Mouse Genome 1994;92(4):691-693	
+AXB	4	-1.0	Iapls3-10	MGI:96355		A	B	B	B	B	A	A	B	B	A	B	A	A	A	B	.	A	A	A	B	A	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	4	-1.0	Pmv19	MGI:97642		A	B	B	B	B	A	A	B	B	A	B	A	A	A	B	.	B	A	A	B	A	B	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	4	-1.0	Pmv23	MGI:97647		A	A	B	B	B	A	A	A	B	A	B	A	A	A	B	.	B	A	A	B	A	B	A	B	A	J:2963	Salier JP, Mamm Genome 1992;2(4):233-9	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	4	-1.0	Pmv30	MGI:97655		B	B	B	A	B	A	B	A	A	B	B	B	B	B	A	.	B	B	B	B	A	A	A	B	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	4	-1.0	Pmv47	MGI:97673		A	B	B	B	B	A	A	B	B	A	B	A	A	A	B	.	A	A	B	B	A	B	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	4	3.0	D4Mit315	MGI:105617		A	B	B	B	B	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	6.01	D4Mit18	MGI:92808		A	B	B	B	B	A	A	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	4	10.61	D4Mit2	MGI:92830		B	B	B	B	B	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	4	16.7	D4Mit172	MGI:92800		B	B	B	B	B	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	4	16.86	D4Mit41	MGI:92874		B	B	B	B	B	A	B	A	A	B	B	A	B	B	A	.	B	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	4	24.66	D4Mit89	MGI:92925		B	B	B	B	B	B	A	A	B	B	B	B	B	B	B	.	B	B	B	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	28.7	D4Mit111	MGI:92733		B	B	B	B	B	B	B	A	B	B	A	B	B	B	B	.	A	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	31.66	D4Mit288	MGI:100471		B	A	B	B	B	B	B	A	B	B	A	B	A	B	B	.	A	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	32.85	Mup1	MGI:97233		B	A	B	B	A	B	B	A	.	B	A	B	A	B	B	.	A	.	B	B	B	A	B	B	A	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:2963	Salier JP, Mamm Genome 1992;2(4):233-9	
+AXB	4	33.96	Ambp	MGI:88002		B	A	B	B	A	B	B	A	B	B	A	B	A	B	B	.	A	B	B	B	B	A	B	A	A	J:2963	Salier JP, Mamm Genome 1992;2(4):233-9	
+AXB	4	34.92	D4Mit178	MGI:92806		B	A	B	B	A	B	B	A	B	B	A	B	A	B	B	.	A	B	B	B	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	4	37.89	Tyrp1	MGI:98881	Tyrp1<b>	B	A	B	B	A	A	B	A	B	B	A	B	A	A	B	A	A	B	B	B	A	A	B	B	A	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:2963	Salier JP, Mamm Genome 1992;2(4):233-9	
+AXB	4	43.3	D4Mit145	MGI:92770		B	A	B	B	A	A	A	A	B	A	A	A	A	A	B	.	A	A	A	B	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	43.34	D4Mit9	MGI:92926		B	A	B	B	A	A	A	A	B	A	A	A	A	A	B	.	A	A	A	B	A	.	B	B	A	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	J:41302	Abbott CM, Mamm Genome 1992;3 Spec No():S55-64	
+AXB	4	45.71	D4Mit175	MGI:92803		A	A	B	B	A	A	A	A	B	A	B	A	A	A	B	.	A	A	A	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	46.99	D4Mit155	MGI:92781		A	A	B	B	B	A	A	A	B	A	B	A	A	A	B	.	A	A	A	B	A	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	4	50.04	D4Mit31	MGI:92866		A	B	B	B	B	A	A	B	B	A	B	A	A	A	B	.	A	A	A	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	4	55.5	D4Mit334	MGI:105598		B	A	B	B	A	A	A	B	B	A	B	B	B	A	B	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	57.41	D4Mit11	MGI:92731		B	A	B	B	A	A	A	B	B	A	B	B	B	B	B	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	4	57.76	D4Mit12	MGI:92742		B	A	B	B	A	A	A	B	A	A	B	B	B	B	B	.	A	B	B	B	A	.	A	B	A	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	J:41302	Abbott CM, Mamm Genome 1992;3 Spec No():S55-64	
+AXB	4	57.9	D4Nds2	MGI:93040		B	A	B	B	A	A	A	B	B	A	B	B	B	B	B	.	A	B	B	B	A	.	A	B	A	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	J:41302	Abbott CM, Mamm Genome 1992;3 Spec No():S55-64	
+AXB	4	61.67	D4Mit16	MGI:92786		B	A	B	A	A	A	A	B	A	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	4	69.05	D4Mit251	MGI:100508		B	A	B	B	A	A	A	B	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	69.44	D4Mit68	MGI:92903		B	A	B	B	A	A	A	B	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	4	70.02	Alpl	MGI:87983		A	A	.	B	.	B	B	.	B	B	B	B	.	.	.	.	.	.	B	A	B	A	B	A	B	J:17659	Nesbitt M, Mouse Genome 1990;88():113	
+AXB	4	70.02	D4Mit54	MGI:92888		B	A	B	B	A	A	A	B	B	A	B	A	B	B	B	.	A	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	4	78.87	D4Mit310	MGI:102068		B	A	B	B	A	A	A	B	B	A	B	A	B	B	B	.	B	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	4	80.65	H6pd	MGI:2140356		B	B	B	B	A	A	A	B	B	A	B	A	B	B	B	B	B	A	A	A	B	.	A	B	B	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	
+AXB	4	80.99	D4Mit14	MGI:92764		B	B	B	B	A	A	A	B	B	A	B	A	B	B	B	.	B	A	A	A	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	-1.0	D5J1	MGI:93160		B	B	A	A	B	B	A	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	5	-1.0	D5J2	MGI:93161		B	B	B	B	A	A	B	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	5	-1.0	D5Mit285	MGI:100431		B	A	B	B	A	B	A	B	A	A	A	A	A	B	B	.	A	A	A	A	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	5	-1.0	Iapls1-47	MGI:102917		B	B	B	B	A	A	B	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	5	-1.0	Iapls1-48	MGI:1270858		A	A	B	B	A	B	A	A	A	A	A	B	A	B	A	.	A	A	A	A	A	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	5	-1.0	Iapls1-49	MGI:102916		B	A	B	A	A	B	A	A	B	B	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	5	-1.0	Iapls1-50	MGI:102915		B	B	B	B	A	A	B	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	5	-1.0	Iapls3-47	MGI:102914		B	A	B	B	A	A	B	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	5	-1.0	Iapls3-50	MGI:102913		B	A	B	B	A	B	A	B	A	A	A	A	A	B	B	.	A	A	A	A	A	.	B	.	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	5	-1.0	Iapls3-52	MGI:102912		B	A	B	B	A	B	A	A	A	A	B	A	A	B	B	.	A	A	A	A	A	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	5	-1.0	Iapls3-9	MGI:96381		B	A	B	B	A	B	A	B	A	A	A	A	B	B	B	.	A	A	A	A	A	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	5	-1.0	Mpmv13	MGI:97081		B	A	B	A	B	B	A	A	B	B	A	A	A	A	B	.	B	B	B	B	A	B	B	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	5	-1.0	Pmv11	MGI:97634		.	B	B	B	B	B	A	B	B	A	B	B	A	A	A	.	.	A	B	A	A	A	A	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	5	-1.0	Pmv12	MGI:97635		B	A	B	B	A	B	A	B	A	A	A	A	B	B	B	.	B	A	A	A	A	A	B	.	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	5	-1.0	Pmv5	MGI:97676		B	A	B	A	A	B	A	A	B	B	A	B	A	A	.	.	.	A	.	A	A	A	A	A	A	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	5	-1.0	Tsz1	MGI:98862		B	B	A	A	B	A	A	A	B	B	A	B	B	A	.	.	A	A	B	A	B	.	B	A	.	J:3460	Blatt C, Mouse Genome 1992;90(4):675	
+AXB	5	2.36	D5Mit193	MGI:93271		B	A	B	B	B	B	B	A	B	B	A	B	A	A	B	.	B	B	B	B	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	5	9.98	D5Mit61	MGI:93361		B	A	B	B	B	B	A	B	B	B	A	B	A	A	A	.	B	B	B	B	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	12.04	D5Mit349	MGI:102077		B	A	B	A	B	B	A	A	B	B	A	A	A	A	B	.	B	B	B	B	A	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	5	20.17	D5Mit13	MGI:93201		B	A	B	A	A	B	A	A	B	B	A	A	A	A	B	.	A	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	26.02	D5Mit11	MGI:93179		B	A	B	A	A	B	A	A	B	A	A	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	28.24	D5Mit55	MGI:93355		B	B	A	A	A	B	A	A	B	B	A	B	A	A	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	30.52	D5Mit255	MGI:100461		B	A	B	A	A	B	A	A	B	B	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	5	32.92	D5Mit197	MGI:93275		B	B	A	A	A	B	A	A	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	5	33.68	D5Mit15	MGI:93223		B	B	A	A	A	B	B	B	B	A	B	B	A	A	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	38.44	D5Mit356	MGI:102084		B	B	A	A	B	B	A	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	5	39.55	D5Mit201	MGI:93279		B	B	A	B	B	B	A	B	B	A	B	A	A	A	Z	.	A	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	5	47.77	D5Mit20	MGI:93277		B	B	B	B	A	A	A	B	B	A	B	A	A	B	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	48.46	D5Mit91	MGI:93393		B	B	B	B	A	A	A	B	B	A	B	A	A	B	A	.	A	A	A	A	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	5	50.64	D5Mit10	MGI:93168		A	B	A	A	A	A	B	B	B	A	B	A	A	B	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	50.74	D5Mit403	MGI:105748		B	A	B	B	A	A	B	B	B	A	B	A	A	B	A	.	A	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	5	54.68	D5Mit24	MGI:93320		A	B	B	B	A	A	B	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	57.51	D5Mit188	MGI:93265		A	A	B	B	A	A	B	B	B	A	B	A	A	A	A	.	A	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	5	64.22	D5Mit139	MGI:93211		A	A	B	B	A	A	B	B	B	A	B	A	B	B	A	.	A	A	A	A	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	5	68.32	Gusb	MGI:95872		B	A	B	B	A	A	B	B	A	A	B	A	B	B	.	.	A	A	A	B	A	A	A	A	B	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:17657	Lovell DP, Genetics 1986 Jul;113(3):755-64	
+AXB	5	75.55	D5Mit32	MGI:93336		B	A	B	B	A	A	A	B	A	A	A	A	B	B	B	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	79.51	D5Mit99	MGI:93401		B	A	B	B	A	B	A	B	A	A	A	A	B	B	B	.	A	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	5	80.16	D5Mit101	MGI:93170		B	A	B	B	A	B	A	B	A	A	A	A	B	B	B	.	A	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	6	-1.0	Cor	MGI:88471		A	B	A	B	A	A	A	B	B	A	.	A	.	.	B	.	.	B	.	.	.	.	.	B	B	J:15555	Thaete LG, Proc Soc Exp Biol Med 1990 Jun;194(2):97-102	
+AXB	6	-1.0	D6Int1	MGI:99639		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	-1.0	D6J1	MGI:93516		B	B	A	B	A	A	A	B	B	A	A	A	B	B	B	.	A	B	B	B	B	A	A	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	6	-1.0	D6J2	MGI:93517		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	A	A	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	6	-1.0	D6Mit25	MGI:93658		A	B	A	B	B	A	A	B	B	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	-1.0	D6Mit252	MGI:100342		B	B	A	B	A	A	B	B	A	A	B	B	B	B	A	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	6	-1.0	D6Nds5	MGI:93791		B	?	A	?	B	A	A	?	A	?	B	?	?	?	?	.	?	?	?	?	A	.	A	?	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	-1.0	D6Str1	MGI:102737		B	B	A	.	A	A	.	B	.	A	B	.	B	B	B	.	.	B	B	B	.	.	A	.	.	J:18995	Rosenberg M, Proc Natl Acad Sci U S A 1994 Jun 21;91(13):6113-7	
+AXB	6	-1.0	Iapls2-24	MGI:102907		B	A	B	B	A	A	A	B	B	A	B	B	B	B	B	.	A	B	B	B	A	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	6	-1.0	Iapls2-25	MGI:102906		A	B	A	B	A	A	A	A	A	B	B	A	B	B	B	.	A	B	B	B	A	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	6	-1.0	Iapls3-43	MGI:102905		B	B	A	B	A	A	A	B	A	A	B	A	B	B	B	.	A	B	B	A	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	6	1.81	D6Mit138	MGI:93566		B	B	A	A	B	A	A	A	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	6	1.81	D6Mit86	MGI:93719		B	B	A	A	B	A	A	A	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+AXB	6	2.45	D6Rp2	MGI:93826		B	B	A	A	B	A	A	A	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:22806	Yen CH, Mamm Genome 1995 Feb;6(2):96-102	
+AXB	6	7.74	D6Mit50	MGI:93682		B	B	A	A	B	A	A	B	A	A	B	A	B	B	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	7.83	Met	MGI:96969		B	B	A	A	B	A	A	B	A	A	B	A	B	B	.	.	B	B	.	B	.	B	B	B	A	J:15505	Dean M, Genomics 1987 Oct;1(2):167-73	
+AXB	6	15.12	D6Mit268	MGI:100326		B	A	A	A	A	A	A	B	B	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	6	22.51	D6Mit273	MGI:100321		B	B	A	A	A	A	A	B	B	A	B	A	B	B	B	.	A	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	6	24.42	D6Mit33	MGI:93665		B	B	A	A	A	A	A	B	B	A	B	A	B	B	B	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	25.4	Hoxa3	MGI:96175		B	B	A	A	.	A	A	B	B	A	B	A	B	B	B	.	A	B	B	B	B	B	A	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:8820	Mock BA, Genetics 1987 Aug;116(4):607-12	
+AXB	6	25.82	D6Mit183	MGI:93615		B	B	A	B	A	A	A	B	A	A	B	A	B	B	B	.	A	B	B	B	B	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	6	27.26	Ggct	MGI:95700		B	B	A	B	A	A	A	B	A	A	B	A	B	B	B	.	A	B	.	.	B	.	A	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:17659	Nesbitt M, Mouse Genome 1990;88():113	
+AXB	6	35.94	D6Mit8	MGI:93712		B	B	A	A	A	A	A	B	A	A	B	A	B	B	B	.	A	B	B	B	A	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	6	37.75	D6Mit29	MGI:93660		B	B	A	B	A	A	A	B	A	A	B	A	B	B	B	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	38.16	D6Mit213	MGI:93647		B	B	A	B	A	A	A	B	A	A	B	A	B	B	B	.	A	B	B	B	A	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	6	42.11	D6Mit102	MGI:93527		B	B	A	B	A	A	A	B	A	A	B	B	B	B	B	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	6	47.1	D6Mit65	MGI:93697		B	B	A	B	A	A	A	B	A	A	B	B	B	B	B	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	48.93	D6Mit36	MGI:93667		B	B	A	B	A	A	A	B	A	A	B	B	B	B	B	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	49.99	D6Mit327	MGI:102130		B	B	A	B	A	A	A	B	.	.	B	B	B	B	B	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	6	51.64	D6Mit108	MGI:93533		B	B	A	B	A	A	A	B	A	A	B	B	B	B	A	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	6	52.14	D6Mit287	MGI:100307		B	B	A	B	A	A	A	B	A	A	B	B	B	B	A	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	6	52.14	D6Mit54	MGI:93686		B	B	A	B	A	A	A	B	A	A	B	B	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	59.32	Tnfrsf1a	MGI:1314884		A	B	A	B	A	A	B	B	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	6	62.44	D6Mit368	MGI:105512		.	B	A	.	A	A	B	B	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	6	62.56	D6Mit52	MGI:93684		A	B	A	B	A	A	B	B	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	62.9	D6Mit194	MGI:93627		A	B	A	B	A	A	B	B	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	6	63.04	D6Mit61	MGI:93693		A	B	A	B	A	A	B	B	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	64.03	D6Mit13	MGI:93557		A	B	A	B	A	A	B	B	B	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	64.6	D6Mit374a	MGI:105506		A	B	A	B	A	A	B	B	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	6	69.36	D6Mit59	MGI:93690		A	B	A	B	A	A	B	B	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	77.37	D6Mit57	MGI:93688		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	77.64	D6Mit14	MGI:93568		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	77.7	D6Mit15	MGI:93579		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	78.22	D6Mit26	MGI:93659		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	6	78.22	D6Mit304	MGI:100290		A	B	A	B	A	A	B	A	A	B	B	A	B	B	A	.	A	B	B	B	A	.	A	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	7	-1.0	Ath3	MGI:88100		B	A	.	B	B	A	B	B	A	B	.	.	A	A	B	.	B	B	B	.	B	A	.	B	B	J:9716	Stewart-Phillips JL, Clin Invest Med 1989 Apr;12(2):121-6	
+AXB	7	-1.0	D7J2	MGI:93904		B	A	A	A	A	A	A	B	A	B	A	B	A	A	B	.	A	A	A	A	A	B	B	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	7	-1.0	D7J3	MGI:93905		B	A	A	B	A	A	B	B	A	B	B	A	A	A	B	.	B	B	B	B	B	.	B	B	.	J:34476	Cheah Y, Mamm Genome 1996 Jul;7(7):549-50	
+AXB	7	-1.0	D7J4	MGI:93906		B	A	A	B	A	A	B	B	A	B	A	A	A	A	B	.	B	B	B	B	B	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	7	-1.0	D7J5	MGI:93907		B	A	B	B	A	A	B	B	A	A	A	A	A	A	A	.	A	B	B	B	B	.	B	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	7	-1.0	D7Mit310	MGI:102149		B	B	A	B	A	A	A	B	B	B	A	A	B	A	A	.	A	A	B	B	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	7	-1.0	D7Mit71	MGI:94093		A	B	A	B	B	A	B	A	A	B	B	A	A	A	A	.	B	B	B	B	B	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	7	-1.0	Fau-ps3	MGI:1095402		B	B	A	B	A	A	A	B	B	B	A	A	A	A	A	.	A	B	B	B	B	.	B	B	.	J:41506	Casteels D, Mouse Genome 1997;95(2):488-91	
+AXB	7	-1.0	Hbb	MGI:96020		B	A	A	B	A	A	B	B	A	B	B	A	A	A	B	.	B	B	B	B	B	A	A	B	B	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:7461	Blatt C, Mol Cell Biol 1984 May;4(5):978-81	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	J:6291	Nesbitt MN, Biochem Genet 1979 Oct;17(9-10):957-64	J:9716	Stewart-Phillips JL, Clin Invest Med 1989 Apr;12(2):121-6	
+AXB	7	-1.0	Hma	MGI:96111		B	A	A	B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	J:6291	Nesbitt MN, Biochem Genet 1979 Oct;17(9-10):957-64	
+AXB	7	-1.0	Hmgn1-rs18	MGI:893583		B	A	.	B	A	A	.	B	.	B	B	.	A	A	B	.	.	B	B	B	.	.	A	B	B	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	-1.0	Hmgn1-rs19	MGI:893582		B	A	.	B	A	A	.	B	.	B	B	.	A	A	B	.	.	B	B	B	.	.	B	B	B	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	-1.0	Iapls1-38	MGI:102902		A	B	A	B	B	A	A	B	B	B	B	A	A	A	A	.	B	B	B	B	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	7	-1.0	Iapls1-46	MGI:102901		B	A	A	A	A	A	B	B	A	B	A	A	A	A	A	.	A	B	B	B	B	.	B	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	7	-1.0	Iapls3-4	MGI:96374		B	B	A	A	A	A	A	B	A	B	A	B	A	A	A	.	A	A	A	A	B	.	B	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	7	-1.0	Iapls3-49	MGI:102898		B	A	A	B	B	A	A	B	A	B	A	A	B	B	B	.	B	B	B	B	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	7	-1.0	Pmv15	MGI:97638		B	A	A	A	A	A	A	B	A	B	A	A	A	A	A	.	A	A	A	A	A	B	B	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	-1.0	Pmv18	MGI:97641		B	A	A	A	A	A	A	B	A	A	A	A	A	A	.	.	.	A	.	A	A	B	B	.	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	7	-1.0	Pmv29	MGI:97653		B	A	A	A	A	A	A	B	A	B	A	A	A	.	A	.	A	A	A	A	A	B	B	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	7	-1.0	Pmv31	MGI:97656		B	A	A	B	B	A	B	B	A	B	A	A	A	?	B	.	B	B	B	B	B	A	B	B	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	-1.0	Pmv4	MGI:97665		B	B	A	A	A	A	A	B	A	B	A	B	A	A	A	.	A	A	A	A	B	A	B	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	7	-1.0	Tam1	MGI:98482		B	B	A	B	A	A	B	B	A	B	A	A	B	A*	A	.	A	A	B	?	A	A	A	B	B	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:7461	Blatt C, Mol Cell Biol 1984 May;4(5):978-81	J:9716	Stewart-Phillips JL, Clin Invest Med 1989 Apr;12(2):121-6	
+AXB	7	2.02	D7Mit178	MGI:93999		B	B	A	A	A	A	A	B	A	B	A	B	A	A	A	.	A	A	A	A	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	7	2.67	D7Mit340	MGI:105488		B	B	.	A	A	A	.	B	.	B	.	B	A	.	A	.	.	A	A	A	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	6.42	D7Mit306	MGI:102145		B	B	A	A	A	A	A	B	A	B	A	B	A	A	A	.	A	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	7	9.15	D7Mit190	MGI:94013		B	B	A	A	A	A	A	B	A	B	A	B	A	A	A	.	A	A	A	A	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	7	15.94	D7Mit77	MGI:94099		B	A	A	A	A	A	A	B	A	B	A	A	A	A	A	.	A	A	A	A	A	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	7	17.09	D7Mit267	MGI:100246		B	A	A	A	A	A	A	B	A	B	A	A	A	A	A	.	A	A	A	A	A	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	7	17.26	D7Mit117	MGI:93933		B	A	.	A	A	A	.	B	.	B	.	A	A	.	A	.	.	A	A	A	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	19.31	D7Mit155	MGI:93975		B	A	.	B	A	A	.	B	.	B	.	A	A	.	A	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	19.46	Gpi1	MGI:95797		B	A	A	B	A	A	A	B	A	B	A	A	A*	A	A	A	A	B	B	B	A	B	B	B	A	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:7461	Blatt C, Mol Cell Biol 1984 May;4(5):978-81	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	J:9716	Stewart-Phillips JL, Clin Invest Med 1989 Apr;12(2):121-6	
+AXB	7	21.97	D7Mit309	MGI:102148		B	B	.	.	A	A	.	B	.	B	.	A	A	.	A	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	23.35	D7Mit25	MGI:94052		B	B	.	A	A	A	.	B	.	B	A	.	A	A	A	.	.	B	B	B	.	.	B	B	A	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	28.71	D7Nds5	MGI:94194		B	B	.	A	A	A	.	B	.	B	A	.	A	A	A	.	.	B	B	B	.	.	B	B	A	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	32.75	D7Mit145	MGI:93964		B	B	A	B	A	A	A	B	A	B	B	B	A	A	A	.	A	B	B	B	B	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	7	33.42	D7Mit70	MGI:94092		B	?	A	B	A	A	A	B	A	B	A	B	A	A	A	.	A	B	B	B	B	.	B	B	A	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	43.46	D7Nds1	MGI:94190		B	A	A	B	A	A	B	B	A	A	A	A	A	A	A	.	A	B	B	B	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	7	45.65	Fes	MGI:95514		B	A	A	B	A	A	.	.	A	B	.	A	.	A	A	.	.	.	.	B	A	.	.	.	B	J:7461	Blatt C, Mol Cell Biol 1984 May;4(5):978-81	
+AXB	7	45.71	D7Mit30	MGI:94057		B	B	.	B	A	A	.	B	.	B	A	.	A	A	A	.	.	B	B	B	.	.	B	B	.	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	7	47.36	D7Mit299	MGI:100214		B	A	A	B	B	A	B	B	A	B	A	A	A	A	B	.	B	B	B	B	B	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	7	49.01	D7Mit31	MGI:94058		B	A	A	B	B	A	B	B	A	B	A	A	A	A	B	.	B	B	B	B	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	7	49.01	Tyr	MGI:98880	Tyr<c>	B	A	A	B	B	A	B	B	A	B	A	A	A	A	B	B	B	B	B	B	B	A	B	B	B	J:17659	Nesbitt M, Mouse Genome 1990;88():113	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	J:7461	Blatt C, Mol Cell Biol 1984 May;4(5):978-81	J:9716	Stewart-Phillips JL, Clin Invest Med 1989 Apr;12(2):121-6	
+AXB	7	51.2	D7Mit301	MGI:100212		B	A	.	B	A	A	.	B	.	B	.	A	A	.	B	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	54.85	D7Mit37	MGI:94064		B	A	A	B	A	A	B	B	A	B	B	A	A	A	B	.	B	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	7	58.74	D7Mit281	MGI:100232		B	A	.	B	A	A	.	B	.	B	.	A	A	.	B	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	63.78	D7Mit238	MGI:100275		B	A	.	B	A	A	.	B	.	B	.	A	A	.	B	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	64.3	D7Mit66	MGI:94087		B	A	A	B	A	A	B	B	A	B	B	A	A	A	B	.	B	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	7	66.09	D7Mit285	MGI:100228		A	A	.	B	A	A	.	A	.	B	.	A	A	.	B	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	68.76	D7Mit68	MGI:94089		A	B	A	B	B	A	B	A	B	B	B	A	A	A	A	.	B	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	7	70.29	D7Mit105	MGI:93921		A	B	A	B	B	A	B	A	B	B	B	A	A	A	A	.	B	B	B	B	B	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	7	73.19	D7Mit187	MGI:94009		A	B	.	B	B	A	.	A	.	B	.	A	A	.	A	.	.	B	B	B	.	.	.	B	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	7	88.86	D7Nds4	MGI:94193		B	B	B	B	B	A	A	B	B	B	B	B	A	B	A	.	A	A	A	A	B	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	J:19730	Seldin MF, J Clin Invest 1994 Jul;94(1):269-76	
+AXB	8	-1.0	D8J1	MGI:94272		B	A	A	A	B	B	A	A	B	B	A	B	A	A	A	.	B	A	A	A	A	.	B	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	8	-1.0	D8J2	MGI:894274		B	B	A	A	B	B	A	A	A	B	A	.	A	A	A	.	B	A	A	A	B	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	8	-1.0	D8Mit14	MGI:94320		A	A	B	A	B	A	B	B	A	A	B	A	A	A	A	.	B	A	A	A	A	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	8	-1.0	D8Mit41	MGI:94406		B	B	B	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	8	-1.0	Emv2	MGI:95335		A	A	B	A	B	A	B	B	A	A	A	B	.	A	A	.	A	A	.	.	.	.	A	.	.	J:9532	Mattano SS, J Hered 1988 Nov-Dec;79(6):430-3	
+AXB	8	-1.0	Iapls1-16	MGI:99816		A	A	B	A	B	A	B	B	A	A	B	A	A	A	A	.	B	A	A	A	A	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	8	-1.0	Xmv12	MGI:99058		B	B	A	A	B	B	A	A	A	B	A	B	A	A	A	.	A	A	A	A	B	B	A	B	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	8	12.86	D8Mit3	MGI:94396		A	B	B	A	B	B	A	A	B	B	A	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	8	18.89	D8Mit4	MGI:94404		B	B	B	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	B	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	8	19.38	D8Mit224	MGI:100186		B	B	B	A	B	B	A	A	A	B	A	B	.	A	A	.	A	B	A	A	A	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	8	21.16	D8Mit24	MGI:94390		B	B	B	A	B	B	A	A	B	B	A	B	A	A	A	.	B	A	A	A	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	8	29.7	D8Mit69	MGI:94436		B	A	A	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	8	32.3	Cpe	MGI:101932		B	B	B	A	B	B	A	A	.	.	A	B	A	A	A	.	B	A	A	A	B	B	B	B	B	J:14308	Prochazka M, Mouse Genome 1991;89():280	
+AXB	8	32.3	D8Mit25	MGI:94391		B	B	B	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	8	32.3	D8Mit8	MGI:94448		B	B	B	A	B	B	A	A	B	B	A	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	8	33.06	D8Mit132	MGI:94312		B	B	B	A	B	B	A	A	A	B	A	B	.	A	A	.	A	B	A	A	A	.	B	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	8	33.07	D8Mit131	MGI:94311		B	B	B	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	8	33.38	Nat1	MGI:97279		B	B	A*	A	B	B*	A	A	A	B	.	B	B	A	A	.	B	A	.	A	.	B	B	B	B	J:9532	Mattano SS, J Hered 1988 Nov-Dec;79(6):430-3	J:6685	Glowinski IB, J Biol Chem 1982 Feb 10;257(3):1424-30	J:6685	Glowinski IB, J Biol Chem 1982 Feb 10;257(3):1424-30	
+AXB	8	39.33	D8Mit305	MGI:102195		B	B	B	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	8	39.59	D8Mit346	MGI:105451		B	B	B	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	8	42.16	D8Mit45	MGI:94410		B	A	B	A	B	B	A	A	A	B	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	8	44.99	Ces1c	MGI:95420		B	A	B	A	B	B	B	A	A	A	A	B	A	A	A	.	B	A	A	?	B	B	B	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9532	Mattano SS, J Hered 1988 Nov-Dec;79(6):430-3	
+AXB	8	50.07	D8Mit242	MGI:100168		A	A	B	A	B	B	B	A	A	A	A	B	A	A	A	.	B	A	A	A	B	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	8	56.16	D8Mit113	MGI:94291		A	A	A	A	B	A	B	A	A	A	A	A	A	A	A	.	B	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	8	60.86	D8Mit271	MGI:100139		A	A	B	A	B	A	B	A	A	A	A	A	A	A	A	.	B	A	A	A	B	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	8	74.46	D8Mit42	MGI:94407		A	A	B	A	B	A	A	B	A	A	B	A	A	A	A	.	B	A	A	A	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	8	76.09	D8Mit156	MGI:94338		A	A	B	A	B	A	A	B	B	A	B	A	A	A	A	.	B	A	A	A	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	9	-1.0	D9J1	MGI:94606		A	A	B	B	B	A	B	B	B	A	B	A	A	A	A	.	B	A	A	A	A	.	A	B	.	J:22175	Cheah YC, Mamm Genome 1994 Dec;5(12):762-7	
+AXB	9	-1.0	D9Mit146	MGI:94654		A	A	B	B	B	B	B	B	A	B	B	B	B	B	A	.	A	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	9	-1.0	D9Mit352	MGI:107134		A	A	.	B	.	B	.	A	.	.	.	B	B	.	A	.	.	A	A	.	.	.	.	.	.	J:58921	Matesic LE, Genomics 1999 Nov 15;62(1):34-41	
+AXB	9	-1.0	H7	MGI:96006		.	.	.	B	.	A	.	.	.	A	.	.	.	.	.	.	.	A	A	A	.	.	.	.	.	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+AXB	9	-1.0	Iapls2-19	MGI:102895		A	A	B	B	B	B	A	B	A	B	A	B	B	B	B	.	B	A	A	A	A	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	9	-1.0	Iapls3-54	MGI:102892		A	A	B	B	B	B	B	B	A	B	A	B	B	B	A	.	A	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	9	-1.0	Lap1	MGI:96749		A	A	B	B	A	B	B	.	B	B	A	B	B	B	.	.	.	A	.	A	B	.	B	B	A	J:10023	Youngblood GL, Endocrinology 1989 Nov;125(5):2784-6	
+AXB	9	-1.0	Mpmv27	MGI:97096		A	A	B	A	B	B	A	A	B	B	A	B	B	B	A	.	A	A	B	A	B	A	A	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10331	Frankel WN, Genetics 1990 Feb;124(2):221-36	
+AXB	9	-1.0	Pchr	MGI:102624		A	B	B	A	B	B	B	B	A	B	.	A	.	.	.	.	B	.	.	B	.	.	.	.	.	J:9348	Stevenson MM, Curr Top Microbiol Immunol 1988;137():325-8	
+AXB	9	-1.0	Xmv15	MGI:99061		A	A	B	A	B	B	A	A	B	B	A	B	B	B	A	.	A	A	A	A	B	A	B	B	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	9	-1.0	Xmv16	MGI:99062		A	A	B	B	B	B	B	A	B	B	A	B	B	B	A	.	B	A	A	A	B	A	B	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9678	Frankel WN, J Virol 1989 Apr;63(4):1763-74	
+AXB	9	17.97	Ets1	MGI:95455		A	A	.	B	A	B	.	A	.	B	A	B	.	A	A	.	.	A	A	A	.	.	B	A	.	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+AXB	9	20.76	D9Mit2	MGI:94712		A	A	B	B	A	B	B	A	B	B	A	B	B	B	A	.	A	A	A	A	B	.	B	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	9	23.36	D9Mit227	MGI:100096		A	A	B	B	B	B	B	A	B	B	A	B	B	B	A	.	A	A	A	A	B	.	B	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	9	24.84	Upk2	MGI:98913		A	A	.	B	B	B	.	A	.	B	A	B	.	B	A	.	.	A	A	A	.	.	B	A	.	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+AXB	9	25.36	Apoa1	MGI:88049		A	A	B	B	B	B	A	A	B	B	A	B	B	B	A	.	.	A	A	A	B	A	B	B	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10023	Youngblood GL, Endocrinology 1989 Nov;125(5):2784-6	
+AXB	9	26.83	Ncam1	MGI:97281		A	A	.	B	B	B	.	A	.	B	A	B	.	B	A	.	.	A	A	A	.	.	B	B	.	J:11886	D'Eustachio P, Mamm Genome 1993;4(5):278-80	
+AXB	9	29.49	Cyp19a1	MGI:88587		A	A	B	A	B	B	A	A	B	A	A	B	B	B	.	.	.	A	A	A	B	A	B	B	A	J:10023	Youngblood GL, Endocrinology 1989 Nov;125(5):2784-6	
+AXB	9	31.34	Cyp1a1	MGI:88588		A	A	B	A	B	B	A	A	B	.	.	B	.	B	.	.	.	A	.	.	B	.	.	.	A	J:10023	Youngblood GL, Endocrinology 1989 Nov;125(5):2784-6	
+AXB	9	31.63	Cyp11a1	MGI:88582		A	A	B	A	B	B	A	A	B	A	A	B	B	B	.	.	.	A	A	A	B	A	B	B	A	J:10023	Youngblood GL, Endocrinology 1989 Nov;125(5):2784-6	
+AXB	9	34.04	D9Mit105	MGI:94614		A	A	B	A	B	B	A	A	B	B	A	B	B	B	A	.	B	A	A	A	B	.	A	B	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	9	42.65	D9Mit8	MGI:94772		A	A	B	A	B	B	B	B	A	B	A	B	B	B	A	.	A	A	A	A	B	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	9	45.8	D9Mit133	MGI:94640		A	A	B	B	B	B	A	B	A	B	B	B	B	B	B	.	A	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	9	46.4	D9Mit113	MGI:94621		A	A	A	B	B	B	A	B	A	B	B	B	B	B	B	.	B	A	A	A	A	.	A	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	9	46.58	Me1	MGI:97043		A	A	A	A	B	B	A	B	A	B	B	B	B	B	B	.	.	A	A	A	B	A	A	A	B	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:10023	Youngblood GL, Endocrinology 1989 Nov;125(5):2784-6	
+AXB	9	48.98	D9Mit50	MGI:94741		A	A	A	A	B	B	A	B	A	B	B	B	B	B	B	.	B	A	A	A	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	9	50.31	Atp1b3	MGI:107788		B	B	.	B	A	A	.	B	.	B	A	.	A	A	.	.	.	.	B	B	.	.	B	.	.	J:35336	Malik N, J Biol Chem 1996 Sep 13;271(37):22754-8	
+AXB	9	52.24	D9Mit12	MGI:94627		A	A	A	A	B	B	A	B	A	B	A	B	B	B	B	.	B	A	A	A	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+AXB	9	53.48	D9Mit182	MGI:94693		A	A	B	A	B	B	B	B	B	B	A	B	A	A	B	.	B	A	A	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	9	55.07	D9Mit24	MGI:94719		A	A	B	A	B	B	B	B	B	B	A	B	A	A	B	.	B	A	A	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	9	58.43	Gnai2	MGI:95772		A	A	.	A	B	B	B	B	B	B	B	A	A	A	A	.	B	A	A	A	A	A	A	B	B	J:9413	Blatt C, Proc Natl Acad Sci U S A 1988 Oct;85(20):7642-6	J:9348	Stevenson MM, Curr Top Microbiol Immunol 1988;137():325-8	
+AXB	9	58.86	Gnat1	MGI:95778		A	A	B	A	B	B	B	B	B	B	B	.	A	A	A	.	B	A	A	A	A	A	A	B	B	J:9413	Blatt C, Proc Natl Acad Sci U S A 1988 Oct;85(20):7642-6	
+AXB	9	63.92	D9Mit243	MGI:100080		A	A	B	A	B	A	A	B	B	B	B	A	A	Z	A	.	B	A	A	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	9	64.4	Glb1	MGI:88151		A	A	B	B	B	A	A	B	B	.	B	A	.	A	.	.	.	.	A	.	B	A	A	.	A	J:10023	Youngblood GL, Endocrinology 1989 Nov;125(5):2784-6	
+AXB	9	65.48	D9Mit16	MGI:94669		A	A	B	A	B	A	A	B	B	A	B	A	A	A	A	.	B	A	A	A	A	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+AXB	9	71.49	D9Mit18	MGI:94690		A	A	B	B	B	A	B	B	B	A	B	A	A	A	A	.	B	A	A	A	A	.	A	B	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	J:59437	Eden PA, J Immunol 1999 Apr 15;162(8):4502-10	
+AXB	UN	-999.0	cma	MGI:88425		B	A	.	.	B	A	.	.	.	.	.	.	.	.	B	.	A	A	.	.	B	.	A	.	A	J:2843	Traystman MD, Clin Exp Immunol 1991 Nov;86(2):291-8	
+AXB	UN	-999.0	D0J1	MGI:88631		.	A	B	A	B	B	B	A	A	B	A	B	B	A	B	.	B	B	B	A	B	B	A	B	A	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	UN	-999.0	D0J9	MGI:93903		B	B	A	B	A	A	A	B	B	B	B	A	A	B	A	.	A	A	A	B	A	A	B	.	B	J:1577	Nadeau JH, Mamm Genome 1992;3(2):55-64	
+AXB	UN	-999.0	Iapls3-46	MGI:102857		B	B	B	B	B	A	B	B	B	B	B	B	B	B	B	.	B	A	A	A	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	UN	-999.0	Iapls3-51	MGI:102856		B	B	B	B	B	B	B	A	B	B	B	B	B	B	A	.	B	A	A	A	B	.	A	B	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	X	-1.0	DXMit16	MGI:95088		A	B	B	B	A	B	A	B	A	A	B	B	A	A	A	.	A	A	A	A	A	.	B	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	X	-1.0	DXMit69	MGI:95144		A	B	B	B	A	B	A	A	A	A	B	B	B	B	A	.	A	B	B	B	A	.	B	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	X	-1.0	Iapls2-26	MGI:102852		A	B	B	B	A	B	A	A	A	A	B	B	A	A	A	.	A	A	B	B	A	.	B	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	X	-1.0	Iapls3-11	MGI:96356		A	B	B	B	B	B	A	B	A	A	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:24203	Lueders KK, Electrophoresis 1995 Feb;16(2):179-85	
+AXB	X	-1.0	Pmv6	MGI:97687		A	B	B	B	A	A	B	A	A	A	A	A	A	A	A	.	A	A	A	A	B	B	A	A	A	J:3516	Marshall JD, Mamm Genome 1992;3(12):669-80	J:9925	Frankel WN, J Virol 1989 Sep;63(9):3810-21	
+AXB	X	3.31	DXMit55	MGI:95130		B	B	B	B	A	A	A	A	A	A	A	A	A	A	A	.	A	A	A	A	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	X	4.25	DXMit124a	MGI:100024		A	A	B	B	A	A	A	A	A	A	A	A	A	A	A	.	A	A	A	A	A	.	A	B	.	J:45463	Sampson SB, Mamm Genome 1998 Sep;9(9):688-94	
+AXB	X	28.26	DXMit166	MGI:99982		A	B	B	B	B	A	A	A	A	A	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:41733	Prows DR, Mamm Genome 1998 Feb;9(2):160-1	
+AXB	X	29.31	DXMit22	MGI:95094		A	B	B	B	A	A	A	A	A	A	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	X	37.29	DXMit1.1	MGI:95058		A	B	B	B	B	B	A	B	A	A	A	B	A	A	A	.	B	A	A	A	A	.	A	A	.	J:3521	Mu JL, Mamm Genome 1992;3(12):705-8	
+AXB	X	42.82	DXMit114	MGI:95075		A	B	B	B	A	B	A	B	A	A	B	B	A	A	A	.	A	A	A	A	A	.	B	A	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	X	49.81	DXMit172	MGI:99976		A	B	B	B	A	B	A	A	A	A	B	B	B	B	A	.	A	A	A	A	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	X	50.14	DXMit149	MGI:99999		A	B	B	B	A	B	A	A	A	A	B	B	B	B	A	.	A	A	A	A	A	.	B	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	X	68.46	DXMit10	MGI:95059		A	B	A	B	A	A	B	A	A	A	B	B	B	B	A	.	A	B	B	B	B	.	A	B	.	J:36911	Naggert JK, Mamm Genome 1997 Mar;8(3):209-11	
+AXB	X	68.46	DXMit197	MGI:102459		A	B	A	B	A	A	B	A	A	A	B	B	B	B	A	.	A	B	B	B	B	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	
+AXB	X	76.75	DXMit186	MGI:99962		A	B	B	B	A	A	A	A	A	A	B	A	B	B	A	.	A	B	B	B	A	.	A	B	.	J:39566	Higgins DC, Mamm Genome 1997;8(11):846-9	

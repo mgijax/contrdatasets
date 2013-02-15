@@ -1,0 +1,32 @@
+# Legend:
+# LSXSS origin = LS/Ibg x SS/Ibg
+# L = LS/Ibg
+# S = SS/Ibg
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-27: 1 2 3 4 5 6 7 8 9 10 12 17 18 19 20 22 23 25 26 28 30 32 33 34 36 38 40
+# field 28: reference
+# field 29: reference citation
+#
+LSXSS	1	49.76	Bcl2	MGI:88138		L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	L	S	L	L	L	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	11	-1.0	Hoxb	MGI:96181		S	S	L	S	L	S	S	S	S	L	L	S	L	S	S	S	S	L	L	L	S	S	S	L	L	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	11	31.97	Il4	MGI:96556		L	L	S	S	S	L	S	L	S	S	L	S	L	S	S	S	L	L	S	S	S	S	L	S	S	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	11	32.13	Csf2	MGI:1339752		L	L	S	S	S	L	S	L	S	S	L	S	L	S	S	S	L	L	S	S	S	S	L	S	S	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	11	66.48	Gfap	MGI:95697		S	S	L	S	L	S	S	S	S	S	L	L	L	S	S	S	S	L	L	L	S	S	S	S	L	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	11	67.79	Myl4	MGI:97267		S	S	L	S	L	S	S	S	S	S	L	L	L	S	S	S	S	L	L	L	S	S	S	S	L	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	12	-1.0	Igh	MGI:96442		.	S	L	L	L	L	L	L	L	S	S	S	S	S	S	S	L	S	S	L	L	L	S	L	L	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	12	1.99	Pomc	MGI:97742		L	.	L	L	S	.	L	L	S	S	S	S	S	S	S	L	S	S	S	.	L	S	L	L	.	.	L	J:46920	Radcliffe RA, Behav Genet 1998 Jan;28(1):49-55	
+LSXSS	14	11.53	Plau	MGI:97611		S	L	L	S	L	L	S	S	L	S	S	L	L	S	S	S	L	S	S	S	S	L	L	S	L	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	15	-1.0	Hoxc	MGI:96191		L	S	L	S	L	L	S	S	L	S	L	S	L	S	L	S	L	L	L	L	L	L	L	L	S	S	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	6	32.14	Cd8b1	MGI:88347		S	S	S	S	L	L	L	S	S	L	S	S	S	S	S	L	S	S	S	S	S	S	S	L	S	L	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	
+LSXSS	X	46.26	DXNds3	MGI:95189		L	L	L	L	S	L	S	L	L	L	L	S	S	S	L	L	S	L	L	L	L	L	L	L	S	L	L	J:17613	Markel PD, Mamm Genome 1994 Apr;5(4):199-202	

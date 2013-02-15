@@ -1,0 +1,98 @@
+# Legend:
+# OXA origin = O20/A x AKR/FuRdA
+# O = O20/A
+# A = AKR/FuRdA
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-14: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+# field 15: reference
+# field 16: reference citation
+#
+OXA	1	-1.0	Akp1	MGI:87982		O	A	O	A	O	A	A	A	A	A	O	O	O	O	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	-1.0	Len1	MGI:96771		.	A	A	O	A	A	O	.	O	A	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	-1.0	Lmyc2	MGI:96800		A	A	O	A	A	O	O	A	O	A	O	A	O	A	J:9772	Campbell GR, Oncogene Res 1989;4(1):47-54	
+OXA	1	-1.0	Mtv7	MGI:97226		O	A	O	A	A	A	A	A	A	A	O	O	O	O	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	32.91	Idh1	MGI:96413		.	A	A	O	A	A	O	.	O	A	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	33.31	Crygf	MGI:88526		O	O	A	O	O	O	O	.	A	.	A	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	61.62	Cfh	MGI:88385		O	O	O	O	A	A	O	.	O	A	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	78.02	Fcgr2b	MGI:95499		O	A	O	A	A	A	A	A	O	A	O	O	O	O	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	78.8	Fcgr3	MGI:95500		O	A	O	A	A	A	A	A	O	A	O	O	O	O	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	
+OXA	1	79.54	Ly9	MGI:96885		O	.	O	A	A	A	O	A	A	A	O	O	.	O	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	1	80.33	Fcer1a	MGI:95494		O	O	O	A	A	A	A	A	A	A	O	O	O	O	J:9397	Huppi K, J Immunol 1988 Oct 15;141(8):2807-10	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	10	15.06	Ptprk	MGI:103310		O	O	O	A	A	O	A	A	O	O	O	O	A	O	J:25687	Jiang YP, Mol Cell Biol 1993 May;13(5):2942-51	
+OXA	11	31.97	Il4	MGI:96556		O	O	A	A	A	A	O	O	A	O	A	A	A	O	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	J:9398	D'Eustachio P, J Immunol 1988 Nov 1;141(9):3067-71	
+OXA	11	31.99	Il5	MGI:96557		O	O	A	A	A	A	O	O	A	O	A	A	A	O	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+OXA	11	32.13	Il3	MGI:96552		O	O	A	A	A	A	O	O	A	O	A	A	A	O	J:9590	Takahashi M, Genomics 1989 Jan;4(1):47-52	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	11	38.99	Pmp22	MGI:97631		A	O	O	A	A	A	O	O	A	O	A	A	O	A	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+OXA	11	49.99	Ccl1	MGI:98258		A	A	O	A	A	A	O	O	A	O	A	A	A	A	J:10423	Wilson SD, J Exp Med 1990 Apr 1;171(4):1301-14	
+OXA	11	63.47	Cnp	MGI:88437		O	A	A	O	A	A	O	O	A	O	A	O	A	O	J:9450	Bernier L, J Neurosci Res 1988 Aug;20(4):497-504	
+OXA	12	-1.0	D12H14S17	MGI:89328		O	A	A	O	O	O	O	A	A	O	A	A	A	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	-1.0	D12N1	MGI:89512		O	A	A	O	O	O	O	A	A	O	A	A	A	O	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+OXA	12	-1.0	D12Nyu1	MGI:89566		O	A	O	A	O	O	A	O	A	O	O	O	A	O	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	12	-1.0	D12Nyu15	MGI:99649		O	A	O	A	O	O	A	O	A	O	O	O	A	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	-1.0	D12Nyu17	MGI:99647		O	A	A	O	O	O	O	O	A	O	A	A	A	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	-1.0	D12Nyu4	MGI:89572		O	O	A	O	O	O	O	O	A	O	O	A	O	O	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	12	-1.0	Es25	MGI:95437		A	A	A	A	A	O	A	.	A	O	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	12	-1.0	Igh-C	MGI:96456		O	A	A	O	O	O	O	A	A	O	A	A	A	O	J:455	Cho M, Mamm Genome 1991;1(1):30-6	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	12	-1.0	Igh-V3609	MGI:96481		O	A	A	O	O	O	O	A	A	O	A	A	A	O	J:455	Cho M, Mamm Genome 1991;1(1):30-6	
+OXA	12	-1.0	Ly18	MGI:96861		A	O	O	O	A	O	O	O	A	O	O	O	A	O	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	12	10.96	D12Nyu2	MGI:89570		O	A	O	A	A	O	O	O	A	O	O	O	A	O	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	12	33.73	Hspa2	MGI:96243		O	O	A	O	O	O	A	O	A	O	O	A	O	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	33.73	Zbtb25	MGI:99197		O	O	A	O	O	O	A	O	A	O	O	A	O	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	35.51	D12Mit4	MGI:89449		O	O	A	O	O	O	A	O	A	O	O	A	O	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	37.16	D12Mit5	MGI:89457		O	O	A	O	O	O	O	O	A	O	O	A	O	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	44.05	D12Mit6	MGI:89467		O	O	A	O	O	O	O	O	O	O	O	A	O	O	J:18817	Khan F, Genomics 1994 May 1;21(1):128-37	
+OXA	12	62.09	Igha	MGI:96444		O	A	A	O	O	O	O	A	A	O	A	A	A	O	J:9617	Blank RD, Genetics 1988 Dec;120(4):1073-83	
+OXA	13	-1.0	D13N1	MGI:89830		O	A	A	O	O	A	O	A	A	O	O	A	O	O	J:10181	Feisee L, Nucleic Acids Res 1989 Dec 25;17(24):10517	
+OXA	13	-1.0	Ly28	MGI:96866		O	A	A	O	O	O	O	O	A	A	A	O	O	A	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	13	31.92	Gas1	MGI:95655		A	A	A	O	O	O	O	A	O	A	O	O	O	A	J:2945	Colombo MP, Mamm Genome 1992;2(2):130-4	
+OXA	15	-1.0	Ly6	MGI:96880		A	A	O	O	A	A	O	A	.	O	A	O	O	.	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	15	1.97	C6	MGI:88233		A	.	A	A	O	O	O	.	A	A	O	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	17	-1.0	D17Leh26	MGI:90701		A	A	A	O	A	A	O	.	A	A	A	.	.	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+OXA	17	-1.0	D17Tu34	MGI:90977		A	O	O	O	A	A	O	.	O	A	A	.	.	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+OXA	17	-1.0	Rasl2-1	MGI:97862		A	A	A	O	A	A	O	A	O	O	A	O	O	A	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+OXA	17	13.11	Hba-ps4	MGI:96018		A	O	O	O	A	A	O	.	A	A	A	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	17	15.38	Pim1	MGI:97584		A	O	O	O	A	A	O	.	O	A	A	.	.	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+OXA	17	17.98	H2-K1	MGI:95904		A	A	A	O	A	A	O	O	A	O	A	O	O	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	17	18.29	C4b	MGI:88228		A	A	A	O	A	A	O	O	A	A	A	O	O	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+OXA	17	18.36	Cyp21a1	MGI:88591		A	A	A	O	A	A	O	.	A	.	A	O	O	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+OXA	17	18.59	Lta	MGI:104797		A	A	A	O	A	A	O	O	A	.	A	O	O	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	
+OXA	17	18.59	Tnf	MGI:104798		A	A	A	O	A	A	O	O	A	.	A	O	O	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	J:8762	Gardner SM, J Immunol 1987 Jul 15;139(2):476-83	
+OXA	17	18.61	H2-D1	MGI:95896		A	A	A	O	A	A	O	O	A	O	A	O	O	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	17	22.91	Prph2	MGI:102791	Prph2<Rd2>	A	A	O	O	A	A	O	O	A	O	A	O	O	A	J:10135	Vincek V, Genomics 1989 Nov;5(4):773-86	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	19	33.91	Cyp2c29	MGI:103238		O	O	A	A	A	O	O	.	O	A	A	A	O	O	J:9133	Meehan RR, Proc Natl Acad Sci U S A 1988 Apr;85(8):2662-6	
+OXA	2	-1.0	Il1	MGI:96536		O	O	O	O	O	O	O	.	A	O	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	4	-1.0	Rasl2-5	MGI:97866		O	O	A	O	O	A	A	A	A	O	O	O	O	O	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	
+OXA	4	23.04	Cd72	MGI:88345		O*	O	A	O	A*	A	A	O	A	O	A	O	O	O	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:14246	Tada N, Mouse News Lett 1989;84():59-71	J:9386	Nakamura S, Immunogenetics 1988;28(5):314-9	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	4	32.85	Mup1	MGI:97233		O	O	A	O	O	O	A	.	O	O	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	4	57.36	Mycl1	MGI:96799		O	A	A	A	O	O	A	A	O	A	A	O	A	O	J:9772	Campbell GR, Oncogene Res 1989;4(1):47-54	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	4	80.65	H6pd	MGI:2140356		A	A	A	A	O	O	A	.	A	A	O	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	5	32.8	Pgm1	MGI:97564		.	O	A	A	O	O	A	.	A	A	O	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	5	68.32	Gusb	MGI:95872		O	O	O	A	A	A	A	.	A	A	A	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	6	-1.0	Igk-V10	MGI:96501		A	O	O	A	A	A	O	A	A	O	A	A	A	A	J:8820	Mock BA, Genetics 1987 Aug;116(4):607-12	
+OXA	6	-1.0	Igk-V20	MGI:96506		A	O	O	A	A	O	O	A	A	O	A	A	A	A	J:10673	Shefner R, J Immunol 1990 Sep 1;145(5):1609-14	
+OXA	6	-1.0	Igk-V21	MGI:96507		A	O	O	A	A	A	O	A	A	O	A	A	A	A	J:10673	Shefner R, J Immunol 1990 Sep 1;145(5):1609-14	
+OXA	6	-1.0	Tcrb	MGI:98578		A	O	O	O	A	A	O	O	A	O	A	A	A	A	J:8820	Mock BA, Genetics 1987 Aug;116(4):607-12	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	6	25.4	Hoxa3	MGI:96175		A	O	A	O	A	A	O	A	A	O	A	A	A	A	J:8820	Mock BA, Genetics 1987 Aug;116(4):607-12	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	6	30.89	Igk	MGI:96494		A	O	O	A	A	A	O	.	A	O	A	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	6	32.14	Cd8b1	MGI:88347		A	O	O	A	A	O	O	.	A	O	A	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	6	77.37	Kras	MGI:96680		A	O	O	A	A	O	A	.	O	O	O	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	7	-1.0	Tpe1	MGI:103146		O	A	A	O	A	A	O	.	O	O	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	7	18.78	Upk1a	MGI:98911		O	A	A	O	A	A	O	O	O	O	O	A	O	O	J:15639	Ryan AM, Mamm Genome 1993 Nov;4(11):656-61	
+OXA	7	19.46	Gpi1	MGI:95797		O	A	A	O	A	A	O	.	O	O	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	8	-1.0	Es24	MGI:95436		A	A	A	O	O	O	A	.	A	O	O	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	8	11.42	Polb	MGI:97740		O	A	A	A	A	O	A	.	A	A	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	9	24.52	Thy1	MGI:98747		O	O	A	O	O	A	O	.	A	A	O	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	9	31.34	Cyp1a1	MGI:88588		O	O	A	A	A	O	O	.	O	A	A	.	.	O	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	9	46.58	Me1	MGI:97043		O	A	A	A	A	O	O	.	.	O	A	.	.	A	J:17755	ten Berg R, Mouse News Lett 1989;84():102-104	
+OXA	UN	-999.0	Rasl5-1	MGI:97871		O	O	O	A	A	O	A	A	O	O	A	A	O	O	J:561	Drivas G, Mamm Genome 1991;1(2):112-7	

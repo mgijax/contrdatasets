@@ -1,0 +1,58 @@
+# Legend:
+# NX8 origin = NZB/Icr x C58/J
+# N = NZB/Icr
+# 8 = C58/J
+# . = untyped
+# Z = heterozygous
+# X = new allele
+# ? = ambigous typing
+# * = inconsistent typing
+#
+# field 1: RI set designation
+# field 2: chromosome
+# field 3: cM  (-1.0 = syntenic)
+# field 4: marker symbol
+# field 5: marker ID
+# field 6: allele symbol
+# field 7-13: 3 4 5 6 9 13A 13B 15 16 17 18 19 20
+# field 14: reference
+# field 15: reference citation
+#
+NX8	1	-1.0	Pepc	MGI:97541		N	8	N	8	8	N	N	8	N	N	8	8	8	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	1	-1.0	Xmmv9	MGI:99053		N	8	8	8	N	8	8	N	8	N	N	N	8	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	10	66.65	Mdm1	MGI:96951		N	8	N	8	8	8	.	N	N	N	N	8	8	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+NX8	10	66.75	Ifng	MGI:107656		N	8	N	8	8	8	.	N	N	N	N	8	8	J:3520	Taylor BA, Mamm Genome 1992;3(12):700-4	
+NX8	11	2.76	Tcn2	MGI:98534		.	N	N	8	8	8	N	8	N	.	N	.	8	J:3517	Bottorff D, Mamm Genome 1992;3(12):681-4	
+NX8	11	2.94	Lif	MGI:96787		.	N	N	8	8	8	N	8	N	.	N	.	8	J:3517	Bottorff D, Mamm Genome 1992;3(12):681-4	
+NX8	12	-1.0	Igh-C	MGI:96456		N	8	8	N	8	8	8	N	8	8	N	N	8	J:7307	Owen FL, J Exp Med 1984 Jan 1;159(1):313-7	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	12	-1.0	Igh-Dex	MGI:96458		8	8	8	N	8	8	8	N	8	8	?	N	8	J:17765	Riblet R, J Immunol 1980 Feb;124(2):787-9	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	
+NX8	12	-1.0	Ighg2a	MGI:96443		N	8	8	N	8	?	.	N	8	8	8	N	8	J:17765	Riblet R, J Immunol 1980 Feb;124(2):787-9	J:17774	Primi D, Eur J Immunol 1986 Mar;16(3):292-6	
+NX8	12	-1.0	Serpina1	MGI:98376		N	8	8	N	8	8	8	8	N	8	8	N	N	J:7307	Owen FL, J Exp Med 1984 Jan 1;159(1):313-7	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	
+NX8	12	-1.0	Tind	MGI:98755		.	8	.	.	.	N	N	N	8	.	N	N	8	J:7307	Owen FL, J Exp Med 1984 Jan 1;159(1):313-7	
+NX8	12	-1.0	Tpre	MGI:98814		.	8	.	.	.	N	N	N	8	.	N	N	8	J:7307	Owen FL, J Exp Med 1984 Jan 1;159(1):313-7	
+NX8	12	-1.0	Tsu	MGI:98859		N	8	8	N	8	N	N	N	8	8	N	N	8	J:7307	Owen FL, J Exp Med 1984 Jan 1;159(1):313-7	J:6540	Owen FL, J Exp Med 1981 Apr 1;153(4):801-10	
+NX8	12	-1.0	Tthy	MGI:98863		.	8	.	.	.	N	N	N	8	.	N	N	8	J:7307	Owen FL, J Exp Med 1984 Jan 1;159(1):313-7	
+NX8	12	15.78	Ahr	MGI:105043		N	N	N	8	8	N	N	N	N	N	8	N	N	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	12	44.51	Tshr	MGI:98849		N	8	8	N	8	8	8	8	N	8	8	N	N	J:34791	Taylor BA, Mamm Genome 1996 Aug;7(8):626-8	
+NX8	14	39.38	Esd	MGI:95421		N	8	N	N	N	N	N	8	8	8	8	N	N	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	15	-1.0	Pmv17	MGI:97640		8	8	8	8	N	N	8	8	8	8	8	N	N	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	15	36.28	Gpt	MGI:95802		8	8	8	8	N	N	N	8	8	8	8	N	8	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	J:20642	Taylor BA, Personal Communication 1994 July 8;():	
+NX8	17	-1.0	H2	MGI:95894		8	8*	N	N	N*	8*	8	N*	8*	8	N	N	N	J:17765	Riblet R, J Immunol 1980 Feb;124(2):787-9	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	J:17774	Primi D, Eur J Immunol 1986 Mar;16(3):292-6	
+NX8	19	-1.0	Xmmv42	MGI:99018		N	N	N	N	N	N	N	N	8	8	N	8	8	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	2	-1.0	Xmmv58	MGI:99032		N	8	8	8	N	N	N	N	N	8	N	N	N	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	3	-1.0	Xmmv47	MGI:99023		8	8	N	N	N	8	8	N	8	N	8	8	N	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	3	-1.0	Xmmv65	MGI:99038		N	8	8	N	N	8	8	N	8	N	8	8	N	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	4	-1.0	Xmmv62	MGI:99035		8	8	8	8	N	8	8	8	N	N	N	8	N	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	4	32.85	Mup1	MGI:97233		8	8	8	8	N	N	8	8	N	N	N	8	N	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	4	80.65	H6pd	MGI:2140356		N	8	8	8	N	8	8	8	N	N	N	N	N	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	5	32.8	Pgm1	MGI:97564		8	N	N	8	N	N	N	8	N	8	8	8	8	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	6	-1.0	Igk-Pc	MGI:96498		8	8	8	N	.	8	.	N	8	8	N	8	.	J:17765	Riblet R, J Immunol 1980 Feb;124(2):787-9	
+NX8	6	-1.0	Igk-V28	MGI:96511		8	8	8	N	8	8	8	N	8	8	N	8	8	J:17765	Riblet R, J Immunol 1980 Feb;124(2):787-9	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	J:17774	Primi D, Eur J Immunol 1986 Mar;16(3):292-6	
+NX8	6	-1.0	Rn7s6	MGI:97956		8	8	8	N	8	8	8	N	8	8	N	8	8	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	
+NX8	6	30.89	Igk	MGI:96494		8	8	8	N	8	8	8	N	8	8	N	8	8	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	6	32.14	Cd8a	MGI:88346		8	8	8	N	8	8	8	N	8	8	N	8	8	J:17765	Riblet R, J Immunol 1980 Feb;124(2):787-9	J:8097	Taylor BA, Immunogenetics 1985;22(5):471-81	J:17774	Primi D, Eur J Immunol 1986 Mar;16(3):292-6	
+NX8	7	-1.0	Hbb	MGI:96020		8	N	N	8	N	N	N	N	8	8	8	8	N	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	9	-1.0	Lap1	MGI:96749		8	8	N	N	N	8	8	8	N	N	8	N	8	J:6836	Datta SK, J Immunol 1982 Oct;129(4):1539-44	
+NX8	UN	-999.0	Xmmv48	MGI:99024		N	N	8	8	N	N	N	8	8	8	8	8	N	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	UN	-999.0	Xmmv60	MGI:99034		N	8	N	8	N	N	N	N	8	N	N	N	8	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
+NX8	UN	-999.0	Xmmv66	MGI:99039		8	8	N	8	8	N	N	N	8	N	8	8	8	J:7348	Wejman JC, J Virol 1984 Apr;50(1):237-47	
