@@ -1,3 +1,12 @@
+TAG: contrdatasets-5-1-9-1
+DATE: 08/18/2014
+STAFF: dbm
+CHANGES: TR11722
+1) MACS/*: remove directory and all contents
+2) misc/Flaherty/*: remove directory and all contents
+3) misc/Elliott/*: remove directory and all contents
+4) index.html: remove obsolete sections
+
 TAG: contrdatasets-5-1-8-1
 DATE: 04/10/2014
 STAFF: lec
