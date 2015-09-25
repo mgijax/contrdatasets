@@ -1,5 +1,5 @@
 #!/bin/csh
 
-ln -s ../DOTS .
-ln -s ../NIA .
-ln -s ../DFCI .
+#
+# nothing special to do
+#
