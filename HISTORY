@@ -1,8 +1,20 @@
+TAG: contrdatasets-6-0-2-1
+DATE: 12/02/2015
+STAFF: lec
+CHANGES:
+1) TR12070/TR12038/dots/dfci/nia
+
 TAG: contrdatasets-6-0-1-1
 DATE: 11/17/2015
 STAFF: dbm
 CHANGES:
 1) index.html: changes by David Shaw
+
+TAG: contrdatasets-tr12070-1
+DATE: 12/2/2015
+STAFF: lec
+CHANGES:
+1) branch point tag for TR12070/TR12038/dots/dfci/nia
 
 TAG: contrdatasets-tr12070-BP
 DATE: 09/25/2015
