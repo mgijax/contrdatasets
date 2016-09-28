@@ -1,5 +1,9 @@
-#!/bin/csh
+#!/bin/sh -f
 
-#
-# nothing special to do
-#
+cd `dirname $0`
+
+DIRNAME=`basename \`pwd\``
+
+cd ..
+rm -f datasets
+ln -s ${DIRNAME} datasets
